@@ -1,0 +1,260 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:00
+DSM-5® AND ICD-10 
+
+00:00:05
+ANXIETY DISORDERS 
+
+00:00:10
+SEAN HARRIGAN Fear is a normal and expected response to internal and external stimuli, bred into human behavior over thousands of years of evolution. A normal, healthy amount of fear keeps us aware of danger and can inspire us to know our limits or even defy them, a rational fear of failure making us reach farther than we ever would have expected. For some people, however, fear can become inflated and distorted, so that it can exceed what is expected and appropriate for a given circumstance. In some cases, fear may even seem to arise for no reason at all. This is often the case for those who experience anxiety disorders. These disorders are characterized by excessive fear and anxiety. Fear, defined as an unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat. And anxiety, defined as a feeling of worry, nervousness or unease, typically about an imminent event or something with an uncertain outcome. This fear and anxiety can make individuals avoid aspects of life in a maladaptive attempt at reducing their worry. It can even result in a state of intermittent or constant panic. There are a variety of anxiety disorders, each characterized by different types of fear, ranges of severity, and patterns of onset. An individual can even experience multiple anxiety disorders at once. Anxiety disorders are among the most common of mental disorders, and can occur co-morbidly with other psychiatric disorders. For example, individuals who suffer from anxiety disorders often experience co-existing depression and substance abuse. Because of this, being familiar with the symptoms of anxiety is critical for the clinician to be able to diagnose and eventually treat these disorders. 
+
+00:02:15
+DSM-5® AND ICD-10 CODING 
+
+00:02:20
+SEAN HARRIGAN The anxiety disorders grouping in the fifth edition of the Diagnostic and Statistical Manual of mental disorders or DSM-5 contains a number of distinct disorders, each given its own diagnostic code. These codes correspond to the codes used by the World Health Organization in the International Classification of Diseases or ICD. In DSM-5, each disorder is first linked to the coding system from the ICD-9, with the codes for the ICD-10 listed in parentheses after. Hence, all of the DSM codes crosswalk to the ICD codes, including the newest iteration, ICD-10. For instance, separation anxiety disorder is assigned the code 309.21 from ICD-9, and F93.0 in parentheses from ICD-10. This is because the ICD-9 system was still in use when DSM-5 was first released. ICD-10 was released in the fall of 2015 in the United States, although it was adopted previously in other countries. However, because the ICD-10 is now in the United States, this program will be listing the newer code from the ICD-10 first, followed by the ICD-9 codes in parentheses. Sometimes when relevant, we will also delineate the ICD-9 and 10 codes when we mention a disorder from another grouping of disorders. For example, post-traumatic stress disorder, a condition mentioned later in this program is coded as F43.10 (309.81) from the DSM chapter on trauma and stressor related disorders, a new class of disorders in this edition of DSM. It's also part of the F40 to F48 section of ICD-10 on neurotic, stress-related, and somatoform disorders. Organizationally, there are a few differences between the layouts of DSM-5 and the ICD-10. The ICD-10 puts most of the anxiety disorders into the larger section on neurotic, stress-related and somatoform disorders. This section also includes the equivalent DSM-5 chapters of obsessive-compulsive and related disorders, trauma and stressor related disorders, and somatic symptom and related disorders. While the ICD-10 grouping of a large number of disorders into a bigger section may seem like a minor organizational difference, it does help to illustrate the underlying similarities between these disorders, many of which present co-morbidly. In fact, in clinical practice, patients with anxiety disorders often present with features of more than one disorder. Furthermore, in the previous version of DSM, DSM-IV-TR, obsessive-compulsive disorder, post-traumatic stress disorder, and acute stress disorder were even part of the anxiety disorder's class. Another difference is that the ICD-10 places two of these anxiety disorders, separation anxiety disorder and selective mutism, into their F90 to F91 section of behavioral and emotional disorders with onset usually occurring in childhood and adolescence. We will look at the disorders that usually begin in childhood and adolescence later in this program. The ICD-10 puts what they call mental and behavioral disorders due to psychoactive substance abuse in the F10 block, and organic, including symptomatic mental disorders in F00 to F09, specifically F06, or other mental disorders due to brain damage and dysfunction and to physical disease. In this case, the code is F06.4 for organic anxiety disorder. 
+
+00:06:20
+PANIC ATTACKS 
+
+00:06:25
+SEAN HARRIGAN Panic attacks can be a symptom of many psychiatric disorders, and themselves, are not a codable disorder. In fact, panic attacks are a possible specifier for several anxiety disorders, as well as other disorders, such as depressive disorders or post-traumatic stress disorder. This means that the clinician can indicate or specify if panic attacks are an additional feature of a patient's illness. Biologically, panic attacks represent an acute manifestation of fear. This means that clinicians may develop a greater understanding of all anxiety disorders by first exploring the symptoms of panic attacks. A panic attack is a sudden burst of acute, debilitating anxiety, and may include sweating, feeling chilled or overheated, dizziness, heart palpitations, light headedness, trembling, nausea, unsteadiness, derealization, depersonalization, fear of dying, and fear of losing control over oneself or one's sense of reality, among other symptoms. Many of these symptoms are physical and can feel like a physical disorder, such as a heart attack or stroke. Patients often report feelings of impending doom and should be reassured that no one has ever died from a panic attack. Panic attacks are quite prevalent. It is estimated that 30 percent of all adults have experienced at least one panic attack, and that the 12 month prevalence is 11.2 percent. A panic attack can sometimes be caused by a specific situation. Although, more commonly attacks are unpredictable. For example, an individual with specific phobia, a disorder which we'll explore later in this program, may experience a panic attack when facing their specific fear. The panic attacks may be deemed expected if there is a blatant discernable cause or trigger. If not, they are considered unexpected, and can seem to happen at random. They can even happen at night, with an individual awakening in a state of panic. This is known as nocturnal panic disorder. Panic attacks can sometimes be an isolated incident, occurring only once in an individual's lifetime. If this is the case, the patient may not have a diagnosable mental disorder, if there are no associated symptoms. If these attacks happen on a recurring yet unexpected basis, a diagnosis of panic disorder may be given. If this is the case, panic attacks are not indicated as a specifier, since they are an inherent part of the disorder itself. 
+
+00:09:10
+PANIC DISORDER 
+
+00:09:15
+SEAN HARRIGAN As mentioned, panic disorder is characterized by an individual experiencing repeated and unexpected panic attacks. However, in the United States and Europe, about half of all individuals with panic disorder also have expected panic attacks. Meaning, expected panic attacks can occur with this disorder. The key is that patients with panic disorder experience more than one unexpected panic attack. The hallmark of panic disorder is that individuals have panic attacks, followed by changes in behavior and cognition, in response to the attacks, potentially in an attempt to avoid future attacks. This can mean eschewing previously enjoyed activities or staying away from places or occasions where they fear another attack might occur. The frequency and severity of panic attacks can vary greatly, even for the same individual. An individual could have periods of almost daily attacks, followed by months without any attacks. The attacks can also vary from one to another. For example, some attacks may not meet all the characteristics to qualify for a full panic attack. In addition, the actual symptoms can change from one panic attack to the next, which makes this disorder especially unpredictable for patients and their doctors. 
+
+00:10:40
+SEPARATION ANXIETY DISORDER 
+
+00:10:45
+SEAN HARRIGAN From here, we will follow a similar organizational trajectory to DSM-5, and arranging these disorders developmentally, illustrating the usual pattern by which these disorders present. Separation anxiety disorder is one of the earliest anxiety disorders that comes to clinical attention, and typically starts during childhood, although it can continue or develop later in life, when the individual is an adult. It is characterized by excessive fear of being separated from someone to whom the individual is attached and goes beyond what is appropriate for the developmental level of the individual. They may fear the prospect of being separated from their house or a specific person. And they may worry that something terrible will happen to that person or that some event will keep them apart. This can make the individual reluctant about being alone, to the point that they refuse to be apart from the individual or individuals in question. 
+
+00:11:40
+ABBEY GRACE What do you think will help, reading? You want to read together? No? What you want to do? 
+
+00:11:45
+MARISSA MOOSEKIAN Can you lay with me. 
+
+00:11:50
+ABBEY GRACE Okay. 
+
+00:11:50
+SEAN HARRIGAN They may not want to sleep by themselves and have recurring nightmares about separation. It can lead to physical symptoms when experiencing or anticipating separation. As with many of these disorders, the symptoms must be severe enough to cause the patient distress or impairment in multiple areas of their life. 
+
+00:12:15
+SELECTIVE MUTISM 
+
+00:12:20
+SEAN HARRIGAN A relatively rare disorder, selective mutism is another disorder that affects children far more than adolescents or adults. A child or individual with selective mutism will not start or engage in conversations with other in certain situations. When at home or with close family members, a child with selective mutism will speak, however, they will consistently fail to speak in other areas, such as at school, or even in front of friends or second degree relatives. This failure to speak interferes with their achievement in school or at work, or with social interactions. It is important for the clinician to ensure that this disturbance is not attributable to a lack of understanding or knowledge of the language being used. For a child with selective mutism, the disorder may not be brought to clinical attention until the child enters school, when the child is met with an influx of new social interactions. 
+
+00:13:20
+SPECIFIC PHOBIA 
+
+00:13:25
+SEAN HARRIGAN Another disorder that typically begins in childhood or adolescence is specific phobia. In contrast to the unexpected nature of panic disorder, specific phobia involves an excessive fear of a specific thing or situation, also known as a phobic stimulus. Some of the most common phobias are animals, the hybrid group, blood-injection injury, which includes injections, transfusions, medical care, and injury, natural elements, such as thunderstorms or heights, and situational fears, such as flying or being in enclosed spaces. It is common that the patient may experience more than one type of phobia. If this is the case, the clinician should mark all codes that apply. The phobic object or situation will cause fear and anxiety most of the time upon exposure, so that the individual actively tries to avoid it. And the anxiety is much greater than the actual danger that the phobic stimulus poses. The 12 month prevalence rate for this disorder in the United States is between 7 to 9 percent, making it one of the most commonly reported psychiatric disorders. It can be caused by a specific traumatic event, but just as often can seem to happen at random, with the individual unable to remember what sparked the fear. Specific phobias can be inherited as well, as evidenced by the heritability of the blood-injection-injury type, where individuals can inherit an abnormality with the vasovagal response. 
+
+00:15:05
+SOCIAL ANXIETY DISORDER 
+
+00:15:10
+SEAN HARRIGAN A fear of embarrassment and intense examination by others is at the core of social anxiety disorder. The fear and anxiety these individuals feel will manifest in social situations, such as at a party or in a performance setting. Regardless of the venue or situation, the individual with social anxiety disorder will fear doing something foolish or shameful, that will spur others judgment. They may even worry that displaying the symptoms of their anxiety could lead to humiliation. Because of this, they might find it easier to avoid these altogether. For children, these symptoms must occur with peers, but could also occur with adults. The clinician should not only separate these symptoms from other disorders as part of the differential diagnosis, but should also rule out the possibility of normal shyness, which would present with a lot of the same symptoms but not result in the same level of functional impairment. Another common differential diagnosis to consider is avoidant personality disorder, in which the individual avoids interpersonal relationships, because she feels she does not deserve them. 
+
+00:16:25
+AGORAPHOBIA 
+
+00:16:30
+SEAN HARRIGAN An individual with agoraphobia may also fear a social situation. In some aspects, their symptoms can look similar to those of social anxiety disorder. While the patient with social anxiety disorder will experience anxiety over the scrutiny involved with a social situation, an individual with agoraphobia will fear situations in which help is not immediately accessible, in the event they develop a panic attack. The symptoms of agoraphobia can happen in a variety of public situations, such as in open spaces, in crowds, or potentially anywhere outside the individual's home. Even if the individual has another medical condition, such as inflammatory bowel disease, that might result in concern or worry in these situations, the symptoms are more distressing or impairing than the situations should warrant. 
+
+00:17:20
+DIFFERENTIAL DIAGNOSIS AND COMORBIDITY 
+
+00:17:25
+SEAN HARRIGAN In addition to separating agoraphobia from the other anxiety disorders that we have discussed, there are a few other disorders that present with symptoms similar to agoraphobia. It is important for the clinician to be able to process through a differential diagnosis, in order to assure the most appropriate diagnosis and treatment. If initial treatment approaches don't work then clinicians should reassess their diagnosis and treatment plan. An individual with acute stress disorder or post-traumatic stress disorder from the trauma and other stressor related disorders chapter of DSM-5 may also have fear, anxiety, or avoidance with certain situations. However, this anxiety will be sparked by triggers related to a traumatic event. Major depressive disorder may also cause an individual to isolate and avoid leaving home. However, the reasons associated with this are depressive symptoms, such as apathy or a loss of interest. If the patient doesn't fear having a panic like attack or being in a situation where help is not easily accessible, then agoraphobia maybe a less likely diagnosis. However, as is the case with many of the anxiety disorders, the majority of patients with agoraphobia will also have another co-existing or co-morbid mental disorder. Other anxiety disorders, depressive disorders, posttraumatic stress disorder, and alcohol use disorder are among the most common co-morbid conditions. These often come after the symptoms of agoraphobia, whereas other co-morbid anxiety disorders will start before agoraphobia. Such a distinction can often be difficult to make in clinical practice, and requires careful history-taking. It is also worth mentioning that anxiety disorders can be induced by substances of abuse. In such cases, the clinician can give a diagnosis of substance-induced anxiety disorder. This diagnosis is given even if the syndrome is occurring as a result of prescribed medication use. Similarly, if the disorder is the result of another medical condition, then a diagnosis of anxiety disorder due to another medical condition can be given. In both cases, there must be a chronological relationship between the anxiety symptoms and the medical condition or use of medication or substance of abuse. In addition, there must be a pathophysiologic relationship between the same items. 
+
+00:20:05
+GENERALIZED ANXIETY DISORDER 
+
+00:20:10
+SEAN HARRIGAN While a number of the anxiety disorders we have looked at involve fear or anxiety over a specific situation, object, or a stimulus, generalized anxiety disorder or GAD, involves anxiety over a number of events or activities. This worry is difficult to control and is excessive. These individuals tend to ruminate and worry more days than not about usual life events. In addition to the worry, patients with GAD also must have associated physical symptoms of their anxiety. This can involve irritability, feelings of tension, and having problems sleeping, among other symptoms. It is the severity and persistence of generalized anxiety disorder that separates it from the daily worry we all face. GAD can develop subacutely or acutely, with or without a precipitant, and leads to significant distress for the individual. Therefore, differentiating GAD from healthy anxiety involves an assessment of the frequency of symptoms, as well as their severity and impact on life functioning. For many individuals, the first step to managing their fear is to recognize it. By offering a diagnosis, the clinician may help the patient understand their anxiety, its possible triggers, and ways to temperate. It is important for the patient to know that their symptoms are part of a disease, and that, like other diseases, there are effective treatments available, including medications and psychotherapy. Above all, the diagnosis the patient is given offers a start to the treatment process, putting the patient on a path to live a healthier happier life. 
+
+00:22:00
+Produced by 
+
+00:22:00
+Classroom Productions, INC. 
+
+00:22:00
+Technical Advisors 
+
+00:22:00
+Dr. Tracie Collins, MD, MPH 
+
+00:22:00
+Dr. Mathew Macaluso, DO 
+
+00:22:00
+Mary Llenell Paz, MS 
+
+00:22:00
+Directed by 
+
+00:22:00
+Sean Harrigan 
+
+00:22:00
+Written by 
+
+00:22:00
+Sean Harrigan 
+
+00:22:00
+Siobhan Doherty 
+
+00:22:00
+Script Editor 
+
+00:22:00
+Pandora Suderman 
+
+00:22:00
+Production Coordinator 
+
+00:22:00
+Siobhan Doherty 
+
+00:22:00
+Field Production 
+
+00:22:00
+Amanda Buffington 
+
+00:22:00
+Hannah Huff 
+
+00:22:00
+Merlin Huff 
+
+00:22:00
+Featured Cast 
+
+00:22:00
+Anatasha Blakely 
+
+00:22:00
+Ross Crain 
+
+00:22:00
+Siobhan Doherty 
+
+00:22:00
+Brett Duggan 
+
+00:22:00
+Abbey Grace 
+
+00:22:00
+Zach Hallett 
+
+00:22:00
+Jim Harrigan 
+
+00:22:00
+Sean Harrigan 
+
+00:22:00
+Kristen Henley 
+
+00:22:00
+Hannah Huff 
+
+00:22:00
+Merlin Huff 
+
+00:22:00
+Dennis Hurley 
+
+00:22:00
+Jason Ko 
+
+00:22:00
+Matt Koenig 
+
+00:22:00
+Amy Landon 
+
+00:22:00
+Maribel Martinez 
+
+00:22:00
+Marissa Moosekian 
+
+00:22:00
+Bree Murphy 
+
+00:22:00
+Alan Ramos 
+
+00:22:00
+Diana Sanchez-Vega 
+
+00:22:00
+David Santana 
+
+00:22:00
+Jennifer Shaevitz 
+
+00:22:00
+Bette Smith 
+
+00:22:00
+Eddie Smith 
+
+00:22:00
+Lindsay Smith 
+
+00:22:00
+Miller Tai 
+
+00:22:00
+Narration 
+
+00:22:00
+Sean Harrigan 
+
+00:22:00
+Post-Production 
+
+00:22:00
+Sean Harrigan 
+
+00:22:00
+Robert Suderman 
+
+00:22:00
+Property of 
+
+00:22:00
+Classroom Productions, Inc. 
+
+00:22:00
+Copyright 2016 
+
+00:22:00
+All Rights Reserved 
+
+00:22:20
+END TRANSCRIPTION 

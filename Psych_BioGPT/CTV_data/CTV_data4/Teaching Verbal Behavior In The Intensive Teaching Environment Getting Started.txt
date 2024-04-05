@@ -1,0 +1,968 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+[music] 
+
+00:00:05
+HOLLY KIBBE Hi, I'm Holly Kibbe. 
+
+00:00:05
+CHERISH TWIGG And I'm Cherish Twigg. 
+
+00:00:10
+HOLLY KIBBE For several years we've had the opportunity to train hundreds of professionals in the field and their greatest request is that they would have some type of video example to take home with them. 
+
+00:00:15
+CHERISH TWIGG So, we are pleased to present you with this DVD. We've designed it in such a way as to try to train parents as well as professionals to learn procedures that have helped many children with autism. 
+
+00:00:30
+HOLLY KIBBE We are thankful for this opportunity to be able to share this information with you and we hope that you are able to use it to help as many children as possible. 
+
+00:00:40
+[music] 
+
+00:00:40
+Establishing Operations Presents 
+
+00:00:40
+Instructional DVD #1 
+
+00:00:40
+Important Definitions 
+
+00:00:40
+3 Important Definitions: 1 Motivating Operations 2 Discriminative Stimulus 3 Extinction 
+
+00:00:40
+Motivating Operations (MO): An environmental set of conditions that changes the current value of a stimulus, and therefore changes the current frequency of any behaviors that have produced that stimulus in the past. 
+
+00:01:00
+CHERISH TWIGG Three important definitions that are going to be necessary for understanding the rest of this DVD are: motivating operations, discriminative stimulus, and extinction. The first definition I'd like to give you is for motivating operation. The definition is an environmental set of conditions that changes the current value of a stimulus, and therefore changes the current frequency of any behaviors that have contacted that stimulus in the past. Some examples of this would be let's say the temperature in this room started to get cooler, and cooler, and cooler to the point where it was uncomfortable. That's an environmental set of conditions that changes the current value of being warm. Five minutes ago say, the value of warmness, not very high but as the temperature change starts to occur, which is your environmental set of conditions, that increases the value of being warm. So there is your first half of the definition. Something going on in the environment that increases or changes the value of a stimulus. Then because of that change in conditions, the current frequency of any behaviors that have contacted warmness in the past are more likely right in this moment. So any behavior such as blowing in your hands or, you know, putting on a coat or adjusting a thermostat, any of those things that might have gotten you warm in the past are more likely to be occurring right in this moment when the environmental set of conditions is in effect. So there's the two parts. One it changes the value and two it changes the frequency of behaviors. Now this changes moment to moment. Motivating operations, we also call MOs, they're fleeting. They can change. And they're relative to everything else so just keep that in mind. Another example of a motivating operation might be let's say you just ate a huge Thanksgiving dinner, so the environmental set of conditions is now inside your body and that's OK because the environment is also inside your skin. But the environmental set of conditions that has changed has now decreased the value of food as a reinforcer. So because of this environmental set of conditions, the value of food has gone down and the current frequency of any food getting behaviors are also going to decrease in this moment because the value of food is lower. So motivating operations can increase the value of stimulus and increase frequency or it can decrease the value of stimulus and decrease frequency of behaviors. It can go either way. The second definition is for discriminative stimulus. This is denoted SD. When you see SD written, we mean discriminative stimulus. 
+
+00:03:30
+Discriminative Stimulus (SD): A stimulus that signals the availability of reinforcement 
+
+00:03:30
+CHERISH TWIGG The definition is a stimulus that signals the availability of reinforcement. An example would be, uh, let's go back to our hot and cold example. So the temperature is changing and it's getting colder and colder. The value of being warm is very, very strong and in the past whenever you've seen a thermostat on the wall and you've engaged in this behavior, warmness has come. So seeing that thermostat now signals the availability of warmness. So when you're very, very cold and you see that you are likely to engage in this behavior. But you could be freezing to death, icicles, the whole nine yards, but if you don't see that stimulus you're not going to engage in this behavior because there is no signal that warmness is available. So for the most part you need a motivating operation and an SD to maintain specific behaviors. 
+
+00:04:20
+Extinction: Not reinforcing a previously reinforced behavior. 
+
+00:04:25
+CHERISH TWIGG The last definition is extinction. Extinction is simply not reinforcing a previously reinforced behavior. So you have to have a behavior that has been reinforced in the past. So let's keep our hot and cold example going. It's very, very cold in this room. The value of being warm is very, very high. My signal is there, my thermostat is there, so my SD is there. I now engage in this behavior that has been reinforced in the past but no one told me that the heat was broken so no heat comes. That's extinction on this behavior. I want it to be warm. In the past I've seen this stimulus, I've engaged in this behavior, and I've gotten reinforced. Now no warmness comes. That's extinction. So you have a previous reinforced behavior that is no longer being reinforced. 
+
+00:05:15
+[music] 
+
+00:05:15
+Functions of Behavior 
+
+00:05:15
+Function 1: Socially Mediated Negative Reinforcement 
+
+00:05:15
+Socially Mediated Negative Reinforcement: Something in the environment is removed following a behavior and therefore that behavior occurs more frequently in the future. 
+
+00:05:20
+CHERISH TWIGG Now, when working with children with autism it's very common to come across a situation where you have an unwilling learner. They are not readily coming to the table. You want to have them sit at a table with you while you present and answer and try to teach them things but they don't want to be there. And you may get some, um, inappropriate behavior such as screaming or kicking or just simply not responding. Those are all indications that you have an unwilling learner. In this situation it's important to be armed with some, with some steps if you might, that will help you in this situation to understand how to get that unwilling learner to be more willing in the situation. Um, first of all it's important that you understand there are different functions of behavior because you have to know the function of a behavior before you can address it. So if you come into a situation with an unwilling learner your first job is to figure out what the function of that inappropriate behavior is. Our three main functions of behavior that we like to talk about, the first one is what we call socially mediated negative reinforcement. Now when we're in behavior analysis, the word negative it doesn't mean yucky or bad. Negative simply means the removal of something. So when we say negative reinforcement it means a behavior occurs and then something in the environment is removed. So you behave, something is removed, and that behavior is strengthened. It's more likely to occur in the future. 
+
+00:06:35
+Function 2: Socially Mediate Positive Reinforcement 
+
+00:06:35
+Socially Mediated Positive Reinforcement: Something is added to the environment following a behavior and therefore that behavior occurs more frequently in the future. 
+
+00:06:35
+CHERISH TWIGG The second main function of behavior is socially mediated positive reinforcement. Now just like negative doesn't mean yucky or bad, positive doesn't mean hip, hip, horray! Yay. Positive simply means the presentation of a stimulus. Something being added to your environment. It can be candy. It can be tickles. It can be praise. It can be anything that's added to your environment. 
+
+00:07:00
+Function 3: Automatic Positive Reinforcement (Stimming) 
+
+00:07:00
+Automatic Positive Reinforcement: The product of the behavior is what maintains or increases the frequency of that behavior in the future. No other person is necessary to deliver the reinforcer. 
+
+00:07:00
+CHERISH TWIGG The third main function of behavior is what we call automatic positive reinforcement. Notice the first two we called socially mediated? That means you need another person to either take the stimulus away or add it to your environment, you can't do it yourself. But for the third function, for automatic positive reinforcement, the product of the behavior is the reinforcer. The third function of behavior is most commonly known as stimming. So automatic positive reinforcement would be when our kids, uh, I don't know, may be to put a spoon in front of their eyes. Seeing that spoon shake in front of their eyes is reinforcing to them. They don't need you to say good job shaking the spoon in front of your eyes. This is the reinforcer. Seeing it is what's valuable. They don't need someone else for it so therefore that one is called automatic not socially mediated. 
+
+00:07:50
+[music] 
+
+00:07:50
+Steps to Establishing Instructional Control 
+
+00:07:50
+Step 1: Determine the function of the behavior. 
+
+00:07:55
+CHERISH TWIGG When we're teaching our children with autism it is very important, we would really like for them to be working for the function of positive reinforcement. The reason being is that when we have conversations with other people, most of the time we're having conversations so that we will get something from that person for positive reinforcement. If I'm talking to you I'm usually getting information or attention from you, and those things are usually valuable to me. If they weren't I'm not going to maintain a conversation with you for very long. So we want to teach our children with autism to talk for the same reasons we talk. So the first thing you want to do when you come into a situation with an unwilling learner is determine what's the function of the behavior and if the function is not positive reinforcement, if they're not behaving to get positive reinforcement we want to change that around. We want to make sure that they are behaving for positive reinforcement. Um, to figure out the function of the behavior we would usually use a behavioral assessment. Sometimes we'll have to use a functional analysis. But usually just observing them, you know, in the situation and taking data on, you know, what happens right before the behavior, what happens right after, doing interviews with people the child knows, we can usually determine some kind of a sequence and figure out if, if they're behaving for, uh, escape, which is socially mediated negative; if they're behaving for positive reinforcement, socially mediated positive; or if the behavior is functioning under, under the category of stimming, which is automatic positive reinforcement. So let's say you've got your unwilling learner, you've brought them in, and you've determined they aren't willing and you do your behavioral assessment and you realize that they are behaving for either function of, uh, negative reinforcement or the function of automatic positive, either one of those. We don't want those. We want the value of those reinforcers to be low and we want the value of positive reinforcement to be high. So if that's not the case, our job is to manipulate the environment in such a way as to fix that problem. Once you've made a determination as to what the function of the behavior is and you've decided that it's not for the function of positive reinforcement, now you've got to manipulate the environment, use motivating operations, and determine a way to change that relationship so that they are responding for positive reinforcement because we've already discussed and determined that that is the function that we want them behaving for when we're teaching them language for all the reasons we stated before. 
+
+00:10:10
+Step 2: Make a list of possible reinforcers. 
+
+00:10:15
+CHERISH TWIGG So when you're ready to do this, you're going to need to have at your disposal a list of things that the child likes to have added to their environment, a list of possible positive reinforcers. Couple of ways you can determine what things could possibly serve as positive reinforcers are just observe the child in their natural environment when no demands are being placed and just kind of see which things they gravitate for when no one is around and just kind of note those things. You might also offer a few things up and see which ones they'll go for and which ones they kind of shake their head at. Or you can always interview the people who know the child best; the parents, the teachers, the therapists, the caregivers, things like that. 
+
+00:10:50
+Step 3: Pair yourself and the teaching setting with the positive reinforcers. 
+
+00:10:50
+CHERISH TWIGG Once you've got that list, now you're ready to go to the next step and if they are not working for positive reinforcement you need to start by pairing yourself and pairing that intensity teaching setting with something that you have found to be a positive reinforcer. However, sometimes the value of the function for maybe escape, OK, maybe the value of escape is so high that even something that they would normally like as a positive reinforcer can't compete so your first job is to go to that list of positive reinforcers and try to find things that in the setting where the value of escape is so strong, you can find something that's positive enough to compete with the value of escape and stop those inappropriate behaviors long enough for them to even engage with the positive reinforcer. Once you've found whatever that positive reinforcer is, the next step that you want to do is to just spend time with it. Pair yourself with it. Pair the intensive step setting with it. So that means you're not going to be placing demands. So hypothetically speaking let's say one of the really very strong positive reinforcers is a video. In that setting what pairing would look like is while the video is on, you're there. No demands are being placed. There might even be, you know, have the table, um, near the video so that the table is also being paired with the video. But again, no demands are being placed. In some situations pairing, the process of pairing with that positive reinforcer it can take hours. It might even take days, or in some cases it might even take weeks. An example of, of it taking weeks was an instance where we had a little boy who at a very first initial consultation one of our consultants wanted to pair herself with positive reinforcements so she asked the parents, you know, "what kind of things does this little guy like?" So they said, you know, all these different things. So she said OK, you know, I'm gonna use a Skittle. I'm gonna walk up to this little guy and just give him a Skittle just so I'm starting to, you know, be paired with these positive things. Well she walks up and tries to hand the little guy a Skittle and he runs in the other direction, won't even take the Skittle out of her hand. And she thinks to herself, well I thought he liked Skittles. So she comes back to the parents and she is talking to them and says, "I thought you said he likes Skittles". Meanwhile, this little guy, the Skittles are on the table, he comes darting by, grabs a handful of Skittles, shoves them in his mouth, and runs off. Clearly Skittles are valuable, but not when they're in your hand. So in that setting the pairing process was actually they would have to put a Skittle on the table, step back, but be as close to the table as they could to where this little guy would still come and get the Skittle. And over days they were able to get closer and closer to the table and eventually this little guy was actually coming to them to take reinforcers from them. That's an instance where it took a few weeks and eventually he was readily approaching adults to get reinforcement and at that time they were able to start shaping some signs and getting some mending and things like that. So again, it can take, hours, days, or weeks. 
+
+00:13:40
+Step 4: Start with a few easy demands and slowly increase the number and difficulty level over time. 
+
+00:13:40
+CHERISH TWIGG Once you've paired up and you think you're ready to start doing some intensive teaching we start out really, really slow. You want to start by using master responses. Something that is very high probability for your learner. For instance, if you know that motor imitation is easy, start with just one motor imitation. You know, do this and they imitate you. Boom. They've, they have still got their reinforcer, everything is great. And then slowly, over days even, you can slowly increase the number of responses and then you can slowly start to increase, um, the level of difficulty as well. Through the pairing process, what you have effectively done or should have done through this process is taken the value of escape or the value of automatic reinforcement, whichever, it may be a combination, reduced the value of those and you've increased the value of the positive reinforcer and made it more likely that your learner is going to engage in behaviors to get a positive reinforcer rather than engage in behaviors for escape or stimming in the intensive setting, which is what we want for them. We want them engaging in behaviors for positive reinforcement so we can teach them language for the right reasons. Now when I first started working in this field, um, it was, it was a common misconception that the table, the cards that we might have been using to teach, myself, that we were all SDs or discriminative stimuli that signaled the availability of escape and that's why we got the inappropriate behaviors that we did in that setting. However, after looking closer at the literature, there's no way that the table, the chairs, or myself, we can't be SDs. We don't signal the availability of escape, what we do is we increase the value of escape. Me, the table, those cards, because of a past history for whatever reason, those, that setting has become aversive and has increased the value of escape made more likely those inappropriate behaviors. So it's better in, and what we've decided is to use motivating operations, find something positive, pair ourselves with it, pair the intensive setting with it, and let that be the method of choice because if they were SDs we would have to use extinction. We would have to work through it and make them sit there because they have to and they just have to learn to like it. Many of you may have heard that term. And rather than making them learn to like it, we really do want them to like it. And that's why we'd rather use motivating operations, pair ourselves with good things, change the entire climate of the environment to now this is now something that signals the availability of positive reinforcement and it's very highly correlated with positive things and make them more likely to approach that setting. Another misconception that we found is that a lot of people might say that children with autism might have a problem transitioning, and it does appear that way a lot of the time because we ask them to leave their reinforcer and come to work and all of a sudden they have transitioning problems. Whereas, if we take the fun stuff and bring it to the intensive setting and say "hey, come on over", not so much problems with the transitioning any more. So just keep all these things in mind and, and make sure your learner is working for positive reinforcement and not negative reinforcement. 
+
+00:16:50
+[music] 
+
+00:16:50
+Intensive Teaching 
+
+00:16:50
+Six Steps to Teaching Intensively Errorless Teaching Use prompts as antecedents as much as possible. The less the child is wrong the more likely s/he will stay motivated by the valued item and you'll keep the value of escape down. Remember that we want the child to respond to our demands and not engage in self stimulatory or escape motivated behaviors. 
+
+00:17:00
+CHERISH TWIGG Now that you have learner who is willingly coming to the table, they are happy to be there, and they are working for positive reinforcement, it's important that we start to increase the number of responses as well as sometimes the level of difficulty with those responses so we can actually start teaching them in this setting. In order to do that we need to follow a few steps. The first thing we recommend is that you use errorless teaching. This does not mean that we use specific error correction, which we do, but that's not errorless teaching. Errorless teaching means preventing errors as much as possible. If there is any inclination whatsoever that your child is not going to be successful on a specific trial, just prompt them before they can be wrong and fade your prompts effectively. The less errors your child engages in, the better. The more errors you tend to make, the higher the motivation is going to be for escape or automatic reinforcement, and we want to try to keep the value of those kinds of things low, so we want our child to be successful as much as possible. 
+
+00:17:55
+Variable Ratio Always use a variable ratio (VR) when working intensively. The child should never know when the valued item is coming. If your VR is 20, sometimes deliver the item after 10 responses, sometimes after 30, or anywhere in between. Remember that intermittent reinforcement creates strong behavior. You want the child's behavior of responding to your demands to be very strong. 
+
+00:17:55
+VR=5 Runthrough #1:3 Runthrough #2:7 Runthrough #3:4 Runthrough #4:6 Runthrough #5:5 Total 25 Responses Divided by Runthroughs 25 divided by 5=5 VR=5 
+
+00:17:55
+CHERISH TWIGG The next step that we would recommend is that you use a variable ratio schedule of reinforcement while you're teaching. In the behavioral literature the variable ratio schedule produces high and steady rates of responding. Isn't that what we want from our learner when we are teaching them? For them to respond with high and steady rates. This means, the variable ratio schedule means that you are going to vary the number of responses your child gives you before you deliver the reinforcer. For example, if your VR is 5, on one runthrough you might only ask them to do three things. On the next runthrough you might have them seven, and then four and then six, but when you add all of those responses together and divide by the total number of runthroughs, your VR ends up being five. This way the learner never knows when the reinforcer is coming. This is what produces the high and steady rates. 
+
+00:18:45
+Mix and Vary Instructional Demands: When teaching, try not to present the same type of demand over and over. Instead, mix demands from all the skill areas. These demands can be a combination of motor invitations, receptive id, receptive commands, tacts, echoes, RFFCs and intraverbals. 
+
+00:18:45
+CHERISH TWIGG The next thing we recommend is that you mix and vary your instructional demands. This means you're not going to present tact, tact, tact, tact, tact. You're going to mix it up. A few tacts, intraverbal, motor, imitation, receptive, just going to mix it up across the scales. This tends to produce less off task behavior. 
+
+00:19:00
+CHERISH TWIGG Where's the book? Touch the book. Do this. Do this. Touch the book. Good. Find the book. That's it. What's this? 
+
+00:19:10
+HOLLY KIBBE Toothbrush. 
+
+00:19:10
+CHERISH TWIGG Good job. Name some animals. 
+
+00:19:10
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:19:10
+CHERISH TWIGG OK. Name some animals. 
+
+00:19:15
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:19:15
+CHERISH TWIGG What are these? 
+
+00:19:15
+HOLLY KIBBE Shoes. 
+
+00:19:15
+CHERISH TWIGG Good. Tell me something you read. 
+
+00:19:15
+HOLLY KIBBE Book. 
+
+00:19:20
+CHERISH TWIGG Something you read is a? 
+
+00:19:20
+HOLLY KIBBE Book. 
+
+00:19:20
+CHERISH TWIGG Do this. Touch your nose. Where's your hair? 
+
+00:19:20
+Intersperse Easy and Hard Demands In the beginning, use the ratio of 20% hard and 80% easy when presenting demands at the table. Easy responses are things, which the child can typically do without prompts. These are also sometimes called high-probability responses. 
+
+00:19:25
+CHERISH TWIGG The next step that we recommend is that you intersperse easy with hard demands. We don't want to present too many hard demands in a row as this might tend to increase the value of escape and we don't want to do that. We want to keep our child working for positive reinforcement not negative reinforcement. So in the beginning you might actually have 100% easy things that you are presenting to your learner. And then as you are able to increase your VR you might then be able to increase the number of acquisition trials and we would consider those the more hard or low-probability responses. So maybe you would go from 100% easy to perhaps 10% hard or acquisition to 90% easy and once your child is responding well with that kind of ratio then maybe you can go 20% hard and 80% easy. Over days and weeks you can actually just continue to increase this ratio where you are having more and more of the percentage be acquisition material. We recommend that you don't go more than about 50/50. If you start asking more hard things to your learner than easy things, it just makes sense that they are probably going to want to escape this type of situation. 
+
+00:20:25
+Fluency You want to keep your inter-trial intervals to less than one second. Also, keep the latency in your child's response to less than two seconds. 
+
+00:20:25
+Inter Trial Interval (I.T.I.) The time between your child's response and the next demand presented. 
+
+00:20:25
+CHERISH TWIGG The next thing we recommend is that you teach fluently as well as fluency. This doesn't mean that we talk really, really fast when we're teaching. This simply means that you look at the measures of time between things and we keep them short. For example, the first thing we look at is the ITI. This is what we call the inter-trial interval. This is the time between the child's last response and your next demand. So if for example they just clapped their hands and now you want to say "touch your nose". We don't want more than a second to go by between their clap and you saying touch. 
+
+00:20:55
+CHERISH TWIGG Do this. Touch your nose. Where's your hair? Something you read is a? 
+
+00:21:00
+HOLLY KIBBE Book. 
+
+00:21:00
+CHERISH TWIGG This was really hard for me to get my head around early on because I am the kind of person who really wants to get in there and give all kinds of tickles and praise and hugs after every single response because as you know we work with some of the most beautiful children there are. So what I had to learn was by doing that I'm actually delaying their ultimate reinforcer and all my tickles and praise can actually become somewhat aversive. What's more effective is if I just teach quickly, let them contact the thing that they really, really want, and then I can give them all those praises and tickles and then I won't be making them more aversive by delaying reinforcement with them. 
+
+00:21:35
+Latency The time between the demand you presented and the learner's response. 
+
+00:21:35
+CHERISH TWIGG The second measure of time that we look at is what we call latency. That's the time between our demand and our learner's response. We recommend no more than two to three seconds. We do not want to allow long latencies in and then prompt. We could actually teach our learner to have long latencies by doing so. So if we give a demand and our learner doesn't answer or respond within two seconds we're gonna go ahead and prompt and make them successful. But then we are going to use effective prompt fading techniques so that we don't get prompt dependency. 
+
+00:22:00
+Use Most To Least Prompts when Teaching New Skills 
+
+00:22:05
+CHERISH TWIGG Finally we recommend that you use most to least prompts when teaching new skills. For example, if you want to teach your learner to do this and raise their arms but you are positive that if you say "do this" they are not going to do it, you wouldn't want your first prompt to be a simple little finger tap. If you're sure that's not going to work don't even go there. Just reach in, grab their hands, and prompt them to go up and then fade your prompts effectively. This is going to help decrease the value of escape and decrease the value of automatic reinforcement and help keep them responding for positive reinforcement. 
+
+00:22:35
+What not to do when Teaching Intensively 
+
+00:22:35
+what NOT to do in ITT DO NOT remind the child of "what they are working for" or flash the reinforcer when they are non-responding (engaging in escape motivated self stimulatory behaviors) at the table. This WILL get the child's attention back, but will likely increase the future frequency of the non-preferred behavior. 
+
+00:22:40
+CHERISH TWIGG Now some important tips on what not to do in teaching intensively, and take it from me, I've done all of these things that I'm telling you that it's not recommended to do so learn from my experience. The first thing I recommend is that you don't remind the child of what they're working for when they're not responding well. So if you are presenting demands to your learner and they either stop responding or scream or act in any inappropriate way you don't want to then bring out the bowl of Skittles and then go "Look, remember, you're working for Skittles. Look, look, look." It's very tempting to do this because it seems to work in the moment because they look at the Skittles, they stop whatever it is they are doing, and you are able to present a few more demands. However, you may actually be reinforcing the behavior that came before you showing the Skittles, which was the inappropriate behavior or the non-responding and we don't want to reinforce that. We don't want more of that. What we would rather do is simply work through it. If they are not responding well, keep going. Don't slow down. Don't stop. Keep presenting a demand, prompt. Present, prompt. Don't stop. Don't slow down. 
+
+00:23:40
+what NOT to do in ITT DO NOT present easier demands if the child is not responding to demands you are currently presenting. For example: presenting motor imitations when the learner does not respond to a tact you've presented. 
+
+00:23:40
+CHERISH TWIGG We also recommend that you don't go to those fun, easy responses that your learner absolutely loves to do if they are not responding well. So again if you are presenting demands and they either stop responding or act in any inappropriate way that's not the time to do those fun ones. For example I worked once with a little boy who loved to do abra cadabra if you said "show me magic". So if this particular little boy stopped responding in the middle of my demands that wouldn't be the time for me to say "show me magic" to try to get him back so to speak because behaviorally speaking high-probability responses, which is what the "show me magic" would be reinforce what comes before it. So we don't want to reinforce the non-responding or the inappropriate behavior by going to those fun, easy demands. So just stay on the same level of difficulty, keep presenting your demands, and just prompt and keep going until you get some independent responses, then you can reinforce, go back to your steps of intensive teaching and figure out which one of these should I adjust before I come back to my learner because something isn't right if I'm having to use extinction. 
+
+00:24:45
+what NOT to do in ITT DO NOT wait for the child to look at you before you present demands. DO NOT look for a better reinforcer when the child is not responding to your demands or when the child leaves the table setting. DO NOT make the child wait while you determine which demand you are going to present next. If you "forget" what demand you were going to present while you are teaching and your ITT (inter-trail interval) gets too long, simply give the child their reinforcer immediately. 
+
+00:24:45
+CHERISH TWIGG We also recommend that you don't wait for your learner to look at you before you start presenting demands. A lot of people want to work on eye contact while they're at the table and it's not totally inappropriate, although we would recommend that you start working on eye contact within demand. However, this is what a lot of people will do. They'll lay out their set of materials and remove the reinforcer and wait for the learner to look up. And they wait, and they wait, and they wait, and finally the learner looks up and then they start presenting demands. Well, if you really want to increase the future frequency of eye contact, you should probably, as soon as they look up, you should probably reinforce them, not start back with the teaching. That way the next time you remove the reinforcer they'd be more likely to look up more quickly and you can increase eye contact that way. We also want to make sure that you do not go and look for better reinforcers if your learner is not responding well. Right in the moment if they stop responding or if they start responding with inappropriate behaviors, you don't want to stop what you are doing and go and get a better reinforcer. You've got to work through it. Even though you may have started teaching without a really good positive reinforcer, you still can't stop and reinforce that kind of behavior. You've got to work through it. Keep prompting. Keep going. Don't slow down. Don't stop until you get some independent responses. Then you can go and find a better reinforcer. You also want to be sure that you don't make your learner wait if you have one of those brain freeze moments, and it happens to the best of us. You might be teaching fast paced, you're mixing and varying, your making sure of your high and low-probability. There's so many things to think about that inevitably, even for the best of us in the middle of a runthrough, just, "what was I going to say". You absolutely forget what you were going to say. Don't make your learner wait while you try and figure out what you were going to say. Just as soon as you freeze, deliver the reinforcer. That way you can then have as much time as you need to just get your head back, figure out what you were going to ask, and start again. Even if you VR was 80 and that happened on the 5th response, I don't think your learner is going to mind. 
+
+00:26:45
+what NOT to do in ITT DO NOT reinforce the learner more often when he/she is engaging in inappropriate behaviors or is not responding to the demands presented. DO reinforce more often when the learner is responding to demands. 
+
+00:26:45
+CHERISH TWIGG Here's another one you want to watch out for. You want to be careful that you don't get caught up in the trap where you are giving your learner more reinforcement when they are not responding well and less reinforcement when they are responding well. This is really easy to do. Sometimes you'll walk in to work with your learner and they'll be like looking in your eyes and every demand you place they are just right on it. Zero second latencies, you can hardly get your demands out, and they are just all over it. Those are really fun days to work with our kids. Well, on those days if you VR is maybe 25 it is so easy for that VR of 25 to slip and turn into 60 or 80. So that means your child is responding really, really well but they are getting less reinforcement than they normally would. Well after a few days of this your learner starts to learn, well I'm not getting much out of this, and then you might start seeing less and less of the good responding and more of the escape behavior and the automatic reinforce type of behavior and then you've got to reduce your VR way, way down. You've got to bring out better reinforcers and try to get them back. Well then they learn, the worse I respond the more reinforcement I get. The better I respond the less reinforcement I get. Now on those bad days, those hard days, you do have to get good reinforcers. You've got to do what you've got to do to get instructional control. However, to counter that, on the good days make sure you don't accidentally stretch your VR. In fact, if they normally get say, one Skittle, and they did really well, give them two Skittles. And if they normally get 20 seconds of a movie, give them a minute. Make sure that the good days contact more reinforcement, not less reinforcement. 
+
+00:28:15
+Extinction DO use extinction when a child is not responding to your demands. Continue to present demands of the same difficulty levels as the one the child DID NOT respond to. Be sure to require several independent responses during this procedure prior to delivering the valued item. Finally, go back and determine the error so as to prevent it in the future. 
+
+00:28:20
+CHERISH TWIGG Finally, we do have to use extinction sometimes. It's not a method of choice. Of course our method of choice is using motivating operations to help keep the child motivated and wanting to work for positive reinforcement and not wanting to escape or use automatic reinforcement. But sometimes our teaching isn't perfect. Nobody is perfect, and we will slip into a situation where our child is trying to escape or performing inappropriate behaviors. At that time we have to use extinction. And if the function of the behavior is escape, the extinction procedure is don't let them escape. You've got to keep presenting them with demands. Don't slow down. You might even want to think to yourself you have to speed up a little bit so that you don't slow down. Keep going. Keep prompting. Don't stop. Don't go to easier responses. And make sure anytime you have to use extinction that you get another series of independent responses on the end. You don't want to reinforce the first independent response you get after having to use extinction. Get a series of responses, reinforce, and then you have to go back to your steps and figure out what went wrong, reevaluate, and then come back and try again. We really hope that these procedures will help you help your child enjoy learning. 
+
+00:29:35
+[music] 
+
+00:29:35
+Behavioral Classification of Language/Verbal Operants 
+
+00:29:35
+The "concept" of a word...Ball Mand Tact Echoic/Mimetic Intraverbal Receptive (R.F.F.C.) Text 
+
+00:29:45
+HOLLY KIBBE B. F. Skinner said that you don't have the concept or the meaning so to speak of a word until you can say it and/or identify it across all of its different functions. So for example, you don't have the meaning of the word ball until you can ask for a ball when you want one, which is a mand. You can label a ball when you don't want one, which is a tact. You can say ball after somebody else says ball, which is an echoic, or you could sign ball after somebody else signs ball, which is mimetic. You can answer questions about a ball when the ball is not present so if someone asks you "what do you like to throw" you could say ball when it's not present. You could go and get a ball if someone asks you to go and get a ball, which would be receptive. Then there is the RFFC, which is the receptive by feature, function, or class. So that would be if someone gave you a description of a ball you could then go and find it. And then finally textually, you could read the word ball. Once you know ball so to speak across all of those different functions, then you truly have the actual concept of that particular word. Now I'm going to talk about each of these in a little bit more detail. 
+
+00:31:00
+MAND (Request) Asking for things that you want. Saying the word "Ball" because you want one. There is always an MO present with the mand. Mand 1 (M.O.) Motivating Operation 
+
+00:31:00
+HOLLY KIBBE First we have the mand. The mand is basically a request, which is asking for things that you want. Now we consider the mand to be the very most important verbal operant out of all the verbal operants. And this is as such because it's the only one where your learner talks first, or in our case, your child is talking first. We want to teach our kids that talking is fun. I talk, something good happens. I talk, I get. I talk, I get. And we get the rate of talking really, really high within this operant and then we teach them everything else they can do with the language. Now with the mand there are a couple of technical things that you have to know. First off, there's always an MO or a motivating operation present with the mand. If you think about motivating operation loosely as motivation this should help you to get your head around that term a little bit better. So in other words you're not going to ask for something that you're not motivated for. So with the mand there is always motivation present. 
+
+00:32:00
+TACT Expressively Labeling an item, object, action, event, relation, property etc. Saying "Ball" when you see one. With the tact, you do not want the item. The non verbal stimulus is always present with the tact. 
+
+00:32:05
+HOLLY KIBBE The next one we want to talk about is the tact. The tact is basically expressively labeling something. Um, with this one it's basically naming or identifying objects, actions, relations, events, properties, etc. It's a tendency to say ball because you see a ball. Now with the tact you do not want the thing that you are talking about. You don't want the ball. You simply see the ball and you're labeling it ball. OK. 
+
+00:32:30
+ECHOIC Vocal Imitation. Echoing. This is repeating precisely what is heard and is usually immediate (although it does not have to be). Example: Saying the word "Ball" because someone else just said it. 
+
+00:32:35
+HOLLY KIBBE The next one we want to talk about is echoic. This one is pretty simple. You think of this just as an echo. That should help you. Um, you could also think of it as vocal imitation. So with this one you are repeating precisely what is heard, and it's usually immediately. I would say ball and then you would say ball simply because you heard me say it first. OK. 
+
+00:32:55
+MOTOR IMITATION Copying somebody else's motor movements exactly as they have modeled them. Example: Sighing "Ball" because someone else signed it first. 
+
+00:33:00
+HOLLY KIBBE The next one I want to talk about is the motor imitation. Motor imitation is also pretty simple. This is simply just copying somebody else's motor movements. So if I did this, you would do the same thing. You would this. 
+
+00:33:10
+RECEPTIVE Following instructions. Example: Giving someone a "ball" because they asked you to give it to them. Note: There is no talking on the learner's behalf for receptive language. They are simply following the instructions of others. 
+
+00:33:15
+HOLLY KIBBE The next skill area is receptive language. Now this one is simply following instructions or complying with the requests from others. So there's no talking required or involved on the learner's behalf with receptive language. You're simply saying to your learner, you're simply telling your learner to do something and they are doing it. For example, if I said to my leaner "go get a ball" and they walk over and get me the ball, they don't have to talk at all with receptive language. 
+
+00:33:40
+Receptive Language Objectives 1 Receptive Identification 2 Receptive Command 
+
+00:33:45
+HOLLY KIBBE Now there's two objectives that you specifically want to make sure that you teach to your child or that they can already do with receptive language. And I want to talk about these two right here and right now because they are commonly mistaken for each other. The first of these is receptive ID or receptive identification. With this one you might have a picture of an item and you might say to your learner "show me the ball". You simply want them to reach out and touch the ball to identify it when you tell them the item name. With the other one, that is receptive command. Um, some people also think of it as receptive actions. With that one you might say to your learner "clap" and you want them to perform this action. "Wave", you want them to do this. "Knock", you want them to perform this action right here. Those are various examples of receptive commands. 
+
+00:34:40
+INTRAVERBAL Conversational Language. This is answering "WH" questions or having a conversation so that what you say is based upon what the other person just said to you. Example: Saying "Ball" because somebody else asked you "what do you like to throw". Intraverbal: The non-verbal stimulus is not present. 
+
+00:34:40
+HOLLY KIBBE The next one we are going to talk about is the intraverbal. This is basically answering WH questions or having a conversation so that what you say is determined by what somebody else has just said to you. This is a tendency to say "ball" because somebody else just said to you "what do you like to throw". Now with the intraverbal one additional thing you need to know, and it's very important about intraverbal is that the non-verbal stimulus or the item or object that you are talking about is not present. 
+
+00:35:10
+(RFFC) RECEPTIVE BY FEATURE, FUNCTION AND CLASS Responding receptively when given a description of the item. Example: Pointing to a "Ball" because somebody else asked you, "show me what you like to throw" 
+
+00:35:10
+HOLLY KIBBE The next one we want to talk about is the RFFC. This is an acronym that stands for receptive by feature, function, or class. With this one it still falls under the skill area of receptive language but with this one you're basically responding receptively when given a description of the item and not actually told the item name. This is a tendency to point to a ball because somebody else said to you "show me something you like to throw" and you're actually reaching out and identifying the ball when told that description of it. 
+
+00:35:45
+TFFC: Tacting by a Feature, a Function, or a Class. 
+
+00:35:50
+HOLLY KIBBE The next one we want to talk about is the TFFC. This is an acronym again that stands for tacting by a feature, function, or class. So this one still falls under the skill area of tacting. So by definition of the tact, you are expressively labeling the item when it's present. But with this one you are doing so when given a description of it. So now I say to you "tell me something that you throw". With this the picture or the item is present and you're tacting it. "Tell me the thing you like to throw" and you're saying ball when you see the ball. 
+
+00:36:25
+IFFC: Intraverbal by a Feature, a Function, or a Class. 
+
+00:36:30
+HOLLY KIBBE The next one of these is the IFFC. IFFC is an acronym that stands for intraverbal by a feature, a function, or a class. With this one you are responding intraverbally when given a description of the item. So by definition of an intraverbal your non-verbal stimulus is no longer present and you are answering the question. So if I was to say to you with my picture not present, "tell me something you like to throw". You could then say "ball" even though the ball was not there. Now the difference between IFFC and a pure intraverbal is very, very slight. Some people like to say that an IFFC is defined more by the way you phrase your SD. So if I was to say to my learner "something that you throw is a," and they kind of fill in the blank and say the word "ball" that would be more of an IFFC. But if I was to say to my learner the WH form of the question "what do you throw" and they said "ball" that would be more of a pure intraverbal. With both of those the non-verbal stimulus is not present. Frequently people use these terms interchangeably and sometimes we do too. When we first started teaching in this field we were erroneously taught that what we needed to do was take a whole bunch of picture cards and go to our child with autism and teach them to label every single picture on the card. And what we were told was that by doing so we would be giving the child the vocabulary that they needed to then be able to have a conversation with us. But that doesn't happen with a child with autism, and that didn't happen with those children with autism that we did that with. So what we were actually doing was teaching them to tact a bunch of pictures and after doing so, we were left with a child who could tact a bunch of pictures but that was about all. Just because we taught them to tact all those pictures did not mean that they could then answer questions about them when they were not present. It did not mean that they could ask for those things when they wanted them. And what happened, what didn't happen is that the tacts didn't transfer across all the other operants so that they could actually have a conversation with us. And what we've learned is that with children with autism, they don't transfer across from one operant or one behavioral classification language to the next and we have to do that for them. So we actually have to break these skills down and teach them to tact them and we have to teach them to ask for them when they want them and we have to teach them to answer questions about them when they're not present and across all the other operants or behavioral classifications of language that we just talked about today. 
+
+00:39:15
+[music] 
+
+00:39:15
+Transfer Procedures 
+
+00:39:15
+Teaching a new skill...Teacher Says: "what is it?" ("0" sec DELAY PROMPT) "Ball"...........Learner's Response: "Ball" Transfer Trial "what is it?" (2 sec DELAY PROMPT before prompting)..........."Ball" Ask some easy questions "what is it?" (2 sec DELAY before prompting)..........."Ball" 
+
+00:39:30
+HOLLY KIBBE When teaching a new skill to a child with autism we typically present two trials consecutively. With the first trial we provide what is called a zero second delay prompt. This means we prompt them immediately before they have any time to respond. With the second trial this is called a transfer trial. And with the second trial we provide what is called a two second delay prompt. This means that we wait two seconds before telling the child the answer to allow them some time to respond independently. Here is what this might look like. 
+
+00:40:00
+HOLLY KIBBE What is it? Ball. 
+
+00:40:05
+CHERISH TWIGG Ball. 
+
+00:40:05
+HOLLY KIBBE What is it? 
+
+00:40:05
+CHERISH TWIGG Ball. 
+
+00:40:05
+HOLLY KIBBE If your learner responds independently and successfully to that sequence, you may go on to ask them some easy questions and then come back to the target skill that you are teaching. When you come back to the target skill provide another two second delay prompt to allow them two seconds to respond independently. Here's what that might look like with the whole sequence done all the way through. 
+
+00:40:30
+HOLLY KIBBE What is it? Ball. 
+
+00:40:30
+CHERISH TWIGG Ball. 
+
+00:40:30
+HOLLY KIBBE What is it? 
+
+00:40:30
+CHERISH TWIGG Ball. 
+
+00:40:30
+HOLLY KIBBE Touch your nose. Show me waving. What is it? 
+
+00:40:35
+CHERISH TWIGG Ball. 
+
+00:40:40
+[music] 
+
+00:40:40
+Error Correction 
+
+00:40:40
+ERROR CORRECTION Teacher Says:..........Learner's Response: First Teaching Trial What is it? BALL (using a "0" sec delay prompt)..........BALL Transfer Trial: What is it? (2 sec DELAY)..........SHOE (learner error) Error Correction what is it? BALL (using "0" sec delay prompt)..........BALL Transfer Trial Preventing Future Error what is it? Ba ("0" sec partial prompt)..........BALL Transfer Trial what is it? ("2" sec DELAY)..........BALL Ask some easy questions Second Teaching Trial (Preventing Error) what is it? Ba ("0" sec delay partial prompt)..........BALL Transfer Trial what is it? ("2" sec DELAY)..........BALL 
+
+00:40:55
+HOLLY KIBBE When you're teaching a child with autism, they may not always respond correctly. So you're going to have to implement what's called the error correction procedure. I'm going to demonstrate this for you now and talk you through it as we go through each step. Here's what it will look like. 
+
+00:41:10
+HOLLY KIBBE What is it? Ball. 
+
+00:41:10
+CHERISH TWIGG Ball. 
+
+00:41:10
+HOLLY KIBBE What is it? 
+
+00:41:15
+CHERISH TWIGG Shoe. 
+
+00:41:15
+HOLLY KIBBE When your learner responds incorrectly you want to avoid just prompting right away with the correct response. If you do your learner just called this a shoe. If you now prompt and say "ball" right on top of her incorrect response, they may get chained together whereas this becomes a shoe ball. This is not a shoe ball. We don't want that chain to occur. So to prevent it what we can do is very simple. We can just ask the question again and then prompt. That provides a little bit of a break in there and unchains the incorrect response from the correct one. Here's what this might look like. 
+
+00:41:55
+HOLLY KIBBE What is it? Ball. 
+
+00:41:55
+CHERISH TWIGG Ball. 
+
+00:41:55
+HOLLY KIBBE After your learner responds correctly, now we need to implement a transfer trial; however, the previous transfer trial that we tried to present they got it wrong. So what in the world would make me think that my learner will get it right. So what we want to do is provide what's called a zero second partial prompt or in our case for a vocal learner, it's going to be a zero second phonemic prompt to ensure that they get the correct response. Here's what it might look like. 
+
+00:42:25
+HOLLY KIBBE What is it? Ba 
+
+00:42:25
+CHERISH TWIGG Ball. 
+
+00:42:25
+HOLLY KIBBE Now that the learner is successful and said "ball" two times consecutively during those consecutive trials, now we can try for a two second delay prompt. We're most likely going to have a lot more success with it at this point in time. Here's what that might look like. 
+
+00:42:40
+HOLLY KIBBE What is it? 
+
+00:42:40
+CHERISH TWIGG Ball. 
+
+00:42:40
+HOLLY KIBBE After your learner responds correctly to that entire sequence you can go on to ask them some easy questions, things that they can respond to very, very readily and easily, and then come back with a zero second delay prompt providing again a part of the word or phonemic prompt. Here's what this might look like. 
+
+00:43:00
+HOLLY KIBBE Clap your hands. Show me coughing. What is it? Ba 
+
+00:43:05
+CHERISH TWIGG Ball. 
+
+00:43:05
+HOLLY KIBBE After your learner responds correctly, now try for a two second delay prompt. Here's what that might look like. 
+
+00:43:10
+HOLLY KIBBE What is it? 
+
+00:43:15
+CHERISH TWIGG Ball. 
+
+00:43:15
+HOLLY KIBBE What I want to do now is run through the entire sequence for you so that you can see what it should look like when you're teaching it to your child. Let me show this to you now. 
+
+00:43:25
+HOLLY KIBBE What is it? Ball. 
+
+00:43:25
+CHERISH TWIGG Ball. 
+
+00:43:25
+HOLLY KIBBE What is it? 
+
+00:43:25
+CHERISH TWIGG Shoe. 
+
+00:43:25
+HOLLY KIBBE What is it? Ball. 
+
+00:43:30
+CHERISH TWIGG Ball. 
+
+00:43:30
+HOLLY KIBBE What is it? Ba 
+
+00:43:30
+CHERISH TWIGG Ball. 
+
+00:43:30
+HOLLY KIBBE What is it? 
+
+00:43:30
+CHERISH TWIGG Ball. 
+
+00:43:30
+HOLLY KIBBE Touch your shoulders. Where's your hair? What is it? Ba 
+
+00:43:35
+CHERISH TWIGG Ball. 
+
+00:43:35
+HOLLY KIBBE What is it? 
+
+00:43:35
+CHERISH TWIGG Ball. 
+
+00:43:35
+Errorless Teaching is: Preventing errors before they occur 
+
+00:43:40
+HOLLY KIBBE Now when you're teaching your learner you do not have to run through this entire sequence for the error correction procedure we just showed to you. You can stop anywhere your learner responds with the correct response. Some children cannot go through the entire sequence without having some type of behavioral issues and therefore you would want to stop when they got it just at the correct response. When you are teaching your learner, it's very, very important to prevent errors. A lot of times people might think that the error correction procedure is actually what errorless teaching is. But that is not true. Errorless teaching is not the error correction procedure. Errorless teaching is preventing errors in the first place. If you allow your learner to respond incorrectly and then you fix it and they're wrong and you fix it, they're wrong, you fix it, it may take them 10, 20, 30, 40 times longer to learn that particular skill whereas if we just prompt them immediately from the beginning, prevent the error from happening at all in the first place and then fade our prompts, we are more likely to teach that child in a more proficient manner. 
+
+00:44:40
+Prevent Prompt Dependency...Prompt dependency is typically caused by...1. A weak motivation for what the learner is "working for" 2. Failure to fade your prompts after every prompted trial 
+
+00:44:40
+HOLLY KIBBE Now let's talk a little bit about prompt dependency. Sometimes when we teach this way people get their feathers a little bit ruffled because they thing that this is actually going to cause prompt dependency, but prompt dependency is typically caused by one of two things. Number one would be a weak motivation for the item that they are actually working for. If they don't care about what they are working for, they are gonna say "go ahead, prompt me". They may even put their hands out for you just to prompt them. They have nowhere to go and nothing to do. They're not motivated at that point in time to respond, so you need to make absolutely certain that they are motivated at all times for the thing that they are actually working for. The second thing that can cause prompt dependency is a failure to fade your prompts after every single prompted response. Let me give you a little illustration for this. Let's say you're teaching your child and for this particular runthrough you are going to present five demands. In other words you are going to ask them five questions, but you're not going to require transfer trials. So you say to your learner "clap your hands". They don't do it. So you reach out and you prompt your learner to clap their hands. That was one. Now you go on to the next one and you say "touch your nose". The child doesn't do it so you have to reach out and prompt your child to touch their nose. That was two. Now I might say to my learner "what's your name?" The child doesn't tell me. So I prompt them to tell me their name. That was three. No transfer trials again. I might follow this with another one. If I say "how old are you?" They don't tell me so I go ahead and prompt them to tell me. That was four. And now I might ask them one other thing. "Wave". They don't do it, I have to reach out and prompt them to wave. That was five. Now I give them their reinforcer. This is the thing they were working for that they really, really wanted. They only had to do five things the movie came back on. Let's say now, let's do the same illustration again, but this time we are going to require transfer trials after every single prompted response. Here's what the illustration might look like now. I say to my learner "clap your hands". They don't do it so I reach out and prompt them. That's one. But now I require a transfer trial. They have to do it again by themselves. Now I ask them the next thing. "Touch your nose". The child doesn't do it so I reach out and prompt him to touch his nose. That was two. Now I ask him to do it again by himself. Transfer trial. Then the next thing comes along. "What's your name?" Child doesn't tell me, I prompt. That was three. Transfer trial. Have to do it for themselves. The next one I prompt, transfer. I prompt, transfer. Those five responses just turned into ten responses that the learner had to get before they got this movie back that they really, really wanted. What happens when you do this is that prompts become slightly aversive and therefore if your child can respond correctly the first time, he or she is going to the first time because they want, they are controlling the speed at which the reinforcer is delivered. 
+
+00:47:50
+[music] 
+
+00:47:50
+Teaching Demonstration 
+
+00:48:05
+CHERISH TWIGG What am I doing? 
+
+00:48:05
+HOLLY KIBBE Clapping. 
+
+00:48:05
+CHERISH TWIGG Now what am I doing? 
+
+00:48:05
+HOLLY KIBBE Waving. 
+
+00:48:05
+CHERISH TWIGG Can you find the bed? Good. What are these? 
+
+00:48:10
+HOLLY KIBBE Cookies. 
+
+00:48:10
+CHERISH TWIGG Good. Find the ball. Let's name some animals. 
+
+00:48:15
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:48:15
+CHERISH TWIGG Name some animals. 
+
+00:48:15
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:48:15
+CHERISH TWIGG Good job. Where's the book? Where's the book? Touch the book. Do this. Do this. Touch the book. Good. Find the book. That's it. What's this? 
+
+00:48:25
+HOLLY KIBBE Toothbrush. 
+
+00:48:25
+CHERISH TWIGG Good job. Name some animals. 
+
+00:48:30
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:48:30
+CHERISH TWIGG Name some animals. 
+
+00:48:30
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:48:35
+CHERISH TWIGG What are these? 
+
+00:48:35
+HOLLY KIBBE Shoes. 
+
+00:48:35
+CHERISH TWIGG Good. Tell me something you read. 
+
+00:48:35
+HOLLY KIBBE Book. 
+
+00:48:35
+CHERISH TWIGG Something you read is a? 
+
+00:48:35
+HOLLY KIBBE Book. 
+
+00:48:35
+CHERISH TWIGG Do this. Touch your nose. Where's your hair? Something you read is a? 
+
+00:48:40
+HOLLY KIBBE Book. 
+
+00:48:40
+CHERISH TWIGG Good. What do you read? 
+
+00:48:40
+HOLLY KIBBE Book. 
+
+00:48:45
+CHERISH TWIGG That's right. Tell me some animals. 
+
+00:48:45
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:48:45
+CHERISH TWIGG Name some animals. 
+
+00:48:45
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:48:50
+CHERISH TWIGG What is this? 
+
+00:48:50
+HOLLY KIBBE Nose. 
+
+00:48:50
+CHERISH TWIGG What are these? 
+
+00:48:50
+HOLLY KIBBE Shoes. 
+
+00:48:50
+CHERISH TWIGG What are these? Eyes. 
+
+00:48:50
+HOLLY KIBBE Eyes. 
+
+00:48:50
+CHERISH TWIGG What are these? 
+
+00:48:55
+HOLLY KIBBE Eyes. 
+
+00:48:55
+CHERISH TWIGG Good. Touch your nose. Touch your ears. What are these? Ey 
+
+00:48:55
+HOLLY KIBBE Eyes. 
+
+00:48:55
+CHERISH TWIGG What are they? 
+
+00:48:55
+HOLLY KIBBE Eyes. 
+
+00:49:00
+CHERISH TWIGG You got it. Name some animals. 
+
+00:49:00
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:49:00
+CHERISH TWIGG Name some animals. 
+
+00:49:00
+HOLLY KIBBE Pig. Bird. Cat. 
+
+00:49:05
+CHERISH TWIGG What's this? 
+
+00:49:05
+HOLLY KIBBE Car. 
+
+00:49:05
+CHERISH TWIGG You're right this is a car. Let's talk about the parts. This part is the? Door. 
+
+00:49:10
+HOLLY KIBBE Door. 
+
+00:49:10
+CHERISH TWIGG What part? 
+
+00:49:10
+HOLLY KIBBE Door. 
+
+00:49:10
+CHERISH TWIGG Good. And this is the? Windshield. 
+
+00:49:10
+HOLLY KIBBE Windshield. 
+
+00:49:10
+CHERISH TWIGG What is it? 
+
+00:49:15
+HOLLY KIBBE Windshield. 
+
+00:49:15
+CHERISH TWIGG Touch the windshield. Good. Find the windshield. This part's the do. 
+
+00:49:15
+HOLLY KIBBE Door. 
+
+00:49:20
+CHERISH TWIGG What part? 
+
+00:49:20
+HOLLY KIBBE Door. 
+
+00:49:20
+CHERISH TWIGG You got it. And this is a? 
+
+00:49:20
+HOLLY KIBBE Car. 
+
+00:49:20
+CHERISH TWIGG Good girl. Find the popcorn. What's this? 
+
+00:49:25
+HOLLY KIBBE Popcorn. 
+
+00:49:25
+CHERISH TWIGG What's this? Ball. 
+
+00:49:25
+HOLLY KIBBE Ball. 
+
+00:49:25
+CHERISH TWIGG What is it? 
+
+00:49:25
+HOLLY KIBBE Ball. 
+
+00:49:25
+CHERISH TWIGG Show me knocking. Show me waving. What's this? Ba. 
+
+00:49:30
+HOLLY KIBBE Ball. 
+
+00:49:30
+CHERISH TWIGG What is it? 
+
+00:49:30
+HOLLY KIBBE Ball. 
+
+00:49:30
+CHERISH TWIGG Good. These are? 
+
+00:49:30
+HOLLY KIBBE Shoes. 
+
+00:49:30
+CHERISH TWIGG What are these? Cookies. 
+
+00:49:35
+HOLLY KIBBE Cookies. 
+
+00:49:35
+CHERISH TWIGG What are they? 
+
+00:49:35
+HOLLY KIBBE Cookies. 
+
+00:49:35
+CHERISH TWIGG Good job. Touch your nose. Touch your mouth. These are? Cook. 
+
+00:49:35
+HOLLY KIBBE Cookies. 
+
+00:49:35
+CHERISH TWIGG What are they? 
+
+00:49:40
+HOLLY KIBBE Cookies. 
+
+00:49:40
+CHERISH TWIGG Good. Tell me something salty. 
+
+00:49:40
+HOLLY KIBBE French fries. 
+
+00:49:40
+CHERISH TWIGG Something salty are? 
+
+00:49:40
+HOLLY KIBBE French fries. 
+
+00:49:40
+CHERISH TWIGG You got it. Do this. Show me your ears. Something salty are? 
+
+00:49:45
+HOLLY KIBBE French fries. 
+
+00:49:45
+CHERISH TWIGG Good. What's salty? 
+
+00:49:45
+HOLLY KIBBE French fries. 
+
+00:49:45
+CHERISH TWIGG Great job. Touch the bed. Touch the bed. Good. Find the bed. Do this. Do this. Find the bed. Where's the bed? You got it. What's this? 
+
+00:49:55
+HOLLY KIBBE Car. 
+
+00:49:55
+CHERISH TWIGG Car. 
+
+00:50:00
+HOLLY KIBBE Car. Car. Car. 
+
+00:50:00
+CHERISH TWIGG Find the one I showed you. 
+
+00:50:00
+HOLLY KIBBE Car. 
+
+00:50:00
+CHERISH TWIGG That's it. Find the bus. Good girl. What's this? 
+
+00:50:05
+HOLLY KIBBE Triangle. 
+
+00:50:05
+CHERISH TWIGG And this is a? 
+
+00:50:05
+HOLLY KIBBE Clock. 
+
+00:50:05
+CHERISH TWIGG Good job. Touch the popcorn. Say Blue's Clues. 
+
+00:50:10
+HOLLY KIBBE Blue's Clues. 
+
+00:50:10
+CHERISH TWIGG Say clues. 
+
+00:50:15
+HOLLY KIBBE Clues. 
+
+00:50:15
+CHERISH TWIGG Blue's Clues. 
+
+00:50:15
+HOLLY KIBBE Blue's Clues. 
+
+00:50:15
+CHERISH TWIGG That was better. Good job. What's this? 
+
+00:50:20
+HOLLY KIBBE Bus. 
+
+00:50:20
+CHERISH TWIGG Good. Find the clock. Good. And this is a? 
+
+00:50:20
+HOLLY KIBBE Triangle. 
+
+00:50:20
+CHERISH TWIGG Good job. Say ball, clock. 
+
+00:50:25
+HOLLY KIBBE Ball. Clock. 
+
+00:50:25
+CHERISH TWIGG Ball. Clock. 
+
+00:50:25
+HOLLY KIBBE Ball. Clock. 
+
+00:50:25
+CHERISH TWIGG Ba. 
+
+00:50:30
+HOLLY KIBBE Ball. Clock. Ball Clock. 
+
+00:50:30
+CHERISH TWIGG Can you give me the ball and the clock? 
+
+00:50:30
+HOLLY KIBBE Ball. Clock. 
+
+00:50:35
+CHERISH TWIGG Nice work. Do this. Do this. That's it. Do this. You got it. Let's talk about size. What size? Big. 
+
+00:50:45
+HOLLY KIBBE Big. 
+
+00:50:45
+CHERISH TWIGG What size? 
+
+00:50:45
+HOLLY KIBBE Big. 
+
+00:50:45
+CHERISH TWIGG Good. What size? Little. 
+
+00:50:45
+HOLLY KIBBE Little. 
+
+00:50:45
+CHERISH TWIGG What size? 
+
+00:50:45
+HOLLY KIBBE Little. 
+
+00:50:50
+CHERISH TWIGG Great job. Find the one that's big. Good. Touch the one that's big. What size? Bi. 
+
+00:50:55
+HOLLY KIBBE Big. 
+
+00:50:55
+CHERISH TWIGG What size? 
+
+00:50:55
+HOLLY KIBBE Big. 
+
+00:50:55
+CHERISH TWIGG That's it. Where's the bed? Where's the bed? Good. Find the bed. Do this. Where's your nose? Find the bed. That's it. Touch the bed. Good girl. What are those? 
+
+00:51:05
+HOLLY KIBBE Scissors. 
+
+00:51:05
+CHERISH TWIGG And this is a? 
+
+00:51:05
+HOLLY KIBBE Towel. 
+
+00:51:05
+CHERISH TWIGG Great job. Say Doctor Pepper. 
+
+00:51:10
+HOLLY KIBBE Doctor Peppa. 
+
+00:51:10
+CHERISH TWIGG Pepper. 
+
+00:51:10
+HOLLY KIBBE Pepper. 
+
+00:51:10
+CHERISH TWIGG Doctor Pepper. 
+
+00:51:10
+HOLLY KIBBE Doctor Pepper. 
+
+00:51:10
+CHERISH TWIGG Better. Good job. Do this. Do this. What is it? 
+
+00:51:15
+HOLLY KIBBE Ball. 
+
+00:51:15
+CHERISH TWIGG Good job. What are these? 
+
+00:51:15
+HOLLY KIBBE Scissors. 
+
+00:51:20
+CHERISH TWIGG You are so smart. You are all done. Good girl. 
+
+00:51:25
+[music] 
+
+00:51:30
+CHERISH TWIGG We want to thank you for the opportunity to share our experience in working with children with autism. 
+
+00:51:35
+HOLLY KIBBE We truly hope this DVD was able to provide you with information to not only help your child to learn faster, but to enjoy learning in the process. 
+
+00:51:40
+www.establishingoperationsinc.com 
+
+00:51:40
+CHERISH TWIGG For more information on our other DVDs, workshop opportunities, as well as more helpful information you can visit us www.establishingoperationsinc.com. Thank you. 
+
+00:52:00
+[music] 
+
+00:52:00
+This has been a presentation of EO inc COMMUNICATION THROUGH MOTIVATION Establishing Operations Inc. 
+
+00:52:00
+In Association with Biscuits & Gravy Productions, LLC. 
+
+00:52:00
+END TRANSCRIPT 

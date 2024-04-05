@@ -1,0 +1,5516 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+_____________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+[sil.] 
+
+00:00:05
+This program is protected under the 
+
+00:00:05
+laws of the United States and other 
+
+00:00:05
+countries. Reproduction or copying in 
+
+00:00:05
+any form without the express written 
+
+00:00:05
+consent of the copyright proprietor is 
+
+00:00:05
+strictly forbidden, and infringement 
+
+00:00:05
+may result in civil liability and criminal 
+
+00:00:05
+prosecution. 
+
+00:00:10
+[music] 
+
+00:00:45
+The Evolution 
+
+00:00:45
+of Psychotherapy 
+
+00:00:45
+Sponsored by 
+
+00:00:45
+The Milton H. Erickson 
+
+00:00:45
+Foundation, Inc. 
+
+00:00:45
+The Evolution 
+
+00:00:45
+of Psychotherapy 
+
+00:00:45
+December 13th, 2009 
+
+00:00:45
+The Evolution 
+
+00:00:45
+of Psychotherapy 
+
+00:00:45
+A Journey from the 
+
+00:00:45
+Psychology of 
+
+00:00:45
+Evil to Heroism 
+
+00:00:45
+Philip Zimbardo, PhD 
+
+00:00:45
+UNKNOWN So to introduce Phil Zimbardo, he is Mr. Psychology there. He hasn't been -- his PBS series on psychology, all of the books that he's done, 300 publications, books on the Lucifer Effect. How many copies of Psychology and Life, 17 editions Phil? 
+
+00:01:00
+PHILIP ZIMBARDO 19. 
+
+00:01:00
+UNKNOWN  19 editions of Psychology and Life, probably the most popular textbook for advanced students who want to learn about psychology. He consults with all kinds of agencies, government agencies, universities. He's a media personality, won numerous awards. I first met Phil when I was a volunteer researcher at Stanford. And so we go back into the early 1970s. And whenever I have the opportunity to be around Phil to learn from him, it's always an incredible opportunity and I'm always grateful and I'm grateful to -- that you'll have that opportunity because Phil has worked feverishly to put together a new presentation for you. And so please join me and a very warm welcome, Phil Zimbardo. 
+
+00:01:55
+[sil.] 
+
+00:02:05
+[music] 
+
+00:02:25
+PHILIP ZIMBARDO I'm the final speaker in this series. And I'm the Zimbardo holding action, that is they put me at the end assuming that some people who were exhausted, actually exhilaratingly exhausted by listening to so many talks and so many workshops that some of you might stick around for the last day. And the organizers I guess were right. So here we are in this intimate setting. And I'm gonna do something I've never done in my 50 years of teaching. And what I'm gonna do today was inspired by an experience I had a few days ago with Jeff Zeig, aside from giving talks and workshops and orchestrating all of these, he's been the maestro of this huge concert that you've been experiencing. Behind the scenes he's been interviewing a number of us about his project on how arts, especially music influences teaching and also science. And so what he did with me is he played some piece from Beethoven's Fifth Symphony, which I will play a piece for you. And he said improvise, tell me how -- so he told me first what is the impact this has on the audience, why is it that listening to the music in the way Beethoven constructed had a certain impact on the audience and how could I translate that into a teaching demonstration which would have a similar impact. Then he plays a Chopin piece and he says the same thing. And it was very exciting to do that to be involved in that creative interview. It was the most interesting interview I've ever done in my life. And then I started thinking after that, well it's one thing to say what you would do because social psychologists believe what's important is not what you say you would do or think you would do and that's the theme of my talk today, it's what you actually do. So today what I'm gonna do is create for you for the first time Zimbardo's fifth symphony based on Beethoven's Fifth Symphony. 
+
+00:04:30
+[music] 
+
+00:05:15
+Beethoven of Psychotherapy. 
+
+00:05:15
+My Journey from Evil to Heroism: 
+
+00:05:15
+With Detours through 
+
+00:05:15
+Shyness, Time, & Stress 
+
+00:05:15
+PHIL ZIMBARDO, 
+
+00:05:15
+Stanford University & 
+
+00:05:15
+Palo Alto University. 
+
+00:05:15
+PHILIP ZIMBARDO And so I was gonna talk about my journey from evil to heroism, but now we're going to have detours through shyness, through time, and through stress. And unfortunately I'm gonna have to talk fast or I'll talk slow and you've gotta listen first because I have to cover 221 slides, seven video clips, and four songs. There will be no dancing. But short of that we're gonna do a lot together. 
+
+00:05:35
+EVIL 
+
+00:05:35
+What makes People Go Wrong? 
+
+00:05:35
+PHILIP ZIMBARDO So I wanna start with a powerful question, what makes people go wrong. This is something that theologians, philosophers, poets, dramatists have asked for centuries, psychologists cannot ask big questions. We tend to ask precise questions for which we have exquisite ways of answering with experimental methods, with personality assessment methods. But I've been asking those questions since I was a little kid. 
+
+00:06:00
+I GREW UP IN POVERTY- IN A NEW YORK 
+
+00:06:00
+GHETTO OF THE DOUTH BRONX, 
+
+00:06:00
+ASKING WHY MY GOOD FRIENDS WENT BAD. 
+
+00:06:00
+PHILIP ZIMBARDO Because I grew up in poverty in a ghetto in South Bronx. I wanted to know what makes my friends who were good kids go bad. 
+
+00:06:10
+Why Do 
+
+00:06:10
+Good People 
+
+00:06:10
+PHILIP ZIMBARDO So I wanna up the anti, it's not why do people go wrong, I want to know why did good people, people at time one that everyone says, this is a good person, a good guy, a good girl. 
+
+00:06:20
+Turn Evil?? 
+
+00:06:20
+PHILIP ZIMBARDO Why did good people turn evil. So that's the theme of my first movement of my five movement symphony. And why do we care? 
+
+00:06:30
+How? Why? 
+
+00:06:30
+Can it be Prevented? 
+
+00:06:30
+PHILIP ZIMBARDO We care because psychologists are optimistic. That is, we want -- if we know how and why, if we know the mechanisms, then we think we can intervene to prevent it or change it. In fact, all of you, even though you think you're simply clinicians or therapists, you are change agents. You're change agents on a one-to-one basis and my goal today is to get you to think in terms of a public health model where you begin to change situations and systems that are getting your clients and patients crazy. I was also influenced as a kid by the wonderful story by Robert Louis Stevenson of Dr. Jekyll and Mr. Hyde, which you'll remember that once he invented this chemical, which when he took it, it transform him into the evil Mr. Hyde, did terrible things, and when the drug wore off he went back across the line and became the good Dr. Jekyll again. He couldn't resist so he tried it one more time since there was no human subject to medicines, he was his own subject, and he went across and did the bad things. 
+
+00:07:25
+I always wanted to know whether: 
+
+00:07:25
+THE LINE BETWEEN GOOD AND EVIL 
+
+00:07:25
+IS FIXED AND IMPERMEABLE, SO GOOD 
+
+00:07:25
+PEOPLE --Like Us and Our Kind--ARE 
+
+00:07:25
+SAFE FROM CROSSING OVER to the bad 
+
+00:07:25
+side? 
+
+00:07:25
+OR IS IT PERMEABLE, ALLOWING 
+
+00:07:25
+FLOW ACROSS THAT BOUNDARY IN 
+
+00:07:25
+BOTH DIRECTION-- so Good can turn 
+
+00:07:25
+Evil and Evil can again be Good. 
+
+00:07:25
+PHILIP ZIMBARDO My friends wanted to know what was in the juice, because they wanted to try some. I wanted to know about the line. I wanted to know whether the line between good and evil was fixed and impermeable and therefore it was comforting for us, for me and my kind to be on the good side and the bad people on the other side. But maybe, maybe even though the story is fictional, it forced me to entertain the possibility that the line was permeable, that it was not fixed, it was not static, that good people could be seduced across that line and maybe even bad people or people who did bad things could be rehabilitated. 
+
+00:08:05
+FOCUS: 
+
+00:08:05
+WHITE: 
+
+00:08:05
+BLACK IS 
+
+00:08:05
+GROUND 
+
+00:08:05
+ALL 
+
+00:08:05
+ANGELS 
+
+00:08:05
+NOW 
+
+00:08:05
+SWITCH 
+
+00:08:05
+FOCUS 
+
+00:08:05
+M.C.Escher 
+
+00:08:05
+PHILIP ZIMBARDO And so I want to start with this wonderful illusion by the Dutch artist M.C. Escher. I'd like you to look at the white as the figure and the black as the background. If you do you see a world full of angels. It's easier if you squint. So white is the figure, angels everywhere, black is the background. Now for a moment if you switch focus, we're gonna make the black the figure and the white the background. So let's look more deeply, and now we see a world full of the demons of devils. And once you see both angels and devils, you can never go back to seeing the world in the simple white or black way and certainly you can't see a world which is only gray. 
+
+00:08:50
+Dark and 
+
+00:08:50
+Light 
+
+00:08:50
+Aspects of 
+
+00:08:50
+Human 
+
+00:08:50
+Nature 
+
+00:08:50
+are our 
+
+00:08:50
+Yin & Yang 
+
+00:08:50
+GOOD 
+
+00:08:50
+& EVIL 
+
+00:08:50
+IN ALL 
+
+00:08:50
+PHILIP ZIMBARDO So this tells us that dark and light aspects are the Yin & Yang of human nature. All of us are born with a potential to do anything any human being has ever done. And good and evil are potentials in all of us. 
+
+00:09:05
+"THE LUCIFER 
+
+00:09:05
+EFFECT" 
+
+00:09:05
+PHILIP ZIMBARDO  It also reminded me growing up as a little Catholic kid of the narrative of the Lucifer Effect. It's one of the grand narratives in Judeo-Christian mythology that Lucifer was growth's favorite Angel. Lucifer means the light. He's also referred to as the morning star in some scriptures. It's not clear how he got there, but we know he was numero uno angel. But one day God said he's creating Adam, his all perfect creature, and all angels should honor him. Lucifer and number of other angels said, God, it doesn't make sense. We are angels. He's a mere mortal. And we existed prior to him. So this was not a God who is into conflict resolution, this was a kind of tough-minded God who said you just committed two sins, the sin of pride and the sin of disobedience to ultimate authority, namely me. 
+
+00:09:55
+Michael the 
+
+00:09:55
+Archangel 
+
+00:09:55
+overpowers 
+
+00:09:55
+Lucifer and 
+
+00:09:55
+other 
+
+00:09:55
+disobedient 
+
+00:09:55
+angels- 
+
+00:09:55
+with a little 
+
+00:09:55
+help from God 
+
+00:09:55
+PHILIP ZIMBARDO  And therefore what he does is he gets Michael the Archangel and some other goody-goody two shoes angels to come and they beat up on Lucifer and the other following angels. 
+
+00:10:10
+Lucifer Descends into Hell 
+
+00:10:10
+as Satan, 
+
+00:10:10
+The Devil, the Force of Evil 
+
+00:10:10
+in the Universe 
+
+00:10:10
+This is the Arc of the most 
+
+00:10:10
+extreme 
+
+00:10:10
+Transformation imaginable 
+
+00:10:10
+Sets the Context for 
+
+00:10:10
+My Investigations: 
+
+00:10:10
+Ordinary People 
+
+00:10:10
+Transformed into 
+
+00:10:10
+Evil Actors 
+
+00:10:10
+PHILIP ZIMBARDO And paradoxically it's God who invents help as first a symbolic and then a physical place to store evil. And so this is the start of evil in narrative, evil in the cosmic history. And so for me it's a transformation of God's favorite Angel into the devil, so this is the arc of the most extreme imaginable conversion. God's favorite angel becomes the devil. And so thinking about that story, I said I'd like to study how good people, not angels, first cross that line, first begin to be perpetrators of evil, not necessarily devils, but just how they first start, what are the first symptoms, what are the first acts of evil. 
+
+00:10:50
+EVIL 
+
+00:10:50
+THE EXERCISE OF POWER TO 
+
+00:10:50
+INTENTIONALLY 
+
+00:10:50
+HARM (PSYCHOLOGICALLY), 
+
+00:10:50
+HURT (PHYSICALLY), and/or 
+
+00:10:50
+DESTROY (MORTALLY) and 
+
+00:10:50
+COMMIT CRIMES AGAINST HUMANITY 
+
+00:10:50
+When practiced by government, systems of 
+
+00:10:50
+destructive power 
+
+00:10:50
+PHILIP ZIMBARDO  So there are many definition for evil, mine is a simple one. The psychological definition is all about power, it's the exercise of power to intentionally harm psychologically through prejudice, discrimination, through prejudice, through rumors, to hurt physically through torture, destroy mortally to kill, and most evil is committed by systems, as you'll see in a moment, to commit crimes against humanity when practiced by governments and systems of power. My teacher Irv Sarnoff has a simple definition, evil is knowing better and doing worse. 
+
+00:11:25
+DISPOSITIONAL EVIL. 
+
+00:11:25
+PHILIP ZIMBARDO Now because they're evil people, the older people in the audience would identify Hitler and Stalin as two of the classic evil people. The dictator of North Korea as he labeled Dr. Evil in News Week. 
+
+00:11:40
+Is there a Modern Example 
+
+00:11:40
+of dispositional evil, 
+
+00:11:40
+an EVIL PERSON?? 
+
+00:11:40
+PHILIP ZIMBARDO  And the question is, is there more modern example that we might all agree on as an example of evil. 
+
+00:11:50
+[sil.] 
+
+00:12:00
+VICE PRESIDENT FICK CHENEY 
+
+00:12:00
+UNDISCLOSED LOCATION 
+
+00:12:00
+PHILIP ZIMBARDO Some people might identify this person and I just want you to notice a little speech he gave five days after the terrorist attack on the World Trade Center and Pentagon on September -- this was I think September 16th. So five days -- we didn't even know who the terrorists were and he already has set up his secret place. And this is what he says. 
+
+00:12:20
+DICK CHENEY  The dark side, if you will, we're going to spend time in the shadows in the intelligence world. A lot of what needs to be done here will have to be done quietly without any discussion, news, and sources, and methods that are available to our intelligence agencies. 
+
+00:12:40
+PHILIP ZIMBARDO For the younger generation Darth Vader is the symbol of evil. 
+
+00:12:45
+MODERN EVIL 
+
+00:12:45
+FOR 
+
+00:12:45
+THE YOUNGER 
+
+00:12:45
+GENERATION 
+
+00:12:45
+PHILIP ZIMBARDO And I recently encountered him. 
+
+00:12:50
+I AM 
+
+00:12:50
+TRYING 
+
+00:12:50
+HARD 
+
+00:12:50
+NOT TO 
+
+00:12:50
+FALL 
+
+00:12:50
+UNDER 
+
+00:12:50
+THE SPELL 
+
+00:12:50
+OF THE 
+
+00:12:50
+DARK 
+
+00:12:50
+FORCE 
+
+00:12:50
+OF EVIL 
+
+00:12:50
+PHILIP ZIMBARDO And it's hard, it's actually hard not to fall under his spell, but I've been working at it. But whether or not you identify evil people, evil dictators, the problem is that most evil is done by systems that people just set them in motion. So this is a list of misery in our century and you run through the list of, Chairman Mao actually was responsible for even more deaths of Chinese citizens through his Cultural Revolution, The Great Leap Forward. But as you run down the list, the individuals disappear. It's just a system of destruction. 
+
+00:13:25
+American Military prison guards torturing Iraqui 
+
+00:13:25
+prisoners, men and women guards, putting 
+
+00:13:25
+themselves in the photos, and laughing. 
+
+00:13:25
+SHOCKING BUT NOT SURPRISING to me. 
+
+00:13:25
+Military & Bush Administration blamed it on 
+
+00:13:25
+"a few Bad Apples" 
+
+00:13:25
+My hypothesis: soldiers were GOOD; 
+
+00:13:25
+their Barrel was BAD; the situation corrupted 
+
+00:13:25
+them 
+
+00:13:25
+I became an expert witness to defend one 
+
+00:13:25
+of those guards, Sgt. Chip Fredrick-- 
+
+00:13:25
+PHILIP ZIMBARDO Now all of you remember very vividly I'm sure that a short time ago on television there was a leak of photographs of American troops, men and women, American police torturing, abusing prisoners in Abu Ghraib. We didn't even know what Abu Ghraib was at that time. And of course the Bush Administration and the military said this is the work of a few bad apples, don't blame the military, the military is fine. 99.99%, this is the work of a few rogue soldiers or bad apples. My hypothesis was that these were maybe good soldiers and maybe what was wrong was the barrel, because I had seen those same kinds of pictures 30 years earlier in the Stanford prison study. My guards stripped my prisoners naked, put bags over their heads, sexually degraded them. And I knew on day one of my study that everyone of the people in the study were good apples and they got corrupted by the system that I created. So I made -- I generated that hypothesis and what happened was the lawyer for one of the guards, Chip Frederick, contacted me and said you wanna be on our team? And I said no, what he did was terrible. He said but, if you are, you'd get all the information to answer your hypothesis. You can interview him, you can have him tested psychologically, have access to all the images, there's 12 investigated reports and I couldn't resist. 
+
+00:14:45
+FOREWARNING: 
+
+00:14:45
+In our Case Study of Evil some 
+
+00:14:45
+images are Violent or Sexual-- 
+
+00:14:45
+"Digitally Documented Depravity" 
+
+00:14:45
+from cameras of U.S. M.P. guards at 
+
+00:14:45
+Abu Ghraib Prison, 
+
+00:14:45
+Tier I-A -- Night Shift 
+
+00:14:45
+PHILIP ZIMBARDO So what I wanna show you now is what I call Digitally Documented Depravity. These are the pictures, some of these that military and our various administrations, both Bush and Obama are concealing, because it's so humiliating to America that our soldiers could have done this. And then we're gonna ask some critical questions about who and why these soldiers were and why they did what they did. So these are all from the cameras of military policeman working on the night shift in a place called Tier 1A in Abu Ghraib, and I've added some sound and motion to increase the emotional appeal. So this is our case study of evil rather than an abstraction of what is evil and giving some example, vague examples. So let's open the doors and go down that dungeon. 
+
+00:15:35
+[sil.] 
+
+00:17:50
+PHILIP ZIMBARDO So pretty horrific. Now so here's former Secretary of Defense, Rumsfeld, meeting with Janis Karpinski who should have been in charge of that unit, but was never -- never ever went down to the dungeon. They wanna know who were the bad Apples. 
+
+00:18:00
+REFRAME QUESTION 
+
+00:18:00
+WHAT IS RESPONSIBLE?: 
+
+00:18:00
+IT COULD BE THE WHO OF PEOPLE 
+
+00:18:00
+OR THE SITUATIONAL FORCES IN THE 
+
+00:18:00
+BEHAVIORAL CONTEXT-- 
+
+00:18:00
+PHILIP ZIMBARDO Psychologists know that the frame is often more important than the picture. So if you frame it as who, the answer is people. So we wanna ask what is responsible, could be people, but it could be something else. And obviously that's where I'm going. It could be the power of the situation. 
+
+00:18:10
+Critical Thinking Issues 
+
+00:18:10
+WHO WERE THOSE PRISON GUARDS? 
+
+00:18:10
+WHO WAS MAN WITH OUTSTRETCHED ARMS? 
+
+00:18:10
+WHAT WAS TIER I-A? 
+
+00:18:10
+WHY DID ABUSES OCCUR ONLY AT NIGHT SHIFT AND 
+
+00:18:10
+NOT DAY SHIFT? 
+
+00:18:10
+WHY DID A GUARD FEEL FREE TO PAINT HIS FACE AS 
+
+00:18:10
+THE MASK OF ROCK GP "INSANE CLOWN POSSE"? 
+
+00:18:10
+HOW WERE RUMSFELD & CHENEY 
+
+00:18:10
+COMLICIT IN THESE ABUSES! 
+
+00:18:10
+PHILIP ZIMBARDO So let's do some critical thinking. Who were the prison guards, they were not soldiers, they were not real soldiers, they were army reservists, the lowest form of animal life in the military, they have no respect by regular soldiers, they have no training to do the job that they're doing, that's number one. Secondly, the guy with the outstretched arms, he's a mentally ill patient who covered himself with his own faeces everyday and the guards had to roll him in dirt, of course they called him shit boy. And Chip Frederick who's the sergeant in charge of the night shift would complain, they'd say, make do, it's a war, he would complain that some prisoners had TB contagious, they said make do, there were 50 boys, little kids there. And you know what, you mix boys with and adult man, what's going to happen, they said, make do, it's a war. What was Tier 1-A? It was the interrogation center, it was run by military intelligence. And in addition to their interrogators, there were interrogators from the CIA and there were the interrogators from a civilian corporation called Titan Corporation. And they are in competition, who would get that critical information. The problem was they started arresting everyone around any explosion when the insurgency began. When Chip Frederic started in September, there were 200 prisoners, in a month there were 1,000. And he is now in charge of nine other soldiers on the night shift, six Iraqi guards, six Iraqi policemen who were smuggling weapons and drugs then and 1,000 prisoners. Why did the abuse occur only in nightshift, they were none in the day shift. It occurred on the night shift because not a single officer in three months ever went down to that dungeon, okay. Why did a guard feel free to wear that face paint? That face paint is of a Detroit rock group called Insane Clown Posse that promotes violence. That picture is totally everything I needed to know, because that said, he had impunity, he knew no senior officer would come down because he's out of uniform, Harley-Davidson, and capped that face paint. But imagine you're a prisoner and one of your guards is walking the yard looking like that. Rumsfeld and Cheney are responsible. Cheney is setting up his own Secret Service doing renditions, but Rumsfeld is directly responsible. He issued a set of eight authorized interrogation tactics for Guantanamo Bay prisoners, including use of dogs to fear up, nakedness as a de-humanization tactic, sense redeprivation, sleep deprivation, stress position, having people sit, stand on a box for hours on in. and General Miller from Guantanamo Bay went to Abu Ghraib and told the officers there, you're going to -- Gitmo now is your prison and you must do this, and hands over those eight authorized tactics. In fact in my book I have, in The Lucifer Effect, I have that memo. 
+
+00:20:55
+How Do Psychologists Understand Such 
+
+00:20:55
+Transformations of Human character? 
+
+00:20:55
+DISPOSITIONAL Inside of Individuals: " The Bad Apples" 
+
+00:20:55
+SITUATIONAL External Context: "The Bad Barrel" 
+
+00:20:55
+SYSTEMIC: Broad influences political, economic, 
+
+00:20:55
+cultural, & legal power: "The Bad Barrel-Makers 
+
+00:20:55
+PHILIP ZIMBARDO So how do psychologists like us go about understanding what happened in these soldiers on the night shift who did these terrible things. Not only did them, but took pictures of it giving a high-five. Well the main way we use and mostly people in this room focus only on the dispositional. What's inside of those people, do they have sadistic tendencies, we're gonna call those the bad apples. The second way is situational, social psychologists like me come along and say, we have to understand the external context, the barrel, in this case would be a bad barrel. But what we have all ignored is the third level, which is the system, these are the broad influences of political, economic, culture, and legal power, these are the bad barrel makers. 
+
+00:21:40
+THE LUCIFER EFFECT 
+
+00:21:40
+INVOLVES UNDERSTANDING HUMAN 
+
+00:21:40
+CHARCTER TRANSFORMATIONS WHEN 
+
+00:21:40
+ORDINARY PEOPLE BECOME 
+
+00:21:40
+PERPETRATORS OF EVIL -- 
+
+00:21:40
+THROUGH THE DYNAMIC INTERPLAY OF 
+
+00:21:40
+3 FORCES: 1. WITHIN PEOPLE; 
+
+00:21:40
+2. IN SOCIAL - SITUATIONAL CONTEXTS, 
+
+00:21:40
+3. IN DOMINANT SYSTEMS 
+
+00:21:40
+PHILIP ZIMBARDO So the Lucifer Effect really involves understanding of all human behavior at those three levels. And we've all -- we've all focused on one or the other but really you have to ask questions at all three levels. So we wanna know, it's a dynamic interplay what people bring into any situation, it's what the situation context brings out of people, and what are the dominant systems that create and maintain those situations for better or for worse. So in the Lucifer Effect I try to go through in detail to elaborate on that theme. We have a wonderful website, I hope you will visit, simply called lucifereffect.com. At the end of my talk, some of you wanna volunteer for a hero program, if you go to that website there's a place where you can sign up to be a hero in waiting. 
+
+00:22:25
+My "Lucifer Effect" is a 
+
+00:22:25
+Celebration of the Mind's 
+
+00:22:25
+INFINITE CAPACITY TO MAKE US BEHAVE: 
+
+00:22:25
+KINF OR CRUEL, 
+
+00:22:25
+CARING OR INDIFFERENT, 
+
+00:22:25
+CREATIVE OR DESTRUCTIVE, 
+
+00:22:25
+AND MAKES US VILLAINS; OR HEROES 
+
+00:22:25
+PHILIP ZIMBARDO  But the Lucifer Effect even though a lot of it is grim in great detail about the prisoner study about Abu Ghraib or about Rwanda, it really is for me a celebration of the human minds infinite capacity to make any of us behave as kind or cruel, caring or indifferent, creative or destructive and it makes some of us into villains and the good news that I'm gonna end with is that same mind propels some of us to become heroes. 
+
+00:22:50
+"I'm neither a good cop nor a bad cop, Jerome. Like yourself, 
+
+00:22:50
+I'm a complex amalgam of positive and negative personality 
+
+00:22:50
+traits that emerge or not, depending on circumstances." 
+
+00:22:50
+PHILIP ZIMBARDO  This wonderful cartoon from The New York is really -- summarizes my whole talk that's coming. I'm neither a good cop nor a bad cop, Jerome. Like yourself I'm complex amalgam of positive and negative personality traits that emerge or not depending on circumstances. Now long before the New York had cartoon there was a wonderful writer, a British writer, George Bernard Shaw, he has a wonderful play called Major Barbara, that I recommend to you, and this is what I found recently. 
+
+00:23:20
+GEORGE BERNARD SHAW, 
+
+00:23:20
+MAJOR BARBARA(Prelace) 
+
+00:23:20
+"Every reasonable man (and woman) is a 
+
+00:23:20
+potential scoundrel and a potential good 
+
+00:23:20
+citizen. 
+
+00:23:20
+What a man Is depends upon his Character; 
+
+00:23:20
+but what he does, and what he think of what 
+
+00:23:20
+he does, depends upon his Circumstances." 
+
+00:23:20
+PHILIP ZIMBARDO He says, every reasonable man and woman is a potential scoundrel and a potential good citizen. What a man is depends upon his character, but what he does and what we think of what he does, depends upon circumstances. That I think is something that we all should reflect on. 
+
+00:23:40
+ARE THERE ANY 
+
+00:23:40
+CIRCUMSTANCES THAT COULD 
+
+00:23:40
+MAKE GOOD SAMARITANS 
+
+00:23:40
+TURN INTO BAD GUYS? 
+
+00:23:40
+PHILIP ZIMBARDO So are there any circumstances that could make good Samaritans into bad guys. 
+
+00:23:45
+The Good 
+
+00:23:45
+Samaritan 
+
+00:23:45
+Helps a 
+
+00:23:45
+Needy 
+
+00:23:45
+Stranger on 
+
+00:23:45
+the Road 
+
+00:23:45
+from Jericho 
+
+00:23:45
+to Jerusalem 
+
+00:23:45
+-- 
+
+00:23:45
+Would 
+
+00:23:45
+Theology 
+
+00:23:45
+Students Do 
+
+00:23:45
+So When in a 
+
+00:23:45
+Hurry? 
+
+00:23:45
+PHILIP ZIMBARDO Well, we all know that one of the most important stories in the whole Bible, the parables is that of a good Samaritan. The man from Samaria whose on the road from Jericho to Jerusalem, sees somebody suffering, many people have passed him by, he not only stops to help him, he brings them to an inn, he gives the innkeeper money and essentially this is a model of the golden rule. Do unto others as you would have them do unto you. 
+
+00:24:10
+Good Samaritan Study 
+
+00:24:10
+John Darley & Dan Batson. 
+
+00:24:10
+Princeton Theological Seminary Students 
+
+00:24:10
+on their way to deliver a religious sermon 
+
+00:24:10
+about... 
+
+00:24:10
+PHILIP ZIMBARDO Well, how about you're gonna get students from Princeton Theological Seminary to give that sermon, of course they know it. So John Darley and Dan Batson a few years ago, they teach at Princeton, did a study in which they got Princeton Theologians men and women and they said we wanna study the power of sermons, we want you to give that sermon, do you know it, they said, yes. Well go across the alley, at the end of the alley is a communication department and you're gonna give this sermon, they're gonna tape it, okay. You'll get credit, whatever. On the way across the alley of course is gonna be somebody in distress, you have a chance to stop and help or not, but you're gonna give the good Samaritan talk, obviously see him, in your mind you're gonna stop. The experimental variation is one group they said you're on time, the other group said, oh my God, you're late. Could that circumstantial difference make a difference in the inner-disposition of theology students who are going to give the good Samaritan talk. 
+
+00:25:00
+Darley & Batson 
+
+00:25:00
+STUDY ALLEGED TO BE "POWER OF RELIGIOUS 
+
+00:25:00
+SERMONS" 
+
+00:25:00
+THEOLOGY STUDENTS TO GIVE GOOD SAMARITAN 
+
+00:25:00
+SERMON, TAPE RECORDED IN COMMUNICATION 
+
+00:25:00
+DEPT. AND THEN TESTED FOR ITS IMPACT 
+
+00:25:00
+GO DIRECTLY THERE DOWN A CONNECTING ALLEY 
+
+00:25:00
+RANDOM ASSIGNEMNT TO: ON TIME versus LATE 
+
+00:25:00
+CONDITION-- TO GET TO RECORDING STUDIO 
+
+00:25:00
+ON THE WAY, THERE IS VICTIM IN DISTRESS 
+
+00:25:00
+MEASURE: % WHO ACTUALLY ACT AS GOOD 
+
+00:25:00
+SAMARITANS-- OR WHO DO NOT! 
+
+00:25:00
+PHILIP ZIMBARDO  You bet. So on the way, this actual picture shows a guy lying there, moaning, some people look and pass him by, some people stop and help. 
+
+00:25:10
+Student stops 
+
+00:25:10
+to help victim: 
+
+00:25:10
+From which 
+
+00:25:10
+group-- 
+
+00:25:10
+On Time 
+
+00:25:10
+or Late? 
+
+00:25:10
+PHILIP ZIMBARDO Does it make a difference if you're on time or late? 
+
+00:25:15
+GOOD SAMARITANS NEED 
+
+00:25:15
+TIME ON THEIR SIDE 
+
+00:25:15
+On Time Theologians: 
+
+00:25:15
+Majority-- 90%--Stop to Help Victim in 
+
+00:25:15
+Distress 
+
+00:25:15
+Theological Seminary Students on the Way to Give 
+
+00:25:15
+the Good Samaritan Sermon, If They Believe They Are 
+
+00:25:15
+Late 
+
+00:25:15
+90% PASS BY STRANGER IN DISTRESS!! 
+
+00:25:15
+SORRY, NO TIME TO TO HELP A STRANGER IN 
+
+00:25:15
+DISTRESS 
+
+00:25:15
+PHILIP ZIMBARDO In fact, the on time theologians, 90% stop, what about if you're late, if you're late to give the good Samaritan talking, you had a chance to be the good Samaritan. It's not what's in your mind, it's what you do. 90% pass him by, okay. So here's the power of the situation of the context, no time to help a stranger in distress. 
+
+00:25:35
+Demonstration of 
+
+00:25:35
+SITUATIONAL POWER 
+
+00:25:35
+to Homogenize Individual Differences 
+
+00:25:35
+across 5 Behavioral Units into 
+
+00:25:35
+Total Group Synchrony (Conformity) 
+
+00:25:35
+-- Overcoming Individual Attempts to 
+
+00:25:35
+Resist 
+
+00:25:35
+Credit 
+
+00:25:35
+Tim Buchman Washington University 
+
+00:25:35
+PHILIP ZIMBARDO  Here's a lovely demonstration of the power of a small change in the situation to produce conformity. You're going to see five individual objects doing their own thing. We're gonna change one thing, we're gonna put them all on a little platform and that the influence of each one is gonna resonate to the next one. And in 30 seconds, we're gonna get these individuals acting as, it almost sounds like Nazi troops marching in unison. 
+
+00:26:00
+Metronome Synchronization 
+
+00:26:00
+N=5 
+
+00:26:00
+Rate=208+/-2 
+
+00:26:00
+Initial Phase: Rand 
+
+00:26:00
+09 Oct 2005 
+
+00:26:00
+Serial V1332 
+
+00:26:05
+[music] 
+
+00:26:45
+PHILIP ZIMBARDO The guy in the middle is existing and not for long. 
+
+00:26:50
+JOSHUA BELL 
+
+00:26:50
+PHILIP ZIMBARDO  Famous musician, certainly Jeffrey does. And he was in a demonstration recently to show context matters. 
+
+00:27:00
+Context Matters 
+
+00:27:00
+Does it matter where you hear a great concert 
+
+00:27:00
+violinist play his music? 
+
+00:27:00
+Joshua Bell, world class violinist, plays to adoring 
+
+00:27:00
+audiences in concert halls and in movies around the 
+
+00:27:00
+world; costs $100 or more for a seat. 
+
+00:27:00
+Friday, Jan 12 2007 8 AM, Washington DC busy metro 
+
+00:27:00
+station, he plays for free-or panhandling change 
+
+00:27:00
+to 1,097 passengers passing by-- 6 classical pieces for 
+
+00:27:00
+43 minutes-- Not in tux, but casual, attire. 
+
+00:27:00
+Q: how many stopped; how much did he earn? 
+
+00:27:00
+Only 7stopped, for a minute or two, made $32.00 
+
+00:27:00
+PHILIP ZIMBARDO  Does it matter where you hear a great concert violinist plays music? People pay 100,000 or more if you can get a ticket to his concerts. He played the background music in a wonderful movie The Red Violin for which he got I think probably $1 million. But two years ago he went to Washington DC metro station at 8 o'clock during rush hour, he's gonna play for free. But he's gonna put his hat out in case people wanna give some money and he's gonna play with his $3 million Stradavarius violin and he's gonna play six pieces for 43 min and they're videotaping this, more than 1,000 people passed by, he's not in the tux, but he's dressed well in casual attire, and the question is how many people stopped to listen to this great musician, where they could hear it for free. Wait, I am sorry, let me. 
+
+00:27:55
+[sil.] 
+
+00:28:10
+PHILIP ZIMBARDO The answer is, only seven stopped out of more than 1,000. Nobody stopped for more than a minute and he made $32. 
+
+00:28:15
+JOSHUA BELL: FAILS 
+
+00:28:15
+THE DETAILS IN WASHINGTON POST 
+
+00:28:15
+STORY ON LINE 
+
+00:28:15
+http://www.washingtonpost.com/wp-dyn/ 
+
+00:28:15
+content/article/2007/04/04/ 
+
+00:28:15
+AR2007040401721.html 
+
+00:28:15
+AND A VIDEO OF WHAT HAPPENED 
+
+00:28:15
+PHILIP ZIMBARDO  And if you want you can -- it is online at Washington Post the story. If you just go to Washington Post, put his name in and there's a video of the 43 minutes, people just looking and just passing by. So context matters. 
+
+00:28:35
+SOCIAL PSYCHOLOGY OF OBESITY: 
+
+00:28:35
+Why do some folks become obese? 
+
+00:28:35
+Dispositional: Genes, Metabolism, Excess Calorie 
+
+00:28:35
+Intake, No Exercise... 
+
+00:28:35
+Change Strategy: Diet books, diet centers, surgery, 
+
+00:28:35
+counseling...rarely works over time... 
+
+00:28:35
+Ignored: Cultural & Social factors, & Media 
+
+00:28:35
+bombardment promoting desirability of fast foods 
+
+00:28:35
+Ignored: New social norms in U.S. tolerating obesity 
+
+00:28:35
+in families, in friends, SOCIAL CONNECTIONS 
+
+00:28:35
+ARE A PRIME CAUSE OF OBESITY! 
+
+00:28:35
+PHILIP ZIMBARDO Another unusual way in which context matters is the social psychology of obesity. We know there's a huge epidemic in our culture and many cultures of obesity. 
+
+00:28:50
+[sil.] 
+
+00:28:55
+PHILIP ZIMBARDO Obesity is linked to diabetes and other major problem. So what do we do? We say it's in the genes, it's a metabolism, excess caloric intake, it's no exercise. What is the strategy, we diet, we got to diet, we go to diet centers, we have surgery, we have counseling, but it rarely works over time. What is ignored is the cultural and social factors and media bombardment promoting desirability of fast foods. What is ignored is the new social norms in the United States tolerating obesity in families and in friends. A prime cause of obesity are social connections. What's the evidence? 
+
+00:29:30
+"Network phenomena appear to be 
+
+00:29:30
+relevant to the biologic and behavioral 
+
+00:29:30
+trait of obesity, and obesity appears to 
+
+00:29:30
+spread through social ties..." 
+
+00:29:30
+"The spread of obesity in social 
+
+00:29:30
+networks appears to be a factor in the 
+
+00:29:30
+obesity epidemic." 
+
+00:29:30
+PHILIP ZIMBARDO  Network phenomena appear to be relevant to the biological and behavioral trait of obesity, and obesity appears to spread through social ties. The spread of obesity in social networks appears to be a factor in the obesity epidemic. How could they say that? 
+
+00:29:45
+12,000+ people, over 32 years/ body-mass and 
+
+00:29:45
+social index data systematically collected. 
+
+00:29:45
+CHANCE OF BECOMING OBESE: 
+
+00:29:45
+In brother, if brother is Obese: 41% 
+
+00:29:45
+In sister, if sister is Obese: 67% 
+
+00:29:45
+In spouse, if other spouse is Obese: 44% 
+
+00:29:45
+Among "mutual friends" if one is Obese: 170% 
+
+00:29:45
+PHILIP ZIMBARDO  There's been a study done in Boston where they've collected over 32 years data on 12,000 people of body-mass and also a social index, of friends and family and so forth and so on. Your chance of becoming obese if your brother is obese is 41%, your chance of becoming obese if your sister is obese is 67%, if your spouse is obese, the other spouse is gonna be obese 44% of the time. And most powerfully if you have a close friend that you really care about, if they become obese, the likelihood that you're gonna become obese is 171%. 
+
+00:30:25
+The researchers (Christakis & Fowler, in 
+
+00:30:25
+"CONNECTED") conclude: 
+
+00:30:25
+"The observation that people are 
+
+00:30:25
+embedded in social networks suggests that 
+
+00:30:25
+both bad and good behaviors might spread 
+
+00:30:25
+over a range of social ties. This highlights 
+
+00:30:25
+the necessity of approaching obesity not 
+
+00:30:25
+only as a clinical problem but also as a 
+
+00:30:25
+public health problem." 
+
+00:30:25
+That brings us back to my conceptual 
+
+00:30:25
+symmetry between obesity and evil. 
+
+00:30:25
+PHILIP ZIMBARDO  And this extends through to two links, friends, close friends and it's not geographic. You don't even have to see them regularly. So it's a social norm and the researchers, Christakis and Fowler, they have a wonderful new book called Connected to conclude, the observation that people are embedded in social networks suggests that both bad and good behaviors might spread over a range of social ties. This highlights the necessity of approaching obesity not only as a clinical problem, but also as a public health problem. And this brings me back to my symmetry between obesity and evil, and it's the theme I'm gonna present throughout. 
+
+00:31:00
+Two Very Dangerous Questions 
+
+00:31:00
+WOULD YOU ELECTROCUTE A 
+
+00:31:00
+STRANGER IF HITLER ASKED YOU TO? 
+
+00:31:00
+COULD THE HOLOCAUST 
+
+00:31:00
+OCCUR AGAIN IN AMERICA? 
+
+00:31:00
+THE SHOCKING ANSWER BY: 
+
+00:31:00
+STANLEY MILGRAM (1963) 
+
+00:31:00
+(WE were classmates in High School) 
+
+00:31:00
+Listen to Why he did this research on 
+
+00:31:00
+blind obedience to authority... 
+
+00:31:00
+PHILIP ZIMBARDO  We want to ask two very dangerous questions, would you electrocute a stranger if Hitler asked you to. You'd like to say no, but how do you know? The other question is could the Holocaust happen again in America? You say no. That was Nazi term, that was 1939. A little Jewish kid named Stanley Milgram asked both of those questions because he was concerned that it could happen in America. He and I sat next to each other in 12th grade in James Monroe High School in the Bronx and we talked about things like that. And he went ahead and did the classic study on the power of the situation, which again was considered the most unethical study ever done until I did the Stanford Prison study. But what I want you to do is take a moment to see what is his motivation, why did he do it. And I think you'll see it's really profound. 
+
+00:31:50
+STANLEY MILGRAM  When I learn of incidents such as the massacre of millions of men, women, and children perpetrated by the Nazi's in World War II, how was it possible to ask myself, the ordinary people who were courteous and decent in everyday life, can act carelessly, inhumanely, without any limitations of conscience. Now there are some studies in my discipline social psychology that seem to provide a clue to this question. The problem I wanted to study was a little different, went a little bit further, it was the issue of authority, under what conditions would a person obey authority who commanded actions that went against conscience. 
+
+00:32:35
+Milgram's experimental study of obedience 
+
+00:32:35
+to authority tested 1000 ordinary citizens 
+
+00:32:35
+from small towns in the U.S. 
+
+00:32:35
+Ages 20-50 
+
+00:32:35
+No Students 
+
+00:32:35
+Mostly men, but also a group of women 
+
+00:32:35
+PHILIP ZIMBARDO So Milgram's experiential study of obedience to authority tested 1,000 ordinary citizens, 500 New Haven, Connecticut, 500 Bridgeport, Connecticut, no students, mostly men aged 20-50, but he actually ran a group with women, we'll see about that. And here's the add he put in the paper, essentially listing, we want barbers and clerks, and bus drivers for a study of memory. So all evil begins with a ideology. We want to have -- science wants to help people improve their memory. Do you wanna help us to do that. Hitler says in Mein Kampf, in dealing with the Jewish question, I'm doing the Lord's work. So again evil begins with an ideology that people embrace. The problem is what are the means to those ends. 
+
+00:33:15
+The 
+
+00:33:15
+"Learner" 
+
+00:33:15
+gets attached 
+
+00:33:15
+to shocking 
+
+00:33:15
+system 
+
+00:33:15
+PHILIP ZIMBARDO So two people come to the session, one is going to be a learner, this guy getting hooked up to the electric chair, nice middle-aged guy. 
+
+00:33:25
+First shock only 15 volts, 
+
+00:33:25
+each increase by only 15 v. more 
+
+00:33:25
+"Teacher" increases shocks, 
+
+00:33:25
+Dissents, but Obeys Authority 
+
+00:33:25
+PHILIP ZIMBARDO The other guy in this case also middle-aged is going to be the teacher and the teacher gives stuff for the learner to learn, when he gets it right, you reward him and say good, when he gets it wrong, you shock him, because the story was we don't know the effects of punishment on learning and we'd like to see does it make a difference. And the brilliant thing is that Milgram had this shock box. And the first shock was only 15 volts and each increment was only 15 volts, 15, 30, 45. The message I wanna get across is all evil begins with 15 volts. When you press that first button, you're now on the start of slippy slope of evil, because you have look at the box and at the end is 450 volts, why would they make a box that goes there if they didn't expect some people to go there. So now you're going, you're shocking, and the guy doesn't respond, but now he's in another room, you get up to 100, he begins to yell, as you get higher, he's screaming, I got a heart condition, I quit. Every subject is a good person. You turn to the authority and tell him, sir, who will be responsible if something happens to him. He says, I will, I'm the teacher. I'm the authority, you must continue, diffusion of responsibility. And as you go on, he's yelling more and more and you keep complaining. The critical -- you can say I'm not that kind of person, I don't wanna hurt him. He says it doesn't matter what kind of person you are, you are the teacher, you're in your role, you must continue, you have a contract. So all the ways you get out of a bad situation are now not working. And the critical thing is this guy who started with the lab coat as a just authority has transformed, he's now an unjust authority. And we don't train our children to deal with unjust authority. From the story of Lucifer, I know of a story of Adam and Eve which I'll talk you about is the some story is, we programmed our children and us to be blindly obedient to authority. 
+
+00:35:05
+Would 
+
+00:35:05
+anyone go all 
+
+00:35:05
+the way up to 
+
+00:35:05
+450 volts?? 
+
+00:35:05
+40 psychiatrists predicted 
+
+00:35:05
+Only ONE percent of Americans would go 
+
+00:35:05
+all the way up to a 450 volts- only Sadists 
+
+00:35:05
+would engage in such sadistic behavior! 
+
+00:35:05
+THEY WERE TOTALLY WRONG because 
+
+00:35:05
+they were guilty of 
+
+00:35:05
+THE Fundamental Attribution Error~ 
+
+00:35:05
+over-emphasizing Dispositions, while under- 
+
+00:35:05
+emphasizing Situational Power 
+
+00:35:05
+PHILIP ZIMBARDO Who would go all the way to 450 volts. Milgram asked 40 psychiatrists in New Haven that question, they said only 1% of Americans because that's sadistic behavior and only 1% of Americans are sadistic. They could not be more wrong. And in fact if we asked you that question before you new the study, would you say something different. The error was what we call the fundamental attribution error we all over-emphasize the importance of disposition and we minimize the importance of the social situation. Starting with 15 volts to gradual increment, playing roles of the contract, diffusion of responsibility et cetera, et cetera. When I say that they were wrong, what did the data say. So here is the data of the number of people who drop out at each level of shock. Nobody drops out to 285 volts, okay. Now, 65% go all the way, not 1%, 65%. People didn't want to hear that. They said how could that be, it violates our sense of human nature. I couldn't imagine maybe those -- but it's not those people it's the majority. In fact I said Milgram tested a 1,000 people. He did 16 different studies. And what you can see here, this is the number of people who go all the way at the far end in study 16 more than 90% go all the way, and at the end almost nobody does. Women are in study 13, no different than men. What are the extremes? I mean -- let's look at study 5 versus 16. In study 16, you come into the experiment that says we're running a little a late why don't you sit down and watch. And you see somebody like you go all the way, that negative social model influences you and nine out of ten people go all the way. Suppose you come in and you see people like you rebel, refuse, 90% of the times you refuse. This is the most important part of the Milgram study that nobody talks about. It says we each are powerful social models everybody we come in contact with that when we behave in a just, courageous way where we promote civic virtue, that spreads in positive ways. When we join forces with the evil side, the dark side, then that spread also is affective. It really is the same message as in the book Connected as in the study of obesity. But here it's now with virtuous or unvirtuous behavior. 
+
+00:37:30
+A New Learner to 
+
+00:37:30
+be Shocked for his 
+
+00:37:30
+Mistakes: 
+
+00:37:30
+Would YOU Teach 
+
+00:37:30
+a New Dog Old 
+
+00:37:30
+Tricks to Survive? 
+
+00:37:30
+PHILIP ZIMBARDO Okay, here's the next victim. I want you to look at this cuddly little puppy and the question is will you teach a new dog old tricks in order to survive. 
+
+00:37:40
+CAN YOU IMAGINE 
+
+00:37:40
+ANY SITUATIONAL 
+
+00:37:40
+FORCES THAT COULD 
+
+00:37:40
+GET YOU TO SHOCK 
+
+00:37:40
+THIS CUDDLY PUPPY? 
+
+00:37:40
+PHILIP ZIMBARDO Can you imagine any situation in which you would shock that puppy? 
+
+00:37:45
+NO WAY: 
+
+00:37:45
+I WOULD NEVER SHOCK THAT 
+
+00:37:45
+CUDDLY PUPPY!" 
+
+00:37:45
+"No MATTER WHAT!" 
+
+00:37:45
+"I AM NOT THAT KIND OF BAD PERSON!!!!" 
+
+00:37:45
+So LET'S JUST SEE WHAT HAPPENS IF THE MAN IN 
+
+00:37:45
+THE WHITE LAB COAT IS YOUR PSYCHOLOGY 
+
+00:37:45
+COURSE TEACHER 
+
+00:37:45
+AND NOT THE STRANGER (ACTOR) IN MILGRAM'S 
+
+00:37:45
+STUDY... 
+
+00:37:45
+and your grade depends on conditioning the research 
+
+00:37:45
+subject 
+
+00:37:45
+PHILIP ZIMBARDO You gotta say no, right. Well it turns out that study that puppy was actually the puppy who was going to be shocked by a group of college students in a course on learning and conditioning and teacher said your job, your course grade depends on teaching this dog a trick, okay. 
+
+00:38:05
+Helping the Puppy to Learn by Punishing Its 
+
+00:38:05
+Mistakes over 10 REAL shock trials 
+
+00:38:05
+PHILIP ZIMBARDO And we're gonna test you individually and the dog is put in a shuttle called shuttle box and the light goes on, the grid is electrified, and the dog has to learn to turn around and run to the safe side. If he does it in a short time, he gets out of the pain. If he doesn't do it, the next trial you have to increase the shock, higher and higher at 10 levels. In fact, you really are shocking the puppy, you know that because it's squealing, jumping up and down, squealing et cetera. In the Milgram study of course the confederate, the learner was a confederate, he didn't really get shocked, everybody thought he was here, the puppy is really getting shocked. When you think you are increasing the level you're really not, it's a constant level, but in fact you are hurting the puppy. Who would do it? The 20 men students, 20 female students, every females is crying, oh my god, I hate that experiment, I hate this course. 
+
+00:38:55
+BLIND OBEDIENCE TO TEACHER - 
+
+00:38:55
+AUTHORITY 
+
+00:38:55
+MALE STUDENTS: 50% 
+
+00:38:55
+FEMALE STUDENTS: 100% 
+
+00:38:55
+Sheridan & King, 1971 
+
+00:38:55
+PHILIP ZIMBARDO I am not that kind of -- I am gonna take you home puppy, you know it's on and on and on and on. It turns out that half of the men went all the way. What about the women, kind, caring, loving, you know nurturing, ready to be mothers to the world. 100%, everyone, 100 - 20 out of 20, how could that be? Very simple, grades are more important to women than men. Study was done in 1971 when males had a greater authority over women and fortunately they do now. The study was presented at APA in 1971 and they got so much crap thrown at them by the audience that they never published it, but it's in the proceedings with The American Psychological Association and Sheridan and King gave me -- gave me those pictures. 
+
+00:39:45
+REAL WORLD 
+
+00:39:45
+PARALLELS? 
+
+00:39:45
+WE ASK ABOUT THE 
+
+00:39:45
+EXTERNAL VALIDITY OF THIS 
+
+00:39:45
+ARTIFICIAL EXPIREMENT 
+
+00:39:45
+PHILIP ZIMBARDO All research is artificial. So you always wanna say what are real world parallels, what is the external validity of any study about things we care about. You're never gonna be sitting in front of a box pressing buttons. 
+
+00:39:55
+912 Americans 
+
+00:39:55
+committed 
+
+00:39:55
+suicide, or were 
+
+00:39:55
+murdered by 
+
+00:39:55
+family and 
+
+00:39:55
+friends in 
+
+00:39:55
+Guyana, 1978 
+
+00:39:55
+because of their 
+
+00:39:55
+blind obedience 
+
+00:39:55
+to... 
+
+00:39:55
+Reverend Jim Jones, Pastor 
+
+00:39:55
+Peoples Temple 
+
+00:39:55
+San Francisco & 
+
+00:39:55
+Los Angeles 
+
+00:39:55
+Commanded his followers 
+
+00:39:55
+to commit Mass Suicide 
+
+00:39:55
+-- they blindly obeyed; 
+
+00:39:55
+Modern "Lucifer 
+
+00:39:55
+Effect" 
+
+00:39:55
+PHILIP ZIMBARDO Well, not too long ago 912 American citizens committed suicide or were murdered by their friends and the family in the jungles of Guyana because they were blindly obedient to their minister, Reverend Jim Jones, minister of the Peoples Temple in San Francisco and LA. And if you go on the Web and you say Jonestown, Jim Jones last hour, you can hear his last hour speech where he is invoking these people to commit revolutionary suicide. I actually worked counseling some of the people who had escaped that morning, Richard Louie -- Diane Louie and Richard Clark escaped from that massacre. So here is the modern Lucifer Effect. It's not simply pressing a button. Somebody in authority can talk you into committing suicide. But worse, he begins by saying mothers be kind to your children, give them the medicine then give it to the elders. The medicine is cyanide. You can hear that he says it doesn't hear, you can hear the kids screaming because cyanide produces convulsions and people are ignoring the reality and listening blindly to their authority. 
+
+00:41:00
+Changing 
+
+00:41:00
+One's 
+
+00:41:00
+External 
+
+00:41:00
+Appearance 
+
+00:41:00
+Triggers 
+
+00:41:00
+Violence in 
+
+00:41:00
+Good Boys: 
+
+00:41:00
+The 
+
+00:41:00
+Destructive 
+
+00:41:00
+Power of 
+
+00:41:00
+ANONYMITY 
+
+00:41:00
+PHILIP ZIMBARDO William Golding did a wonder story, Lord of the Flies that many of you know about. The simple message is the power of anonymity. These boys on a deserted island, democracy takes over and there's a point at which they ran out of food, the only food are wild pigs. They corner the pig, they're about to kill it and they can't do it because they're Christian choir boys and they are motivated by the injunction, Thou shalt not kill. What Golding does -- he had the head of the gang takes off his clothes, paint himself, get the other boys to make themselves anonymous, and now not only they kill they enjoy killing, and now fascism takes over. One of my students said is that psychologically real, I said I don't know, let’s do an experiment. 
+
+00:41:40
+Introductory 
+
+00:41:40
+Psychology 
+
+00:41:40
+(NYU) 
+
+00:41:40
+student 
+
+00:41:40
+volunteer is 
+
+00:41:40
+greeted by 
+
+00:41:40
+researcher 
+
+00:41:40
+PHILIP ZIMBARDO So our experiment is we're gonna recreate -- recreate that, psychology students from NYU would come, they were greeted by Scott Fraser my assistant in ubiquitous lab coat that we were in those days. 
+
+00:41:55
+Researcher 
+
+00:41:55
+gives "Cover 
+
+00:41:55
+Story" 
+
+00:41:55
+for making 
+
+00:41:55
+participants be 
+
+00:41:55
+anonymous: 
+
+00:41:55
+hooded, name 
+
+00:41:55
+replaced by a 
+
+00:41:55
+number, in a 
+
+00:41:55
+group, in the 
+
+00:41:55
+dark. 
+
+00:41:55
+PHILIP ZIMBARDO We give them a cover story we say you're gonna meet two women who are trying to be creative under stress, your job is to stress them, their job is to be creative, but we don't to give a lot off cues, so we are gonna put big floppy lab coats, we are gonna put hoods over your head. 
+
+00:42:10
+10 Groups of 4 Women Made to be De-Individuated 
+
+00:42:10
+PHILIP ZIMBARDO And there are four women in each group. You'll listen to the two victims that you're gonna see in a moment. 
+
+00:42:15
+GETTING A PERSONAL SAMPLE OF THE 
+
+00:42:15
+STRONG SHOCK 
+
+00:42:15
+PHILIP ZIMBARDO We call that de-individuating. We've taken away the individuality and we give them a sample. Here is the sample of the shock you're gonna give and compared to what? 
+
+00:42:20
+Comparison Group: Randomly Assigned to be Individuated 
+
+00:42:20
+PHILIP ZIMBARDO You always want to compared to what, so compared to the control group where everything is the same only they are individuated. As we call them -- there were name tags, we call them by their names. Take away the anonymity or highlight the individuality. 
+
+00:42:35
+First of Two Female 'Shock Victims' Seen w. Experimenter 
+
+00:42:35
+PHILIP ZIMBARDO Not in the -- not like the Milgram study where somebody says so you must go on, I am with the victims inside. And so -- and there are four of them. Amber light goes on, you put your finger on the button, the green light goes on, shock is in the system, you think she is getting shock, they're actors and actresses. And she is screaming and yelling and twisting and turning. And you can keep your finger down, I guess two seconds and then a red light goes and you take it off and you have 20 chances to shock each of two women. Here are the data. So these are the first 10 trials versus second 10 trials. This the shock duration. If you individuated, you start low and you stay low. Everything is the same except you are now anonymous. You start twice as high and over trials you shock more and more and more. This - and that’s the significance of this effect of -- it's an energizing effect of evil. Once you begin to do it, it becomes self reinforcing. We get this over and over again and you're gonna see in a moment and in study by Al Bandura. 
+
+00:43:35
+Anonymity of Terror 
+
+00:43:35
+PHILIP ZIMBARDO So again the anonymity of terror, of masks. 
+
+00:43:35
+American 
+
+00:43:35
+Terrorists 
+
+00:43:35
+Working for the 
+
+00:43:35
+Ku Klux Klan 
+
+00:43:35
+(KKK) 
+
+00:43:35
+Created Fear with 
+
+00:43:35
+their Anonymity 
+
+00:43:35
+PHILIP ZIMBARDO Ku Klux Klan were our first interior terrorists. Here is a little girl being socialized into evil and horror. 
+
+00:43:45
+DOES IT MAKE A SIGNIFICANT 
+
+00:43:45
+DIFFERENCE IF 
+
+00:43:45
+WARRIORS GO INTO WAR HAVING 
+
+00:43:45
+CHANGED THEIR EXTERNAL 
+
+00:43:45
+APPEARANCE --BECOME 
+
+00:43:45
+ANONYMOUS? 
+
+00:43:45
+PHILIP ZIMBARDO An anthropologist who read about the write up of their first study said does it make a difference if warriors go to war having changed their external appearance to become anonymous. 
+
+00:43:55
+Warriors in 
+
+00:43:55
+Cultures 
+
+00:43:55
+do Not 
+
+00:43:55
+change their 
+
+00:43:55
+appearance 
+
+00:43:55
+before battle 
+
+00:43:55
+PHILIP ZIMBARDO He said we know in some cultures they don't change their appearance. 
+
+00:43:55
+In some nations, 
+
+00:43:55
+warriors change 
+
+00:43:55
+their appearance 
+
+00:43:55
+as in 
+
+00:43:55
+"Lord of the Flies" 
+
+00:43:55
+PHILIP ZIMBARDO In other cultures like Lord of the Flies they paint themselves, some they wear mask. 
+
+00:44:00
+Anonymous Soldiers in Uniform 
+
+00:44:00
+PHILIP ZIMBARDO In most cultures, civilized cultures, we simply put men in uniform and make them anonymous. What he did is he went to the human area files and he found 23 cultures that had two bits of data. Data one, do they change their appearance or not, 15 change, 8 don't. And the dependent measure is not pressing a button. Do they kill, torture, mutilate their victims, and this is as extreme as you can get. What it shows is if you don't change your parents, only one culture does that, but we are interested in red zone, what happens when they change their appearance. 90% of the time -- that 90% comes over and over, you kill, torture, mutilate. 
+
+00:44:35
+Cultural Wisdom 
+
+00:44:35
+If you want young men to kill other young men 
+
+00:44:35
+in your wars, but not to kill when they come 
+
+00:44:35
+back home, 
+
+00:44:35
+then change their external appearance as 
+
+00:44:35
+warriors -- put them in uniforms and disguises-- 
+
+00:44:35
+and return them to ordinary appearances when 
+
+00:44:35
+they are civilians again. 
+
+00:44:35
+PHILIP ZIMBARDO So culture has wisdom. If you want young men to kill other young men in war, and old war is about old men sending young men to kill other young men. The only thing that varies what the reason is, it is religious, is it oil, is it conquest of land. You want to change external experience. But when the war is over it's against the law in every country in the world to continue to wear that uniform because you want them to go back to being peaceful. 
+
+00:45:00
+How Else Can Good People Be 
+
+00:45:00
+Seduced Into Evil Deeds? 
+
+00:45:00
+DEHUMANIZING THEIR 
+
+00:45:00
+VICTIMS 
+
+00:45:00
+MAKING THEM INTO "ANIMALS" 
+
+00:45:00
+Albert Bandura's Theory/research on multiple 
+
+00:45:00
+mechanisms of Moral Disengagement 
+
+00:45:00
+PHILIP ZIMBARDO What's another way in which people good people can be seduced in evil. Easy, it's a purely psychological way, simply think about the other as in dehumanizing terms. Think about them as animals as less than human. Albert Bandura has a wonderful theory called selective moral disengagement which I hope -- I don't know if you've talked about it here but certainly it's a key to understanding this. 
+
+00:45:20
+DEHUMANIZATION 
+
+00:45:20
+IS A CENTRAL PSYCHOLOGICAL 
+
+00:45:20
+PROCESS IN PREJUDICE AND 
+
+00:45:20
+DISCRIMINATION 
+
+00:45:20
+IT ENABLES ORDINARY PEOPLE TO 
+
+00:45:20
+BECOME PERPETRATORS OF EVIL BY 
+
+00:45:20
+CONCEIVING OF "OTHERS" AS LESS 
+
+00:45:20
+THAN HUMAN, THEN HATING THEM 
+
+00:45:20
+AND IF FEARFUL -- WANTING TO 
+
+00:45:20
+DESTROY THEM. 
+
+00:45:20
+PHILIP ZIMBARDO What he did is -- so dehumanization is a central process, psychological process -- in all prejudice and all discrimination it enables ordinary people like any of us to become perpetrators of evil by conceiving of others as a less than human and then we hate them. When we -- when they are powerful then we go beyond hate -- we wanna-if we fear them then we also have to wanna destroy them. 
+
+00:45:45
+Ease of Creating 
+
+00:45:45
+Dehumanization 
+
+00:45:45
+Small group of college students overhear 
+
+00:45:45
+research assistant tell experimenter: 
+
+00:45:45
+"The experiment is ready to begin, students 
+
+00:45:45
+from the other College are here for the study 
+
+00:45:45
+of group problem-solving under stressful 
+
+00:45:45
+conditions." 
+
+00:45:45
+The Subjects hear one of three descriptions: 
+
+00:45:45
+"They are ready" (Neutral) 
+
+00:45:45
+"They seem like ANIMAL" (Dehumanized) 
+
+00:45:45
+"They seem like Nice Guys" (Humanized) 
+
+00:45:45
+PHILIP ZIMBARDO So he did this wonderful study -- he gets-he says, that here's a group of college students who've got to teach a group of college students from another school how to solve business problems. And when they get it right you reward them, they're in another room and they get it wrong, you press the button on a shock box. There are three conditions. In one group the assistant says the students from other school are here, we're ready to begin. That's neutral you don't know anything. Another condition he said hey they seem to me like animals, that is you overhear him saying this to the experimenter. The third condition he said, they seem to me like nice guys. Does it makes a difference? If people you don't know except they're college students are described as nice, as animals, or you don't know anything about them. So, here if-if -- so this is a control condition, it starts really low simply saying they are like animals, it starts in the same place and now it soars. The good news is that when you say they're nice guys you get a significant effect down. So as you can see, they start almost the same. And at the end of-of-of what is uh, 10 trials, there's this is huge, huge difference. So evil is carried in your mind in the subtle, subtle way. 
+
+00:47:00
+General 
+
+00:47:00
+Miller of 
+
+00:47:00
+Gitmo--re 
+
+00:47:00
+prisoners 
+
+00:47:00
+@Abu 
+
+00:47:00
+Ghraib: 
+
+00:47:00
+"He said they are like dogs 
+
+00:47:00
+and if you allow them to 
+
+00:47:00
+believe at any point that they 
+
+00:47:00
+are more than a dog then 
+
+00:47:00
+you've lost control of 
+
+00:47:00
+them" 
+
+00:47:00
+PHILIP ZIMBARDO General Miller of Guantanamo goes to, I mentioned, goes to Abu Ghraib and says the following words to the head- to Karpinski. He said, this is in a book, they are like dogs, that means the prisoners, if you allow them to believe at point they are more than a dog, you've lost control of them. 
+
+00:47:15
+Rwanda: 1994 
+
+00:47:15
+Hutu Government: 
+
+00:47:15
+Tutsis 
+
+00:47:15
+are "Cockroaches" 
+
+00:47:15
+- 
+
+00:47:15
+Now Destroy them! 
+
+00:47:15
+800,000+ Tutsis 
+
+00:47:15
+murdered in 100 days 
+
+00:47:15
+with only 
+
+00:47:15
+machetes and clubs 
+
+00:47:15
+PHILIP ZIMBARDO We know in 1994 the Hutu government went on the radio and said your neighbors, the Tutsis, are cockroaches and if you expose your house with full of cockroach what will you do, you kill them. So we're gonna give every men a machete everyone a club and your job is to kill the cockroaches. And in 100 days they killed 800,000 of their neighbors. The weapon of mass destruction was not a nuclear bomb, it was a machete and a club. 
+
+00:47:40
+Tutsi Child Drawing 
+
+00:47:40
+His Mother's Beheading 
+
+00:47:40
+PHILIP ZIMBARDO And then they made the children watch as their mothers were either raped or on this case, the child's drawing of her mother being beheaded. And so it was this other level of bestiality. 
+
+00:47:50
+BILLBOARD IN EAST CONGO 
+
+00:47:50
+NO RAPE, NO SEXUAL 
+
+00:47:50
+VIOLENCE 
+
+00:47:50
+PHILIP ZIMBARDO  Where did those soldiers go? The Hutu's are now in East Congo and they're using rape as a terror tactic. This is a billboard, one of many, which says no sexual violence, please don't rape, thing like drive slow, and it shows a picture of a guy running after a little girl taking his pants down. So it's so endemic that is the people -- many of these were child warriors. They recruited these kids, they killed their parents, they recruited them through drugs, through sexual enticements. And so now these kids have grown up and they are continuing to do -- to spread this evil. 
+
+00:48:25
+The Line Between 
+
+00:48:25
+Good and Evil 
+
+00:48:25
+Cuts Through 
+
+00:48:25
+the 
+
+00:48:25
+Heart 
+
+00:48:25
+of Every 
+
+00:48:25
+Human Being 
+
+00:48:25
+Alexandre Solzenitsyn 
+
+00:48:25
+Poet, Prisoner, Stalin's Gulag Archipelago 
+
+00:48:25
+PHILIP ZIMBARDO Alexandre Solzenitsyn says the line between good and evil cuts through the heart of every human being. It's not something vegan out there. 
+
+00:48:35
+STANFORD 
+
+00:48:35
+PRISON EXPERIMENT 
+
+00:48:35
+PHILIP G ZIMBARDO 
+
+00:48:35
+CRAIG W HANEY WILLIAM C BANKS 
+
+00:48:35
+DAVID M JAFFE 
+
+00:48:35
+PHILIP ZIMBARDO And this brings us quickly to the Stanford Prison study. 
+
+00:48:35
+Volunteers 
+
+00:48:35
+answered 
+
+00:48:35
+this Ad 
+
+00:48:35
+PHILIP ZIMBARDO We had just a small ad we -- unlike Milgram we did want college students for a study of prison life for two weeks. 
+
+00:48:40
+personality tests, 
+
+00:48:40
+and interviews 
+
+00:48:40
+24 selected; most 
+
+00:48:40
+normal, healthy; 
+
+00:48:40
+randomly assigned 
+
+00:48:40
+PHILIP ZIMBARDO We gave them personality tests, interviews, we picked two dozen who were the most normal, most physically and psychologically healthy. So we wanted good apples on day one, August 14, 1971. We're gonna put them in a bad barrel. A bad barrel meaning a prison -- a prison that's a functional stimulation of what is worse in American prisons and then we're simply gonna say what happens. What happens when you put good people in a bad place. It's really more like a Greek drama then an experiment. And we randomized these 24 kids, half to be guards, half to be prisoners. What we don't tell them is that the prisoners we say wait at home in the dormitory the study will begin this weekend. We wanted the authority to take away their freedom, so that they wouldn't say as if they're an experiment, give it to me back, only the authorities can give it back. So this is what happened in the initial arrests. 
+
+00:49:30
+UNKNOWN  Prisoner 819 did a bad thing, prisoner 819 did a bad thing, prisoner 819 did a bad thing. 
+
+00:49:45
+[music] 
+
+00:49:50
+PHILIP ZIMBARDO That's Stanford University. If you get a chance, you should visit, it is gorgeous. 
+
+00:49:55
+Quiet Rage 
+
+00:49:55
+The Stanford Prison Study 
+
+00:50:00
+[music] 
+
+00:50:45
+Prisoner 8612 
+
+00:50:45
+UNKNOWN : Police car pulls up in front and a cop comes to the front door and knocks and says he is looking for me. So they -- right there they took me off the door, they put my hands against the car, it was a real cop car, it was a real policemen and there were real neighbors in the street that didn't know that I was -- this was a-a experiment. And there was cameras all around and neighbors all around. They put me in the car then they drove me around Palo Alto. They took me to the police station, the basement of the police station. Then they put me in the cell. I was the first one to be picked up, so they put me in a cell just like a room with a door with bars on it. You could tell it wasn't a real jail. They locked me in there in this degrading little outfit. They were taking this experiment too seriously. 
+
+00:51:40
+A guard in military 
+
+00:51:40
+uniform, 
+
+00:51:40
+with symbols of 
+
+00:51:40
+power, 
+
+00:51:40
+and anonymity - 
+
+00:51:40
+inducing sunglasses 
+
+00:51:40
+PHILIP ZIMBARDO Well in fact we were. So again we gotta deindividuate the prisoners, we're gonna dehumanize their numbers, the guards are gonna be in fancy military uniforms with symbols of power. 
+
+00:51:50
+Initial menial 
+
+00:51:50
+tasks-- 
+
+00:51:50
+push ups, 
+
+00:51:50
+endlessly 
+
+00:51:50
+long counts 
+
+00:51:50
+of prisoner 
+
+00:51:50
+numbers -- 
+
+00:51:50
+escalate 
+
+00:51:50
+daily to 
+
+00:51:50
+more 
+
+00:51:50
+humiliating 
+
+00:51:50
+and 
+
+00:51:50
+degrading... 
+
+00:51:50
+PHILIP ZIMBARDO And it begins just like you saw the opening scene at Abu Ghraib. It always begins with some trivial, menial thing, push ups, jumping jack, physical, but over a time it-it always escalates, more-more degrading, more humiliating. One of the great motivators of evil is boredom because how do you really bore them, you're really bore 'em by doing something new and novel and each night you have to think of something else to do and the only play things are the prisoners. 
+
+00:52:20
+Humiliating 
+
+00:52:20
+tasks, such as 
+
+00:52:20
+cleaning toilet 
+
+00:52:20
+bowls with 
+
+00:52:20
+one's bare 
+
+00:52:20
+hands 
+
+00:52:20
+Prisoners often 
+
+00:52:20
+stripped naked, 
+
+00:52:20
+sexually taunted, 
+
+00:52:20
+and sexually 
+
+00:52:20
+degraded 
+
+00:52:20
+PHILIP ZIMBARDO And so this is what we saw, cleaning toilet bowls out with your bare hands, stripping prisoners naked. 
+
+00:52:25
+Prisoner #8612, rebellion leader, was 
+
+00:52:25
+the first to break down 
+
+00:52:25
+PHILIP ZIMBARDO And the kid you saw was the first to get arrested, 8612. He broke down in 36 hours. He was the ring leader of the rebellion that happened on the second day and the guards broke him in various ways. I prevent -- as superintendent of prison I prevented them from using physical force, but intuitively they knew how to use psychological force to create an obituary environment to promote a sense of learned helplessness exactly like Marty Seligman did in his dogs many years ago, Marty Seligman and his students, Steve Maier. 
+
+00:52:55
+UNKNOWN In 1971, Phil Zimbardo conducted a revolutionary experiment here in the bowels of Stanford University in the United States. It rocked the world of psychology. A group of students were divided randomly into prisoners and guards and lived in a makeshift jail. The prisoners immediately became submissive and the guards became cruel. 
+
+00:53:25
+UNKNOWN Not only you're not getting cigarettes but for as long as cell block- 
+
+00:53:25
+UNKNOWN Within a week Phil Zimbardo's prison was inhumane and the experiment had to be cut short. At one stage prisoner 416 went on hunger strike in protest, so the guards put him in solitary confinement. Amazingly his fellow prisoners turned on him too. They were given a chance to release him. 
+
+00:53:55
+UNKNOWN Now what will it be, what will it be over here. (inaudible ) 416, you're gonna be in there for a while so just get used to it. 
+
+00:54:00
+UNKNOWN  He is totally rejected not only by the guards but by his other group of prisoners and it had a very powerful profound effect on him. 
+
+00:54:15
+First prisoner 8612 
+
+00:54:15
+broke down from 
+
+00:54:15
+extreme stress reactions 
+
+00:54:15
+in 36 hours, and was 
+
+00:54:15
+released-- and then 
+
+00:54:15
+abuse by guards 
+
+00:54:15
+worsened daily -- 
+
+00:54:15
+until five prisoners had 
+
+00:54:15
+to be released-- 
+
+00:54:15
+****** 
+
+00:54:15
+I ended the projected 
+
+00:54:15
+2-week study after only 
+
+00:54:15
+6 days! 
+
+00:54:15
+It had spun out of 
+
+00:54:15
+control 
+
+00:54:15
+PHILIP ZIMBARDO So after prisoner 8612 too broke down, he became a model of how you get out. Each day thereafter there was extreme stress reactions sufficiently, so we had to release them bringing them soon to health. The reactions were obviously limited to that place, that time, that situation. And of course we had extensive debriefing when the study was over. But I had to end the study after six days because it was really spinning out of control, mostly abuses happened in the night shift when I was asleep, sleeping only for a few hours. The study was -- the big mistake we made was we didn't have time -- we didn't build in time to reflect. There was me, two graduate students, Craig Haney, Curt Banks, and one undergraduate, and Craig had to leave in the middle of the study. So just three of us working 24 hour shifts. The guards worked eight hour shifts, the prisoners obviously lived there. So we ended the study that was gonna go for two weeks after only eight days. 
+
+00:55:05
+Real WORLD 
+
+00:55:05
+PARALLEL? 
+
+00:55:05
+THE EXTERNAL VALIDITY OF 
+
+00:55:05
+THE STANFORD PRISON 
+
+00:55:05
+EXPERIMENT 
+
+00:55:05
+PHILIP ZIMBARDO What the are the real world parallels? 
+
+00:55:10
+Hooded 
+
+00:55:10
+prisoners 
+
+00:55:10
+awaiting 
+
+00:55:10
+Parole 
+
+00:55:10
+Board, 
+
+00:55:10
+Legs 
+
+00:55:10
+Chained 
+
+00:55:10
+PHILIP ZIMBARDO Well here is our guards bringing the prisoners to parole board. Parole board is headed by an ex-convict, they were secretaries, graduate students, was again very, very realistic. Bags over their heads, chains on their feet. 
+
+00:55:20
+US soldiers in Iraq with their captives in bagged heads 
+
+00:55:20
+PHILIP ZIMBARDO Same bags, only now it's Iraq. 
+
+00:55:25
+Bagged-headed detainees at 
+
+00:55:25
+"Gitmo" Cuba Prison 
+
+00:55:25
+PHILIP ZIMBARDO They switched from paper, so -- they wanna conserve, so these are sandbags in Guantanamo. 
+
+00:55:30
+FORCED FELLATIO 
+
+00:55:30
+SIMULATION AT 
+
+00:55:30
+ABU GHRAIB IS 
+
+00:55:30
+MATCHED IN 
+
+00:55:30
+SIMULATED SODOMY 
+
+00:55:30
+BY BRITISH SOLDIERS 
+
+00:55:30
+AT BASRA AND 
+
+00:55:30
+GUARDS IN S.P.E.-- 
+
+00:55:30
+PHILIP ZIMBARDO You saw it in Abu Ghraib, the guards made the prisoner simulate fellatio. 
+
+00:55:40
+Sexually humiliating Iraqi prisoners, 
+
+00:55:40
+forced sodomy simulations -- Abuse is Systemic! 
+
+00:55:40
+See "The Mark of Cain" TV movie about this episode 
+
+00:55:40
+PHILIP ZIMBARDO Prison run by the British in Basra, they simulate sodomy. In the Stanford Prison study on the fifth night I didn't see this until I've decided to end this study the next day. Our guards lined up the prisoners and said you will be female camels, bend over, you are male camels, get behind and hump them. And of course the prisoners didn't have any underpants, so when they bent over their explicit(ph) were showing. And in five days college students chose it because they are normal and healthy, were simulating sodomy at the request of their guards, token of blind obedience to authority. 
+
+00:56:15
+SCHLESINGER INVESTIGATION AT ABU GHRAIB 
+
+00:56:15
+"The potential for abusive treatment of detainees during 
+
+00:56:15
+the Global War on Terrorism was entirely predictable 
+
+00:56:15
+based on a fundamental understanding of the principles of 
+
+00:56:15
+social psychology coupled with an awareness of numerous 
+
+00:56:15
+known environmental risk factors .... Findings from the 
+
+00:56:15
+field of social psychology suggest that the conditions of 
+
+00:56:15
+war and the dynamics of detainee operations carry 
+
+00:56:15
+inherent risks for human mistreatment, and therefore must 
+
+00:56:15
+be approached with great caution and careful planning and 
+
+00:56:15
+training." BUT THERE WAS NONE! 
+
+00:56:15
+PHILIP ZIMBARDO They were met. There were 12 investigations of what happened at Abu Ghraib all by generals. One was headed by James Schlesinger who was the former Secretary of Defense. He had generals on his staff. And he says two things which are critical for our analysis today. I am gonna take a moment to read them. The potential for abusive treatment of detainees during the Global War on Terrorism was entirely predictable based on fundamental understanding of the principles of social psychology coupled with an awareness of numerous known environmental risk factors. Findings from the field of social psychology suggest that the conditions of war, the dynamics of detainee operation carry inherent risk for what? Human mistreatment, and therefore must be approached with great caution, careful planning, and training, and there was none. 
+
+00:57:00
+SCHLESSINGER REPORT CONCLUDES 
+
+00:57:00
+"Psychologists have attempted to understand how 
+
+00:57:00
+and why individuals and groups who usually act 
+
+00:57:00
+humanely can sometimes act otherwise in certain 
+
+00:57:00
+circumstances." This is THE LUCIFER EFFECT 
+
+00:57:00
+"The landmark Stanford study provides a 
+
+00:57:00
+cautionary tale for all military detention 
+
+00:57:00
+operations." It should have been so ! Power w/o 
+
+00:57:00
+Oversight is a recipe for abuse everywhere. 
+
+00:57:00
+PHILIP ZIMBARDO He then says psychologists have attempted to understand how and why individuals and groups who usually act humanely can sometimes act otherwise in certain circumstances. It is both the Lucifer Effect and The New York -- The New Yorker cartoon. He goes on to say, the landmark Stanford study provides a cautionary tale for all military detention operations. You knew what happens if you give guards total power on prisoners with no oversight. That is a recipe for disaster and they did that purposely. 
+
+00:57:30
+"Bad Apple" Vs. "Bad Barrel" 
+
+00:57:30
+Sgt. Chip Frederick 
+
+00:57:30
+Pre-Abu G. Post-Abu G 
+
+00:57:30
+Honored Good guy 
+
+00:57:30
+soldier In the Barrel 
+
+00:57:30
+PHILIP ZIMBARDO So here is the guy who defended, Chip Frederick. He and Sabrina Harman, one of the women who thought of this gimmick to put electrodes on a prisoners hand and have him stand on a stress box, cover his head with bag. And when he his legs gave out, he would electrocute himself at least in his mind. They didn't think it was so bad because if you fell off the box nothing would happen, the electrodes are not attached to anything. So think about what a horrific thing that is to do. He is the same guy a few weeks earlier. He is the same guy a few weeks later. Everything I knew about him, he was the most normal, most patriotic guy I have ever met. 
+
+00:58:10
+CHIP FREDERICK: BAD APPLE?? 
+
+00:58:10
+BEFORE HIS MP ASSIGNMENT AT ABU GHRAIB, HE WAS A 
+
+00:58:10
+NORMAL, AVERAGE, GOOD PERSON, WITH NO 
+
+00:58:10
+NEGATIVE TENDENCIES TOWARD ABUSING OTHERS 
+
+00:58:10
+AFTER ABUSES, MMPI EVALS: NORMAL, NO SADISTIC 
+
+00:58:10
+TENDENCIES 
+
+00:58:10
+It was the SITUATION THAT CORRUPTED HIM and 
+
+00:58:10
+other MPs 
+
+00:58:10
+Dishonorable discharge, 8 years prison term, 
+
+00:58:10
+deprived of 22 years retirement pay, stripped off of his 9 
+
+00:58:10
+medals and awards, wife divorced him. 
+
+00:58:10
+I helped get a clemency of 4 years imprisonment 
+
+00:58:10
+PHILIP ZIMBARDO His MMPI rating is done by military psychologist, normal on every scale, no sadistic tendencies. I could not find a single thing in his background. He had been a guard in a low-level prison, he had been in army reserve and national guard, there was not a single negative thing in his whole history, and he gets there and he is doing these terrible things. So I have to argue with the situation that corrupted him that he was a good apple when he started and the barrel was terrible. What was -- so his defense was he was guilty there is no question about that. The situational perspective does not absolve somebody from social responsibility. What it should do is mitigate the extremity of the sense, had almost no effect in the military. Here he dishonorable discharge, an eight year prison term. They took away 22 years of his retirement pay. He had won nine medals and awards and they stripped that off him. I helped him to get a clemency so he was released after only four years. Charles Graner got 10 years, Lindy England got three years. And all the other soldiers got some penalties. Not a single officer went to trial. Not a single officer got a letter of reprimand. Command complicity means that if your subordinates engage in illegal, immoral activity that you should have known about you are complicit. It went on for three months. Who was watching the story. We are paying their salaries. You want one of them to go down to the dungeon at night to blow the whistle and none of them did. 
+
+00:59:40
+www.prisonExp.org 
+
+00:59:40
+PHILIP ZIMBARDO Again we have a lovely website, prisonExp.org. I started with Scott Plous 10 years ago. We've had 50 million unique page viewers. 
+
+00:59:50
+Also in 
+
+00:59:50
+Spanish, 
+
+00:59:50
+German, 
+
+00:59:50
+Polish, Italian, 
+
+00:59:50
+Portuguese, 
+
+00:59:50
+and Farsi 
+
+00:59:50
+PHILIP ZIMBARDO It's now in seven different languages, in Spanish, German, Polish, Italian, Portuguese, and Farsi. It's got everything on the prison study, all kinds of references to everything and corrections and we hope you will visit. 
+
+01:00:05
+Social Processes That Grease 
+
+01:00:05
+the Slippery Slope of Evil 
+
+01:00:05
+Mindlessly Taking the First Small Step 
+
+01:00:05
+Dehumanization of Others 
+
+01:00:05
+De-individuation of Self (anonymity) 
+
+01:00:05
+Diffusion of Personal Responsibility 
+
+01:00:05
+Blind Obedience to Authority 
+
+01:00:05
+Doing Nothing as the Evil of Inaction 
+
+01:00:05
+Disengaging One's Morality Standards 
+
+01:00:05
+PHILIP ZIMBARDO So what are the social processes that grease the slippery slope of evil. Mindlessly taking that small first step, dehumanization of others, de-individuation of self, diffusion of personal responsibility, blind obedience to authority, doing nothing as the evil of inaction, I'll talk about that in a moment, and lastly Bandura's thing of disengaging your moral standards. 
+
+01:00:30
+Same 
+
+01:00:30
+effects with 
+
+01:00:30
+social 
+
+01:00:30
+processes 
+
+01:00:30
+as with 
+
+01:00:30
+secret drug 
+
+01:00:30
+-- turning 
+
+01:00:30
+good 
+
+01:00:30
+people 
+
+01:00:30
+bad! 
+
+01:00:30
+PHILIP ZIMBARDO So we produce the same effect with social processes as with that secret drug of Dr. Jekyll, turning good people into bad without biological chemicals just by ordinary social processes. 
+
+01:00:45
+SYSTEMIC EVIL 
+
+01:00:45
+PHILIP ZIMBARDO But evil is also at the systemic level. There are two reports that came out that have been almost ignored by the media. This report says church ignored rampant abuse, Irish study finds. This is in May. A study of catholic run institutions for poor children in Ireland showed that over a 30 or 40-year period priests and nuns humiliated, tortured, and raped children in their custody and everybody knew about it and did nothing. And this report was only in International Herald Tribune and I have not seen in any American paper. And just recently it's updated. 
+
+01:01:20
+Priests protected by Church 
+
+01:01:20
+AND Police! 
+
+01:01:20
+30 years, 320 allegations 
+
+01:01:20
+of Pedophilia 
+
+01:01:20
+against 183 priests: 
+
+01:01:20
+ZERO prosecutions 
+
+01:01:20
+PHILIP ZIMBARDO Over 30 years there were 320 allegations of Pedophilia against 183 priests, zero were prosecuted, not one went to trial. And so, the details are that Catholic Church was in complicity with the police to not try, to not prosecute, hence cover up. So here is systemic evil. Typically they move the priest from parish to parish. Now this was in Ireland but it's the same thing in America. A priest throughout America -- in Los Angeles they had to pay something like $500 million. So churches pays off, but they do not change, the system protects as that the military did, system protects in this case the evil doers. 
+
+01:02:05
+"Nothing is easier 
+
+01:02:05
+than to denounce 
+
+01:02:05
+the evil doer; 
+
+01:02:05
+Nothing more 
+
+01:02:05
+difficult than 
+
+01:02:05
+understanding him." 
+
+01:02:05
+Dostoevsky 
+
+01:02:05
+UNDERSTANDING 
+
+01:02:05
+IS NOT EXCUSING 
+
+01:02:05
+Psychology is not 
+
+01:02:05
+Excusiology ! 
+
+01:02:05
+PHILIP ZIMBARDO Dostoevsky tell us nothing is easier than to denounce evil doer and nothing more difficult than understanding him. Again when I give talks like these to military people, government people, I always end by saying understanding is not excusing. Psychology is not excusiology. It's only by understanding that we can change bad situations. 
+
+01:02:30
+ADVOCATING A PARADIGM SHIFT 
+
+01:02:30
+AWAY FROM MEDICAL MODEL OF 
+
+01:02:30
+TREATING INDIVIDUALS WITH 
+
+01:02:30
+DYSFUNCTIONAL SYMPTOMS TO A 
+
+01:02:30
+PUBLIC HEALTH MODEL OF 
+
+01:02:30
+PREVENTION AND FOCUS ON 
+
+01:02:30
+CHANGING SITUATIONS AND SYSTEMS 
+
+01:02:30
+THAT ARE VECTORS OF DISEASE IN 
+
+01:02:30
+OUR SOCIETY AND THE WORLD. 
+
+01:02:30
+PHILIP ZIMBARDO So I wanna advocate a paradigm shift away from the medical model of treating individuals with dysfunctional symptoms to a public health model of prevention and focus on changing situation and systems that are vectors of disease in our society and the world. 
+
+01:02:50
+[sil.] 
+
+01:02:55
+LET'S OPPOSE THE 
+
+01:02:55
+POWER OF EVIL SYSTEMS, 
+
+01:02:55
+EVERYWHERE THEY 
+
+01:02:55
+SPREAD INJUSTICE, 
+
+01:02:55
+BULLYING, 
+
+01:02:55
+INTOLERANCE, 
+
+01:02:55
+CORRUPTION, & 
+
+01:02:55
+Needless Wars 
+
+01:02:55
+PHILIP ZIMBARDO So together I want us to oppose the power of evil systems everywhere because they spread injustice, bullying, intolerance, corruption, and needless wars. 
+
+01:03:05
+The S.P.E. generated 
+
+01:03:05
+new research and 
+
+01:03:05
+therapy on: 
+
+01:03:05
+SHYNESS: As a Self-Imposed Psychological Prison in 
+
+01:03:05
+which one voluntarily surrenders personal freedoms of 
+
+01:03:05
+speech, and association with others, 
+
+01:03:05
+and also 
+
+01:03:05
+TIME PERSPECTIVE: The psychological creation of 
+
+01:03:05
+time zones--Past, Present, Future-- that influence our 
+
+01:03:05
+decisions; We were all stuck in the immediate Present 
+
+01:03:05
+of that intense situation 
+
+01:03:05
+PHILIP ZIMBARDO And with that take a deep breath because that's the end of movement one. The interesting thing that I've not talked about very much is the Stanford Prison study generated two whole lines of research which are very strange to think about. The first was research on shyness came directly out of the Stanford Prison study. Shyness as a self-imposed psychological prison where one voluntarily surrenders personal freedoms of speech, association with others. The next year after the prison study I started doing research in shyness because of the prison study and also I started doing research in the psychology of time perspective that is, the psychological creation of time zones past, present, and future that influence our decisions, because in -- during the experiment we were stuck in that situation, we were stuck in the immediate present time zone. We never thought about tomorrow, we never thought about the next day. When we bugged the cells, the only thing that prisoners talked about was the immediate situation. What that meant means we all distorted time. Each eight hour shift was like a day. So we all had a sense we were there for a month rather than only six days. So I started doing research on time perspective. So I'd like to take movement two, we gotta talk a little bit about shyness, and movement three is time perspective. 
+
+01:04:20
+The Stanford 
+
+01:04:20
+Shyness Project & 
+
+01:04:20
+Clinic: 1972-Now 
+
+01:04:20
+Curious Aspects of Shyness 
+
+01:04:20
+Origins of My Interest and Research: 
+
+01:04:20
+The Stanford Prison Experiment (1971) 
+
+01:04:20
+Metaphor of mentality of guard and prisoner in one mind --both 
+
+01:04:20
+mentalities embraced by the shy person 
+
+01:04:20
+Limiting Freedoms of Choice, of Speech, of Association = 
+
+01:04:20
+SHYNESS as a SELF-IMPOSED SILENT PERSON 
+
+01:04:20
+PIONEERING RESEARCH ON SHYNESS IN ADULTS 
+
+01:04:20
+STARTED FIRST CLINIC DEVOTED TO TREATMENT OF SHYNESS IN 
+
+01:04:20
+ADOLESCENTS AND ADULTS 
+
+01:04:20
+NOW FUNCTIONING AFTER 30+ YEARS AT PALO ALTO 
+
+01:04:20
+UNIVERSITY (PGSP) 
+
+01:04:20
+PHILIP ZIMBARDO So, origins, we're thinking about -- backup. I teach a lot and I like to do research and so the synergy is I like to get ideas for research during my teaching. And when I do research I always take pictures of it that I can now work in to my talks. And then I will always -- if you're doing something valuable, you want to say how can I give this away to the public beyond students, in popular books, in journal articles, setting up clinics, and that -- so that's what we did there. So -- we did -- so -- so we started in 1972 just in the class talking about this metaphor, having a seminar with 12 shy kids, trying to find out what do we know about shyness, nobody -- there was no research on shyness in adults in 1972. So we're the first to do that. And there was no treatment of shyness in adults or adolescents devoted entire to shyness. And so now we started a shyness clinic after we had enough data. And that clinic is still in practice now at the Palo Alto University, we say Pacific Graduate School of Psychology at the Gronowski Clinic for over 30 years. So although I am a social psychologist. In thinking about today's talk, everyone is hey, I am really one of you. I've - -I was a clinician on the side without a certificate. 
+
+01:05:35
+Shyness: Multiple Causes 
+
+01:05:35
+Genetics and Temperament 
+
+01:05:35
+J. Kagan: "10% inhibited 
+
+01:05:35
+newborns" 
+
+01:05:35
+S. Suomi; inherited shyness in 
+
+01:05:35
+monkeys 
+
+01:05:35
+Introversion as a basic 
+
+01:05:35
+temperament 
+
+01:05:35
+PHILIP ZIMBARDO So in studying shyness we realized, and I'll go through quickly, that there are multiple causes. Genetic and temperament play a small role maybe 10%. 
+
+01:05:45
+Shyness: Multiple Causes 
+
+01:05:45
+Family Transactions 
+
+01:05:45
+unrealistic performance expectations 
+
+01:05:45
+parental criticism, shaming, high control 
+
+01:05:45
+with low expressed warmth 
+
+01:05:45
+high mobility, frequent moving 
+
+01:05:45
+low communication & social modeling 
+
+01:05:45
+of shy behaviors 
+
+01:05:45
+PHILIP ZIMBARDO Family transactions play a small role. 
+
+01:05:50
+Shyness: Multiple Causes 
+
+01:05:50
+Social learning/Personal experience 
+
+01:05:50
+negative labeling 
+
+01:05:50
+public embarrassment of 
+
+01:05:50
+social failures 
+
+01:05:50
+highly competitive, critical schools 
+
+01:05:50
+teased, bullied, humiliated 
+
+01:05:50
+Mis-attributions by shys/about shys 
+
+01:05:50
+PHILIP ZIMBARDO Social learning, personal experience of negative labeling, public embarrassment of social failures but highly competitive critical schools, being teased, bullying, humiliated also play a role. 
+
+01:06:00
+Shyness: Multiple Causes 
+
+01:06:00
+Cultural Programming 
+
+01:06:00
+Universal experience with 
+
+01:06:00
+cultural inputs 
+
+01:06:00
+Japanese (HI) vs. 
+
+01:06:00
+Jewish (LO) ways of dealing 
+
+01:06:00
+with success and failure 
+
+01:06:00
+"Chutzpa" as role model 
+
+01:06:00
+PHILIP ZIMBARDO And then there is cultural programming. Every culture that we've studied around the world, and in cultures shyness is an issue. The interesting thing is it varies. The highest levels are in Asian cultures like Japan, Taiwan, China and the lowest is in Israel. And we go to Israel we got to Taiwan to study why, it has to do with one thing. How do those cultures deal with success and failure? In Japan if you succeed at anything, doing Haiku, playing little league ball, whatever it is, who gets the credit, the coach, the parent, your grandparent, the uncle, the cousin, Buddha and if you fail, everyone says, "not me, you get the blame." So you develop a culture where you always play it safe. You never stand out, you never do anything unique or different, you promote a culture of conformity, a culture of obedience to authority of respect, got to be a respect for authority. Suppose you are in Israel, the same thing happens. Suppose you fail, your mother says I didn't feed you enough, the grandmother says it was all my fault, the father said, I didn't send you to the right school, the teacher said, I didn't work you hard enough and then finally you say, the world is prejudiced against Jews. So, what happens if you succeed, you get the full credit. You say, look, Momma, he is tying his shoes, yup he is 12 years old. It doesn't matter, why rush him? And so the Jewish kid grows up with the Chutzpa model, you always take a chance, you have nothing to lose. The Japanese, Chinese kid grows up with the model, you have everything to lose. So that's really an interesting psychological dynamic highlighting this cultural difference. 
+
+01:07:35
+Our First publication of 
+
+01:07:35
+Shyness in Adults -- 1973 
+
+01:07:35
+"THE SOCIAL DISEASE 
+
+01:07:35
+CALLED SHYNESS" 
+
+01:07:35
+PHILIP ZIMBARDO The first article we wrote back in 1971 in the Psychology Today cover story was called The Social Disease of Shyness. I wanted to take shyness away from being a personality handicap. 
+
+01:07:50
+First Popular Book, 1975 
+
+01:07:50
+Directed at Shy Adults 
+
+01:07:50
+With Exercises as Well 
+
+01:07:50
+As Conceptual Views 
+
+01:07:50
+PHILIP ZIMBARDO And then I wrote a book in 1975 called Shyness What It Is, What To Do About It and again it was not simply the conception. The last part of the book had exercises, because in our shyness clinic what we did is develop a whole series of exercises that our clients did not only in the group session but also at home. And then so the first shyness book was a college age up and the second one was college age down. 
+
+01:08:15
+Shyness Treatments 
+
+01:08:15
+Social Skills Training 
+
+01:08:15
+instruction, modeling, practice in group didactic setting 
+
+01:08:15
+Relaxation Training 
+
+01:08:15
+reducing social and physical anxiety 
+
+01:08:15
+Cognitive-Behavior Therapy 
+
+01:08:15
+cognitive restructuring 
+
+01:08:15
+exposure to phobic situations 
+
+01:08:15
+role-playing, group exercises 
+
+01:08:15
+Drug Treatments 
+
+01:08:15
+monoamine oxidase inhibitors, maoi; prozac, paxil 
+
+01:08:15
+Self-Help Exercises 
+
+01:08:15
+actions in shyness books: WWW.SHYNESS.COM 
+
+01:08:15
+Social Fitness Model: Dr. Lynne Henderson 
+
+01:08:15
+PHILIP ZIMBARDO So very quickly, the thing emphasize is social skills training. There are three reasons people are shy. They don't know what to do, like travels in a foreign land, so we teach them very basic social skills of communication, of giving compliments and receiving compliments, how to start a conversation, monitor conversation etcetera, etcetera and those skills are easy to teach. Essentially we are therapists as movie directors and they are actors. You get them to role play but you always want to do it in a small group because you want them to do with one another and then of course we do relaxation training of various kinds and then of course some of the shyness has to do with negative attribution. They say, I am fat, I am ugly, I am dumb, I am inadequate, nobody will love me if I do this. So, essentially our treatment was a combination of those three. As you know now this is drug treatments, maoi inhibitors, prozac, paxil but again a lot of self-help exercises really work. We have a website, shyness.com and I've been working with Dr. Lynne Henderson and she has developed a social fitness model. So, if you go to shyness.com, you can get articles we have written and also a background that she has. End of movement two. 
+
+01:09:40
+[music] 
+
+01:10:05
+ON TIME 
+
+01:10:05
+OUR PERSPECTIVES 
+
+01:10:05
+GOVERN OUR LIVES 
+
+01:10:05
+SOMETHING’S COMING 
+
+01:10:05
+PHILIP ZIMBARDO So that’s the wonderful song from Westside Story. And one of the key lines in it, so it is all about being future-oriented, something is coming. But it is also the importance of waiting that’s going to be a critical part in our first course. 
+
+01:10:25
+Adam’s 
+
+01:10:25
+Temptation 
+
+01:10:25
+LET’S TUNE 
+
+01:10:25
+IN TO 
+
+01:10:25
+THE 
+
+01:10:25
+DISCUSSION 
+
+01:10:25
+PHILIP ZIMBARDO So I want us to tune into the Adam and Eve parable in the Garden of Eden. This is a wonderful image by a German painter Lucas Cranach and of course if you look at it, it’s Eve the seductress, Eve the temptress and here is this kind of silly little Adam scratching his head, doesn’t know what to do. So let's tune into their discussion. 
+
+01:10:45
+take a bit of this delicious Forbidden Fruit, yum! 
+
+01:10:45
+PHILIP ZIMBARDO So Eve says, " Come on, Adam, don’t be afraid. I took it, I did it. You should take a bit of this delicious forbidden food. It's really yummy. 
+
+01:10:50
+One Bite Adam... 
+
+01:10:50
+Don't Abandon Eve 
+
+01:10:50
+YOU ARE 
+
+01:10:50
+"THE MAN" 
+
+01:10:50
+The ONLY MAN 
+
+01:10:50
+Don't be such 
+
+01:10:50
+a Sissy! 
+
+01:10:50
+PHILIP ZIMBARDO And Satan in the form of a serpent says, "One bite Adam, don’t abandon Eve. You are the man. In fact you are the only man. Don’t be such a sissy, Be a man. And what does Adam do? He says, "I don’t know. We might get get in trouble with God. Okay, okay, just one small bite, what the hell!" 
+
+01:11:10
+So Be A Man! 
+
+01:11:10
+We might 
+
+01:11:10
+get in 
+
+01:11:10
+trouble 
+
+01:11:10
+with God 
+
+01:11:10
+Ok, just 
+
+01:11:10
+one 
+
+01:11:10
+small bite 
+
+01:11:10
+What the 
+
+01:11:10
+Hell! 
+
+01:11:10
+LET'S UPDATE THE TEMPTATION 
+
+01:11:10
+NARRATIVE 
+
+01:11:10
+LET'S GIVE 4 YEARS OLD'S ONE 
+
+01:11:10
+DELICIOUS TREAT NOW..... BUT 
+
+01:11:10
+IF THEY WAIT A WHILE, THEY GET TWO 
+
+01:11:10
+THAT SIMPLE DECISION WILL HAVE 
+
+01:11:10
+PROFOUND CONSEQUENCES LATER 
+
+01:11:10
+IN THEIR LIVES... 
+
+01:11:10
+PHILIP ZIMBARDO So let’s update that narration. What I’m going to do is I’m going give four-year old kids, I’m going to put them in a situation of temptation. I’m going to play a game with them, they are all going to win a prize. The prize is marshmallows, if they like marshmallows with chocolate. And I give it to them and just before they pounce on it, I say but wait, if you wait a few minutes you can have two. If you like one, two is better than one, right? Some kids wait and some kids don’t. This is a replication of a study done by my colleague Walter Mischel many, many years ago and that simple decision, do you give in to temptation or do you resist and delay gratification has profound impact on these kids' lives later. So let me just show you the demonstration that I did and these are the most wonderful children. These are four-year old kids in a little private school in San Francisco. 
+
+01:12:10
+[sil.] 
+
+01:12:15
+REVISITING WALTER MISCHEL’S 
+
+01:12:15
+MARSHMALLOW TEMPTATION STUDY 
+
+01:12:15
+4-YEAR OLDS IN 2008 
+
+01:12:15
+[ZIMBARDO] 
+
+01:12:15
+UNKNOWN Come in and have a seat here. 
+
+01:12:15
+UNKNOWN Thank you. 
+
+01:12:20
+PHILIP ZIMBARDO Sit right up, okay. Now I’m going to play a game with you and I would like you to point to which one is the correct answer. Which one is happy most of the time, the shy one or the not shy one? 
+
+01:12:35
+UNKNOWN The not shy one. 
+
+01:12:35
+PHILIP ZIMBARDO Not shy one, correct. Which one has a brown nose? The shy puppet or the not shy puppet? 
+
+01:12:40
+UNKNOWN The not shy puppet. 
+
+01:12:40
+PHILIP ZIMBARDO Point it. Thank you. Oh, stop that. Which one is happy most of the time, the shy one or the not shy one? 
+
+01:12:50
+UNKNOWN Probably that one. 
+
+01:12:50
+PHILIP ZIMBARDO Thank you. That’s wonderful. I want to give you a prize for having done so well. Do you like marshmallows? You do. Well here is a marshmallow. You can eat it now but if you wait until I come back, you can have two of them. So you can eat this now, but I’m going to go outside for a minute. When I come back, you can have two marshmallows, if you wait. 
+
+01:13:20
+UNKNOWN Look at her non-verbal behavior, it's incredible. 
+
+01:13:20
+UNKNOWN Okay, I’ll wait. 
+
+01:13:20
+PHILIP ZIMBARDO Do you think you could wait? Okay, let's see. I’ll be back in a minute. 
+
+01:13:30
+[sil.] 
+
+01:14:25
+PHILIP ZIMBARDO Hello. 
+
+01:14:25
+UNKNOWN You are back. 
+
+01:14:25
+PHILIP ZIMBARDO You waited. 
+
+01:14:25
+UNKNOWN I did. 
+
+01:14:25
+PHILIP ZIMBARDO You waited for me. Okay, so then now you know what’s going to happen. You are going to get a double treat. I’m going to give you two of these lovely marshmallows. You want to eat them now or save them for later? 
+
+01:14:45
+UNKNOWN I want to eat them now. 
+
+01:14:45
+PHILIP ZIMBARDO Okay, go ahead. Little sticky. 
+
+01:14:50
+UNKNOWN I have had marshmallows before. 
+
+01:14:55
+WHILE SOME CHILDREN WAITED, 
+
+01:14:55
+OTHERS JUST ATE IT. 
+
+01:14:55
+PHILIP ZIMBARDO While some children waited, others just ate it. Right, you got it right. So I’m going to give you a prize. I’m going to give you a treat and the treat is a delicious marshmallow but if you wait –- I have to go check my car. When I come back if you wait, you can have two of them. You can have one now or when I come back you can have two, okay? 
+
+01:15:15
+UNKNOWN Okay. 
+
+01:15:15
+PHILIP ZIMBARDO Okay. 
+
+01:15:20
+[sil.] 
+
+01:15:40
+PHILIP ZIMBARDO Two bites. 
+
+01:15:45
+PHILIP ZIMBARDO Hello, my dear. 
+
+01:15:45
+UNKNOWN Hello. 
+
+01:15:45
+PHILIP ZIMBARDO You ate the marshmallow. Was it delicious? 
+
+01:15:50
+UNKNOWN Yes. 
+
+01:15:50
+PHILIP ZIMBARDO Do you like marshmallows? You don’t like marshmallows? Do you like chocolate? Okay well. 
+
+01:16:00
+PHILIP ZIMBARDO Look at his eyes and his right hand. 
+
+01:16:05
+PHILIP ZIMBARDO Here is one chocolate. But if you wait till I come back you can get two. You could eat this now, I have to go check my car and when I come back if you wait, I’ll give two of them. 
+
+01:16:15
+UNKNOWN Okay. 
+
+01:16:15
+PHILIP ZIMBARDO So you can eat it now but if you wait till I come back, you can have two. Okay? 
+
+01:16:20
+PHILIP ZIMBARDO Three times. 
+
+01:16:20
+PHILIP ZIMBARDO Do you think you can wait? Okay. So I will be back in a few minutes. So you could eat it now but if you wait, you are going to have two of them. Okay, I will be back. 
+
+01:16:35
+[sil.] 
+
+01:16:40
+PHILIP ZIMBARDO Is he enjoying that piece of chocolate? You see, partly by making it special these are middle class kids, they have chocolates, they have marshmallows, but an authority has made this just a special piece of candy. 
+
+01:16:55
+PHILIP ZIMBARDO Hello, I’m back. How are you? 
+
+01:16:55
+PHILIP ZIMBARDO What’s he going to say? 
+
+01:16:55
+UNKNOWN Good. I waited. 
+
+01:16:55
+PHILIP ZIMBARDO No, you ate it. You ate the chocolate. 
+
+01:17:05
+PHILIP ZIMBARDO He said, I didn’t leave the room, I waited, give me the two chocolates. So he heard what he wanted to hear. You can eat one now, he said yeah and if you wait, you can have two more. So he not only misunderstood, he created that world in which he maximizes -- and I had to give him two more, he maximized the outcome. 
+
+01:17:30
+WHEN MISCHEL'S RESEARCHERS 
+
+01:17:30
+RETURNED 14 YEARS LATER, WHEN THESE 
+
+01:17:30
+BOYS AND GIRLS WERE 18, THOSE WHO 
+
+01:17:30
+RESISTED TEMPTATION WERE DIFFERENT 
+
+01:17:30
+IN MANY POSITIVE DIRECTIONS FROM 
+
+01:17:30
+THOSE WHO COULD NOT DELAY 
+
+01:17:30
+GRATIFICATION. 
+
+01:17:30
+SCORED 250 PTS HIGH ON S.A.T.! 
+
+01:17:30
+BETTER ADJUSTED, HIGHER LEVEL OF 
+
+01:17:30
+SOCIAL FUNCTIONING AND MORE .... 
+
+01:17:30
+PHILIP ZIMBARDO So to his credit Walter Mischel’s research team went back, found all those kids, those who resisted, those who gave into temptation and gave them a battery of test interviews and what they found was kids who waited scored 250 points higher on S.A.T. That’s incredible. On many measures they had much better social adjustment, much better social functioning, and many, many more. In fact they are still following these kids up now. I think it's even like 30 or 40 years later to show how that decision put them on a path to be future-oriented versus present-oriented. 
+
+01:18:05
+LIFE’S MOST IMPORTANT LESSONS: 
+
+01:18:05
+LEARN TO DELAY GRATIFICATION. 
+
+01:18:05
+SAY"NO" OR "LATER" TO TEMPTATION 
+
+01:18:05
+TEACH CHILDREN TO BE AWARE OF FUTURE 
+
+01:18:05
+CONSEQUENCES OF CURRENT ACTIONS... 
+
+01:18:05
+BF SKINNER'S MAJOR CONTRIBUTION 
+
+01:18:05
+PHILIP ZIMBARDO So life’s most important lessons are learn to delay gratification, say no or later to temptation and teach children to be aware of future consequences of current actions. For me, that’s the major contribution of BF Skinner, namely behavior has consequences. And so I think these are the most important lessons parents can teach. You are not born with delay of gratification mechanism. This is something we build in. It's really called dessert. You don’t serve dessert first. You have to wait, you have to learn –- and so parents and teachers have to build in delay of gratification in various ways. 
+
+01:18:40
+YIELDING 
+
+01:18:40
+LIFE IS TEMPTATION 
+
+01:18:40
+RESISTING 
+
+01:18:40
+PRESENT FOCUS 
+
+01:18:40
+IMPULSIVE 
+
+01:18:40
+NOW 
+
+01:18:40
+YES 
+
+01:18:40
+NO 
+
+01:18:40
+LATER 
+
+01:18:40
+REFLECTIVE 
+
+01:18:40
+FUTURE FOCUS 
+
+01:18:40
+PHILIP ZIMBARDO So life is temptation, yielding, resisting, yes, no, now, later, impulsive, sometimes reflective but either present focus or future focus and that’s what I want to talk about. So time perspective is the study of how individuals divide the flow of the human experience into different time zones or time frames. We do it automatically and non-consciously. These frames vary between cultures, social classes, nations and people. The interesting thing we bring to that is to say they become biased, we meaning our research team because we learn to overuse some of them and we underuse others rather than having a balanced flexible time perspective where we switch time zones depending on our needs. 
+
+01:19:20
+TIME PERSPECTIVE 
+
+01:19:20
+THE STUDY OF HOW INDIVIDUALS DIVIDE 
+
+01:19:20
+THE FLOW OF HUMAN EXPERIENCE INTO 
+
+01:19:20
+DIFFERENT TIME FRAMES .... 
+
+01:19:20
+OR TIME ZONES... AUTOMATICALLY AND 
+
+01:19:20
+NON-CONSCIOUSLY 
+
+01:19:20
+THESE FRAMES VARY BETWEEN CULTURES, 
+
+01:19:20
+SOCIAL CLASSES, NATOINS, AND PEOPLE 
+
+01:19:20
+THEY BECOME BIASED BY LEARNED OVER-USE 
+
+01:19:20
+OF SOME FRAMES AND UNDER-USE OF OTHERS 
+
+01:19:20
+CONCEPTUAL TIME PERSPECTIVE MODEL 
+
+01:19:20
+MAKE A DECISION 
+
+01:19:20
+TAKE AN ACTION 
+
+01:19:20
+IMMEDIATE 
+
+01:19:20
+SITUATION 
+
+01:19:20
+STIMULATION 
+
+01:19:20
+ABSTRACT 
+
+01:19:20
+ABSTRACT 
+
+01:19:20
+MEMORIES 
+
+01:19:20
+ANTICIPATED CONSEQUENCES 
+
+01:19:20
+PAST-ORIENTED 
+
+01:19:20
+PRESENT-ORIENTED 
+
+01:19:20
+PHILIP ZIMBARDO So here is the conceptual model. You have to make a decision, you have to take an action. What influence is that decision? For some people it is only what’s in the immediate situation. Your biologic, physiological arouse what other people are saying, what it smells like, looks like, tastes like and if that is the major determinant of your decision, we are going to call you a present-oriented person. For other people they ignore the present, they focus on memories of the past. When I was in a situation like this, what did I do, how did it work? If it worked, I’ll do it again. If it didn’t work, I won’t do it again. We are going to call those people past-oriented. For others they ignore their past, they ignore the present and they always begin by saying, if I do A, what are the anticipated consequences? So they focus on anticipated consequence, gain-loss probabilities, and if that’s the main influence on your decision, we are going to call you future-oriented. Now the past and future are abstractions. They are psychological constructions. The past and future do not exist except in your mind which is different than the present. Now I’m talking about these as if they are types but in fact they are -- they are on a continuum. So in the scale I’m going to mention that I developed, the Zimbardo Time Perspective Inventory. You get a profile of six different scores in which you are -- you vary the extent to which you are past, present or future-oriented. So the book I wrote recently called Time Paradox, the paradox is, I want to argue that there is nothing has this greater influence on all your decisions, all your judgments, all your actions than your hidden sense, your secret sense of time and you are unaware of it, I’m unaware of it and it is not in any psychology index that I know of. So we have ignored this powerful influence on our behavior. We have another wonderful website The Time Paradox and it is important for two reasons not only because it says everything we’ve studied about time, it shows you that there are six different ways, six different aspects of time perspective. Two present, two past, two present, two future. For some people when they focus on their past it is always the good things, success, happiness, rituals, fun. For others it is a Smithsonian (inaudible )it's regret, abuse, failure. There's two ways to be present-oriented. Present hedonism, you know, enjoy pleasure, avoid pain but another important way is to be present fatalistic saying nothing I do makes a difference. I control nothing in my life. There is two ways to be future-oriented. One way is, as most of us are here, you set goals, you make to-do lists. Another way, which we don’t think about is what we call the transcendental future. Life begins after the death of the mortal body for many people in many religions. And that orientation leads to very different kinds of behavioral strategies. So over last 20 years or maybe even 30 years we’ve been working to develop a scale called the Zimbardo Time Perspective Inventory, has 56 items and out of it you get five factor scores. The transcendental future is a separate scale and again if you go to www.timeparadox, you can take the test and get it scored immediately. We also have developed a short 15-item form which is good for various uses where we have -- we only have a short access to clients or subjects. 
+
+01:22:45
+The 
+
+01:22:45
+Time Paradox 
+
+01:22:45
+The New Psychology of Time 
+
+01:22:45
+That Can Change Your Life 
+
+01:22:45
+Philip Zimbardo. 
+
+01:22:45
+Author of the New York Times Bestseller 
+
+01:22:45
+THE LUCIFIER EFFECT 
+
+01:22:45
+and John Boyd. 
+
+01:22:45
+TIME PARADOXES? 
+
+01:22:45
+Powerful influence of Time 
+
+01:22:45
+Perspective on our 
+
+01:22:45
+behavior, yet we are 
+
+01:22:45
+ignorant of its force 
+
+01:22:45
+WWW.THETIMEPARADOX.COM 
+
+01:22:45
+6 TIME PERSPECTIVE FACTORS 
+
+01:22:45
+1. PAST TP- FOCUS ON POSITIVES 
+
+01:22:45
+2.PAST TP-FOCUS ON NEGATIVES 
+
+01:22:45
+3.PRESENT TP-HEDONISM 
+
+01:22:45
+4.PRESENT TP-FATALISM 
+
+01:22:45
+5.FUTURE TP-LIFE GOAL-ORIENTED 
+
+01:22:45
+*6. FUTURE TP-TRANSCENDENTAL~LIFE 
+
+01:22:45
+AFTER DEATH OF THE MORTAL BODY 
+
+01:22:45
+The Times of Your Life. 
+
+01:22:45
+provide profile 
+
+01:22:45
+scores for each 
+
+01:22:45
+person on the 
+
+01:22:45
+5-factors of Time 
+
+01:22:45
+Perspective/ 
+
+01:22:45
+Also have 15 item 
+
+01:22:45
+short form. 
+
+01:22:45
+{Separate scale for 
+
+01:22:45
+Transcendental 
+
+01:22:45
+Future} 
+
+01:22:45
+www.THE TIME PARADOX.COM 
+
+01:22:45
+An In-Depth Look At Each Of The 5 
+
+01:22:45
+Time Perspective Factors {ZTPI} 
+
+01:22:45
+Examine how they correlate to a host 
+
+01:22:45
+of important psychological constructs; 
+
+01:22:45
+Recall Average correlations in 
+
+01:22:45
+Personality Assessment are ~.30, 
+
+01:22:45
+now be amazed at the size of these r's! 
+
+01:22:45
+PHILIP ZIMBARDO So let's look at what happens when we give our scale to several hundred college students and we also gave a dozen other scales that we think in some way are related to these domains. So this is our confirmatory factor analysis. As you know, in personality assessment, the typical correlation is on the order 0.30. What I want you to look at and be amazed at is the size, the sheer enormity of the correlations we are getting with the simple scale. So if you are future-oriented, the correlation with conscientiousness is 0.70. You are also high on preference for consistency, ego control, energy and impulse control. You are negative, you don’t spend time seeking sensation, you are negative on aggression, negative on depression. So this is in general a very good profile. We will talk later about what’s wrong with it. 
+
+01:23:45
+Time Perspective: Future 
+
+01:23:45
+Very High: 
+
+01:23:45
+CONSCIENDTIOUSNES (.7) ** 
+
+01:23:45
+High 
+
+01:23:45
+Preference for Consistency (.6*) 
+
+01:23:45
+Ego Control (.5) 
+
+01:23:45
+Energy (.4) 
+
+01:23:45
+Impulse Control (.4) 
+
+01:23:45
+Negative Relationships: 
+
+01:23:45
+Sensation Seeking (-.4) 
+
+01:23:45
+Aggression (-.4) 
+
+01:23:45
+Depression (-.3) 
+
+01:23:45
+College of San Maier, CA (N=205) 
+
+01:23:45
+"I’m able to resist temptation when 
+
+01:23:45
+I know this work to be done. 
+
+01:23:45
+The Reason for the Success of the Future-Oriented- 
+
+01:23:45
+RESIST TEMPTATIONS AND GET WORK DONE! 
+
+01:23:45
+PHILIP ZIMBARDO I’m able to resist temptation when I know there is work to be done. The reason for the success of future-oriented people like you is you have learned to resist temptation, not to eat that marshmallow when you know if you can work hard you can have two down the road and you get your work done before you play. Why is that important? Because a recent med analysis done by Friedman, the guy who started the type A personality story of 20 independent studies that nearly 9,000 people from six different nations using a different definition of conscientiousness and they all conclude that conscientious people lived at least two years longer at every stage of life. This is the only measure of a – only relationship of a psychological factor direct with biology and we know why because in our studies if you are future-oriented, you practice positive health behaviors and you avoid negative ones. You get medical check-ups, dental check-ups, pap smears, you wear seatbelts, you eat health food, you avoid dangerous situations, you don’t take risk etcetera etcetera. So it is not magical. If you are future-oriented, it pushes you in a direction to do things which are health-enhancing and to avoid things which are health-depleting. 
+
+01:25:00
+LIVE LONGER! 
+
+01:25:00
+Recent investigation analyzed data from 20 
+
+01:25:00
+independent studies, with nearly 9,000 people, 
+
+01:25:00
+from six different nations, using various 
+
+01:25:00
+measurements of the Conscientiousness construct, 
+
+01:25:00
+Their highly significant results are ROBUST -- 
+
+01:25:00
+HiC people live at least 2 years longer than others!! 
+
+01:25:00
+Kern& Friedman(2008) Do conscientious individuals live longer? A 
+
+01:25:00
+quantitative review. Health Physiology, vol, 27, pp. 505-512 
+
+01:25:00
+F-O: PRACTICE POSITIVE HEALTH BEHAVIORS// 
+
+01:25:00
+AVOID NEGATIVE HEALTH BEHAVIORS 
+
+01:25:00
+PHILIP ZIMBARDO  What about if you are past positive? Also a nice, but totally different profile. You are happy, you have moderately high self-esteem, you are friendly, you have some energy, but you are not anxious, you're not depressed and you are not aggressive. What about if you are present hedonistic? Look at this profile. This is incredible. 0.7 on seeking novelty and seeking sensation, high on energy but somewhat high on aggression but also creativity, high creativity. Look at negative, ego under control, minus 0.75, like there is no ego there. There is nothing to control impulses. Preference for consistency, who cares, impulse control no, conscientiousness no, emotion stability forget about it. So this is sex, drugs, rock and roll era of the ‘60s and ‘70s which is still being carried over now, only these kids play video games 24 hours a day. 
+
+01:26:05
+Time Perspective: Past-Positive 
+
+01:26:05
+High: 
+
+01:26:05
+Happy (.4) 
+
+01:26:05
+Self-Esteem (.3) 
+
+01:26:05
+Friendliness (.3) 
+
+01:26:05
+Moderate; 
+
+01:26:05
+Energy (.20) 
+
+01:26:05
+Negative Relationships; 
+
+01:26:05
+Trait Anxiety (.3) 
+
+01:26:05
+Depression (-.2) 
+
+01:26:05
+Aggression (-.2) 
+
+01:26:05
+Time Perspective: Present-Hedonistic 
+
+01:26:05
+Very High: 
+
+01:26:05
+Novelty Seeking (-1)** 
+
+01:26:05
+Sensation Seeking (.7) 
+
+01:26:05
+High: 
+
+01:26:05
+Energy (.4) 
+
+01:26:05
+Aggression (.3) 
+
+01:26:05
+How Creative (.3) 
+
+01:26:05
+Negative Relationships: 
+
+01:26:05
+Ego Under-Control (-.75)** 
+
+01:26:05
+Preference For Consistency (-.5)* 
+
+01:26:05
+Impulse Control (-.3) 
+
+01:26:05
+Conscientiousness (-3) 
+
+01:26:05
+Emotional Stability (-3) 
+
+01:26:05
+PLAY BILL 
+
+01:26:05
+SEX 
+
+01:26:05
+DRUGS 
+
+01:26:05
+ROCK 
+
+01:26:05
+& 
+
+01:26:05
+ROLL 
+
+01:26:05
+Time Perspective: Present-Fatalistic 
+
+01:26:05
+High: 
+
+01:26:05
+Aggression (.5)* 
+
+01:26:05
+Trait Anxiety (.5)* 
+
+01:26:05
+Depression (.4)* 
+
+01:26:05
+Negative Relationships: 
+
+01:26:05
+Future Consequences (-.7)** 
+
+01:26:05
+(CFC) 
+
+01:26:05
+Ego Control (-.4) 
+
+01:26:05
+Self-Esteem (-.4) 
+
+01:26:05
+Conscientiousness (-.3) 
+
+01:26:05
+Energy (-.3) 
+
+01:26:05
+Emotional Stability (-.3) 
+
+01:26:05
+How Happy (-.3) 
+
+01:26:05
+PHILIP ZIMBARDO Now the sad profile. Again these are 205 students from the College of San Mateo. Fully functioning students going to class and so forth, not from the clinic but here to me as a observant not a clinician these are the next two profiles of really high danger. High on aggression, high on trait anxiety, and high on depression. That seems to me like a killer triad. Concern for future consequences minus 70. How could you not care about the future if you are a college student? Ego control negative, self-esteem negative, conscientiousness is negative, energy negative, emotional stability negative and not happy. Even worse is past negative. The highest on trait anxiety is 0.75. There is no correlation I know in all of psychology that is higher than that or even that high. Depression 0.7, aggression 0.6, if this is not a danger alert, if these kids should not be referred to student health then I don’t know who should, because that seems to me that one or the other that’s the profile of a potential high school shooter. Negative relationships, self esteem minus 60, emotional stability minus 60, impulse control no, not happy and not energy. Those are sad and dangerous profiles. 
+
+01:27:25
+Time Perspective: Past-Negative 
+
+01:27:25
+Very High: 
+
+01:27:25
+Trait Anxiety (.75)** Danger 
+
+01:27:25
+Depression (.7)** Alert ! 
+
+01:27:25
+Aggression (2) 
+
+01:27:25
+How Often Lie (.2) 
+
+01:27:25
+Negative Relationships: 
+
+01:27:25
+Self-Esteem (-.6)* 
+
+01:27:25
+Emotional Stability (-.6)* 
+
+01:27:25
+Impulse Control (-.4) 
+
+01:27:25
+How Happy (-.4) 
+
+01:27:25
+Energy (-3) 
+
+01:27:25
+TIME PERSPECTIVE FOUDNATIONS OF 
+
+01:27:25
+EMOTIONS, MOTIVES AND ACTIONS 
+
+01:27:25
+POSITIVE PROCESSES 
+
+01:27:25
+PAST TP 
+
+01:27:25
+HAPPY 
+
+01:27:25
+SELF ESTEEM 
+
+01:27:25
+RITUALS 
+
+01:27:25
+PATRIOTISM 
+
+01:27:25
+NOSTALGIA 
+
+01:27:25
+GRATITUDE 
+
+01:27:25
+STABILITY 
+
+01:27:25
+WISDOM 
+
+01:27:25
+IDENTITY 
+
+01:27:25
+PHILIP ZIMBARDO So what’s good about being past positive? You are happy, you have high self-esteem, you believe in rituals, you are patriotic, you like nostalgia, you like gratitude, you have a sense of stability of your identity over time this is where the wisdom comes from. What’s great about being present hedonistic? You join every group, you have a lot of joy, you take pleasure in your life, you have highly sensual, highly sexual, you have lot of energy, lot of excitement and this is where creativity -- this is all standup comedians, all people who are high in improvisation. Every company needs one of these but not two. And what about us if you are future-oriented? 
+
+01:28:00
+PRESENT TP 
+
+01:28:00
+AFFILIATION 
+
+01:28:00
+JOY 
+
+01:28:00
+PLEASURE 
+
+01:28:00
+SENSUALITY 
+
+01:28:00
+SEXUALITY 
+
+01:28:00
+ENERGY, ACTIVITY 
+
+01:28:00
+EXCITEMENT 
+
+01:28:00
+IMPROVISATION 
+
+01:28:00
+PHILIP ZIMBARDO You are high on achievement, you have been successful in school, successful at work, you have a health focus, you believe in contingency planning, probability thinking, high on self-efficacy, you do cost-benefit analysis, high on expectancies and high on hope. Obama won the election figuring out or psychological advices that what you had to do is get Americans to focus on that away from the negativity of the Bush administration. So what’s wrong about the past? 
+
+01:28:30
+TIME PERSPECTIVE FOUNDATIONS OF 
+
+01:28:30
+EMOTIONS, MOTIVES AND ACTION 
+
+01:28:30
+NEGATIVE PROCESSES 
+
+01:28:30
+PAST TP 
+
+01:28:30
+TRAUMA 
+
+01:28:30
+GUILT 
+
+01:28:30
+DEPRESSION 
+
+01:28:30
+RETALIATION 
+
+01:28:30
+REVENGE 
+
+01:28:30
+PHILIP ZIMBARDO The past is where trauma is, where guilt is, where depression is, where retaliation is and when it is practiced by a nation, this is where revenge comes from. That 300 years ago your great, great, great grandfather attacked our great, great, grand – my great, great, great grandfather and so it is blood revenge always. 
+
+01:28:45
+PRESENT TP 
+
+01:28:45
+ADDICTION 
+
+01:28:45
+RISKY ACTS 
+
+01:28:45
+VIOLENCE 
+
+01:28:45
+ANGER 
+
+01:28:45
+GAMBLER'S LUCK 
+
+01:28:45
+PHILIP ZIMBARDO What’s terrible about being present-fatalistic and some also the negative part of hedonist, you are at risk for every addiction, you are willing to take risks, you are high on violence, high on anger and you believe that luck not work is what’s important. As a poor kid growing up in the Bronx, my father was often out of work and he didn’t really care about it even though he had a big family to feed. He would gamble a lot, the little money we had and I say, dad you should go to work. He said, no, no I’m waiting for my ship to come in. I said and then we go on the ship and I say, dad we live in the Bronx, there are no ports, there is no place for your ship to dock, you got to go to work. I’m not sure I convinced him very much. 
+
+01:29:25
+FUTURE TP 
+
+01:29:25
+ANXIETY 
+
+01:29:25
+WORRY 
+
+01:29:25
+SOCIAL ISOLATION 
+
+01:29:25
+COMPETITIVENESS 
+
+01:29:25
+MALE IMPOTENCE 
+
+01:29:25
+PHILIP ZIMBARDO And what’s terrible about being future-oriented? Future is where the anxiety is, that’s where worry is, that is where social isolation when you work as hard as we do, that’s where excessive competition comes from and I want to argue that, that’s where male impudence comes from because for men sex becomes simply another performance and with performance is performance anxiety and so they need more than Viagra to deal with it. So the optimal temporal mix is the past gives you roots that connect your identity and family to be grounded. What you get from the future is wings to soar to new destinations and challenges but the present is where we get energy to explore people, places, self and sensuality and you need a combination of those. 
+
+01:30:05
+OPTIMAL TEMPORAL MIX 
+
+01:30:05
+PAST GIVES YOU ROOTS-- TO CONNECT TO 
+
+01:30:05
+YOUR IDENTITY & FAMILY -- TO BE GROUNDED 
+
+01:30:05
+FUTURE GIVES YOU WINGS-- TO SOAR TO NEW 
+
+01:30:05
+DESTINATIONS and CHALLENGES 
+
+01:30:05
+PRESENT GIVES YOU ENERGY-- TO EXPLORE 
+
+01:30:05
+PEOPLE, PLACES, SELF, & SENSUALITY 
+
+01:30:05
+BALANCING TIME PERSPECTIVE: 
+
+01:30:05
+CHANGING BIASES TO BALANCE 
+
+01:30:05
+OPTIMAL PROFILE 
+
+01:30:05
+PAST-POSITIVE HIGH 
+
+01:30:05
+FUTURE MODERATELY HIGH 
+
+01:30:05
+PRESENT-HEDONISM MODERATE 
+
+01:30:05
+But Selected, Self-Rewarding, not Impulsive 
+
+01:30:05
+PAST NEGATIVE LOW 
+
+01:30:05
+PRESENT-FATALISM LOW 
+
+01:30:05
+PHILIP ZIMBARDO So the optimal mix is high on past positive, moderately high on future but not extremely high because then you become a workaholic like too many of us and selected moderate present hedonism where instead of getting trapped in the addiction, it's -- you reward yourself. When I get something done, I’m going to take a massage, I’m going to take a hot tub, I’m going to go meet some friends, I’m going to watch a good movie so you plan on your to-do list what is the reward, what is the pleasure that I’ll seek but you never -- you want to minimize past negative and present fatalism. 
+
+01:30:35
+ZTPI GOES GLOBAL 
+
+01:30:35
+THERE ARE 24 TRANSLATIONS 
+
+01:30:35
+ALREADY 
+
+01:30:35
+MORE THAN 30 RESEARCHERS, GRAD 
+
+01:30:35
+STUDENTS AND YOUNG FACULTY 
+
+01:30:35
+AROUND THE WORLD ARE 
+
+01:30:35
+COLLECTING VALID DATA 
+
+01:30:35
+EVERYONE IS GETTING SIGNIFICANT, 
+
+01:30:35
+PREDICTED RESUTLS USING ZTPI- 
+
+01:30:35
+U CAN ALSO--- JOIN OUR Z-TIME TEAM 
+
+01:30:35
+PHILIP ZIMBARDO There are 24 translations on our scale, more than 30 researchers around the country, around the world I am working with and every single person is using our scale with any reasonable outcome measures are getting significant results. So, if you are interested especially with students in your dissertation you can join our Z team as well. 
+
+01:31:00
+Applying TP to World Problems. 
+
+01:31:00
+Changing drop out rates of schools children - in USA one 
+
+01:31:00
+child drops out of school every 9 seconds of every day! 
+
+01:31:00
+Combating all Addictions (disease of Present Hedonism) 
+
+01:31:00
+Promoting Sustainability and Conservation 
+
+01:31:00
+Reducing drop-out rates from Post-surgery, Physical 
+
+01:31:00
+Rehabilitation... 50% quit before being fully healed 
+
+01:31:00
+Curing Vets' PTSD with Time Metaphors 
+
+01:31:00
+PHILIP ZIMBARDO Many of the world's problems have to do with time perspective. A child in America drops out of school every nine seconds. These are kids who are high on present-orientation and low on future-orientation and that can be -- you can retrain them, it has nothing to do with ability. All addictions are addiction of present hedonism and all of our propaganda, all our education is what? It tells you about the negative future consequences of drugs and alcohol. They work exactly well for future-oriented kids who are not the target. We have to change our public propaganda, our education to focus on the target of those kids. Sustainability and conservation are all about what? Doing things now that will have a long-term future consequence. We have lots of studies around the world that showed these are only future-oriented people who promote conservation and sustainability. Right now, in Copenhagen, they are probably going to come back with the stressing news that governments are not going to sign on to save us from disaster because it costs money in the short-run. So they are sacrificing our long-term future around the world for short-term gain. If you have surgery, most surgeries require physical rehab. 50% of all people who have surgery quit physical rehabilitation and if you do, you never fully recover. So if you for example have rotator cuff tear, the rehab is simple. You have to practice walking your finger up the wall, hands up the wall, when you are here, you are cured which I did. But nobody tells you it hurts, it hurts worse and worse. And so if you are present-oriented, you quit. If you are past-oriented, you quit. It's only people who have an anticipated sense of the future where when you get it here, you are cured. If you quit, you develop scar tissue and for some people you are never able to lift your hand above this. So what you need now is, we give our scale and now you develop a buddy system, your kids, your maid, your friends do the exercise with you, you put a scale on the wall, you highlight, you know, each level of progress. So again we have to integrate are what we know about time into these important thing. Now last thing is we are now curing Vets of PTSD using Time Metaphor therapy. I just want to do a little piece on that and then we will go to our fourth movement. So PTSD, we are high in past-negative, low on past-positive, high on present-fatalism, either high or low on present hedonism, you have no future time perspective, future is to be avoided. 
+
+01:33:30
+PTSD/Anxiety/Depression 
+
+01:33:30
+Time Perspectives 
+
+01:33:30
+High Past Negative 
+
+01:33:30
+Low Past Positive 
+
+01:33:30
+High Present Fatalism 
+
+01:33:30
+High or Low Present Hedonism 
+
+01:33:30
+No Future Time Perspective - Future 
+
+01:33:30
+Time Perspective is feared and avoided. 
+
+01:33:30
+PTSD Vet Quotes 
+
+01:33:30
+You cannot remember what you are supposed 
+
+01:33:30
+to remember, you cannot forget what you are 
+
+01:33:30
+supposed to forget. 
+
+01:33:30
+You leave the war but the war does not leave 
+
+01:33:30
+you. 
+
+01:33:30
+If it wasn’t for my flashbacks, I wouldn’t have 
+
+01:33:30
+any memory at all. 
+
+01:33:30
+PHILIP ZIMBARDO Vets tell us you cannot remember what you are supposed to remember, you cannot forget what you are supposed to forget. You leave the war but the war does not leave you. If it wasn’t for my flashbacks, I wouldn’t have any memory at all. 
+
+01:33:45
+What is Time Therapy? 
+
+01:33:45
+A new breakthrough psychotherapy based on 
+
+01:33:45
+Zimbardo's Temporal Theories 
+
+01:33:45
+A Therapy of the Future - focuses more on achieving a 
+
+01:33:45
+brighter future than focusing on the negative Past to 
+
+01:33:45
+create a happy Present via a Balanced Time Perspective. 
+
+01:33:45
+Focuses on the importance of Time and how we take 
+
+01:33:45
+Time for granted 
+
+01:33:45
+Checks and balances of Time Perspectives, not Biases 
+
+01:33:45
+PHILIP ZIMBARDO So what is time therapy? It’s a breakthrough psychotherapy based on our temporal theories in our book. It's a therapy of the future focused more on achieving a brighter future than focusing on the negative past to create a happy present via a balanced time perspective. It focuses on the general importance of time and how we usually take time for granted but shouldn’t and lastly it promotes checks and balances of time perspectives rather than biases. 
+
+01:34:10
+Time Metaphor Therapy 
+
+01:34:10
+Respect Past Trauma 
+
+01:34:10
+Sword 
+
+01:34:10
+But new choice: stay with one foot stuck in 
+
+01:34:10
+mud of the Past Negative, and other in mud of 
+
+01:34:10
+Present Fatalism, OR 
+
+01:34:10
+Decide to work on pulling that left foot out of 
+
+01:34:10
+the Past - into the solid soil of Future, and the 
+
+01:34:10
+right foot out of the Present Fatalism onto the 
+
+01:34:10
+solid soil of Past Positive. 
+
+01:34:10
+Also figure out how to add a measure of 
+
+01:34:10
+PHILIP ZIMBARDO Again we talked of (inaudible ) association just last year and some guy comes up afterwards and says, hey, I like these ideas, I think I can turn them into therapy. I said yeah, yeah, yeah, you know people always say that. He starts writing back, he said, hey we're doing this, we set up, which could be called a time metaphor therapy or a narrative using temporal stories and he says we are getting these amazing results. So now we're in contact regularly we'll call him, send an email and it is Dr. Richard Sword who is here in the audience, I will introduce him in a minute, and so the therapy, the simple way is, you begin by respecting the trauma. These people have seen death, these people have caused death, these people have seen rape, these people have caused rape. They have done terrible things and experienced them, and you respect that. But you say you know you have a choice, you can keep one foot stuck in the mud of the past negative and the other foot stuck in the mud of the present fatalism because nothing you have done has made a difference or you can begin to decide to take the foot out of that mud and put it on the solid soil of future and the solid soil of past positive and you can switch your mindless present-hedonism to selected present-hedonism to reward yourself. And once they begin to change then we have a buddy system where they recruit a buddy to come to treatment and after a number of sessions, we have the social thing. We set up a social network where a group of them, a group of these vets, Dr. Sword works with them now, a group of these vets come together as a social support network. Does it work? 
+
+01:35:40
+Initial Pre-Post Treatment 
+
+01:35:40
+Trial 
+
+01:35:40
+Clients 
+
+01:35:40
+-n = 27 PTSD Vets (w. Pre/Post data) 
+
+01:35:40
+- mixed ethnicities 
+
+01:35:40
+- age (M = 63, SD = 11) 
+
+01:35:40
+-Mean Treatment Visits: 8 
+
+01:35:40
+- World War II, Korean War, Vietnam War, Gulf 
+
+01:35:40
+War or the Iraq War 
+
+01:35:40
+-All live in Maui, HI ; patients of Dr. Sword 
+
+01:35:40
+PHILIP ZIMBARDO We’ve done a pre-post treatment trial with 27 vets. We have data on mixed ethnicities average a 63, some are as old as 84. It works in eight sessions and as little as eight sessions on average, these are from all these wars, World War II, Korean Vietnam Gulf, they live in Maui and they are patients of Dr. Sword. 
+
+01:36:00
+Main Result 
+
+01:36:00
+There was a significant difference between pre- and- post data 
+
+01:36:00
+PTSD ( p= .001); depression ( p < .0001), and anxiety (p < .0001) 
+
+01:36:00
+This clearly indicates that something in Time 
+
+01:36:00
+Therapy helped the patients obtained better levels on 
+
+01:36:00
+the clinical assessments in comparison to pre- 
+
+01:36:00
+therapy testing. 
+
+01:36:00
+Past Negative was found to be positively associated with post-data: 
+
+01:36:00
+PTSD, depression, and anxiety levels (r= .47, p= .006)/ This indicates 
+
+01:36:00
+that the more Past Negative the patient is currently-> correlates with 
+
+01:36:00
+higher levels of PTSD, depression, and anxiety 
+
+01:36:00
+PHILIP ZIMBARDO The significant difference between pre and post data on PTSD symptoms was at the .0001 level for depressions at even greater and reducing anxiety even greater. Something is happening in the time therapy, we don’t know exactly what it is. That is help patients obtain better levels on all clinical assessments in comparison to pre-testing. Past Negative was found to be positively associated with post-data, PTSD, depression, and anxiety levels at .006 level. This indicates that the more Past Negative the patient is currently it correlates with higher levels of PTSD, depression, and anxiety. Of the 27 vets that Dr. Sword has treated, 24, 89% are showing significant less depression, 70% significant less anxiety and 52% fewer PTSD symptoms. 
+
+01:36:50
+Treatment Impact: 
+
+01:36:50
+of 27 vets w pre/post data 
+
+01:36:50
+24 patients (89%) less Depression 
+
+01:36:50
+19 patients (70%) less Anxiety 
+
+01:36:50
+14 patients (52%) fewer PTSD symptoms 
+
+01:36:50
+VET'S PERSONAL 
+
+01:36:50
+ENDORSEMENTS 
+
+01:36:50
+"I started meeting with Dr. Sword and Rose in May 2007. I truly 
+
+01:36:50
+believe they pulled me out of the deep, dark hole I was living in and 
+
+01:36:50
+saved my life. Knowing and understanding I have been suffering 
+
+01:36:50
+from PTSD is half the battle. Then gaining a Positive Future Time 
+
+01:36:50
+Perspective has made my life bearable and possible for me to go on. 
+
+01:36:50
+Due to my changed Time Perspective, I have hope for a brighter 
+
+01:36:50
+future... this process has completely changed my life... it has made it 
+
+01:36:50
+worth living." 
+
+01:36:50
+Lance E., Gulf War Veteran 
+
+01:36:50
+PHILIP ZIMBARDO A Gulf War veteran says I started meeting with Dr. Sword and Rose in May 2007. I truly believe they pulled me out of the deep dark hole I was living in and saved my life. Knowing and understanding I have been suffering from PTSD is half the battle. Then gaining a positive future time perspective has made my life bearable and possible for me to go on. Due to my changed time perspective, I have hope for a brighter future. This process has completely changed my life. It has made it worth living. Another one from Vietnam says” I have learned that I don’t have to focus on the past. I do have a future and I want it to be a good one. 
+
+01:37:20
+VET'S PERSONAL 
+
+01:37:20
+ENDORSEMENTS 
+
+01:37:20
+I've learned that I don't have to focus on the past, that I do have a 
+
+01:37:20
+future and I want it to be a good one. 
+
+01:37:20
+Thomas H. Vietnam Veteran 
+
+01:37:20
+"The real difference with Dr. Zimbardo's Theory as put into practice 
+
+01:37:20
+by Dr. Sword is that it works. As a Korean War Veteran before Time 
+
+01:37:20
+Therapy, I was living in the past. Now, I live in the present and am 
+
+01:37:20
+looking forward to a long and useful future." 
+
+01:37:20
+Fred R., Korean War Veteran 
+
+01:37:20
+PHILIP ZIMBARDO A Korean war veteran said "the real difference with Dr. Zimbardo’s therapy as put into practice by Dr. Sword said it works. As a Korean war veteran before time therapy I was living in the past. Now I live in the present and I am looking forward to a long and useful future”. 
+
+01:37:35
+MY TAKE ON THE GENTLE POWER OF 
+
+01:37:35
+THIS SWORD 
+
+01:37:35
+"Time Therapy, as developed by Richard Sword, has the power and simplicity to create a revolution in treatment and prevention of trauma of all kinds." 
+
+01:37:35
+PHIL ZIMBARDO (Time Paradox, 2009 prologue) 
+
+01:37:35
+PHILIP ZIMBARDO So my take is that time therapy as developed by Richard Sword has the power and simplicity to create a revolution in treatment and prevention of trauma of all kinds, not just PTSD, trauma of rape, trauma in disasters, I think it will become a significant contribution of future psychology by teaching clients how to cope with their negative past and more joy-filled present that crates new optimistic future scenarios. 
+
+01:38:00
+http://www.lifehut.com/presentation.html 
+
+01:38:00
+We are trying to get VA $$ for systematic 
+
+01:38:00
+clinical trial comparison assessment of Time 
+
+01:38:00
+Therapy vs. CBT and other standard treatments to prove 
+
+01:38:00
+IT WORKS, IS FAST, IS EASY, IS CHEAP, AND 
+
+01:38:00
+CAN BE EXTENDED TO ALL KINDS OF 
+
+01:38:00
+TRAUMAS 
+
+01:38:00
+CREATING THE TIME THERAPY INSTITUTE 
+
+01:38:00
+for training clinicians in our overall care model. 
+
+01:38:00
+PHILIP ZIMBARDO If you go to www.lifehut.com, I don’t know if you have the presentation you'll see a wonderful lecture and actually statements by a number of vets about this program. We’re trying to get money from the VA for a systematic clinical trial comparing this treatment with CBT and other standard treatments and getting a therapist randomly assigned to treatment. It works, it's fast, it's easy, it's cheap and it can be extended to all kinds of trauma. And now we are trying to create a time therapy institute, so we can train therapists in this really simple but elegant model. 
+
+01:38:40
+The Essentialness of Time 
+
+01:38:40
+"AT WORK, TIME IS 
+
+01:38:40
+THE MOST IMPORTANT 
+
+01:38:40
+THING IN THE WORLD. 
+
+01:38:40
+AT HOME, IT'S THE 
+
+01:38:40
+MOST PRECIOUS." 
+
+01:38:40
+PHILIP ZIMBARDO At work, time is the most important thing in the world, at home it’s the most precious. So, many of life’s problems can be solved by understanding your time perspective and that of others. 
+
+01:38:50
+Many of Life's Puzzles 
+
+01:38:50
+can be solved by understand YOUR 
+
+01:38:50
+Time Perspective, 
+
+01:38:50
+and that of others. 
+
+01:38:50
+The idea is simple & 
+
+01:38:50
+obvious, but the 
+
+01:38:50
+consequences 
+
+01:38:50
+are profound. 
+
+01:38:50
+USE TIME WISELY & 
+
+01:38:50
+WELL! 
+
+01:38:50
+Now it's time for our 
+
+01:38:50
+Heroes 
+
+01:38:50
+PHILIP ZIMBARDO The idea is simple and obvious but the consequences are profound. The point is to use time wisely and well. And now it's time for our fourth movement which will go in very quickly and shortly. It's heroism. 
+
+01:39:00
+Now 
+
+01:39:00
+finally 
+
+01:39:00
+on to 
+
+01:39:00
+Heroism 
+
+01:39:00
+& new 
+
+01:39:00
+Q: 
+
+01:39:00
+what 
+
+01:39:00
+makes us 
+
+01:39:00
+do 
+
+01:39:00
+GOOD? 
+
+01:39:00
+TIME 
+
+01:39:00
+What Makes Us 
+
+01:39:00
+Good/Evil 
+
+01:39:00
+Humans are the planet's 
+
+01:39:00
+most noble creatures - and its most 
+
+01:39:00
+savage. Science is discovering why 
+
+01:39:00
+PHILIP ZIMBARDO The question now is, what makes ordinary people do good. I have been obsessed with the other question all my life, what makes good people to do bad and now I have given up the evil. 
+
+01:39:15
+I HAVE GIVEN 
+
+01:39:15
+UP EVIL; 
+
+01:39:15
+no more dining in 
+
+01:39:15
+HELL 
+
+01:39:15
+I WILL ONLY 
+
+01:39:15
+PROMOTE 
+
+01:39:15
+GOODNESS 
+
+01:39:15
+PHILIP ZIMBARDO I have given up on evil, no more dining in hell. From now on I will only promote goodness and heroism in my new, not-yet-over-the-hill-life. 
+
+01:39:30
+[sil.] 
+
+01:39:35
+PHILIP ZIMBARDO The 300 is, I was the 300th person to give a lecture at TED at the TED Conference and they made this up for me. So, it's time to promote moral courage, civic virtue and heroism. 
+
+01:39:50
+IT IS TIME TO PROMOTE 
+
+01:39:50
+MORAL COURAGE, 
+
+01:39:50
+CIVIC VIRTUE & HEROISM 
+
+01:39:50
+ENDING ON A 
+
+01:39:50
+POSITIVE NOTE 
+
+01:39:50
+HEROISM AS THE ANTIDOTE TO EVIL 
+
+01:39:50
+BY PROMOTING THE "HEROIC 
+
+01:39:50
+IMAGINATION" in everyone 
+
+01:39:50
+CREATING AN INTERNATIONAL EDUCATIONAL 
+
+01:39:50
+SYSTEM THAT INSTILLS IN EVERY CHILD THE SELF- 
+
+01:39:50
+BELIEVE: "I AM A "HERO-IN-WAITING"; 
+
+01:39:50
+I WILL ACT HEROICALLY WHEN MY TIME COMES." 
+
+01:39:50
+and now am "A HERO-IN-TRAINING". 
+
+01:39:50
+PHILIP ZIMBARDO And so I want to end on a positive note. Heroism is the antidote to evil. By promoting the heroic imagination in everyone, we are gonna to create an international educational system that instills in every child the self belief ‘I am a hero-in-waiting and I will act heroically when my time comes and while I am waiting I am going to become a hero-in-training. They are going to go through our hero resource kit and learn how to be a hero. So that every day they can do some heroic act with regard to improving the health of their family and friends, getting people to stop smoking, getting people to eat more, they're gonna to be eco heroes that work on improving the environment, getting people to do recycling etc. and we are going to do it all on the web so that people sign up and make a public commitment. So, the new conception of heroes is we are going to democratize that anyone can be a hero. 
+
+01:40:40
+New Conception of 
+
+01:40:40
+Heroes 
+
+01:40:40
+Democratize: Anyone can be a Hero 
+
+01:40:40
+Demystify: No special inner qualities are essential, or 
+
+01:40:40
+special family background 
+
+01:40:40
+Diffuse: Away from Solo Heroes to Team or 
+
+01:40:40
+Ensemble heroes, working in 
+
+01:40:40
+Declare: On web, make public 
+
+01:40:40
+"Hero-in-Waiting," and then a 
+
+01:40:40
+PHILIP ZIMBARDO You don’t have to be a soldier, you don’t have to be in battle, you don’t have to be man as most conception of heroes are. We want to demystify it. Maybe you don’t need any special quality, you don't have to be a Quaker. You don’t have to have more religious background, you don’t have to be high on compassion. I want to start with saying anyone can be a hero. Thirdly I want to diffuse the notion that away from solitary heroes, our conception and our culture is really promoted by Joseph Campbell with his myth of the hero but these were the -- you know, this was Achilles and Agamemnon you know these are men of this classic stature. You say no, no, most heroes are affected by forming a network and we know this from Gandhi, from Martin Luther King, from Underground Railroad, from all the Christians who helped Jews and I'll mention a woman who did that amazing, you had to move the people around if, so you had to develop persuasive skills to form a network and lastly it's declare. So it's democratize, demystify, diffuse and declare. So on the web, people are going to make a public commitment. You know, I, Richard Sword make a commitment I am going to be a hero in waiting and while I am waiting I am gonna to sign up and learn all these tactics and I am going to share my experiences with other people and so the idea is every one of us can be a real hero. That it's time for you to adopt the heroic imagination and I want to present a few examples of heroes and so many of you saw this classic picture. This is the ordinary Chinese student, students who are protesting in Tiananmen Square not long ago. They wanted more freedom. Instead the government comes and cracks down. Another battalion of tanks actually ran over and killed six students. This student goes in front of them and says, "please don’t kill us, we are students, we love our country, we just want freedom" and so that was heroic but the tanker man there was also he turned around and went away, he could have gotten in trouble. 
+
+01:42:30
+HEROIC IMAGINATION 
+
+01:42:30
+Time For YOU to Adopt 
+
+01:42:30
+The Heroic Imagination 
+
+01:42:30
+Physical Hero: Chinese Student-- "Tank Man" -- Heroically 
+
+01:42:30
+Challenges Government Forces at Tiananmen Square during 
+
+01:42:30
+Student Rebellion For Greater Freedom (1989)--and Wins! 
+
+01:42:30
+PHILIP ZIMBARDO This is a little Chinese kid Lin Hao, you saw him if you have watched the Olympics. He is only nine years old. I call him a dutiful hero. There was an earthquake just before the Olympics in the Sichuan province and he was in a school, the ceiling crashed and almost all the kids were killed. He escaped and he saw two kids alive. He runs in and gets them, people said, why did you do that, why did you take that risk? He said I was the hall monitor. It was my job to look after my classmates. So this is a hero in waiting. 
+
+01:43:05
+CHINESE HERO 
+
+01:43:05
+LIN HAO, 
+
+01:43:05
+9 Years old 
+
+01:43:05
+A Dutiful Hero 
+
+01:43:05
+May 2008, Lin and 30 classmates were in 
+
+01:43:05
+classroom that collapsed in a massive 
+
+01:43:05
+earthquake. After escaping, he went back to 
+
+01:43:05
+save two of the few surviving classmates. 
+
+01:43:05
+Why did he do it? "I was the hall monitor, it 
+
+01:43:05
+was my job to look after my classmates." 
+
+01:43:05
+JOE DARBY, ABU GHRAIB HERO... 
+
+01:43:05
+HE DID THE RIGHT THING WHEN OTHERS WERE DOING 
+
+01:43:05
+THE WRONG THING... He stopped the Abu Ghraib abuses by 
+
+01:43:05
+exposing the photos to a senior officer. 
+
+01:43:05
+Darby became a hero-in-hiding for 3 years, with wife and 
+
+01:43:05
+mother, to protect their lives from violence. 
+
+01:43:05
+PHILIP ZIMBARDO This is the guy who stopped the abuses at Abu Ghraib, Joe Darby, the world's most ordinary person. His buddy Graner shows him the CD that I saw that some of the pictures and he looks at this and said, this is terrible, we are supposed to be bringing dignity and freedom to these people, we're humiliating them. He is a private in the Army Reserve. He takes that CD and he gives it to a senior investigating officer, knowing what, his buddies are going to get in trouble. And he said, it doesn’t matter, I have to act on moral principle. So he is a whistleblower. Did he become a hero? No, they had to put him in hiding and then they had to put his mother and his wife in hiding, because not only did his buddies want to kill him but people in his hometown wanted to kill him. A newspaper said, Darby the snitch, he humiliated the Bush administration and the military by being the bearer of that news. He was recently made a hero. Carolyn Kennedy at the Kennedy Center finally gave him a heroic award after three years. 
+
+01:44:05
+HEROES MUST ACT 
+
+01:44:05
+"Flying around all day just won't cut it - sooner or later 
+
+01:44:05
+you are gonna have to fight some evil." 
+
+01:44:05
+PHILIP ZIMBARDO Heroes must act. Here is a great cartoon. Flying around all day -- flying around all day just won't cut it, sooner or later you are gonna have to fight some evil. So heroism is the action part of civic virtue. There are a lot of people studying empathy, altruism, compassion. That makes you feel good. If I am suffering, I don’t care if you feel good. It's like the Milgram study. I don’t care if you say I am not that kind of person, just stop pressing the button. Here I am saying, just do something good. Yoda says do or don’t do. There is no try. So if you are a hero, you have to stop thinking I will try, you have to just do it. So the evil of inaction is that actually there are very few people who do evil. 
+
+01:44:55
+YODA says: 
+
+01:44:55
+"DO or 
+
+01:44:55
+DON'T DO 
+
+01:44:55
+There is 
+
+01:44:55
+NO TRY" 
+
+01:44:55
+THE EVIL OF INACTION 
+
+01:44:55
+Few people do evil, fewer act heroically: 
+
+01:44:55
+But most people, most of the time, 
+
+01:44:55
+DO NOTHING! In that non-act, they implicitly 
+
+01:44:55
+support the perpetrators of evil. 
+
+01:44:55
+"The Hottest Places in HELL are reserved for 
+
+01:44:55
+those who in times of great moral crises, 
+
+01:44:55
+maintain their neutrality" Dante 
+
+01:44:55
+"All that matters for Evil to triumph is for 
+
+01:44:55
+good people to do Nothing" Edmund Burke. 
+
+01:44:55
+PHILIP ZIMBARDO There are even fewer who act heroically. Most people do nothing, you know why because your mother says mind your own business, don't get involved. And if you do you're gonna live a long time. So, that's the evolutionary injunction, okay. The problem is that they implicitly support evil. In Abu Ghraib there were nurses, there were interns, there were many people who saw what was going on and they smiled and looked the other way and the soldiers said, hey, it's -- what we are doing is acceptable. The hottest places in hell are reserved for those who in times of great moral crises maintain their neutrality, says Dante. All that matters for evil to triumph is for good people to do nothing, says Edmund Burke. 
+
+01:45:35
+What About Those Who See Evil, 
+
+01:45:35
+but are Helpless to Intervene? 
+
+01:45:35
+Canadian Peace-Keeping forces in Bosnia, who 
+
+01:45:35
+had to stand by and witness Serbs brutally 
+
+01:45:35
+raping Gypsy girls, and forbidden to help? 
+
+01:45:35
+Canadian forces in Rwanda (Gen. Dallaire) 
+
+01:45:35
+witnessing the massacre-genocide of Tutsis by 
+
+01:45:35
+Hutus, but not allowed to intervene or able to 
+
+01:45:35
+persuade the world to intervene? 
+
+01:45:35
+MASSIVE PTSD - OF THESE HELPLESS 
+
+01:45:35
+INNOCENTS, that has not been sufficiently noted. 
+
+01:45:35
+PHILIP ZIMBARDO Something I just discovered is, what about those who see evil but are helpless to intervene? I just came back from Canada. Canadian peace-keeping forces in Bosnia had to stand by and witness the Serbs brutally raping little Gypsy girls and they were forbidden to help. One of these people I met developed PTSD because he wanted to pull one of these girls in. A soldier was running after her and the officer said, no, we are not allowed to do that and he witnessed this terrible thing that he can't get out of his mind. Canadian forces in Rwanda headed by General Dallaire witnessed the massacre-genocide of Tutsis by Hutus. They were not allowed to intervene and they had to allow this thing to go on. 
+
+01:46:15
+Gen. Romeo Dallaire 
+
+01:46:15
+Is a Canadian Senator and retired general 
+
+01:46:15
+who served as Force Commander of the 
+
+01:46:15
+ill-fated U.N.peacekeeping force for Rwanda 
+
+01:46:15
+in 1993-4. 
+
+01:46:15
+He recognized the deteriorating condition 
+
+01:46:15
+and tried to stop the genocide that was being 
+
+01:46:15
+waged by Hutu extremists against Tutsis. But 
+
+01:46:15
+failed to mobilize International intervention. 
+
+01:46:15
+Suffered crippling PTSD for year afterwards 
+
+01:46:15
+After Rwanda he became a Senior Fellow at 
+
+01:46:15
+the Montreal Institute for Genocide and 
+
+01:46:15
+Human Rights Studies and raises awareness 
+
+01:46:15
+about conflict resolution and humanitarian 
+
+01:46:15
+assistance. 
+
+01:46:15
+PHILIP ZIMBARDO So in this case, here is General Dallaire. He was in charge of the command force in the U.N. He recognized what was happening early on and he was trying to send the message this is genocide happening and he felt helpless. He couldn't get anyone to listen to him even though he was a general. He suffered PTSD. They found him in a snow bank, I think in some place in Canada, Manitoba. It took years for him to recover, but now he is a Canadian Senator and he is writing on the importance of not only reconciliation but learning to deal with conflict resolution effectively. 
+
+01:46:50
+IRENA SENDLER 
+
+01:46:50
+Saved 2,500 Jewish children from death 
+
+01:46:50
+by helping escapes from Warsaw Ghetto: 
+
+01:46:50
+created a hero 
+
+01:46:50
+network 
+
+01:46:50
+of 20 women 
+
+01:46:50
+1948, in Social Welfare Dept. truck 
+
+01:46:50
+AGE 98 
+
+01:46:50
+Died May, 2008 
+
+01:46:50
+PHILIP ZIMBARDO This is an amazing woman, a Polish woman, Irena Sendler. She saved 2,500 children from sure death. And what she did was she -- that -- that the Nazis had put all the Jews in the ghetto in Warsaw and all around, typhoid is breaking out and they were hungry and she got a friend to give her nurses passes so only nurse and doctors could go. She went in and she had to persuade thousands of Jewish parents to give her their child to try to sneak out saying that if when the war is over I will try to integrate you again. And she was able to -- she organized a network of 20 other women, one man, 19 women to get these kids out. She took them out in coffins, she took them out in suitcases, she took -- they found underground sewers. Those kids had kids and those kids -- so at least so it's a pyramid. At least 10,000 people owe their life to this woman's bravery. She died recently. Was she a hero? Never. I am sorry, only in the last few years because when the Communists came in, they were equally anti-Semitic. They didn't think it was a big deal for somebody to help Jews. It was only recently that in Israel she was made "Righteous Among the Gentiles" and sadly she just died last year. 
+
+01:48:10
+Auschwitz: Dr. Mengele, making the life and death 
+
+01:48:10
+decision for each incoming person left live to work, 
+
+01:48:10
+right for weak ones to be gassed and cremated. 
+
+01:48:10
+PHILIP ZIMBARDO What she did was however she could not prevent millions of people going to the gas chambers and crematorium in Auschwitz. Here is the picture of the famous Dr. Mengele making the decision. People would come in on the transports and he would point to the left meaning -- you go -- to the gas -- to be gassed and crematorium, go to right, you go to work yourself to death. And so here is -- here is this terrible thing. She prevented many of those kids from going to that fate but she did not prevent one of our guests here tonight from experiencing that same thing. She gets there with her mother and her sister and her mother is put in one line, she is put in another line with her sister. And the one line her mother is, is gonna go to the gas chambers, she is gonna be cremated and she knows that because when she says later, where is my mother, somebody says, one of their matrons, there is your mother, she is going up in smoke. And so she had to endure that hardship. 
+
+01:49:10
+Dr. Edie Eger 
+
+01:49:10
+At 16, danced for 
+
+01:49:10
+Dr. Mengele in Auschwitz, as 
+
+01:49:10
+ballerina; earlier he had sent her 
+
+01:49:10
+mom to her death. 
+
+01:49:10
+Saved her sister's life repeatedly; 
+
+01:49:10
+Story of stealing carrots, caught 
+
+01:49:10
+by guard, confessed, and was 
+
+01:49:10
+rewarded for her heroic act, not 
+
+01:49:10
+killed. 
+
+01:49:10
+Found by allies on pile of corpses, 
+
+01:49:10
+broken back, 40 pounds, but 
+
+01:49:10
+somehow alive! 
+
+01:49:10
+She now counsels her S.D. clients 
+
+01:49:10
+about Thriving, and not being a 
+
+01:49:10
+victim in life -- 
+
+01:49:10
+PHILIP ZIMBARDO But she becomes a hero and this is Dr. Edie Eger. At 16, she was made to dance for Dr. Mengele because he was a sophisticated guy. He would have weekend soirees where Jewish prisoners were musicians, would play Mozart for him and so forth and she danced. Even though he was the one who sent her mother to death, she had no choice. But she took it as her mission to help her sister who was older and beautiful but frail, Magda to survive doing many things. And only one story I will share with you is, her sister was really hungry, they got minimal food and she noticed carrots growing over a fence, she climbs over the fence and gets the carrots. As she is climbing back, a Nazi guard catches her. That's a death sentence. I don't remember if he took the carrots away or let her keep it, but he comes the next day to her barracks and says, who was the woman who stole the carrots and she says, I was, sir and she begins to apologize, he says no apology, he gives her a loaf of bread, he said that was courageous. So there is a hero in action. When the war was over, when the war was near its end, they were evacuating Auschwitz and all the other prisoners. They put the women on top of the transports assuming that, that the Allies would not bomb them. Nevertheless got bombed, she got thrown off and she was on the top of a pile of dead bodies, her back broken weighing 40 pounds and as a soldier passed by, by chance, her hand moved, he noticed that she was alive and then saved her. She now counsels her patients. She is a psychotherapist in San Diego about thriving and not being a victim in life. So I would like to introduce for you my dear friend, Edie here. 
+
+01:50:50
+[sil.] 
+
+01:51:35
+WHO STOPPED THE SPE 
+
+01:51:35
+Christina Maslach, August 18, 1971 
+
+01:51:35
+After seeing guards abuse prisoners 
+
+01:51:35
+Told me: "It's terrible what YOU 
+
+01:51:35
+are doing to those Boys." 
+
+01:51:35
+We had just started dating, she added: 
+
+01:51:35
+"YOU have changed; I don't want to 
+
+01:51:35
+continue our relationship if this is 
+
+01:51:35
+the real you." 
+
+01:51:35
+She forced me to acknowledge the 
+
+01:51:35
+Cruelty and Inhumanity I 
+
+01:51:35
+that I allowed in my role as the 
+
+01:51:35
+SPE Prison Superintendent. 
+
+01:51:35
+I ended the SPE the next day. 
+
+01:51:35
+authority? 
+
+01:51:35
+I Married her the next year, August 10, 1972, in the 
+
+01:51:35
+Stanford Church. 
+
+01:51:35
+and we made two lovely daughters, and lived 
+
+01:51:35
+happily ever after... 
+
+01:51:35
+PHILIP ZIMBARDO So this is the Polish American heroine who actually stopped the Stanford prison study. Her name is Christina Maslach and on Thursday night August 18, 1971, I had invited her and a number of graduate students, young professors to come and interview all of us. People who knew nothing about the study because I want to get a fresh view before we went to the second week of how the study was going. She comes down at 10:30 at night to witness the last run to the toilet. That means the guards would line the prisoners up with bags over the heads, chain them together and bring them around the building into the toilet and they are cursing them and yelling at them. I am now the prison superintendent of the Stanford prison jail. I look up and I see this and it's a mark on my checklist, it's the 10 at 30 toilet run, I put a check mark. I say, hey, Chris, look at that is it interesting? And she begins to tear up. I said, what's wrong with you? She says, I can't watch that. I said, what do you mean, what kind of a psychologist are you, this is the crucible of human nature, nobody has ever seen this before. She runs out and I run after her. We are outside in front of the Jordan Hall, the Stanford Psychology Department, we are having this big argument and she turns to me and she says, it's terrible what you are doing to those boys, they are not prisoners, they are not guards, they are boys and you are responsible. We had just started dating and then she says to me, a second slap in the face, you have changed, I don't know who you are, I thought you were loving and caring, I don't know who this person is and I am not sure I want to continue my relationship with that person. And it was that double slap in the face and also physically being out of the prison. I think if she had said that in that prison setting, I would have ignored it, but now I said, oh my God, you are right. And I said, okay, we have to stop the experiment, we have -- so she never said you have to stop it, she just brought me to reality. The reality was that I had become the prison superintendent, I allowed cruelty and inhumanity as part of my role. I said I was proud, I said no physical punishment but I allowed all of the psychological punishment. I allowed the guards to do all the terrible things that they did do. So we ended the study the next day. And the problem I had then is what am I gonna do to this person who defied my authority. I married her. 
+
+01:53:50
+[sil.] 
+
+01:54:05
+PHILIP ZIMBARDO And we had -- we have two lovely daughters Zara and Tania and we have lived happily ever after and she has kept me mostly on the straight and narrow, and is really happy I am working on heroism because in fact I dedicate the Lucifer Effect to her because she is the serene heroine of my life. 
+
+01:54:20
+MY HEROIC IMAGINATION 
+
+01:54:20
+PROJECT 
+
+01:54:20
+Encourages children, families, everyone to develop 
+
+01:54:20
+the heroic imagination; to think of one's self as a 
+
+01:54:20
+"Hero-in-waiting" for some situation to provide the 
+
+01:54:20
+catalyst for Action on behalf of others, or for defending an 
+
+01:54:20
+ideal ~ a moral principle. 
+
+01:54:20
+Heroes are being Best Selves" in support of others 
+
+01:54:20
+Most Heroes are Ordinary People whose actual action is Extra- 
+
+01:54:20
+Ordinary/who ACT when others are passive, who give up 
+
+01:54:20
+EGO-centrism for SOCIO-centrism, aware of the Personal Costs 
+
+01:54:20
+Heroes transcend the ME - WE 
+
+01:54:20
+PHILIP ZIMBARDO So my heroic imagination project is, we want to encourage, children, families and everyone to develop the heroic imagination. Think of yourself as a hero-in-waiting for some situation to provide the catalyst for action on behalf of other people or for defending a moral principle. Heroes are being best selves in support of others. Most heroes are ordinary people whose social action is extraordinary, who act when others are passive, who give up ego-centrism for socio-centrism knowing the personal costs. Altruism is hero-like, there is no cost. Heroism is altruism heavy. And the key about heroism is, it transcends the me into the we. So heroes are not isolated people. They embellish, they embody, they give soul to our societies. 
+
+01:55:10
+American Hero in Action: Ordinary Guy, 
+
+01:55:10
+Extra-Ordinary Action of Impulsive Heroism 
+
+01:55:10
+Wesley Autry: NYC subway hero 
+
+01:55:10
+75 other passengers on platform who only watched while he acted to 
+
+01:55:10
+save a life of a stranger who had fallen across the train tracks 
+
+01:55:10
+Had good reason not to - was with two little 
+
+01:55:10
+daughters, who would be orphaned if he failed 
+
+01:55:10
+Afterwards he said," I did what Anyone could do, and What Everyone 
+
+01:55:10
+OUGHT To Do." 
+
+01:55:10
+PHILIP ZIMBARDO I want to present an American hero. You may have known about him but you probably have not seen him in action. He is a guy named Wesley Autry, the most ordinary person like Joe Darby for me. If he was lined up with 100 people, would you pick him as the one who is going to do this incredible thing. He is standing on a subway station in New York, 138 Street from where City College is and a white guy falls on the track, across the tracks. He looks up and there is a subway coming down the line. There are 75 people on the platform, everybody freezes. He has got a reason not to be involved, he has got his two little daughters with him. Instead he turns to a stranger and says, take the kids, he jumps on the track to try to save this guy while the train is coming in. He survived because of half an inch between the top of his head and the bottom of the train. A half an inch lower, it would have taken his skull off and his kids would have been orphaned, people would have said what a foolish thing to do. But at the end, he said, you know I did what anyone could do but I did what everyone ought to do. So let's look at this hero in action and we are getting almost finished with that forward(ph) -- very short -- not -- movement for very short movement five and then we'll end. 
+
+01:56:20
+[music] 
+
+01:56:25
+CBS NEWS VIDEO 
+
+01:56:25
+UNKNOWN On the New York City subway it is hard enough finding someone who will give up his seat to a stranger let alone willing to give up his life for one. 
+
+01:56:35
+WESLEY AUTRY Train was coming in like that. 
+
+01:56:40
+UNKNOWN It happened just -- 50-year old Wesley Autry, a construction worker and Navy veteran was standing on a subway platform with his two little girls when right in front them a man started having a seizure. 
+
+01:56:55
+WESLEY AUTRY He kind of stumbled over his own feet and fell backwards. I see a train coming but the train is so close I am like what do I do. 
+
+01:57:05
+UNKNOWN Wesley jumped on to the tracks and thought if he could just lie on top of the man, keep him from flailing, maybe the train would roll right over both of them. The clearance was exactly 21 inches. Wesley and the man 20 1/2. 
+
+01:57:20
+UNKNOWN No way the train can stop before this gentleman could get him up over the tracks. So he covered him with his body and pushed him down so the train wouldn't hit his head and held him down under the tracks while the train came and rolled right over the top. 
+
+01:57:35
+UNKNOWN It gave Wesley's children the scare of their young lives. 
+
+01:57:35
+UNKNOWN I thought he was going to get killed. 
+
+01:57:40
+UNKNOWN And Wesley the scare of his too. 
+
+01:57:40
+WESLEY AUTRY I'm like talking sir, you can't move, I got two kids up here looking for their father to come back, I don't know you, you don't know me but listen don't panic, you know I'm here to save you. 
+
+01:57:50
+UNKNOWN As for the guy Wesley saved, he is 20-year old Cameron Holipter and other than a few scrapes and bruises his father says he is doing fine. 
+
+01:58:00
+UNKNOWN Mr. Autry's instinctive and unselfish act saved our son's life. 
+
+01:58:05
+UNKNOWN You know the word hero gets thrown around a lot nowadays. 
+
+01:58:10
+WESLEY AUTRY What a better way to say it is the start of the New Year than to save a life. 
+
+01:58:15
+UNKNOWN Nice to be reminded of what one really looks like. 
+
+01:58:20
+THE HEROIC IMAGINATION PROJECT: 
+
+01:58:20
+EXPLORING AND ENCOURAGING 
+
+01:58:20
+OUR INNER HEROES 
+
+01:58:20
+GIVING VOICE TO THE NATION'S 
+
+01:58:20
+"QUIET HEROES" 
+
+01:58:20
+HERO 
+
+01:58:25
+[sil.] 
+
+01:58:30
+PHILIP ZIMBARDO So the heroic imagination project that we are developing, we want to explore through research and encourage through teaching our inner heroes, want to give voice to the nation's quiet heroes. Remember when Obama's grandmother died he referred to her as a quiet hero. Well, our nations everywhere are filled with quiet heroes. How do we give them voice? And I'm going to describe what we are going to do to do that. 
+
+01:58:50
+THE HEROIC IMAGINATION PROJECT - HIP 
+
+01:58:50
+AND FOUNDATION 
+
+01:58:50
+Will create, support, explore new Research on all aspects of heroism - 
+
+01:58:50
+{there is virtually none} 
+
+01:58:50
+Will create new Hero Educational curricula at all school grades, in- 
+
+01:58:50
+class courses, on-line web based, also for summer camps, and 
+
+01:58:50
+leadership training in Heroic Transformations 
+
+01:58:50
+Will develop new hero Media, super website, 
+
+01:58:50
+cartoons, stories, video games, 
+
+01:58:50
+Will organize an international Encyclopedia of 
+
+01:58:50
+Heroes open source, Wikipedia style. 
+
+01:58:50
+PHILIP ZIMBARDO So the heroic imagination project is called HIP and we are setting up a foundation right now. We are in the process of doing it. First we are going to create support, explore new research on all aspects of heroism. There has been impulsive heroism like Wesley Autry and reflective heroism, people who are whistleblowers. There is almost no research on heroism. It is a fertile ground for student for dissertations. We want to create new hero educational curriculum at all school levels. We are starting at middle grade, Langdon has setting up program -- has set up programs in Michigan. We are now going to Milwaukee, but we also want to have them in college -- high school, college and even leadership training courses we are gonna call heroic transformations. We want to develop new hero media to offset all the negative media where ordinary people do heroic things and reality shows on a super website. And lastly we want to create an international encyclopedia of heroes. Wherever I go, any country around the world, I ask people, send me six heroes, half men, half women, some classic, some new and so we are creating a hero resource and now the head of Wikipedia Joey Walters I should know is planning to work with us on creating a Heropedia that people from around the world will send in heroes from their country, heroes they know, family heroes, friends and so forth. And so again it will be both informational and aspirational, hey look, anyone can be a hero. And even if it is on the web you can search for children heroes, women heroes, heroes of certain area, heroes era, heroes of different kind. 
+
+02:00:35
+THE HEROIC IMAGINATION PROJECT - 
+
+02:00:35
+HIP AND FOUNDATION 
+
+02:00:35
+W C U DO! 
+
+02:00:35
+Join with me and my HIP team. 
+
+02:00:35
+volunteer on www.lucifereffect.com 
+
+02:00:35
+donate $, charitable gifts, for details send me a note: 
+
+02:00:35
+drzimbardo@gmail.com 
+
+02:00:35
+PHILIP ZIMBARDO So what could you do? You could join our team. If you go to lucifereffect.com, we have a volunteer sign up and we get back to you once we have some money and projects. You can also donate money, charitable gifts. For details send me a note drzimbardo@gmail.com. Once we get some money we can hire executive director and move it along. We have a Director of Education, Director of Development and we have many, many exciting projects. One I will tell you very quickly is tech heroes. We are getting students from Palo Alto High School who have agreed to get service learning credit for working with the elderly in a local residential care facility, has given us our approval to teach them how to use the web, how to develop a personal website, how to communicate with their family on the web, how to play bingo on the web, how to do medical diagnosis and finally the kids will develop a story, a narrative of the heroes in the life of each of the elderly people they work with. And we know it is going to improve the health of the elderly, we know it is going to change the attitudes of the kids and everything we do is going to have metrics to show does it answer the question, does it work, meaning you always have to have pre-measures as well as post-measures. 
+
+02:01:40
+Israeli Hero 
+
+02:01:40
+Rony Berger 
+
+02:01:40
+psychotherapist, 
+
+02:01:40
+who is doing heroic 
+
+02:01:40
+work teaching 
+
+02:01:40
+stress reduction 
+
+02:01:40
+and pro-social 
+
+02:01:40
+behaviors to victims 
+
+02:01:40
+of bombardments and 
+
+02:01:40
+disasters world-wide. 
+
+02:01:40
+We are working together 
+
+02:01:40
+on a new training program 
+
+02:01:40
+Erasing Stress, Promoting Pro 
+
+02:01:40
+Social Behavior and Heroism 
+
+02:01:40
+PHILIP ZIMBARDO So I want to end with our last movement, is moving to stress and a special kind of heroism and he should be a model for many of us here. He is an Israeli hero named Rony Berger. He is a psychotherapist, who is doing heroic work teaching stress reduction and pro-social behaviors to victims of bombardments, while they are under bombardment and also he goes to disaster sites worldwide. We are working together creating a new program, we are calling it -- it's really erasing stress at the same time promoting social behavior and heroism. 
+
+02:02:15
+[sil.] 
+
+02:02:20
+PHILIP ZIMBARDO Qassam rockets, rockets are coming. 
+
+02:02:30
+[sil.] 
+
+02:02:40
+Dr. Rony Berger 
+
+02:02:40
+Psychologist under fire 
+
+02:02:40
+Excerpts from TV reports 
+
+02:02:40
+PHILIP ZIMBARDO Psychologist under fire, excerpts from TV reports. 
+
+02:02:45
+[non-English narration] 
+
+02:02:50
+UNKNOWN but between the alerts and the bombing they try to reduce the anxiety 
+
+02:02:55
+[non-English narration] 
+
+02:02:55
+UNKNOWN Her youngest son is coming nearer, looking for explanations 
+
+02:02:55
+PHILIP ZIMBARDO Her youngest son is coming nearer. 
+
+02:03:00
+[non-English narration] 
+
+02:03:00
+UNKNOWN Mom? Do you want me to tell you what's going on with her? Yes... 
+
+02:03:05
+[non-English narration] 
+
+02:03:15
+RONY BERGER She's a little... She's fine, really. just a little... shocked. She'll come to back to her sense very soon 
+
+02:03:15
+[non-English narration] 
+
+02:03:20
+RONY BERGER Another stressful night like the one that's expected here does nothing good to people suffering from anxiety attacks. 
+
+02:03:25
+[music] 
+
+02:03:30
+UNKNOWN Rony decides she needs to be taken to the hospital. 
+
+02:03:30
+PHILIP ZIMBARDO Rony decides she needs to be taken to the hospital. 
+
+02:03:30
+[non-English narration] 
+
+02:03:35
+RONY BERGER You want to watch? Come, let's sit over there. What happens when people pass out? 
+
+02:03:35
+PHILIP ZIMBARDO And he is gonna do therapy with the child. 
+
+02:03:40
+[non-English narration] 
+
+02:03:40
+RONY BERGER They don't die, don't worry Look at me. They don't die. You know what happens? 
+
+02:03:40
+PHILIP ZIMBARDO Don't worry. They don't die. 
+
+02:03:45
+[non-English narration] 
+
+02:03:45
+RONY BERGER At first they don't talk, but gradually they come back to their senses Everything will be okay. 
+
+02:03:45
+PHILIP ZIMBARDO They gradually come back to their senses. 
+
+02:03:50
+[non-English narration] 
+
+02:03:50
+RONY BERGER I'm not just saying that, I've seen a lot of people like that. 
+
+02:03:50
+PHILIP ZIMBARDO (inaudible ). 
+
+02:03:55
+[non-English narration] 
+
+02:03:55
+UNKNOWN We had our hero too; Dr. Rony Berger, a clinical psychologist specializing in post-traumatic stress. 
+
+02:03:55
+PHILIP ZIMBARDO And our hero is Rony Berger. 
+
+02:04:00
+[non-English narration] 
+
+02:04:00
+RONY BERGER How was it today? Quiet? 
+
+02:04:05
+[non-English narration] 
+
+02:04:05
+UNKNOWN He worked in the aftermath of 9/11 in NY, the Katrina hurricane and the tsunami South-East Asia. He comes to the disaster area called Sderot once a week. 
+
+02:04:05
+PHILIP ZIMBARDO He worked in the tsunami disaster as well. 
+
+02:04:10
+[sil.] 
+
+02:04:20
+[non-English narration] 
+
+02:04:25
+RONY BERGER That was really close... Really close, much closer than the last one. What a bang, two rockets. 
+
+02:04:30
+[non-English narration] 
+
+02:04:30
+Does that happen to you a lot around here? 
+
+02:04:35
+[non-English narration] 
+
+02:04:35
+RONY BERGER What? 
+
+02:04:35
+[non-English narration] 
+
+02:04:35
+Does that happen often? 
+
+02:04:35
+[non-English narration] 
+
+02:04:35
+RONY BERGER Oh, yeah. 
+
+02:04:40
+[non-English narration] 
+
+02:04:45
+UNKNOWN There is another launch warning. Get the kids inside! You are exposed here. Get inside! 
+
+02:04:45
+PHILIP ZIMBARDO Police are saying get back inside, the rockets are coming. 
+
+02:04:50
+[non-English narration] 
+
+02:04:50
+UNKNOWN Rony realizes he is needed in the house across the street. They need a psychologist, the ones who were outside! 
+
+02:04:50
+PHILIP ZIMBARDO People need psychologists. 
+
+02:04:55
+[non-English narration] 
+
+02:04:55
+UNKNOWN there are no secured rooms, rockers are flying around, and there is a workshop -- to deal with anxieties 
+
+02:04:55
+PHILIP ZIMBARDO There are no secured rooms. While you are there you are kind of bombardment as well. 
+
+02:05:00
+[non-English narration] 
+
+02:05:00
+RONY BERGER how do we cope with the Qassam rockets? 
+
+02:05:05
+[non-English narration] 
+
+02:05:05
+great! excellent!! 
+
+02:05:05
+following a recent Qassam attack Dr. Rony Berger is working in Zikim 
+
+02:05:10
+[non-English narration] 
+
+02:05:10
+RONY BERGER what is the meaning of black? Is it fear? Is there something that frightens you since you came from Brazil? 
+
+02:05:15
+[non-English narration] 
+
+02:05:15
+UNKNOWN "Red Dawn..." 
+
+02:05:15
+PHILIP ZIMBARDO He asked them what therapy that stands for. 
+
+02:05:20
+[non-English narration] 
+
+02:05:20
+RONY BERGER What? "Red Dawn..." "Red Dawn"? very nice 
+
+02:05:25
+[non-English narration] 
+
+02:05:25
+UNKNOWN A new friend, a little bit older but you can talk with him about everything, your nightmares, your fears that something will happen to mom or dad. 
+
+02:05:25
+PHILIP ZIMBARDO Tell him about your nightmares, your fears. 
+
+02:05:30
+[non-English narration] 
+
+02:05:40
+RONY BERGER We gave them the opportunity to express themselves to express their fears, their anger to relieve stress by physical action we taught them how to breath, how to relax we taught them to ask for help to share their feelings with others 
+
+02:05:40
+Dr. Rony Berger 
+
+02:05:40
+director of community services, NATAL 
+
+02:05:40
+PHILIP ZIMBARDO how to breathe, how to relax, how to get energized. 
+
+02:05:45
+PHILIP ZIMBARDO It's not over no, no -- I am sorry. 
+
+02:05:50
+[non-English narration] 
+
+02:05:55
+RONY BERGER For the past 15 years, I have been treating victims of trauma on the Israeli side and the Palestinian side. The majority became more radical, hateful and intolerant towards the other. But there is minority who seeks reconciliation. 
+
+02:05:55
+PHILIP ZIMBARDO Majority become radical, hateful and intolerant in other. 
+
+02:06:00
+[non-English narration] 
+
+02:06:00
+UNKNOWN A good Arab is a dead Arab! 
+
+02:06:00
+PHILIP ZIMBARDO A good Arab is a dead Arab, says the kid. But there is minority who seeks reconciliation. 
+
+02:06:05
+[non-English narration] 
+
+02:06:05
+RONY BERGER Both Milgram's and Zimbardo's experiments focused on the majority who turned evil. 
+
+02:06:05
+PHILIP ZIMBARDO Milgram's (inaudible ). 
+
+02:06:15
+[non-English narration] 
+
+02:06:20
+RONY BERGER I am interested in the minority, the ones who acted humanely. We can learn of lot from them. 
+
+02:06:20
+PHILIP ZIMBARDO I am interested in the minority who acted humanely. We can learn a lot from them. 
+
+02:06:20
+RONY BERGER How are you? 
+
+02:06:20
+PHILIP ZIMBARDO Welcome to America. Here he comes to visit me in San Francisco. Rony Berger and I have a similar vision is that research is step one. So social action step two is how do we create programs that can change the way people think and act in the classroom and in the community, based on not our ideas but we can say here is the evidence. And therefore we are telling you, here is what to, here is how to do it and we have a reasonable probability that it will change your life in a better way. 
+
+02:06:55
+The 10% 
+
+02:06:55
+a documentary by Yoav Shamir 
+
+02:06:55
+Our project shows that war zone reality has parallels with inner city 
+
+02:06:55
+reality, by demonstrating that inner city children manifest similar 
+
+02:06:55
+post traumatic responses (PTR) to PTR manifestations found in veterans. 
+
+02:06:55
+PTSD, depression and substance use are major responses to trauma, but 
+
+02:06:55
+there are other important PTR to recognize. Such PTR are complex trauma 
+
+02:06:55
+(DESNOS), anger/aggression, medical problems and learning problems 
+
+02:06:55
+found in Inner city youth and must be addressed as sequela to such 
+
+02:06:55
+trauma. 
+
+02:06:55
+we are finding ways to offer effective support in wounded communities. 
+
+02:06:55
+Research and treatment program being developed by Yotam Heinberg 
+
+02:06:55
+and our team, headed by Rony Berger, may soon be activated in Monrovia 
+
+02:06:55
+county in L.A. area 
+
+02:06:55
+Yotam, Zara Zimbardo, and I are also planning to work with ex-gang 
+
+02:06:55
+members from Inner cities in California, who have been active in 
+
+02:06:55
+preventing youth from joining gangs or helping them exit -- truly 
+
+02:06:55
+heroic given the danger to their lives from these powerful gangs. 
+
+02:06:55
+PHILIP ZIMBARDO A documentary by Yoav Shamir about the 10% who don't go all the way. So our project shows that war zone reality has parallels with inner city reality, by demonstrating that inner city children manifest similar post-traumatic responses (PTR) similar to that in vets. It's not just the extreme depression, but one of the consequences are anger/aggression, medical problems and learning problems directly traceable in inner city youth to sequelas of such trauma. Most children in the cities in South Central Los Angeles, in Oak and other places have witnessed first ten murders, have witnessed death, have been under attack as well. So we are finding ways to offer effective support in these wounded communities. Research and treatment is being developed by Yotam Heinberg who is a psych intern who is here, I would like him to stand up. Yotam, where are you? Back there. So he is a model for some of the interns here. He's helped develop a program which we have a project proposal in for local Monrovia County in L.A. area. He is working with my daughter Zara and I, we are planning to work with ex-gang members from inner cities in California who have been active in preventing kids from joining gangs or getting kids get out of gangs and that's heroic because the gangs want to kill them. We want to understand their motivation. Nobody has really understood what is it about these people that are unique, how could they do this and how could we promote that ideology. 
+
+02:08:30
+Erase Stress-Pro Social-Civic Virtue (ESPSCV) 
+
+02:08:30
+Teacher - mediated program to reduce post-traumatic clinical symptoms, 
+
+02:08:30
+reduce medical problems, reduce violence and improve learning 
+
+02:08:30
+capacities of inner city and war zone youth 
+
+02:08:30
+Promoting forgiveness, empathy, reconciliation, and willingness to take 
+
+02:08:30
+heroic action of being one's Best Self in the Service of Others. 
+
+02:08:30
+Strengthening parents' resiliency -- Accompanying ESPSCV, parent 
+
+02:08:30
+training classes will focus on providing parents with stress reduction 
+
+02:08:30
+capacities, tools to calm and support their children and to enhance 
+
+02:08:30
+overall social support and community cohesion. 
+
+02:08:30
+Training clergy, administrators and education officials - providing 
+
+02:08:30
+community pillars with a psycho-educational framework on trauma, and 
+
+02:08:30
+ways to offer effective support in wounded communities. 
+
+02:08:30
+WITH SOME FUNDING. WE CAN OVERCOME THESE EVILS OUR 
+
+02:08:30
+CHILDREN INHERIT FROM THE SYSTEMS THEIR ELDERS CREATE 
+
+02:08:30
+PHILIP ZIMBARDO Our two -- our main programs are called erase stress-pro social-civic virtue. These are teacher-mediated programs to reduce post-traumatic clinical symptoms, reduce medical problems, reduce violence and improve learning capacities of inner city kids and war zone youth. But we want to go beyond just stress reduction, we want to promote forgiveness, empathy, reconciliation and willingness to take heroic action of being one's best self in service of others. We want to strengthen parent's resiliency. Accompanying our program parent's training classes will focus on providing parents with stress reduction capacities, tools to calm and support their children and to enhance overall social support community coherence -- cohesion. It's a full body program so we want to get clergy involved. In many of these communities, the church is really critical. Clergy, administrators, educational officials to provide community pillars with psycho-social, educational framework on trauma and ways to offer effective support in wounded communities. So again all we need is some money to make all of this work. With some funding we can overcome the evils that our children are inheriting from the systems that the elders create just like environmental destruction through climate, it's war and all these terrible things. I am about to end in a moment, but I realize I did not have Doctor Richard Sword stand up so we can recognize him for the work he is doing at Time Therapy. 
+
+02:10:10
+[sil.] 
+
+02:10:15
+My Journey from Evil to Heroism: 
+
+02:10:15
+With Detours through 
+
+02:10:15
+Shyness, Time, & Stress -- 
+
+02:10:15
+Has COME TO AN END 
+
+02:10:15
+but 
+
+02:10:15
+"EVERY EXIT IS AN ENTRANCE 
+
+02:10:15
+TO SOMEWHERE ELSE" and 
+
+02:10:15
+THE BEST IS YET TO COME!! 
+
+02:10:15
+PHILIP ZIMBARDO And so my journey from evil to heroism with detours through shyness, time and stress has come to its quota, its end. But of course you want to remember that every exit is an entrance to somewhere else and I always believe the best is yet to come if we work together. 
+
+02:10:35
+[sil.] 
+
+02:10:50
+PHILIP ZIMBARDO Thank you, thank you. 
+
+02:10:55
+END TRANSCRIPT 

@@ -1,0 +1,1577 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+[sil.] 
+
+00:00:00
+The materials contained on this DVD are protected by United States and international copyright laws. Your rights to use them are governed by terms of this license agreement. You may not reproduce or distribute any material from this disk nor may you include any material from this disk in any product to be offered for sale. Any such uses are subject to approval, fees and a supplemental written license signed by John Wiley & Sons. THE MATERIAL ON THIS DISK IS PROVIDED "AS IS." NEITHER THE AUTHORS OF THE MATERIAL NOR JOHN WILEY & SONS, INC. MAKE ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, REGARDING EITHER THE FUNCTIONALITY OR THE CONTENTS. NEITHER THE AUTHORS NO JOHN WILEY & SONS, INC. ASSUME ANY RESPONSIBILITY FOR ERROES OR OMISSIONS, OR DAMAGES, INCLUDING ANY INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES,. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, JOHN WILEY & SONS, INC. DISCLAIMS ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. To contact Wiley directly call (877) 762-2974, fax to (800) 597-3299, or visit our website at www.wiley.com 
+
+00:00:30
+[music] 
+
+00:00:30
+UNKNOWN The following is a presentation of John Wiley & Sons. 
+
+00:00:35
+Evidence-Based Treatment Planning for Obsessive - Compulsive Disorder 
+
+00:00:35
+UNKNOWN It's part of an informative series about empirically informed treatment planning. This program focuses on obsessive compulsive disorder. 
+
+00:00:45
+ARTHUR E. JONGSMA Hello and welcome, I'm Art Jongsma and joining me is my colleague Dr. Tim Bruce. 
+
+00:00:50
+Timothy J. Bruce Ph.D. Arthur E. Jongsma, Jr. Ph. D. 
+
+00:00:50
+ARTHUR Together we are going to discuss with you today empirically informed treatment planning for obsessive compulsive disorder or OCD. 
+
+00:01:00
+Modules 
+
+00:01:00
+DSM Criteria for OCD 
+
+00:01:00
+Essential Elements of Treatment Planning 
+
+00:01:00
+Brief History of the EST Movement 
+
+00:01:00
+Empirically Informing a Treatment Plan for OCD 
+
+00:01:00
+Common Considerations in Relapse Prevention 
+
+00:01:00
+Evidence-based Treatment Plan for OCD 
+
+00:01:00
+TIMOTHY J. BRUCE This program is broken into a number of modules. In it we'll describe the DSM Criteria for OCD, discuss the essential elements of the treatment planning process, provide a brief history of the movement to identify empirically supported treatments or ESTs. We'll then show how to empirically inform a treatment plan with findings from the EST literature on OCD. Spend some time discussing common considerations in relapse prevention and present an example of an evidence based treatment plan for OCD. 
+
+00:01:30
+ARTHUR Before we get started, one thing should be noted: the purpose of this program is to demonstrate how a treatment plan for OCD can be empirically informed by incorporating goals, objectives and treatment interventions consistent with those with identified ESTs and with evidence based practice guidelines. You'll also see brief scenarios that demonstrate aspects of the EST interventions described. 
+
+00:02:00
+TIMOTHY It's important to note that these scenarios are selected examples of the EST and don't represent delivery of anyone of them in their entirety. Our program is designed to be educational in nature and is not intended to be a substitute for clinical training in the interventions discussed. For those interested in learning more about any of these therapies, references to their empirical support, clinical resources and training opportunities can be found in the companion workbook to this DVD. 
+
+00:02:25
+Defining OCD - DSM Criteria for OCD 
+
+00:02:25
+TIMOTHY Let's begin by looking at the DSM criteria for the disorder. 
+
+00:02:30
+Obsessive-Compulsive Disorder 
+
+00:02:30
+"...OCD is defined by the presence of either obsessions or compulsions" 
+
+00:02:30
+TIMOTHY As the name suggests obsessive compulsive disorder or OCD is defined by the presence of either obsessions or compulsions. 
+
+00:02:35
+Obsessions: 
+
+00:02:35
+Recurrent and persistent thoughts, images, or impulses that are intrusive inappropriate and cause marked anxiety or distress 
+
+00:02:40
+ARTHUR Obsessions are recurrent and persistent thoughts, images, or impulses that are experienced at some time during the disturbance, as intrusive and inappropriate and that cause marked anxiety or distress. 
+
+00:02:50
+Not simply excessive worries about real life problems 
+
+00:02:50
+ARTHUR These thoughts images or impulses are not simply excessive worries about real life problems, as seen in generalized anxiety disorder. 
+
+00:03:00
+Attempts are made to ignore or suppress such thoughts, impulses, or images, or to neutralize them with some other thought or action 
+
+00:03:00
+ARTHUR Also the OCD suffer attempts to ignore or suppress the thoughts, impulses or images, or to neutralize them with some other thought or action. 
+
+00:03:10
+A person recognizes that the obsessions are a product of his or her own mind (not imposed from the outside, as in thought insertion) 
+
+00:03:10
+ARTHUR Lastly, the person recognizes that the obsessional thoughts, impulses or images, are a product of his or her own mind, not imposed from the outside, as in thought insertion. A feature that distinguishes OCD from psychosis. 
+
+00:03:30
+Compulsions: 
+
+00:03:30
+Repetitive behaviors or mental acts that the person feels driven to perform in response to an obsession, according to rules that must be applied rigidly 
+
+00:03:30
+TIMOTHY Compulsions are repetitive behaviors or mental acts that the person feels driven to perform in response to an obsession, or according to rules that must be applied rigidly. Examples of common behavioral compulsions include repeated hand washing ordering things or checking. Examples of common mental compulsions include excessive praying, counting or repeating words silently. 
+
+00:03:55
+Compulsions: 
+
+00:03:55
+Repetitive behaviors or mental acts that the person feels driven to perform in response to an obsession, or according to rules that must be applied rigidly 
+
+00:03:55
+Aimed at preventing or reducing distress or preventing some dreaded event or situation; however, they are not connected in a realistic way with what they are designed to neutralize or prevent or are clearly excessive 
+
+00:03:55
+TIMOTHY These behaviors or mental acts are aimed at preventing or reducing distress or preventing some dreaded event or situation; however, they either are not connected in a realistic way with what they are designed to neutralize or prevent, or they are clearly excessive. 
+
+00:04:10
+Obsessions or Compulsions: 
+
+00:04:10
+Recognized as excessive or unreasonable at some point (does not apply to children) 
+
+00:04:10
+ARTHUR In OCD the person has recognized that the obsessions or compulsions are excessive or unreasonable at some point during the course of the disorder. Although, we'll see later, that some individuals with OCD have less insight into this than others do. In addition this criterion does not apply to children with OCD. 
+
+00:04:35
+TIMOTHY By definition all mental disorders cause clinically significant distress or disability. 
+
+00:04:35
+Cause marked distress, are time consuming (take more than 1 hour a day), or significantly interfere with the person's normal routine, occupational (or academic) functioning, or usual social activities or relationships 
+
+00:04:40
+TIMOTHY In OCD the obsessions or compulsions must cause marked distress, or be time consuming, take up more than an hour a day for example, or significantly interfere with the person's normal routine, occupational or academic functioning, or usual social activities or relationships. 
+
+00:04:55
+OCD is not diagnosed when an apparent obsession or compulsion is a primary feature of another mental disorder and restricted to it 
+
+00:04:55
+ARTHUR It is important to note that you do not diagnose OCD if an apparent obsession or compulsion is a primary feature of another mental disorder and restricted to it. 
+
+00:05:05
+Examples: 
+
+00:05:05
+The preoccupation with food seen in Eating Disorders 
+
+00:05:10
+ARTHUR Examples include the following: The preoccupation with food within an eating disorder. 
+
+00:05:10
+The compulsive hair pulling seen in Trichotillomania 
+
+00:05:15
+ARTHUR The compulsive hair pulling within Trichotillomania. 
+
+00:05:15
+The concern with appearance seen in Body Dysmorphic Disorder 
+
+00:05:20
+ARTHUR The concern with body appearance within Body Dysmorphic Disorder. 
+
+00:05:20
+The disturbance is not due to the direct physiological effects of a substance (e.g., a drug of abuse, a medication) or a general medical condition 
+
+00:05:25
+TIMOTHY And again as with all mental disorders you must first rule out the disturbance is not due to the direct physiological effects of a substance or a general medical condition. 
+
+00:05:35
+ARTHUR Finally in the DSM system you are asked to specify if the OCD sufferer has poor insight. 
+
+00:05:40
+Specifier: "With Poor Insight." 
+
+00:05:40
+ARTHUR This specifier termed 'with poor insight' is used when the person does not recognize, for most of the time during the current episode, that the obsessions and compulsions are excessive or unreasonable. 
+
+00:05:50
+If the person does not recognize, for most of the time during the current episode, that the obsessions or compulsions are excessive or unreasonable 
+
+00:05:55
+TIMOTHY Having reviewed what constitutes OCD, now let's turn to the process of psychotherapy treatment planning and describe it's essential steps. 
+
+00:06:00
+Six Steps to a Treatment Plan 
+
+00:06:05
+TIMOTHY There are six essential steps in developing a treatment plan. Each is customized to the individual client's unique presentation. These steps are: 
+
+00:06:10
+Identify Primary and Secondary Problems 
+
+00:06:10
+TIMOTHY Identify the client's primary and secondary problems. 
+
+00:06:15
+Describe Behavioral Definitions 
+
+00:06:15
+TIMOTHY Describe behavioral definitions of the problem. That is each problems behavioral, cognitive, emotional, physical and interpersonal manifestation. 
+
+00:06:25
+Diagnosis based on DSM/ICD Criteria 
+
+00:06:25
+TIMOTHY Make a diagnosis based on DSM or ICD criteria. 
+
+00:06:30
+Specify Long-term Goals 
+
+00:06:30
+TIMOTHY Specify the long-term goals of the treatment process. 
+
+00:06:30
+Create Short-term Objectives 
+
+00:06:35
+TIMOTHY Create short-term objectives for the client and select therapeutic interventions. 
+
+00:06:35
+Select Treatment Interventions 
+
+00:06:40
+ARTHUR A client might talk about a variety of issues during the assessment, but as a first step in creating a treatment plan, the clinician must determine the most significant problem or problems often by assessing which are most related to current distress, disability or both. Usually a primary problem will surface and secondary problems may also be evident. Some other issues may have to be set aside as not urgent enough to require treatment at this time. An effective treatment plan can only deal with a few identified problems or treatment will lose its direction. 
+
+00:07:20
+TIMOTHY Clients may express the same general problem in different ways. The manner in which they think, feel, behave or interact will be to some degree unique to them and their situation. So each problem that is selected for treatment requires a specific definition of how its evidenced in your particular client. Therefore as a second step in the treatment planning process, the behavioral definition of the problem, that is the behavioral, cognitive, emotional, physical and interpersonal features of the problem are specified. These features may very well correspond to diagnostic criteria such as those found in the DSM or ICD, which should be kept in mind as behavioral definitions of formulating. 
+
+00:08:05
+ARTHUR The third step in treatment planning the determination of an appropriate diagnosis is based on an evaluation of the clients complete clinical picture. The clinician must compare the behavioral, cognitive, emotional and interpersonal features causing distress or disability to the criteria for the diagnosis of a mental disorder, as described in the DSM or the ICD. Note that not all therapists use psychiatric diagnosis per se in formulating their treatment plans. But instead they prefer to focus on changes and the identified problem behavior, cognition, emotions and the like. Having said that, most third party pairs require a diagnosis and most ESTs are based on research that uses diagnostic criteria to define problems, so it's usually necessary to make a diagnosis. 
+
+00:09:05
+TIMOTHY Step four in developing a treatment plan is to set long term goals for the resolution of the client's primary and secondary problems. These goal statements need not be crafted in measurable terms. It can be broader, an indicated desired general positive outcome to the treatment process. One or more goal statements can be developed. 
+
+00:09:25
+ARTHUR Writing short-term objectives for the client to achieve is step five in developing a treatment plan. In contrast to long term goals, objectives should be stated in behaviorally measurable or observable terms. Clearly stated objectives are helpful to both the therapist and client in assessing progress. They are also important to quality assurance review agencies, Health Maintenance Organizations and Managed Care Organizations in assessing whether and when the client is making progress. The objectives should be designed with this requirement for accountability in mind. 
+
+00:10:05
+TIMOTHY Interventions are the actions of the clinicians within the therapeutic alliance designed to help the client accomplish the treatment objectives. Selecting the appropriate therapist interventions is the sixth and final step in treatment planning. There should be at least one intervention planned for every client objective. If the client does not accomplish the objective after the initial interventions have been implemented, new interventions should be considered. 
+
+00:10:30
+ARTHUR From what we have just described, it may sound like this is a pretty cut and dried process and that you just simply repeat the process with every client. But that's really not the case. One important aspect of effective treatment planning is that each plan should be tailored to the individual client's unique problems, strengths and needs. Treatment plan should not be boiler plate even if the clients have similar problems. The individual strengths and weaknesses, unique stressors, cultural and social network, family circumstances and symptom patterns must be considered in developing a treatment strategy. Clinicians should rely on their own good clinical judgment and select interventions that are appropriate for the distinctive individual with whom they're working. 
+
+00:11:20
+TIMOTHY Now that we've discussed the steps involved in treatment planning, let's move on to showing how this treatment planning process can be informed by psychotherapy outcome research. We begin by providing a brief overview of the movement to identify empirically supported psychological treatments. 
+
+00:11:35
+A Brief History of the Movement to identify ESTs 
+
+00:11:40
+ARTHUR Although it can be conceivably be argued that the movement to empirically informed psychological treatment began hundreds of years ago when the scientific method was first applied to the study of psychology, the specific task of identifying empirically supported psychological treatments began in the early 1990s in Great Britain and then in the United States. 
+
+00:12:05
+TIMOTHY On the forefront of the movement of the United States was Division 12 of the American Psychological Association, The Society of Clinical Psychology. 
+
+00:12:10
+Division 12 of the American Psychological Association: The Society of Clinical Psychology 
+
+00:12:10
+TIMOTHY In 1993 Division 12 organized a task force chaired by Dr. Diane Chandlers and charged it with reviewing the psychotherapy outcome literature to identify psychological treatments whose efficacy had been demonstrated to clinical research. 
+
+00:12:25
+Division 12 Task Forces: 
+
+00:12:25
+The Task Force of the Promotion and Dissemination of Psychological Procedures (original) 
+
+00:12:25
+Task Force on Psychological Interventions (succeeding task force) 
+
+00:12:25
+http://www.psychologicaltreatments.org 
+
+00:12:25
+ARTHUR The group established criteria for judging quantity and quality of the research supporting a particular treatment and categorized treatment needing these criteria as 'well established' or 'probably efficacious'. 
+
+00:12:40
+"Well Established" 
+
+00:12:40
+"Probably Efficacious" 
+
+00:12:40
+ARTHUR Both sets of criteria required replicated demonstrations of efficacy through high quality trials or case series. The 'well-established' category requires independent replication as well as other features. The details of which can be found in the work book. 
+
+00:12:55
+Products of EST Reviews 
+
+00:13:00
+TIMOTHY By 1996, the group had identified a preliminary list of 25 ESTs meeting their criteria. By 1998, the list had grown to 71 ESTs. In 1999 Division 12 took full ownership of maintaining the growing list. 
+
+00:13:10
+www.psychologicaltreatments.org 
+
+00:13:15
+TIMOTHY The current list and information center can be found on its website. 
+
+00:13:15
+Children (Lonigan & Elbert, 1998) 
+
+00:13:15
+Pediatric Psychology (Spirito, 1999) 
+
+00:13:15
+Older Adults (Gatz, 1998) 
+
+00:13:15
+Adult, Child, Marital, Family Therapy (Kendall & Chambless, 1998) 
+
+00:13:15
+Psychopharmacology and Psychological Treatments (Nathan & Gorman, 1998; 2002; 2007) 
+
+00:13:20
+ARTHUR Since the work of this original group, other reviewers have emerged. Using the same or similar criteria to review literature related to these and other populations, problems and interventions. These are some examples. 
+
+00:13:35
+TIMOTHY Descriptions of these treatments identified through many of the early reviews as well as references to the empirical work supporting them, clinical resources and training opportunities can be found at therapyadvisor.com. 
+
+00:13:45
+www.therapyadvisor.com 
+
+00:13:45
+TIMOTHY This resource was developed by personal improvement computer systems with funding from the National Institute of Mental Health and in consultation with the members of the original Division 12 task groups. There are also some organizational efforts to disseminate evidence based medical and/or mental health practices or practice guidelines worth noting. 
+
+00:14:10
+ARTHUR As we mentioned Great Britain was on the forefront of these efforts. The latest products of their work can be found at the website for the National Institute for Health and Clinical Excellence or NICE and include practical and specific guidelines for the treatment of various medical and mental health problems. 
+
+00:14:25
+www.nice.org.uk National Institute for Health and Clinical Excellence 
+
+00:14:30
+TIMOTHY The Substance Abuse and Mental Health Service Administration or SAMHSA also has an initiative to evaluate, identify and provide information on evidence based mental health practices, entitled The National Registry of Evidence Based Programs and Practices or NREPP, their work can also be found online. 
+
+00:14:45
+nrepp.samhsa.gov The National Registry of Evidence Based Programs and Practices 
+
+00:14:50
+ARTHUR Lastly, The Agency for Health Care Policy and Research now called The Agency for Health Care Research and Quality has established guidelines and criteria for identifying evidence based practices and provides links to evidence based clinical practice guidelines for various medical and mental health problems. 
+
+00:15:10
+www.ahrq.gov/clinic/epcix.htm The Agency for Health Care Research and Quality 
+
+00:15:10
+TIMOTHY In this series we draw from these and other sources in our discussions of how clinicians can integrate goals, objectives and treatment interventions consistent with identified ESTs and evidence based practice guidelines. 
+
+00:15:20
+Introduction to ESTs for OCD 
+
+00:15:25
+TIMOTHY Empirically informing a treatment plan is described in this series, involves integrating those aspects of identified ESTs into each step of the treatment planning process discussed previously. Let's briefly look at efforts to develop and identify ESTs, and evidence based treatment guidelines for OCD. There are several independent reviews of the psychotherapy outcome literature for the treatment of OCD, that have identified either empirically supported treatments or evidence based practice guidelines. These include APA's Division 12, Franklin and Feller in Nathan and Gorman series, The Guided Treatments of Work, NICE in Great Britain and others. There is also a great deal of uniformity in the conclusions drawn from these reviews, regarding of which treatments have demonstrated efficacy for OCD. 
+
+00:16:10
+Well-Established ESTs for OCD 
+
+00:16:10
+Exposure and Response Prevention 
+
+00:16:10
+Cognitive Therapy 
+
+00:16:10
+From APA Division 12 
+
+00:16:10
+Available at: www.psychologicaltreatments.org 
+
+00:16:15
+ARTHUR Using their selection process discussed previously, APA's Division 12, The Society of Clinical Psychology has identified two therapeutic approaches that have met their criteria for 'well-established' EST. These treatments are: exposure and response prevention and cognitive therapy. 
+
+00:16:30
+"...Exposure asks clients to engage repeatedly in what they fear, allowing the learned fear to extinguish over time." 
+
+00:16:35
+TIMOTHY As with its application to other anxiety disorders, exposure asks clients to engage repeatedly in what they fear, allowing the learned fear to extinguish over time. With OCD it's been found that exposure works best when used with response or ritual prevention. 
+
+00:16:50
+"... response (or ritual) prevention asks clients to refrain from engaging in their rituals..." 
+
+00:16:50
+TIMOTHY Generally speaking response prevention asked the client to refrain from engaging in their ritual once they've begun exposure to the triggers that have previously prompted it. 
+
+00:17:00
+"Exposures are typically guided by a fear hierarchy..." 
+
+00:17:00
+ARTHUR Exposures are typically guided by a hierarchy in which less feared activities are conducted first. 
+
+00:17:05
+"Imaginal exposure live (or in vivo) exposure, or both may be used in treating OCD." 
+
+00:17:10
+ARTHUR Imaginal exposure live or in vivo exposure, or both may be used in treating OCD. 
+
+00:17:15
+"Imaginal exposure typically involves imagining an obsessive thought or image or the feared consequences of them..." 
+
+00:17:15
+ARTHUR Imaginal exposure typically involves imagining an obsessive thought or image or the feared consequences of them allowing the emotion attached to the image to weaken. For example a client who obsesses that loved ones may die should they neglect to check potential household hazards repeatedly might be asked to vividly imagine their deaths, while refraining from the mental ritual. The purpose of this type of exposure is to reduce the fear of the thought or image. This type of exposure is often combined with cognitive restructuring as will be discussed later. 
+
+00:17:55
+"Exposures in vivo involves asking the client to engage in the actual activity they fear" 
+
+00:17:55
+TIMOTHY Exposures in vivo involves asking the client to actually engage in the activity they fear. For example a client who fears contamination in a bathroom might be asked to touch something they feel is contaminated or refraining from ritualized hand washing. The therapist would encourage the client to continue the exposure during the session until the anxiety associated with it has waned. They would then repeat this exercise until there was evidence of extinction from session to session. 
+
+00:18:25
+Cognitive Theory: 
+
+00:18:25
+Biased cognitive appraisals lead to emotional reactions and behavioral actions that may be distressing and maladaptive 
+
+00:18:25
+ARTHUR Cognitive therapy derived from a model in which biased cognitive appraisals of oneself, the environment and/or the future, lead the person to emotional reactions and behavioral actions that can be distressing and maladaptive. 
+
+00:18:40
+Cognitive Therapy: 
+
+00:18:40
+Identifies and changes appraisals to facilitate better adaptation 
+
+00:18:40
+ARTHUR Identifying and changing those appraisals to facilitate better adaptation is the target of the therapy. 
+
+00:18:50
+TIMOTHY Cognitive Bias is commonly addressed in OCD include the following 
+
+00:18:50
+Common Cognitive Biases: 
+
+00:18:50
+Overestimating the likelihood of catastrophic outcomes 
+
+00:18:55
+TIMOTHY Overestimating the likelihood of catastrophic outcomes to everyday events, such as believing that a house fire will result when one neglects to check the stove repeatedly. Interpreting the presences of obsessions as indicating some personal flaw or troubling intention, such as when the client believes having an aggressive thought is the same as behaving aggressively and then feeling as though they were bad in some way and holding an inflated sense of personal responsibility over events that may cause harm to oneself or others. Such as believing that one's rituals are actually preventing the feared outcome that's driving them. 
+
+00:19:30
+Interpreting the presences of obsessions as indicating some personal flaw or troubling intention 
+
+00:19:30
+Holding an inflated sense of personal responsibility over events that may cause harm to oneself or others 
+
+00:19:30
+Cognitive Therapy Process: 
+
+00:19:30
+Learn the connection between one's thoughts, emotions, and actions 
+
+00:19:30
+ARTHUR Cognitive Therapy helps clients learn the connection between one's thoughts, emotions, and actions. CT begins by teaching the client to learn the connection between thinking and feeling. 
+
+00:19:40
+Identify biases in thinking 
+
+00:19:45
+ARTHUR It helps the client learn how to identify biased thinking, challenge its validity, develop alternative appraisals and test the appraisals or predictions in reality through exercises called behavioral experiments. 
+
+00:19:55
+Challenge validity of appraisals 
+
+00:19:55
+Develop alternative appraisals 
+
+00:19:55
+Test through behavioral experiments 
+
+00:20:00
+ARTHUR Dialogue with the therapist as well as in session and between session exercises are the primary vehicles used in cognitive therapy. 
+
+00:20:05
+Cognitive Behavioral Therapy Involving Exposure and Response Prevention: 
+
+00:20:05
+Integrating cognitive therapy techniques and exposure and response prevention into single therapy 
+
+00:20:10
+TIMOTHY Cognitive therapy techniques along with exposure and response prevention are often integrated into a single therapy commonly referred to as Cognitive Behavioral Therapy involving exposure and response prevention. 
+
+00:20:20
+Cognitive Behavioral Therapy involving Exposure and Response Prevention (CBT/ERP) 
+
+00:20:20
+From Franklin, M. E. and Foa, E. B. (2007). Cognitive behavioral treatment of obsessive-compulsive disorder. In P. E. Nathan & J. M. Gorman's (Eds.) A guide to treatments that work. New York: Oxford University Press 
+
+00:20:20
+TIMOTHY In their review of their OCD treatment outcome literature published in the most recent edition of Nathan & Gorman's "A Guide to Treatments That Work", Franklin and Foa identified this CBT involving exposure and response prevention as a well-established treatment for OCD citing many randomized control trials supporting its efficacy. These authors noted that although cognitive therapy for OCD has a smaller and more recent evidence based than CBT with exposure and response prevention. It too can be considered a well-established treatment option. 
+
+00:20:55
+"Cognitive behavioral therapy (CBT) involving exposure and ritual prevention (ex/rp) is a well-established treatment for obsessive-compulsive disorder (OCD) in adults." (p.431) 
+
+00:20:55
+"...The literature on more cognitively based treatments for OCD has provided further empirical support for this approach as well." (p. 431) 
+
+00:20:55
+Evidence-based Practice Guidelines from The National Institute for Health and Clinical Excellence (NICE) 
+
+00:20:55
+ARTHUR Evidence-based Practice Guidelines published by the organizational reviewers such as NICE in Great Britain and AHRQ in the US, have also recommended CBT including exposure and response prevention as the first line intervention for OCD. 
+
+00:21:10
+First-line option: "CBT with ERP" 
+
+00:21:10
+From NICE: 
+
+00:21:10
+"For Adults with OCD who refuse or cannot engage with treatments that include ERP, individual cognitive therapy specifically adapted for OCD may be considered." 
+
+00:21:15
+ARTHUR These guidelines suggest that cognitive therapy should be considered in clients who will not participate in exposure. 
+
+00:21:20
+TIMOTHY CBT for OCD is usually conducted on an out-patient bases twice a week. 
+
+00:21:25
+"CBT for OCD is usually conducted twice a week" 
+
+00:21:25
+"The total number of sessions differs depending on severity, but averages 12-16 sessions." 
+
+00:21:25
+TIMOTHY The total number of sessions differs depending on the severity, but averages 12-16 sessions. 
+
+00:21:30
+"CBT for OCD has also been used successfully as an intensive inpatient treatment..." 
+
+00:21:30
+TIMOTHY This therapy has also been used successfully as an intensive inpatient treatment typically involving sessions five days a week for three or more weeks. CBT for OCD has also been conducted successfully in a group format. A modality common use for less severe versions of the disorder. 
+
+00:21:50
+Can be conducted in group format. 
+
+00:21:50
+ARTHUR Conclusions from reviewers of empirically supported treatments as well as recommendations from developers of evidence based practice guidelines, suggest that CBT including exposure and response prevention is a well-established treatment for OCD and an appropriate first line consideration in an evidence based approach to treating OCD. Let's take a little closer look at this intervention. So Tim this type of treatment usually begins with a pretty thorough functional assessment. 
+
+00:22:20
+TIMOTHY Uh huh. 
+
+00:22:20
+ARTHUR The therapist usually spends the first few sessions gathering information on how the OCD serves to distress and disable the client. 
+
+00:22:25
+Focus of Initial Sessions: 
+
+00:22:25
+External triggers 
+
+00:22:30
+TIMOTHY Yeah the focus is on the external triggers that evoke the obsessions and compulsions, the content of the obsessions, the type of compulsions whether they're mental, behavioral or both, umm the feared consequences of neglecting the compulsions, uh as well as beliefs about obsessions, like what they mean to this client. All these data serve cognitive restructuring later. 
+
+00:22:50
+Content of obsessions 
+
+00:22:50
+Type of compulsions (mental or behavioral) 
+
+00:22:50
+Feared consequences of neglecting compulsions 
+
+00:22:50
+Beliefs about obsessions 
+
+00:22:50
+ARTHUR It's common for the sufferer of OCD to think that having an obsession for example, of harming someone, makes them a bad person or that it makes them more likely to actually harm someone. 
+
+00:23:05
+TIMOTHY Right. Yeah, I mean those kinds of beliefs obviously fuel the anxiety that compels clients to continue to try to avoid their fears. 
+
+00:23:10
+ARTHUR Compulsion which may be mental or behavioral are conceptualized as avoidance from this model. 
+
+00:23:15
+TIMOTHY Yeah 
+
+00:23:15
+ARTHUR And avoidance is at the heart of what maintains the disorder. 
+
+00:23:20
+TIMOTHY Yeah exactly, from a strictly behavioral perspective avoidance precludes extinction of this kind of learned but unwarranted fear. From a cognitive perspective it preclude identifying, challenging and changing beliefs that are believed to maintain the fear. 
+
+00:23:35
+ARTHUR So the assessment tries to identify all the ways that the client attempts to reduce discomfort brought on by the obsessions. 
+
+00:23:45
+TIMOTHY Yeah it's a major focus, as we mentioned earlier examples of common behavioral compulsions include things like cleaning, checking, repeating actions, uh arranging objects, uh persistence, reassurance seeking is actually one of these. 
+
+00:24:00
+Examples of Common Behavioral Compulsions: 
+
+00:24:00
+Cleaning 
+
+00:24:00
+Checking 
+
+00:24:00
+Repeating actions 
+
+00:24:00
+Arranging objects 
+
+00:24:00
+Persistent reassurance seeking 
+
+00:24:00
+Examples of Common Mental Compulsions: 
+
+00:24:00
+TIMOTHY Common mental compulsions include things like counting, saying certain phrases over and over again or having to repeat phrases until they are perfect, uh as well as ritualistic repeated praying. 
+
+00:24:10
+Counting 
+
+00:24:10
+Saying certain phrases over and over 
+
+00:24:10
+Repeating until they are "perfect" 
+
+00:24:10
+Ritualistic, repeated praying 
+
+00:24:10
+ARTHUR In addition to this focus on obsessions and compulsions, the assessment should also include a psychosocial review. 
+
+00:24:20
+TIMOTHY Yeah 
+
+00:24:20
+Psychosocial Review: 
+
+00:24:20
+ARTHUR Gathering information on such things as current living situation, impact on significant others, their reactions to symptoms and the treatment and the patient's work environment, daily activities and other things like that. 
+
+00:24:30
+Current living situation 
+
+00:24:30
+Impact on significant others 
+
+00:24:30
+Reactions to symptoms and treatment 
+
+00:24:30
+Patient's work environment, daily activities, etc... 
+
+00:24:30
+TIMOTHY Yeah exactly, I mean it's all part of the overall assessment of how the OCD functions, not only within the client but within their life. 
+
+00:24:40
+ARTHUR It also gives the clinician a chance to assess the patients motivation for treatment and whether the therapy can proceed rapidly with limited therapist involvement or requires a slower pace with greater therapist involvement and exposure. 
+
+00:24:55
+TIMOTHY Uh huh. Yeah that's an excellent point you know as a group OCD client show a longer time from onset of the disorder to treatment seeking, and many only come to treatment at the urging of someone else like a loved one. So you know motivation is a common issue with OCD. 
+
+00:25:10
+ARTHUR It's typical at this early stage of treatment to ask the client to begin self-monitoring and journaling of their obsessions and compulsions right? 
+
+00:25:20
+TIMOTHY Yes it is. It's helps get an accurate picture beyond the client's description of it. It also is often used to like facilitate psycho education, cognitive restructuring and for that matter to asses response to treatment. 
+
+00:25:30
+ARTHUR You mentioned psycho education, initial and on-going psycho education is a big emphasis on these types of therapies isn't it? 
+
+00:25:40
+TIMOTHY Yeah uh it is. Common themes of that education include things like educating the client about OCD, normalizing it, talking about the role of fear and avoidance in maintaining it and this usually sets a stage for the discussion of the rationale for the therapy. 
+
+00:25:55
+ARTHUR The essence of which is overcoming fear through overcoming avoidance. 
+
+00:26:00
+TIMOTHY Yeah, exactly. 
+
+00:26:00
+ARTHUR Building rapport and trust, these are important but often under described aspects of these directive therapies. 
+
+00:26:10
+TIMOTHY Yeah I think that's true. I mean these therapies quite literally ask clients to do things they have feared and avoided typically, so they require the trust of the client. So building that trust, the therapeutic alliance, it's an important emphasis in the therapy. 
+
+00:26:25
+ARTHUR So we pointed out there's a thorough assessment conducted and that psycho education is begun including a rationale for therapy. 
+
+00:26:30
+TIMOTHY Yeah 
+
+00:26:35
+ARTHUR In terms of therapeutic interventions, in this integrated therapy, does work on cognitive restructuring usually begin early in the therapy? 
+
+00:26:45
+TIMOTHY Yes, most therapist who use cognitive therapy with exposure will not jump right into exposure. 
+
+00:26:45
+Cognitive Restructuring Process 
+
+00:26:50
+TIMOTHY They typically begin the cognitive restructuring process first. 
+
+00:26:50
+Teaching link between thinking, feeling, and acting 
+
+00:26:50
+TIMOTHY This typically starts with teaching the link between thinking, feeling, and acting, and then moves on to identifying biases, challenging them and developing alternatives that correct for the biases, the typical stuff. 
+
+00:27:00
+Identifying biases 
+
+00:27:00
+Challenging biases 
+
+00:27:00
+Developing alternatives that correct for the biases 
+
+00:27:05
+ARTHUR In cognitive therapy those biased and alternative thoughts are often converted into prediction and then tested through exercises called behavioral experiments. 
+
+00:27:15
+TIMOTHY uh huh, Yeah exactly. You know a challenging aspect of doing cognitive therapy is finding exercises, these behavioral experiments that test the fears in a way that's valid to the client. 
+
+00:27:25
+ARTHUR Ironically cognitive therapist often ask clients to do many of the same things an exposure therapist would ask them to do, like test out a fear for prediction that involves doing something they fear but without performing the cleansing or other ritual. 
+
+00:27:45
+TIMOTHY Yeah that's true, like doing exposure, I mean similar activities might be prescribed but the rationale conceptualization of why the anxiety's decreasing is going to differ between those two. 
+
+00:27:55
+ARTHUR For CT the client is invalidating biased predictions whereas for the behavioral therapy the client is extinguishing a learnt fear. 
+
+00:28:05
+TIMOTHY Yeah I think that's it in a nutshell. You know purer forms of cognitive therapy, the exercises are explicitly for the purpose of testing the predictions, I mean they are laid out, tested and then discussed. In purer forms of exposure and response prevention, there's more of an emphasis of staying in a feared activity, experiencing it and allowing anxiety to extinguish. So suds rate-ratings are often taken during each exposure to judge how this process is progressing. 
+
+00:28:35
+ARTHUR In CBT approaches you typically see some reparatory cognitive work done, and then a move into exposure and response prevention. 
+
+00:28:45
+TIMOTHY Yeah that's a very common approach. Although the cognitive work typically begins first, it's usually carried forward like initial and ongoing psycho education. Once something's started, it's carried forward throughout the therapy. For some therapist the cognitive work is even done during the exposures, right in the middle of them. 
+
+00:29:00
+ARTHUR With exposure and response prevention the therapist and client have to agree on which pin pointed symptom to treat first. 
+
+00:29:10
+TIMOTHY Yeah the client therapist decide what to target first. That's especially important when there's more than one type of obsessive fear like contamination and harming in the same person. 
+
+00:29:20
+ARTHUR Is an anxiety hierarchy usually developed and usually used to guide the therapy? 
+
+00:29:25
+TIMOTHY Yeah. You know list the situations that provoke obsessions is created, uh these are then ordered you know, from least to most anxiety provoking. Most of these hierarchies try to have 10 to 20 items for each type of obsession. 
+
+00:29:40
+ARTHUR You begin with the mild then you go to moderate fears and progress on to the worst ones. 
+
+00:29:45
+TIMOTHY Yes, exactly. 
+
+00:29:45
+ARTHUR What about imaginal exposure? How would a therapist decide to use this particular technique? 
+
+00:29:50
+TIMOTHY Yeah one circumstance in which you typically use in it is when doing exposure to the actual situation is just not possible, or the nature of the fear does not lend itself to an exposure. So an example would be like an obsessive thought or image that's disturbing to the client in another(ph) self, such as like an explicitly violent or sexually graphic scene, uh you know uh of harming someone. Uh or ones clients think are you know sacrilegious or immoral but can't stop thinking or picturing. 
+
+00:30:25
+ARTHUR And can imaginal exposures also be conducted to the consequences the client fears? 
+
+00:30:30
+TIMOTHY Yeah that's actually very common, like uh you know starting a fire by not checking or being deathly ill from contamination and imaginal rehearsal, can also be used to prepare a client for exposure in vivo so they can practice. 
+
+00:30:45
+ARTHUR Okay, but tell us Tim how are response prevention plans typically set-up? 
+
+00:30:50
+TIMOTHY Well a lot of therapist who use uh you know these EST's and specialize in OCD will tell you that it's ideal if the clients will commit to just stopping rituals when the therapy starts and just try to hang in there and stick with it. But a graduated approach is what has been studied most and is most commonly used to clinically, the typical instruction is to stop or limit rituals associated with that days' exposure from that point onward. 
+
+00:31:15
+ARTHUR Limit hand washing to x number of times a day and only for so long for example. 
+
+00:31:20
+TIMOTHY Yeah exactly, and you know another example is to limit checking like lights or the stove etc... to just one time and then move on. 
+
+00:31:30
+ARTHUR This sounds impossible, clients will be resistant to it, but they can do it. 
+
+00:31:35
+TIMOTHY They can and you know as they stack successes it gets better and better for them but you can also see how the clients persistence and compliance are challenged especially for more severe OCD. 
+
+00:31:45
+ARTHUR This persistence and consistency is one of the reasons why this treatment is usually scheduled more frequently than most and is sometimes treated intensively and in in-patients setting. 
+
+00:31:55
+TIMOTHY Yeah for more sever OCD, it's important to stay on top of it, do it frequently etc... especially at the beginning. 
+
+00:32:05
+ARTHUR So as therapy winds down there is typically some work done to help prevent relapse. 
+
+00:32:10
+TIMOTHY Yeah OCD like all anxiety disorders is-is prone to relapse, perhaps even more so, so there's an emphasis on relapse prevention in these empirically supported treatments. 
+
+00:32:20
+ARTHUR A major thrust of relapse prevention is to consolidate the client's new approach to fear and incorporate it into his or her way of life as an ongoing way of living. 
+
+00:32:30
+TIMOTHY Yeah, that's exactly right. You know especially you know cognitive changes and -and the exposure and things like that you want to incorporate. 
+
+00:32:40
+ARTHUR Relapse prevention approaches used share many features with the relapse prevention approaches that came out of substance abuse work. 
+
+00:32:45
+TIMOTHY Yeah, I mean I think they grew out of that work, but with an emphasis on maintaining a non-fearful, non-avoidant approach as opposed to like an abstinence approach in substance use. 
+
+00:32:55
+ARTHUR With this information in mind let's take a look at how we can empirically inform our treatment planning process using ESTs for OCD. 
+
+00:33:05
+Integrating the EST into Treatment Planning 
+
+00:33:10
+ARTHUR After determining that obsessive compulsive disorder is the primary presenting problem we then add to the treatment plan those behavioral manifestations of OCD that define the clients expression of the disorder. Although there are commonalities in the presentation of OCD, the treatment plan is tailored to each client's particular expression of it. 
+
+00:33:30
+Examples of Behavioral Definitions 
+
+00:33:30
+TIMOTHY Here's a list of behavioral definitions commonly used for OCD. Note the focus on intrusive thoughts, images, or impulses that define the disorder and on the failed attempts to control them, unlike those suffering with psychosis, those with OCD understand that the intrusive thoughts are products of their own minds and not inserted by some outside source. 
+
+00:33:50
+1. Intrusive, recurrent and unwanted thoughts, images, or impulses that distress and/or interfere with the client's daily routine, job performance, or social relationships. 
+
+00:33:50
+2.Failed attempts to ignore or control these thoughts or impulses or neutralize them with other thoughts and actions. 
+
+00:33:50
+3.Recognition that obsessive thoughts are a product of his/her own mind 
+
+00:33:55
+TIMOTHY For those to whom they apply compulsions are described as is recognition that the OCD symptoms are excessive, unreasonable, or both. 
+
+00:34:00
+4.Repetitive and/or excessive mental or behavioral actions are done to neutralize or prevent discomfort or some dreaded outcome. 
+
+00:34:00
+Recognition of repetitive thoughts and/or behaviors as being excessive and unreasonable, not realistic worries about life's problems. 
+
+00:34:05
+ARTHUR The next step in treatment planning is to determine long-term goals. Again these are generated collaboratively with the client. 
+
+00:34:10
+Examples of Long-term Goals: 
+
+00:34:10
+1.Reduce the frequency, intensity, and duration of obsessions and compulsions. 
+
+00:34:10
+2. Reduce time involved with or interference from obsessions and compulsions. 
+
+00:34:10
+3.Function daily at a consistent level with minimal interference from obsessions and compulsions. 
+
+00:34:15
+ARTHUR Examples might include: reduce the frequency, intensity, and duration of obsessions and compulsions or function daily at a consistent level with minimal interference from obsessions and compulsions. Of course there may be other goals that you want to develop and add to this list as well. 
+
+00:34:35
+TIMOTHY We now direct our attention to client objectives and therapist interventions consistent with empirically supported treatments for OCD. 
+
+00:34:40
+Assessment Phase See workbook for more complete information 
+
+00:34:40
+TIMOTHY While common to all forms of therapy, the assessment phase of OCD treatment typically involves obtaining a detailed description of the nature and history of the OCD symptoms as well as the impact of the OCD on social, occupational and interpersonal functioning. 
+
+00:34:55
+Short-term Objectives Therapeutic Interventions 1. Describe the nature and history of OCD symptoms. 1. Focus on developing a level of trust with the client; provide support and empathy to encourage the client to feel safe in expressing his/her OCD symptoms. 2. Assess the client's frequency, intensity, duration, and history of obsessions and compulsions (e.g., The anxiety disorders interview schedule for the DSM-IV by DiNardo, Brown, and Barlow). 2. Complete psychological tests designed to assess and track the nature and severity of obsessions and compulsions. 1. Administer an objective test of OCD symptoms to further assess its depth and breadth (e.g., The Yale-Brown obsessive-compulsive scale et. al.) 
+
+00:35:00
+TIMOTHY Psychological tests or objective measure may be used to supplement the clients clinical interview and/or track treatment response. 
+
+00:35:05
+Short-term Objectives Therapeutic Interventions 3. Obtain a complete medical evaluation to rule out medical and substance-related causes for anxiety symptoms. 1. Refer the client to a general physician for a complete medical examination to rule out medical and substance-related etiology for the anxiety. 2. Assist the client in following up on the recommendations from a physical evaluation, including medications, lab work, or specialty assessments. 4. Cooperate with a medication evaluation. 1 Assess the client's need for medication (e.g., selective serotonin reuptake inhibitors). 2. Monitor and evaluate the client's psychotropic medication prescription compliance and the effectiveness of the medication on his/her level of functioning. 
+
+00:35:05
+TIMOTHY A medical exam may be warranted to rule out medical or substance-related etiologies. Of course a medication evaluation may be warranted should the client decide to explore this option. 
+
+00:35:20
+ARTHUR Empirically supported treatments for OCD emphasis initial and ongoing psycho education. 
+
+00:35:25
+Psychoeductaion See workbook for more complete information 
+
+00:35:25
+ARTHUR In addition to helping facilitate a client's progress and therapy, the process and content of psycho education is used to reassure, instill hope, motivate and otherwise enhance the therapeutic relationship. 
+
+00:35:40
+Short-term Objectives Therapeutic Interventions 5.Verbalise an accurate understanding of OCD and how it develops. 1. Convey a cognitive behavioral model for the development and maintenance of OCD highlighting the role of fears and avoidance in its maintenance (see Mastery of obsessive-compulsive disorder by Kozak and Foa). 6> Verbalise and understanding of the treatment rationale for OCD. 1. Discuss how treatment serves as an arena to desensitize learned fear, reality test obsessional fears and underlying beliefs, and build confidence in managing fears without compulsions (see Mastery of obsessive-compulsive disorder by Kozak and Foa). 2. Assign the client to read psychoeducational chapters of books or treatment manuals on the rationale for exposure and ritual prevention therapy and/or cognitive restructuring of OCD (Mastery of obsessive-compulsive disorder by Kozak and Foa; or Stop obsessing by Foa and Wilson). 
+
+00:35:40
+ARTHUR Common themes include conveying a conceptualization of OCD consistent with the treatment model, describing the treatment approach and its rationale and enhancing engagement of the client and treatment. Examples of objectives and interventions consistent with psycho education may look like these. Reading material may be assigned to supplement psycho education done in session. 
+
+00:36:05
+TIMOTHY Having briefly reviewed assessment and psycho education objectives and interventions, let's now move to integrating objectives and interventions consistent with therapeutic features of identified ESTs for OCD. 
+
+00:36:20
+Cognitive Therapy Objectives and Interventions See the Workbook for more complete information. 
+
+00:36:20
+TIMOTHY Objectives and therapeutic interventions descriptive of cognitive therapy for OCD highlight the major features of the cognitive therapy process, including psycho education related to cognitive restructuring, exploring fearful self-talk and beliefs, identifying and challenging biases, generating alternatives and prediction testing through use of behavioral experiments. 
+
+00:36:45
+Short-term Objectives Therapeutic Interventions 7.Identify and replace biased, fearful self-talk and beliefs. 1. Explore the client's biased schema and self-talk that mediate his/her obsessional fears and compulsions; assist him/her in generating thoughts that correct for biases; use behavioral experiments to test fearful versus alternative predictions (see Obsessive-compulsive disorder by Salkovskis and Kirk). 2.Assign the client a homework exercise in which he/she identifies biases in the self-talk, generates alternatives, and tests though behavioral experiments; review and reinforce success, providing corrective feedback toward improvement. 
+
+00:36:45
+TIMOTHY Homework assignments related to any of these tasks are used commonly in this therapy. 
+
+00:36:50
+ARTHUR In this vignette a therapist and client engaged in an exchange typical of cognitive therapy. Let's take a look at it. 
+
+00:37:00
+UNKNOWN You've done a good job with the diary of your thoughts Jan. So the chance that you might have to use a restroom other than the one at home brings on this fearful self-talk. 
+
+00:37:10
+JAN Yeah, I try to just use my own, but sometimes I have to use a public restroom and that's hard for me. 
+
+00:37:15
+UNKNOWN Most of the self-talk examples are about how you need to avoid getting germs on you. And if you do your concern is... 
+
+00:37:20
+JAN Getting sick. 
+
+00:37:25
+UNKNOWN Of course. What does getting sick mean to you? 
+
+00:37:25
+JAN I don't know. I don't like to think about it. 
+
+00:37:30
+UNKNOWN I understand. It's important that we talk about it some here though. 
+
+00:37:35
+JAN I know 
+
+00:37:35
+UNKNOWN Most people don't like getting sick. For a while you feel bad, it takes you out of your day to day life. For you it's more than that. 
+
+00:37:45
+JAN I guess. I just don't like it. I guess I'm afraid of the consequences of getting sick. 
+
+00:37:50
+UNKNOWN Something worse? 
+
+00:37:50
+JAN It sounds silly, but yeah, like dying or something. 
+
+00:37:55
+UNKNOWN It's not silly, but it might be unrealistic. It's a fear. People have fears. Sometimes your fears are realistic and any anxiety we feel helps to keep us from danger. Other times our fears are unfounded, so therefore the anxiety is not helpful. Your mind is thinking that germs will lead you to becoming ill, so you avoid germs at all costs. But what if that belief is not accurate? 
+
+00:38:20
+JAN How do you know the difference whether the fear is realistic or not? 
+
+00:38:20
+UNKNOWN That's a good question. First we need to know exactly what the fear is saying, then we need to see if what it is saying makes sense in reality. Let's explore further what it's saying to you, so to speak. So we now have a good picture of what the fear is saying to you when you're anxious. It's saying, "I can't get the germs on me, they'll get inside of me and make me sick. If I were sick it would be horrible, I might even die." 
+
+00:38:45
+JAN When I hear it like that it sounds kind of crazy. 
+
+00:38:50
+UNKNOWN Well it's important to hear it the way that it sounds. Sometimes it gives us some perspective. When you heard it this way, you said it sounds crazy. What about it strikes you as crazy? 
+
+00:39:00
+JAN I don't know. I mean, I can see I'm probably not going to die. But I can't help it, it's like it has control over me. 
+
+00:39:05
+UNKNOWN I understand, so when you say crazy, you mean the fearful self-talk is exaggerating the likelihood of death. You can see this logically, but it's hard to fully believe it, right? 
+
+00:39:15
+JAN Yeah, I can see logically I probably won't die. It's just hard to convince myself of that when I'm scared. 
+
+00:39:25
+UNKNOWN That's true. Strong emotions like when you feel really scared can be very convincing. When we feel a strong emotion like fear or depression or anger for that matter, it sometimes makes what we're thinking at the moment seem more true. For example when people are really angry, have you found that they aren't really open to alternative points of view at that moment? 
+
+00:39:40
+JAN Yeah, to say the least. 
+
+00:39:45
+UNKNOWN Right, you've seen this happen. What they're thinking at the moment is very convincing to them but that, does that make it true? Have you ever known someone to be angry but they don't know the whole story? I mean their anger is based on just part of the story or even on misinformation. 
+
+00:40:00
+JAN Yeah, I suppose that's the case most of the time when you're angry. 
+
+00:40:00
+UNKNOWN Perhaps. Do you see that feeling something strongly can make what we're thinking at the moment very convincing, but the feeling doesn't necessarily mean that it's true does it? 
+
+00:40:10
+JAN No, I guess not. I guess if you don't know the whole story. 
+
+00:40:15
+UNKNOWN So let's look at what your fear is, fear is telling you, and see if it's telling you the whole story. 
+
+00:40:20
+JAN Alright. 
+
+00:40:20
+UNKNOWN So let's imagine every time this fearful voice decides to tell you these things it has to make a prediction of what will actually happen. So what would the fear predict in this case, if I use a public restroom I'm going to... 
+
+00:40:35
+JAN Umm.. get sick 
+
+00:40:40
+UNKNOWN Sure that is what it is saying. And getting sick would lead to what? 
+
+00:40:40
+JAN Well, I guess dying. 
+
+00:40:45
+UNKNOWN It says that sometimes doesn't it? Also feeling awful? 
+
+00:40:50
+JAN Yeah. 
+
+00:40:50
+UNKNOWN You see, we're forcing it to make predictions, and this is what it predicts. Every time you felt anxious about being contaminated, a fearful voice is essentially making a prediction that you're likely to get sick, that would be awful and that you could die. Do you agree that this is the prediction? 
+
+00:41:05
+JAN Yeah, if you're forced to make a prediction, okay. It sounds a little dramatic when you think of it that way though. 
+
+00:41:10
+UNKNOWN Right, you're getting that perspective thing again. But this is what it's saying, this is what the fear is saying correct? 
+
+00:41:20
+JAN Yeah. 
+
+00:41:20
+UNKNOWN Now let's look at if the fearful voice is telling the truth. If it is, it should be predicting pretty accurately. 
+
+00:41:25
+JAN Alright. 
+
+00:41:25
+UNKNOWN How many times do you think the thought that you might be contaminated has crossed your mind? 
+
+00:41:30
+JAN Oh wow! I don't know. Probably thousands, millions. 
+
+00:41:40
+UNKNOWN So if the prediction is right, then how many times should you have gotten sick? And how many times did you actually get sick? Shouldn't they be the same? 
+
+00:41:45
+JAN I see. No of course I've not been sick a thousand times, maybe just a few times in the last three or four years. 
+
+00:41:50
+UNKNOWN Good you're getting it. By challenging the voice when you make it predict, you've learned in reality that the fear predicts sickness way more than it actually occurs. 
+
+00:42:05
+JAN Yeah, it does. 
+
+00:42:05
+UNKNOWN That's the over estimation bias we've talked about. But it has been right about getting sick a few times hasn't it? 
+
+00:42:10
+JAN Yeah, I've been sick before. 
+
+00:42:15
+UNKNOWN Right, but all the bad consequences of getting sick... 
+
+00:42:15
+JAN Right, I'm still here. 
+
+00:42:20
+UNKNOWN Our self-talk influences what we feel and how strong we feel it. Your self-talk has been over-estimating the likelihood of getting sick, and it clearly overestimated how severe your sickness would be, it hasn't resulted in your death or need for hospitalization. Looking at the evidence from your life, how would you finish this sentence? Getting sick isn't pleasant, but it's not... 
+
+00:42:40
+JAN ...going to kill me. 
+
+00:42:45
+UNKNOWN Exactly. So the realistic self-talk message you can give yourself to replace the exaggerated ones are - I'm probably not going to get sick from these germs, if I do get sick it's not going to kill me. That's a prediction that's been proven in the past. I think for you to have to believe it again, we're going to have to test it. Let's talk about that. 
+
+00:43:05
+ARTHUR I think this is a good representation of the cognitive restructuring technique. He's beginning to lead her into thinking more analytically about her own self-talk. 
+
+00:43:15
+TIMOTHY Uh huh. 
+
+00:43:20
+ARTHUR One step at a time breaking down her self-talk and leading her back in the process, and maybe getting her to even challenge that a little bit. 
+
+00:43:25
+TIMOTHY Uh huh. Yeah, I think this vignette demonstrates a lot of concepts consistent with the kind of cognitive restructuring you'd see in OCD. And one is just that connection between the thinking and the emotion. I like that he uh... conveyed this emotional reasoning concept, you know, this notion that you know, using your feelings to validate what you're thinking, because I feel so anxious it must mean what I'm thinking is true, and I think he did a good job. 
+
+00:43:55
+ARTHUR Yeah, and he related that to anger, she seemed to understand that and grasp it quite quickly. When you, when someone's angry they aren't thinking very clearly. 
+
+00:44:00
+TIMOTHY Yeah, he used an example that most people can relate to very easily, so I thought that was good. 
+
+00:44:05
+ARTHUR Yeah, drove that point home very nicely. And I think getting her to see how her thoughts lead to her fears is an important step for her and she needs then to begin to think might be there's some other thoughts I should be having here. He's beginning to lead her to seeing there's some alternative ways of thinking that may challenge those ways you have been, the biased ways you have been thinking. 
+
+00:44:30
+TIMOTHY And I think another thing the vignette conveys is that understanding those alternatives is not the same as believing them. 
+
+00:44:35
+ARTHUR That's right. 
+
+00:44:35
+TIMOTHY Right. And usually believing them doesn't come through talking about them and intellectually kind of understanding that. It comes through actually then seeing them in your experience and the way that, that's often done in cognitive therapy is to convert them to predictions and then go test them. 
+
+00:44:50
+ARTHUR And he points that out at the end, you're going to have to live this a bit and prove to yourself that these alternatives are real. 
+
+00:44:55
+TIMOTHY Yeah, in fact what happens in OCD umm that uh we've discussed is that he's probably going to prescribe something that looks a lot like exposure. You know what a behavior would call exposure. His behavioral experiment is probably going to have her contacting the things she fears. 
+
+00:45:15
+Exposure Treatment Objectives and Interventions See the Workbook for more complete information. 
+
+00:45:15
+ARTHUR Let's move on now to examples of objectives and interventions consistent with exposure and response prevention. This treatment approach begins with a thorough assessment of internal and external triggers to the OCD, which are then used to construct one or more graduated fear hierarchies, depending on the number and type of triggers. 
+
+00:45:35
+Short-term Objectives Therapeutic Interventions 8.Undergo repeated imaginal or in vivo exposure and response prevention to fearful internal and/or external cues. 1. Assess the nature of any internal cues (thoughts, images and impulses) and external cues (e.g., persons, objects, and situations) that precipitate the client's obsessions and compulsions. 2. Direct and assist the client in construction of fear hierarchies related to feared internal and external fear cues. 3. Conduct initial exposures (imaginal or in vivo) to the internal and/or external OCD cues that have a high likelihood of being a successful experience for the client; include response prevention and cognitive restructuring within and after exposures (see Mastery of obsessive-compulsive disorder by Kozak and Foa; or Treatment of obsessive-compulsive disorder by McGinn and Sanderson). 4. Assign the client a homework exercise in which he/she repeats exposures to internal and/or external OCD cues using response prevention and restructured cognitions, ask client to record responses (or assign "Reducing the Strength of Compulsive Behaviors" in Adult psychotherapy homework planner, 2nd ed. By Jongsma); review during next session, reinforcing success and providing corrective feedback toward improvement (see Mastery of obsessive-compulsive disorder by Kozak and Foa). 
+
+00:45:35
+ARTHUR The next intervention statement describes the introduction of therapist assisted imaginal and/or graduated live exposure as well as the integration of cognitive restructuring characteristic of CBT approaches to OCD. Intervention statement number four describes the continuation of exposure therapy including repeated exposure and response prevention between sessions, and review of the exposures during sessions. Variations on this basic format can easily be incorporated into the treatment plan. 
+
+00:46:15
+TIMOTHY In this vignette the therapist and client do an initial exposure, targeting the client's fears of being contaminated in contact with fixtures in a public bathroom. 
+
+00:46:25
+UNKNOWN How are you feeling today Jan? 
+
+00:46:30
+JAN I'm nervous, pretty nervous. 
+
+00:46:30
+UNKNOWN About doing the exposure? 
+
+00:46:30
+JAN Yeah. 
+
+00:46:35
+UNKNOWN Well that's perfectly normal. I'm glad you decided to do it. We're going to do this together and at you're pace. It might be helpful to go over again why we're doing this. What's your stance of it. 
+
+00:46:45
+JAN I think I need to prove to myself that my fears aren't true. I've felt better when I see that. 
+
+00:46:50
+UNKNOWN Good one of the ways we're going to do that is by testing the predictions we've generated. One set based on fear and the other based in reality, correcting for the biases associated with the fear. 
+
+00:47:05
+JAN Yeah, when I look at them, I can kind of see that the fear looks kind of exaggerated. It's just the nervousness you know. 
+
+00:47:10
+UNKNOWN I understand. Another reason for doing exposure, is to allow that anxiety to run its course, to drain away. If we let it come on, ride it out without trying to run, it will weaken. As we do this repeatedly we can expect the anxiety to diminish. 
+
+00:47:25
+JAN I hope so. 
+
+00:47:30
+UNKNOWN Good. Why don't we rehearse exactly what we're going to do before we try. 
+
+00:47:30
+JAN Okay 
+
+00:47:35
+UNKNOWN Okay Jan we're going to work on exposure to th-the fears that you have from the germs in the bathroom. Like we said you're going to touch the surface, let you're your hands be, no wiping, rubbing, washing just let them be, just like we rehearsed okay? 
+
+00:47:50
+JAN Okay. 
+
+00:47:50
+UNKNOWN While we're doing this, I'm going to ask you for your anxiety rating every once in a while so we can see what it's doing. 
+
+00:47:55
+JAN Okay 
+
+00:48:00
+UNKNOWN And we're going to stay with it, until the anxiety goes down noticeably. You and I will be talking about that throughout. 
+
+00:48:05
+JAN Alright. 
+
+00:48:05
+UNKNOWN You ready? 
+
+00:48:10
+JAN Okay. 
+
+00:48:10
+UNKNOWN Also just like we rehearsed, I'm going to show you what I'd like for you to do and then I'm going to ask you to do it, alright? Okay? 
+
+00:48:15
+JAN Okay 
+
+00:48:15
+UNKNOWN Okay, here we go. I'm putting my hands on the sink. Let them sit there for a moment, and then I'm taking them off without rubbing or washing or doing anything with them. Ok Jan are you ready? 
+
+00:48:35
+JAN Not really, but I'm just going to do it. 
+
+00:48:35
+UNKNOWN Good, what's your rating right now? 
+
+00:48:40
+JAN Uh.. about a six or seven. 
+
+00:48:40
+UNKNOWN Okay, it's your turn. Good job you got your hands on the sink now, just leave them there, hold them there for a bit and then let's take them off. You're doing just fine. Good job Jan what are you feeling now? 
+
+00:48:55
+JAN I just don't like it! I feel contaminated. 
+
+00:49:00
+UNKNOWN I know, hang in there, you're doing great. Where's your anxiety level now? 
+
+00:49:05
+JAN Same about a six. 
+
+00:49:05
+UNKNOWN Okay, how strong are your urges to clean your hands? 
+
+00:49:10
+JAN Pretty strong, a seven or an eight. 
+
+00:49:15
+UNKNOWN Alright, you're doing just fine. Don't wash. Like we said the anxiety and the urges are going to come and your fear is going to want to talk to you. What's running through your head right now? 
+
+00:49:25
+JAN I'm trying to stay strong, but I feel like I have germs crawling all over me. 
+
+00:49:30
+UNKNOWN Well we knew that you would feel that way. It's not a surprise, and we know that we may or may not have some germs on us. Do you believe the germs are going to make you sick? 
+
+00:49:35
+JAN Yes, I know it exaggerates it but that's what I'm feeling. 
+
+00:49:40
+UNKNOWN It does exaggerate, but it can make you feel like you do now. Does the feeling make it true. 
+
+00:49:45
+JAN No it doesn't, I'm trying to tell myself that. 
+
+00:49:50
+UNKNOWN It's hard to believe that right now, isn't it? 
+
+00:49:50
+JAN Yeah, it's not easy to see that it isn't true when I'm in the middle of the fear. 
+
+00:49:55
+UNKNOWN You're doing well, what's your rating? 
+
+00:50:00
+JAN A five, it's a little better. 
+
+00:50:00
+UNKNOWN You seem less anxious. Where are you at now? 
+
+00:50:05
+JAN It's at about a three, I don't know, just talking about my fear makes it a little easier. 
+
+00:50:10
+UNKNOWN More like an observer, more objective. 
+
+00:50:10
+JAN Yeah. 
+
+00:50:15
+UNKNOWN Good, you're doing very well Jan. 
+
+00:50:15
+JAN It does come down, doesn't it? 
+
+00:50:15
+UNKNOWN Yeah, it may take longer or shorter depending on the task. But if you let it be and don't run from it by washing or something, it begins running out of steam. 
+
+00:50:25
+JAN But now I wait to see if I get sick. 
+
+00:50:25
+UNKNOWN If we get sick. 
+
+00:50:30
+JAN Right, if we get sick. 
+
+00:50:30
+UNKNOWN And if we do, what are we going to do? 
+
+00:50:30
+JAN I know, just be sick. 
+
+00:50:35
+UNKNOWN What's your rating Jan? 
+
+00:50:35
+JAN I'm feeling a little better, about a two. 
+
+00:50:40
+UNKNOWN Very good. The unrealistic fear is fading. 
+
+00:50:45
+ARTHUR Well even though this is portrayed as exposure or we set it up as exposure, it's really a combination of exposure techniques with cognitive restructuring, response prevention. There's a combination of techniques going on here. 
+
+00:51:00
+TIMOTHY Yeah, and as we discussed, cognitive behavior therapy with exposure response prevention is not only probably the most commonly used approach to this, but it's a well-established EST. And this-this is reflective of that integration. 
+
+00:51:10
+ARTHUR And he is allowing her to test predictions, but he set this up in the office before they went into the restroom. 
+
+00:51:20
+TIMOTHY Yeah I thought that was, I thought that was good. One of the things I think is important, and he did it, is explain the rationale. Make sure they understand the rationale because if they don't really understand the purpose of the exposure, they can do it in ways that are not as effective. For example some people will just endure it and then just get out and so on. Not as therapeutic as if they really understand they're testing predictions. They're learning that their anxiety goes down and things like that. 
+
+00:51:45
+ARTHUR So use some role play, use some rehearsal in the office before you get in to the in vivo situation, and it may reduce some of that anxiety with doing that. 
+
+00:51:50
+TIMOTHY Yeah and then in the situation he demonstrated something called participant modeling, where he does it first. 
+
+00:51:55
+ARTHUR And he uses a lot of reinforcement and encouragement of her. Keep her going "doing a good job", "good job." Yeah, I-I-I like the fact that he's pairing some of that with her behavior and relating to her as a person whose struggling. 
+
+00:52:10
+TIMOTHY Yeah, absolutely. I think one of the things that's important for viewers to realize if they haven't done this, is this probably represents maybe the first exposure or this is very low on the hierarchy and it's going to get more challenging for this individual as they really test these fears more, in a more valid way. 
+
+00:52:30
+ARTHUR This client is going to face more difficult exposures as the therapy goes on and tha-that's going to be more anxiety producing for her, but she's learning the techniques at this stage. 
+
+00:52:40
+TIMOTHY Yeah, absolutely. 
+
+00:52:40
+ARTHUR Yeah, I think that will be good. 
+
+00:52:45
+TIMOTHY Yeah 
+
+00:52:45
+Relapse Prevention 
+
+00:52:45
+TIMOTHY Whether treated pharmacologically, psychologically or both, OCD like all anxiety disorders is prone to relapse. Let's take a look at common considerations in relapse prevention and how they can be incorporated into your treatment plan. With OCD there is some empirical evidence supporting more structured application of these interventions. 
+
+00:53:05
+ARTHUR One of the first steps in relapse prevention and interventions is to provide a rationale for them. 
+
+00:53:10
+Short-Term Objectives 1. Explain the rationale of Relapse Prevention interventions. 2.Distinguish between lapse and relapse. Therapeutic Interventions 1.Provide a rationale for relapse prevention that discusses the risk and introduces strategies for preventing it. 1. Discuss with the client the distinction between a lapse and relapse, associating a lapse with a temporary setback and relapse with a return to a sustained pattern thinking, feeling and behaving that is characteristic of OCD. 3. Identify "high-risk" situations for a lapse. 1. Assist the client in identifying and listing situations in which the client is at greater risk of relapse; review previous situations that have been triggers for obsessive compulsive thoughts or behavior. 4. Review the application of skills learned in therapy to high-risk situations. 1. Identify and rehearse with the client management of future situations or circumstances in which lapses could occur. 
+
+00:53:10
+ARTHUR This typically involves a discussion of the risks for relapse and how using the relapse prevention approach we will outline, can lower that risk. This can be captured in your treatment plan by including a therapist intervention such as this. 
+
+00:53:25
+TIMOTHY Another initial step in relapse prevention is to distinguish between lapse and relapse. A lapse is presented as a rather common temporary setback that may involve for example re-experiencing and obsessional thought, image or impulse or finding oneself engaging in an old compulsive behavior or mental act. Relapse on the other hand is described as the return to a sustained pattern of thinking, feeling and acting that is characteristic of OCD. The rationale for this distinction is that lapses do not need to develop into relapse if they can be caught and managed. This component of relapse prevention can be captured in a therapist intervention such as this one. 
+
+00:54:05
+ARTHUR Accordingly high-risk situations that might make the client vulnerable to a lapse are identified. This discussion may be informed by past difficult experiences or anticipated new ones. Some examples include, having an interpersonal conflict after not having had one for some time, going to a place where exposure hasn't been done and being in the presence of old triggers for it, having a stressful day, week or other period and starting to obsess or ritualize to ease the stress. The therapist intervention such as the one on your screen now illustrates how you might state this identification process. 
+
+00:54:45
+TIMOTHY For the high risk situations identified the therapists leads the client in a rehearsal of using skills learned in therapy to manage them. Including the skill of developing a tolerance for occasional thoughts and feelings or working on how to begin problem solving them. Identifying and rehearsing the management of high-risk situations can be captured in the treatment plan by including a therapist intervention such as this one. 
+
+00:55:10
+Short-Term Objectives 5.Encourage routine use of skills learned in therapy. Therapy Interventions 1. Instruct the client to routinely use strategies learned in therapy (e.g., continued everyday exposure, cognitive restructuring, problem-solving), building them into his/her life as much as possible. 2. Develop a "coping card" on which coping strategies and other important information can be kept (e.g., steps in problem-solving, positive coping statements, reminders that were helpful to the client during therapy). 6. Schedule Periodic "Booster" Therapy Sessions. 1. Schedule periodic maintenance or "booster" sessions to help the client maintain therapeutic gains and problem-solve challenges. 
+
+00:55:10
+ARTHUR In addition to using skills learned in therapy to manage high-risk situations, clients are also encouraged to use strategies learned in therapy during their day to day life. Examples include everyday exposures, self-statement reflecting the new messages gained through cognitive restructuring and problem-solving. The intervention now on your screen reflects this prevention emphasis in the treatment plan. Sometimes clients benefit from having a coping card or other reminder of important strategy information regarding relapse prevention. If you decide to use this aid it can be captured in the treatment plan, by including this second intervention for objective number five. 
+
+00:55:55
+TIMOTHY Finally periodic booster sessions of therapy can help reinforce positive changes, problem solve challenges and facilitate continued improvement. So clients are invited to periodically revisit therapy for these purposes. The table on your screen shows an example of how the therapist interventions we've just discussed could be incorporated into a psychotherapy treatment plan to help the client achieve the objective of learning and implementing relapse prevention strategies. 
+
+00:56:20
+ARTHUR Let's take a look at a vignette in which relapse prevention is the focus of the intervention. 
+
+00:56:30
+UNKNOWN Jan last time we talked about how some people who have overcome OCD are still vulnerable to having a lapse where they find themselves obsessing about something or ritualizing after not having done so for quite a while. 
+
+00:56:40
+JAN Right I remember. 
+
+00:56:45
+UNKNOWN Good, you may also recall that we made a distinction between a lapse or a setback and a relapse, which involves reverting back to having fear and avoidance guide your daily actions more completely, like when you first came in for treatment. 
+
+00:56:55
+JAN I can't imagine going back to that, but I think it's good to know what I should be doing to prevent it. 
+
+00:57:00
+UNKNOWN Great that's what I'd like to spend sometime with today. So let's start with stress, it's not unusual for lapses to occur while we're under stress, the stress could be general everyday things. It could be a particularly demanding situation like increased demands at work or it might be a situation that use to be associates with the OCD where you may feel a pull to go back to the old habits. 
+
+00:57:25
+JAN Okay I can see that. 
+
+00:57:30
+UNKNOWN So why don't we begin by looking into the near future identifying any foreseeable challenges, situations that might challenge you to forget what you learned in therapy. 
+
+00:57:40
+JAN Okay. Well, one thing that's been on my mind is the upcoming holidays. We'll stay over with my husband's family for a few days and just being away from home, all the different people, using their restrooms of course, I haven't done that in a while, and I've been thinking about how I am going to do there. 
+
+00:57:55
+UNKNOWN That's a great example. You haven't done that in a while. So let's imagine going into your relatives' house, like a rehearsal of it and walk through what you want to try to do to meet the challenges that you anticipate. Let's talk a little about a different type of challenge and what you want to do should it come up. Let's imagine that you've actually discovered that you've actually had a setback and let's talk about what you want to try to do should that occur. 
+
+00:58:20
+JAN You mean like if I started washing again? 
+
+00:58:20
+UNKNOWN Yeah, or found yourself starting to be consumed with the thought of contamination. Maybe work has been busy and you're feeling stressed. 
+
+00:58:30
+JAN Okay that definitely happens. 
+
+00:58:30
+UNKNOWN Alright and imagine under the stress of that you find yourself starting to wash excessively, kind of mindlessly, and you find yourself thinking about it again. Maybe you've done it a few times and then realized you had this little setback. Let's talk about what you want to do to try to get back on track. 
+
+00:58:55
+JAN Alright, well the first thing that comes to my mind is to get a handle on my thinking. 
+
+00:59:00
+UNKNOWN Alright Jan so let's review what you want to try to do should you have a setback. I'm going to write them down on this coping card that you can take with you as a reminder if you ever need it. 
+
+00:59:10
+JAN Okay, well, first I talk to myself to put things in perspective. 
+
+00:59:10
+UNKNOWN Say things like what? 
+
+00:59:15
+JAN Uh things like, "this is what we said could occur, it's not a catastrophe, it is not a relapse," and just remind myself that I've managed this before. 
+
+00:59:25
+UNKNOWN Excellent, and we want to not let it spread to other situations, right? 
+
+00:59:30
+JAN Right, restrict the setback. 
+
+00:59:30
+UNKNOWN Exactly. And then what, how do you want to proceed from there? 
+
+00:59:35
+JAN Well I like the idea of rewinding the tape and thinking how I would do it again. 
+
+00:59:40
+UNKNOWN Okay, kind of a do over in your mind. 
+
+00:59:45
+JAN Yeah, and then plan it out how I want to do it next time. 
+
+00:59:45
+UNKNOWN Good, then layout how you want to do it and then? 
+
+00:59:50
+JAN And then just go do it. 
+
+00:59:50
+UNKNOWN Excellent Jan. And you want to add any memory aids like on sinks or mirrors for this. 
+
+01:00:00
+JAN Yeah, I still have those little blue dots all over the place. They help remind me of my plan. 
+
+01:00:05
+UNKNOWN Great, how about a few self-statements on the card that can help you stay strong. 
+
+01:00:10
+JAN I think we can just put that - Be strong, be positive, be realistic. 
+
+01:00:15
+UNKNOWN What do those words mean to you? 
+
+01:00:15
+JAN It's kind of what I've said to myself to help me get though all the exposures we've done. I use to say it before all this whenever I needed a boost. 
+
+01:00:25
+UNKNOWN So it's coming back to you, it's believable again. 
+
+01:00:30
+JAN Yeah, it makes me feel good about myself. 
+
+01:00:30
+TIMOTHY Well there's a lot of concepts from relapse prevention I think that are conveyed in this vignette. Umm you know one of them that you heard was this-this distinction between lapse and relapse 
+
+01:00:40
+ARTHUR And identifying trigger events, he points out some of that. 
+
+01:00:45
+TIMOTHY Yeah a lot of this vignette is identifying these kinds of high risk situations for a lapse and then kind of rehearsing how do you want to cope if this occurs. I think one of them they gave was umm doing new exposures that you hadn't done in therapy. 
+
+01:01:00
+ARTHUR uh huh 
+
+01:01:00
+TIMOTHY Yeah, the other one was dealing with an actual setback. 
+
+01:01:05
+ARTHUR Yeah and the fact that he helped identify what future stressful events might there be that you need to prepare for. 
+
+01:01:10
+TIMOTHY Yeah, yeah, And I thought he did a good job of then taking her through what would that look like. And they've obviously done some work and talking about how they want to cope. 
+
+01:01:15
+ARTHUR Sure 
+
+01:01:15
+TIMOTHY She had some catch phrases and things like that that reflected that they must have done some psycho education. But I think it's a good demonstration of how that's done. 
+
+01:01:25
+ARTHUR Yeah. A lot of different coping skills were taught here, and referred to as 'okay, now let's remember all the things that you've learned in therapy, you've got to apply those to these stressful situations that are coming up'. Coping card was one of those and she was able to summarize things, like 'be strong, be positive'. 
+
+01:01:40
+TIMOTHY Yeah, yeah another thing they talked about in there that may be confusing to some is this whole blue dot thing. And what they are referring to is, a lot of times something that's talked about in session you would like them to remember in the situation, in the environment. And if you can put a prompt for that out there, and in her case she must have used sticky blue dots you know, they only have to mean something to her. And that kind of reminds the client outside the session you know oh yeah be strong... 
+
+01:02:05
+ARTHUR Cognitive message I should give to myself and so on. 
+
+01:02:10
+TIMOTHY Subs generalized out into the environment. 
+
+01:02:10
+ARTHUR Sure. Well, all in all I think this is a good representation of a lot of different skills for relapse prevention. 
+
+01:02:15
+Primary Problem: Obsessive-Compulsive Disorder 
+
+01:02:15
+Behavioral Definition: 
+
+01:02:15
+1. Intrusive, recurrent and unwanted thoughts, images, or impulses that distress and/or interfere with the client's daily routine, job performance, or social relationships. 2. Failed attempts to ignore or control these thoughts or impulses or neutralize them with other thoughts and actions. 3.Recognition that obsessive thought are a product of his/her own mind. 4.Repetitive and/or excessive mental or behavioral actions are done to neutralize or prevent discomfort or some dreaded outcome. 5.Recognition of repetitive thoughts and/or behaviors as being excessive and unreasonable, not realistic worries about life's problems. Diagnosis. Obsessive Compulsive Disorder (300.3) 
+
+01:02:15
+Long Term Goals: 
+
+01:02:15
+Reduce the frequency, intensity, and duration of obsessions and compulsions. 2.Function daily at a consistent level with minimal interference from obsessions and compulsions. 
+
+01:02:20
+TIMOTHY On your screen now appears an example of a final treatment plan that incorporates all of the steps of evidence based psychotherapy treatment planning that we've presented in this program. It includes the primary problem, behavioral definitions of the problem applicable to your client the diagnosis or diagnosis, the long term goal or goals of treatment. And short term client objectives, and related therapist interventions consistent with those of empirically supported treatments, including those related to assessment. 
+
+01:03:00
+[sil.] 
+
+01:03:05
+TIMOTHY Initial and ongoing psycho education, Cognitive restructuring, exposure and response prevention and relapse prevention 
+
+01:03:20
+[sil.] 
+
+01:03:20
+More complete information on the Objectives and Interventions seen in this program can be found in the Workbook and Facilitator's Guide. 
+
+01:03:20
+ARTHUR Today's discussion focused on evidence based psychotherapy planning using goals, objectives, and treatment interventions consistent with those found in identified empirically supported treatments and evidence based treatment guidelines. As you can see there's a significant body of research in this area. 
+
+01:03:45
+TIMOTHY As mentioned previously the purpose of this series is to demonstrate the process of evidence based psychotherapy treatment planning for common mental health problems. It's designed to be informative in nature and does not intent to be a substitute for clinical training in the interventions discussed. For those interested in learning more about empirically supported treatments, references to the empirical support, clinical training materials, and training opportunities are provided in the companion workbook to this DVD. 
+
+01:04:10
+ARTHUR We hope this information will help you in helping your clients live happy and productive lives. 
+
+01:04:20
+[music] 
+
+01:04:20
+Evidence-Based Treatment Planning for Obsessive- Compulsive Disorder 
+
+01:04:20
+Copyright 2010 by Arthur E. Jongsma Jr and Timothy J. Bruce Design copyright 2010 by John Wiley & Sons, Inc. WILEY 
+
+01:04:20
+Special thanks to David J Berghuis. MA LLP Clinical Psychologist President Berghuis Psychological Services PC 
+
+01:04:20
+Produced by Cynthia kay AND COMPANY Music by Dr. Kenneth Bos Grand Rapids Community College 
+
+01:04:20
+END TRANSCRIPT 

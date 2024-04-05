@@ -1,0 +1,530 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+Diagnosing Depression & Initial Antidepressant Selection Kelly N. Gable, Pharm.D., BCPP Associate Professor - SIUE School of Pharmacy Psychiatric Clinical Pharmacist - Places for People Jaron Asher, M.D. Medical Director / Psychiatrist Places for People MMH CMT MU 
+
+00:00:05
+KELLY N. GABLE Hi, my name is Dr. Kelly Gable and I'm an associate professor at SIUE School of Pharmacy and I also practice at Places for People as a psychiatric provider. 
+
+00:00:15
+JARON ASHER And I'm Dr. Jaron Asher. I'm chief behavioral health officer at family care health center and I'm a psychiatrist and I work as medical director at Places for People. 
+
+00:00:25
+Learning Objectives ▪ Discuss medical and psychiatric triggers for depression. ▪ Review the DSM-5 diagnostic criteria for depression and common rating scales used to asses for depression in clinical practice ▪ Evaluate depression cases and select initial antidepressant treatment option MMH CMT MU 
+
+00:00:25
+KELLY N. GABLE Today, we're gonna talk to you about diagnosing depression and the initial antidepressant selection. So over the next hour we-- what we hope to review is, uhm, some of the medical and psychiatric triggers that, uhm, that may, that may trigger depression. And we also wanna review that DSM-5 diag-- diagnostic criteria and some common rating scales that you might find helpful in your practice. And also we're gonna look through some case together and talk through what we might do in those situations to help you, uhm, for your clinical scenarios. 
+
+00:01:00
+Symptoms of Depression Chronic Pain Tearfulness Social Isolation Excessive Worry Irritability Sleep Changes Interest Lacking Guilt Hopelessness Energy Decrease Poor Focus Appetite Chang Depressed Mood MMH CMT MU 
+
+00:01:00
+KELLY N. GABLE So we wanna start up by just talking a little bit about the symptoms of depression and, uhm, in the psychiatric world, we like to use the mnemonic SIGECAPS for depression. And what that does us allow is us to go through the different symptoms and assess for worst signs and symptoms of, ah, depression and, and of course, what comes with that is first depressed mood but also can be an anhedonia or a loss of pleasure in things that one once enjoyed. On top of that though, ah, as we go through the mnemonic, we look at things like sleep changes and a lack of interest in things that one was one-- once interested in, feelings of hopelessness or worthlessness, changes in energy level and usually a dropping energy, poor concentration or focus, and then, finally, appetite changes. So once we go through that mnemonic, we also like to think about all the other ways that depression can present itself especially in a primary care setting. So what we often see, ah, chronic complaints of pain, ah, social isolation or irritability even. Family members reporting irritability and even tearfulness during a session or an appointment with you. So these are the other symptoms of depression that sometimes might present themselves and may not be a clear cut SIGECAPS symptom presentation. 
+
+00:02:15
+Causes of Depression → Medication Class Cardiovascular Agents Sedative-hypnotics Analgesics Hormones Others Medications Methyldopa, resperpine, clonidine, beta-blockers (propranolol) Alcohol, benzodiazepines, barbiturates, chloral hydrate Opioids Corticosteroids, progesterone, estrogen withdrawal, anabolic steroids Interferon, Accutane, Chantix, withdrawal from stimulants (cocaine, crystal meth.) MMH CMT MU 
+
+00:02:20
+KELLY N. GABLE As we're focusing in on primary health care, we also wanna take into account the medications that our patients are taking and also other medical conditions that might even trigger depression or caused depressive symptoms. So we wanna look a little bit at medications on this list here that, uhm, may trigger a depressive episode or may a mere depression. First if we look at cardio vascular agents. On this list, you're gonna see a wide variety of antihypertensives. What we know now about drugs like clonidine or the beta-blockers is that there is a small prevalence of depressive symptoms and episodes triggered from those agents but we now believed that it really is more of the side effects that may prompt, uhm, a depression like state. So the lethargy or the tiredness that one feels once they start a medication like clonidine. Uhm, methyldopa and resperpine are definitely more, uhm, more incline to cause, uhm, depressive symptoms but those are again use less often than, uhm, beta blockers might be. And of course, propranolol which is a more lipophilic, ah, medication is gonna be more implicated, ah, with, with the CNS adverse effects versus other beta-blockers like atenolol. 
+
+00:03:35
+Causes of Depression → Medication Class Cardiovascular Agents Sedative-hypnotics Analgesics Hormones Others Medications Methyldopa, resperpine, clonidine, beta-blockers (propranolol) Alcohol, benzodiazepines, barbiturates, chloral hydrate Opioids Corticosteroids, progesterone, estrogen withdrawal, anabolic steroids Interferon, Accutane, Chantix, withdrawal from stimulants (cocaine, crystal meth.) MMH CMT MU 
+
+00:03:35
+KELLY N. GABLE When you look at the sedative-hypnotics just be mindful that any chronic use of a sedative-hypnotic has the potential to lower one's mood specifically look for things like benzodiazepines used long term or medic-- barbiturates for instance used for epilepsy as well. Chronic opioid use can also, uhm, triggered depressive episodes. When we look at hormones, some of the biggest ones that stand out are corticosteroids and in a primary care setting, you're gonna be more incline to use prednisone, for instance, for acute, ah, inflammation but also chronic conditions that warrant corticosteroid use. You wanna be mindful of one's mood and depression absolutely can, uhm, occur with long term prednisone use. And on acute use of prednisone we look for more manic type episodes or psychotic episode even. With regard to estrogen and progesterone, we do believe that estrogen, uhm, for most women has a protective effect on one's mood. However, it's those, those rapid shifts and, ah, hormone that we wanna be aware of so the reasons start of estradiol products with a recent stop or even, uhm, pre-imposed pregnancy and, uhm, menopause. So those are the times that we wanna be aware of. 
+
+00:04:50
+Causes of Depression → Medication Class Cardiovascular Agents Sedative-hypnotics Analgesics Hormones Others Medications Methyldopa, resperpine, clonidine, beta-blockers (propranolol) Alcohol, benzodiazepines, barbiturates, chloral hydrate Opioids Corticosteroids, progesterone, estrogen withdrawal, anabolic steroids Interferon, Accutane, Chantix, withdrawal from stimulants (cocaine, crystal meth.) MMH CMT MU 
+
+00:04:55
+KELLY N. GABLE And then the others that we want to talk briefly about are medications like interferon. And the problems with depression is so high with medications like interferon that it's important to be aware of it and also to make sure that your patients who are receiving this treatment are also receiving psychiatric care or receiving treatment for their depress-- depressive episode before starting interferon. Ah, Accutane is another one that is commonly, uhm, implicated in psychiatric, ah, side effects and really it's gonna appear like a, a dropping mood, suicidality perhaps, uhm, vivid dreams, nightmare so you wanna be aware of that and monitor for that when you used that agents and another common one that we see in use is Chantix. So we wanna promote smoking cessation and if Chantix is a medication that you used, be aware that it has the potential to cause depressive symptoms and suicidality in some individuals as well. 
+
+00:05:50
+Causes of Depression → Medication Medical illness may be a biological cause: ▪ Stroke ▪ Hypothyroidism ▪ Anemia ▪ Parkinson's disease ▪ Premenstrual dysphoria ▪ Syphilis ▪ Lupus Medical illness may trigger a psychological reaction: ▪ Chronic pain ▪ HIV/AIDS ▪ Cancer ▪ Diabetes ▪ CHF * Depression is 2x as likely in patients with heart disease & diabetes MMH CMT MU 
+
+00:05:50
+KELLY N. GABLE Moving into the medical triggers, it's important that we talk about, uhm, biological causes for depression but also the fact that just being diagnosed with a severe and chronic medical condition can trigger, ah, depressive state. And that could be being diagnosed with HIV or some form of trauma that came from, ah, the diagnosis of the HIV or CHF cancer. On the flip side if we look at more of the biological cause, we look at conditions like hypothyroidism and, ah, what we see is that when one is hypothyroid that they actually may mirror sometimes of depression and just simply treating that hypothyroid case might, uhm, be helpful. Uhm, I think it's important to be mindful that, ah, 60% of people with a diagnosis of depression also have a co-occurring medical condition. So this is gonna be a common phenomenon within a primary care health setting. Depression is often a predictor of higher morbidity and higher mortality as well. In fact, ah, people with depression are two times as likely, uhm, or depression, I'm sorry, is two times as likely in people with heart disease and diabetes. So it's going to be something that you will encounter and, uhm, proper diagnosis and proper treatment is gonna be. 
+
+00:07:10
+Causes of Depression → Psychiatric ▪ Dysthymia ▪ Major Depressive Disorder ▪ Premenstrual Dysphoric Disorder ▪ Bipolar I Disorder ▪ Bipolar II Disorder ▪ Schizoaffective Disorder ▪ Borderline Personality Disorder MMH CMT MU 
+
+00:07:10
+JARON ASHER Thank you, Kelly, for the, uhm, differential diagnosis of depression that was more focused toward medical causes and medication causes. Now, I'm gonna turn my focus to the psychiatric differential diagnosis of depression. Uhm, depression can be mimic by dysthymia which is now called persistent depressive disorder in DSM-5, ah, premenstrual dysphoric disorder, you can have depression in either of the bipolar disorders, uhm, depression might happen with schizoaffective disorder and borderline personality disorder. So let's talk about major depressive disorder, ah, and its criteria. 
+
+00:07:50
+Symptoms of Depression Chronic Pain Tearfulness Social Isolation Excessive Worry Irritability Sleep Changes Interest Lacking Guilt Hopelessness Energy Decrease Poor Focus Appetite Chang Depressed Mood MMH CMT MU 
+
+00:07:55
+JARON ASHER Kelly already went through SIGECAPS and, uhm, sleep, interest, guilt, energy, concentration, appetite, that mnemonic was formed from criteria for major depressive disorder and the criteria is generally the same as it was in DSM-4. 
+
+00:08:10
+Major Depressive Disorder ▪ Period of at least 2 weeks in which patients exhibits 1) depressed mood &/ or 2) anhedonia ▪ ≥ 5 out of 9 symptoms: Changes in weight (~5% over 1 month), sleep (insomnia vs hypersomnia), psychomotor agitation or retardation, loss of energy (small tasks- getting out of bed), feelings of worthlessness/ guilt, difficulty concentrating & making decisions, suicidal ideation ▪ Never been a manic or hypomanic episode ▪ Must impair social or occupational areas of functioning. ▪ Not due to substance abuse or general medical conditions. DSM-5 MMH CMT MU 
+
+00:08:10
+JARON ASHER Uhm, the most important thing to do is realize you must have a two weeks period of time with depressed mood and or anhedonia then five out of the nine symptoms that go along with that, uhm, that the depression of course, causes impairment in social or occupational functioning and that it's not due to substance abuse or general medical condition. 
+
+00:08:35
+Depressive Disorder Specifics ▪ Mild, moderate, severe ▪ With psychotic features (AH/VH, delusions) ▪ With catatonia ▪ With melancholic features (elderly) ▪ Early morning awakening, anhedonia, marked psychomotor agitation/retardation, significant weight loss ▪ With atypical features (younger) ▪ Overeating (weight gain), hypersomnia, leaden paralysis ▪ With seasonal pattern ▪ With postpartum onset: ▪ Onset > 30 days after postpartum, severe labile mood symptoms DSM-5 MMH CMT MU 
+
+00:08:40
+JARON ASHER So depression has specifiers in DSM-5, uhm, there are severity specifiers like mild, moderate, severe, ah, with or without psychotic features, uhm, with catatonia, melancholic features, atypical seasonal pattern, uhm, and postpartum onset. Some of these, we'll discuss later. 
+
+00:09:00
+Depression ▪ Females > males (MDD 2:1) ▪ Lifetime prevalence: 10-25% (female); 512%(male) ▪ Onset ~ mid to late-20s, develops over days to weeks ▪ Chances of relapse: ▪ 1 episode: 50-60% will have 2nd episode ▪ 2 episodes: 70% will have a 3rd episodes ▪ 3 episodes: 90% will have a 4th episode ▪ Episodes often follow severe psychosocial stressor-death of loved one, divorce, loss of job MMH CMT MU 
+
+00:09:00
+JARON ASHER Ah, the epidemiology of depression includes that females are diagnosed with, ah, diagnosed with-- ah, diagnose two times more often than males. Uhm, the lifetime prevalence in females is up to 25% and in males, 12%. Ah, the onset is generally in mid to late 20s although we all know that depression can present in childhood and as late as the late stages of, of, ah, advanced age. 
+
+00:09:30
+Depression ▪ Females > males (MDD 2:1) ▪ Lifetime prevalence: 10-25% (female); 512%(male) ▪ Onset ~ mid to late-20s, develops over days to weeks ▪ Chances of relapse: ▪ 1 episode: 50-60% will have 2nd episode ▪ 2 episodes: 70% will have a 3rd episodes ▪ 3 episodes: 90% will have a 4th episode ▪ Episodes often follow severe psychosocial stressor-death of loved one, divorce, loss of job MMH CMT MU 
+
+00:09:30
+JARON ASHER Uhm, the chance of relapse, ah, people who've had just one episode will have a 50 to 60% chance of having a second episode and as that number goes up of the number of episodes there's a greater and greater chance of recurrence. Uhm, episodes often follow sever psychological stressors like the death of a loved one, divorce or a loss of the job. Uhm, but we have to remember to differentiate between simply an adjustment disorder to one of these stressors and if full pledge metered-- major depression episode. Uhm, because of the prevalence of depression in primary care, ah, it is a cornerstone of good integrated care in the primary care setting to screen universally for depression. 
+
+00:10:25
+Rating Scales ▪ Patient Health Questionaire-2 ▪ 2 screening questions ▪ Used in primary care settings ▪ Patient Health Questionaire-9 ▪ 9 screening questions ▪ Assessing for depression ▪ Screening tools vs clinical interview MMH CMT MU 
+
+00:10:25
+JARON ASHER Ah, the way we do that in our setting is a patient health questionnaire two, ah, which is the first two questions of the patient health questionnaire nine. Uhm, those questions again are based upon the criteria of the DSM-5 criteria of depression. People who have a two or a three on the patient health questionnaire two, for short, we call it PHQ-2, ah, should go on to have the full PHQ-9. People who have the PHQ-9 without that initial, uhm, screen, that shorter screen sometimes, ah, it can cause a false positive because there are many things that can, can cause decrease sleep, decrease appetite energy problems, concentration problems that aren't necessarily depression. So you wanna have those first two questions answered. Uhm, another important point to make regarding rating scales is that a rating scale should never be used by itself to diagnose. We need to correlate the rating scale with a clinical interview. 
+
+00:11:35
+Selection of Initial Antidepressant ▪ Are antidepressants over prescribed? ▪ Of Americans ≥ 12, ~11% take antidepressant medications ▪ Antidepressant use increased almost 400% from 1988 to 2008 ▪ ¾ of all antidepressant prescriptions are written by primary care providers ▪ Who should get an antidepressant? ▪ Mild to moderate vs severe depression ▪ Placebo effect MMH CMT MU 
+
+00:11:35
+KELLY N. GABLE So we wanna switch gears and talk a little bit about antidepressant prescribing and the reality of it is, uhm, antidepressants are predominantly being prescribed in a primary care setting. Uhm, the clinical controversy really is our antidepressants under prescribed or are they over prescribed of Americans over the age of 12, 11% taking the antidepressants and we saw dramatic increase in the amount of prescriptions, uhm, for antidepressants from the '80s to 2008. Three quarters of antidepressants that are prescribed are written by primary care providers and that really highlights the importance of a talk like this so we can really go through how do we choose or select, uhm, an antidepressant for first episode versus a third episode and, and when do I refer on for a psychiatric consult. The other thing we wanna talk about is, uhm, who should give an antidepressant? So, ah, the literature would now say that someone who presents with mild depression, uhm, should be referred for psychotherapy if that's an option for them. And that psychotherapy is just as effective, uhm, and that antidepressants may not be as effective in a mild to moderate case of depression. Uhm, on the flip side for moderate to severe depression, we know that antidepressants are effective and so we wanna just be mindful of what's called the placebo effect and we know that the placebo effect can happen in, particularly, in depression and treatment of depression. And the way, uhm, you might look for this is a quick response to antidepressant and then, uhm, a few months into treatment, a lack of response thereafter. So we wanna be mindful of that and, uhm, and talk through that as we assess our patient. 
+
+00:13:20
+Antidepressant Prescribing ▪ History of prior response ▪ Family history of response to medication ▪ Safety in overdose ▪ Chronicity of the disorder ▪ Adverse effect profile ▪ Patient age ▪ Concurrent medical illness (HTN, seizure disorder) ▪ Concurrent medications (drug interactions) ▪ Adherence (dosing schedule) ▪ Cost ▪ Patient preference MMH CMT MU 
+
+00:13:20
+KELLY N. GABLE So moving into how do we select an antidepressant. We're gonna go through this criteria briefly and then we're gonna talk through together how we would address, uhm, specific first episode case of depression. So if you acquire, uhm, ah, first episode of depression, some of the questions that you might run through, ah, in your own head or with your patient are things like family history. Family history is incredibly important to find out, uhm, if there is a family history of depression, did anyone take an antidepressant and what was their response? If mom or dad, or brother or sister had a positive response to SSRI, there's a higher likelihood that that person will as well. Also you, ah, you obviously wanna look at their own family hi-- or their own history to find out if they, uhm, have reported depression in the past or if this really is the first episode. Think about things like safety and overdose and are there specific medications you might want to avoid if that person is, uhm, if there's a concern for suicide and on those medications might TCAs which are more toxic in overdose. And also think about that chronicity of the disorder. So again, is this the first episode or is this a third or fourth episode where we might be leaning more towards a duel action antidepressant for treatment. Ah, but think about a concurrent illnesses in the primary case setting, does your patient have co-occurring hypertension or do they have co-occurring hypothyroidism, other factors that might play into how you select your agent and also drug interactions. Uhm, we're gonna highlight throughout this talk this, uhm, specific agents that are more incline to have, uh, Cytochrome P450 drug interactions. So we'll, we'll talk through that and then also factor in cause and patient preference. So what does want to take, were do they comfortable taking and really what can they afford? Ah, if they don't have insurance you might be led more towards medications that are on a $4 list for instance, at, uhm one of the local pharmacies. 
+
+00:15:20
+First Episode Depression ▪ Sarah is a 32 year-old female patient presenting for her annual physical and gynecological check-up. During routine questioning, she reports a more recent decline in her overall mood x 2 months. ▪ She describes chronic insomnia, low energy, and poor focus when completing work projects ▪ Recent 10 lbs weight loss due to minimal appetite. ▪ Current Medications: ethinyl estradiol, lisinopril MMH CMT MU 
+
+00:15:20
+KELLY N. GABLE So we're gonna talk through just briefly a first episode case and this is Sarah who's a 32-year-old female patient presenting for annual physical and gynecological check-up. During routine questioning, she reports, uhm, more recent decline in her overall mood over the past two months. She describes chronic insomnia, low energy, and poor focus. She's lost ten pounds and, ah, describe minimal appetite and she currently takes an estradiol products and Lisinopril. So Dr. Asher, can, can you talk a little bit about what your thoughts are if you were acquire this patient in clinic. 
+
+00:15:55
+JARON ASHER Well, uhm, she would be presenting a primary care, ah, for her annual check-up so one, one item would be that I, I would hope she would be getting her PHQ-2 followed by her PHQ-9, ah, s-- screen for depression. Uhm, just from looking at the symptoms you've described, she does looked like she has, ah, likely diagnosis of depression. Uhm, she's also on birth control and antihypertensive but, ah, specifically, I notice of vegetative symptoms of depression. She's lost some weight, uhm, and I would start thinking about, ah, a medication for her as what-- in the context of the other options like psychotherapy. 
+
+00:16:35
+KELLY N. GABLE Uh-hmm. And is there specific agent that you might be incline to lean towards for a first episode. 
+
+00:16:45
+JARON ASHER My-- I, I believe that any of the, uhm, medications that you're about to describe would be valid choices but my own preference would be the start with an SSRI like the Zoloft or, or sertraline for instance. 
+
+00:17:00
+Andtidepressant Choices Antidepressant Bupropion SNRIs SSRIs TCAs Mirtazapine MMH CMT MU 
+
+00:17:00
+KELLY N. GABLE Uh-hmm. Uh-hmm. And if we move to this next slide, uhm, what we wanna highlight is, is exactly that you have, ah, a variety of choices for a first episode and in SSRI, certainly, should be considered in that first episode. You can also consider an SNRIs, bupropion, mirtazapine, all four of those, uhm, are options in a first episode and we also wanna remember that, uhm, if someone doesn't respond to adequately to that first agent, you can go and then switch to another drug within those four groups as well. So, let's move into the SSRIs. 
+
+00:17:30
+Selective Serotonin Uptake Inhibitors ▪ Fluoxetine (Prozac) ▪ Sertraline (Zoloft) ▪ Paroxetine (Paxil) ▪ Fluvoxamine (Luvox) ▪ Citalopram (Celexa) ▪ Escitalopram (Lexapro) MMH CMT MU 
+
+00:17:30
+KELLY N. GABLE And these really are the most prescribed antidepressants currently and especially for a first episode and there's several reasons for that but most importantly, tolerability and safety. They have good efficacy. You're gonna see some more efficacy across the board with all of the SSRIs. And, uhm, so how do we choose amongst these is really based on clinical paroles that will highlight and also, ah, the pharmacokinetics of each agents and really what matches what you need for your patient. 
+
+00:18:00
+Selective Serotonin Uptake Inhibitors ▪ Fluoxetine (Prozac) ▪ Sertraline (Zoloft) ▪ Paroxetine (Paxil) ▪ Fluvoxamine (Luvox) ▪ Citalopram (Celexa) ▪ Escitalopram (Lexapro) MMH CMT MU 
+
+00:18:00
+KELLY N. GABLE I also wanna highlight, you can see on, uhm, the slide that we have, ah, serotonin, uhm, neurotransmitter here, the picture of, and we wanna highlight where you can see, uhm, tryptophan which is actually converted into 5-HTP and then into serotonin. The reason I think this is important and really this is highlighting how SSRIs work and where, uhm, but we wanna be mindful of the fact that we produce, uhm, serotonin indigenously but we also get it exogenously as well. And this shows that, ah, depression treatment is more than just the antidepressant and it really is the whole picture of, uhm, diet and exercise, and all those other things that we can add into recommending to our patients. So if our patient isn't, uhm, following healthy diet, they're less likely to have a response to pharmacotherapy and quite honestly if they're underweight or malnourished, they aren't gonna respond near as well to antidepressant. 
+
+00:18:55
+Selective Serotonin Uptake Inhibitors ▪ Fluoxetine (Prozac) ▪ Sertraline (Zoloft) ▪ Paroxetine (Paxil) ▪ Fluvoxamine (Luvox) ▪ Citalopram (Celexa) ▪ Escitalopram (Lexapro) MMH CMT MU 
+
+00:18:55
+KELLY N. GABLE On the other side of this picture, we wanna point it out that it shows where sertraline and where paroxetine are effective and what they do is block, uhm, serotonin receptors pre-synaptically. So once that's block, it allows for more serotonin to float around in the synapse and then eventually more receptors are produced to post synaptic-- post-synaptically. And there's, ah, a sensitization process as this happens and the reason we wanna talk about this is because, this really helps explain why antidepressants don't work right away. It takes time. In fact, it takes around two to four weeks for those serotonin receptors to become more sensitive and grow. And so this is an important concept really for our patients to understand as well. So they understand that, ah, again this is not gonna be a quick response to treatment. It will take time. So we're gonna move into the SSRIs because these are so common to be prescribe specifically in a primary care setting. We wanna help you go through how you might chose one SSRI over another. 
+
+00:20:00
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:20:00
+KELLY N. GABLE And so if we look at these first line, this really highlights good clinical pearls and dosing pearls as well. So, so we may go back and forth and talk about somethings that we, uhm, utilize in our own practices as well here. And so we have the SSRIs listed on here will start with fluoxetine and for fluoxetine, be mindful of the dosing range that we have on here and that the lower end of the dose maybe a good starting dose and that upper end maybe a maximum dose that you use and, and odds are, you're gonna end somewhere in the middle there. So for fluoxetine, for instance, 40 milligrams might be an adequate dose for depression. Uhm, some good clinical pearls for this medication are that it is a little bit more stimulating and often times we recommend that people take it in the morning because of that. It also has a very long half-life and, ah, for this reason, it's can be dose once a week for Prozac weekly. Uhm, it also is good for people who forget to take their medications occasionally. So if you, if you have a patient that struggles a little bit with adherence fluoxetine really is good because of that long half-life. They're less incline to feel serotonin withdraw. 
+
+00:21:05
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:21:10
+KELLY N. GABLE if we move down the list to paroxetine, uhm, what we can say about this medication is that it is, ah, one of the only SSRIs that has mild anticholinergic side effects. And what this means is that you may see some constipation, dry mouth, uhm, some sedation with this medication. So it should really be, ah, given at night. And it has the shortest half-life of all the SSRIs and again that means that if your patient is missing doses they may feel uncomfortable and they may start to feel a serotonin withdraw with it. 
+
+00:21:40
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:21:45
+KELLY N. GABLE For sertraline, this is one of the more prescribed SSRIs now and, uhm, one clinical pearl I would say that stands out is that it does have a little bit more nausea associated with its use and a diarrhea and for that reason it's-- it suggested that we tell patients to take it food. It also increases bioavailability by up to 40% if given with food. So that's, ah, a big, uhm, pearl to know about Zoloft. We'll try and then say that all of the SSRIs can cause nausea because we have serotonin receptors that line our GI tract so they can cause nausea so they can all cause nausea and that is rate limited. It goes away in one to two weeks. They can all cause headache and they can all cause sexual dysfunction which will talk a bit more about in a few more slides. 
+
+00:22:30
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:22:30
+KELLY N. GABLE Fluvoxamine, uhm, as we go down the list is Luvox and this medication is not use very often in the United States. It is associated with a lot more Cytochrome P450 drug interactions and its more sedating. So this is a medication that I probably would consider reserving. Uhm, really, where we see it used in psychiatry as more for the treatment of OCD which is what it's FDA indicated for. 
+
+00:22:50
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:22:55
+KELLY N. GABLE And then that leaves us with citalopram and escitalopram. Citalopram was the most prescribed SSRI for a very long time up until 2011, there was a FDA warning. And that warning is for QTC prolongation. So what we know about citalopram is that it can prolong the QTC interval and it is dose dependent. So it's advice that we stick at 40 milligrams as that maximum dose and for some people, it may even be 20 milligrams and for that reason, uhm, some clinicians have chosen to use a different agent, uhm, just to, uhm, stay away from this risk. And that is where sertraline has, uhm, been used more often now because it's not associated with that risk. Uhm, if you do choose to use citalopram in your patient it's okay I think you just wanna be mindful of other medications that you co-prescribed that also prolong the QT interval and, uhm, that that might increase that risk. 
+
+00:23:45
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:23:50
+KELLY N. GABLE And then escitalopram is the last SSRI on this list. It is, uhm, the only one that's not currently on a $4 list so it is gonna a bit more expensive that the others. Uhm, other than that, it's considered to be generally well tolerated. It does not have the QTC risk that citalopram has. And I find it to be a bit easier to dose. So you can start at 10 milligrams and that might be your goal dose or 20 milligrams which considered the max. So there's good, uhm, I think ease of dosing and, uhm, that, ah, can be very helpful if you're not seeing your patient quite as often. 
+
+00:24:25
+Dosing & Clinical Pearls: SSRIs Dosing *Adverse Effects Clinical Pearls Fluoxetine 20-08 mg/d ay Insomnia, activation Prozac Weekly, Sarefem Good alternative for nonadherence Paroxetine 10-60 mg/day Constipation, dry mouth, sedation Shortest t ½ (>24 hours) & high serotonin withdrawal Most well-studied for anxiety disorders Sertraline 50-200 mg/day Nausea, diarrhea Food enhances bioavailability by 40% Fluvoxamine 50-300 mg/day Sedation More CYP450 drug interactions Only FDA-indicated for OCD Citalopram 20-40 mg/day Dose-dependent QTc prolongation FDA notification 2011: should no longer be used at dose > 40 mg/day due to QTc prolongation Escitalopram 10-20 mg/day Generally well-tolerated Minimal drug interactions 10 mg Lexapro= 20 mg Celexa MMH CMT MU 
+
+00:24:25
+KELLY N. GABLE Other things that you want to add on this slide, Dr. Asher. 
+
+00:24:30
+JARON ASHER I would add that, uhm, fluoxetine, the flip side of its long half-life which a-- it's real advantage for some could be a disadvantage for in other cases. For instance, if you are wanting to try someone on a medication, uhm, for instance, a, a child and your concern about the potentially, ah, stimulating aspect of fluoxetine. Uhm, it may be best to try a short half-life agent because with the longer half-life agents, if you do have that stimulation in any kind of negative impact, it will take longer for the medication to flow out the system. 
+
+00:25:05
+KELLY N. GABLE That's a great point and then I think that also highlights the need for a proper washout period. If you're changing, ah, between categories of drugs depending on how you do it, fluoxetine has a five-week washout period and that is because of that long half life whereas the other SSRIs had two-week washout period. 
+
+00:25:25
+JARON ASHER Thank you. 
+
+00:25:25
+Selective Serotonin Uptake Inhibitors Metabolism: CYP450 system significantly inhibited T½ Active metabolite Fluoxetine 2D6 (potent), 2C19, 3A4, 1A2 3 days (7days) Norfluoxetine Paroxetine 2D6 (potent) 17-22 hrs None Sertraline 2D6, 3A4 (weak) 26 hrs (66-80 hrs) Desmethyl-sertraline Fluvoxamine 1A2, 2C19 (potent), 3A4 16 hrs None Citalopram 1A2, 2D6 (weak) 33-37 hrs Desmethyl-citalopram Escitalopram 1A2 (weak), 2D6 (weak) 27-32 hrs None MMH CMT MU 
+
+00:25:25
+KELLY N. GABLE So this, uhm, we'll be a little bit quicker on this slide. Really to highlight those kinetic differences between these agents and we've already highlighted fluoxetine and its active metabolite norfluoxetine. And again, that, uhm, is what has seven hour half-life. I also think it's important for fluoxetine to know that it is a more potent inhibitor of the CYP450 system. So there are really three, uhm, of the SSRIs that are more potent inhibitors and I think, uhm, it's important to know that in a primary care setting if you co-administer, uhm, one of the inhibitors with a medication that's known to be a metabolizer of that, uhm, enzyme then you're more incline to have a drug interaction that's going to lead to, uhm, potential tolerability concerns. And we'll give some examples of that as well. 
+
+00:26:15
+Selective Serotonin Uptake Inhibitors Metabolism: CYP450 system significantly inhibited T½ Active metabolite Fluoxetine 2D6 (potent), 2C19, 3A4, 1A2 3 days (7days) Norfluoxetine Paroxetine 2D6 (potent) 17-22 hrs None Sertraline 2D6, 3A4 (weak) 26 hrs (66-80 hrs) Desmethyl-sertraline Fluvoxamine 1A2, 2C19 (potent), 3A4 16 hrs None Citalopram 1A2, 2D6 (weak) 33-37 hrs Desmethyl-citalopram Escitalopram 1A2 (weak), 2D6 (weak) 27-32 hrs None MMH CMT MU 
+
+00:26:15
+KELLY N. GABLE Paroxetine, uhm, is 2D6 potent inhibitor. A good example here clinically might be if you're co-prescribe being metoprolol which is a 2D6, uhm, substrate. It's metabolized through that system so you might gonna need a, a dropping blood pressure or, uhm, a dropping pulse if you co-administer those two agents. Another good example might be fluoxetine which is again a 3A4 inhibitor given with something like simvastatin. So you might be increasing that person's risk for rhabdomyolysis or muscle pains. 
+
+00:26:45
+Selective Serotonin Uptake Inhibitors Metabolism: CYP450 system significantly inhibited T½ Active metabolite Fluoxetine 2D6 (potent), 2C19, 3A4, 1A2 3 days (7days) Norfluoxetine Paroxetine 2D6 (potent) 17-22 hrs None Sertraline 2D6, 3A4 (weak) 26 hrs (66-80 hrs) Desmethyl-sertraline Fluvoxamine 1A2, 2C19 (potent), 3A4 16 hrs None Citalopram 1A2, 2D6 (weak) 33-37 hrs Desmethyl-citalopram Escitalopram 1A2 (weak), 2D6 (weak) 27-32 hrs None MMH CMT MU 
+
+00:26:45
+KELLY N. GABLE So, uhm, on the flip side, if you look at medications like sertraline. Sertraline is a weak inhibitor of CYP450 system and it's much less likely to trigger, uhm, kinetic interactions. So it will-- it would be preferred if you have a patient who takes a lot of medications. Also, uhm, citalopram and escitalopram would be preferred agents in terms of Cytochrome P450 drug interactions. Now citalopram again, I would be mindful of the, the QTC prolongation so that's a separate risk that you take whenever you give it with, uhm, with, ah, person that taking a lot of other medications. 
+
+00:27:20
+JARON ASHER Ah, Kelly, I have a question. 
+
+00:27:25
+KELLY N. GABLE Uh-hmm. 
+
+00:27:25
+JARON ASHER Uhm, I as a psychiatrist and I'm sure the primary care providers watching this would be interested in be able to use any of these agents and not just the ones with, ah, low amount of, uhm, potency of CYP450 system. So how do you recommend navigating this issue? I can't remember every single one of this what is a substrate and what is a rapid metabolizer and so on, what do you suggest for us? 
+
+00:27:55
+KELLY N. GABLE That's a great question and I think, uhm, an important one as we, uhm, move towards electronic databases and, uhm, using our smartphones for resources, I really highly encourage people to have a drug database on your smartphone or whatever resource you use. Uhm, me-- ones that I can recommend, uhm, confidently are Lexicomp and Micromedex. And those two database has really, uhm, not only tell you what type of drug interaction you're looking at but they also tell you exactly what that interaction is so what's CYP450 enzyme is affected and what you expect with, uhm, drug levels, uhm, for the substrate and then inhibitor. Uhm, also it gives you case reports. So you may say well, look at these case reports and I'm, I'm okay with this and I think I'm gonna go prescribed these or it may, uhm, lead you in a different direction. I think it's important to, to know about these databases because inevitably you're gonna get phone calls from the pharmacy or, uhm, you're gonna look at, uhm, or, or, or patient might actually say, you know, I look these two medications up and I'm not sure if, if I should be taking them together. So that's what I would suggest is having a good, uhm, strong database that you're comfortable with to look those up and I also encourage you to, to phone, uhm, your pharmacist or, or if you have a pharmacist within your network around your team really utilize their resources as well and, uhm, and by know means can people memorize the whole CYP450 system but it's really about knowing where to look for this information. 
+
+00:29:20
+First Episode Depression ▪ Sarah is initiated on sertraline 50 mg daily. ▪ 4 weeks into treatment, she reports ~50% improvement in her mood. ▪ She continues to describe insomnia. MMH CMT MU 
+
+00:29:20
+JARON ASHER Thank you. 
+
+00:29:25
+KELLY N. GABLE All right, so let's go back to our first case. And so for Sarah, she was started on sertraline or Zoloft 50 milligrams, four weeks into treatment, she reported around 50% improvement in her mood and she continues to describe insomnia. So Dr. Asher, what are your thoughts at this point in her care? 
+
+00:29:45
+JARON ASHER Well, for one thing I, I'm concerned-- well, I'm hurting that she had a 50% response and yet, uhm, concerned that 50% is just not enough. Uhm, I think it's very important to, to keep treating assertively until someone has a remission from their depression. Uhm, the only thing that concerns me is, ah, her insomnia. I believe that it needs to be fully, uhm, at, at this point, it's, it's sort of refractory insomnia. We had hope that by treating her depression, the insomnia would have resolved but, ah, her depression 50% better and yet her insomnia is not resolved and there's a, a relationship between depression and sleep. And if someone is not getting good sleep, uhm, it can, it can affect their recovery. 
+
+00:30:30
+KELLY N. GABLE So that leads us right into, uhm, proper treatments for insomnia specifically with depression and, uhm, Dr. Asher, do you wanna talk a little bit more about trazodone and what you were clinical experience has been with its use? 
+
+00:30:45
+Trazodone (Desyrel®) ▪ Dosage: ▪ 200-600 mg/day (for depression) ▪ 20-50 mg q HS (for insomnia) ▪ Mechanism: blocks 5-HT reuptake, postsynaptica 5-HT2A, H1 ▪ Adverse Effects: sedation, orthostasis, priapism (rare) ▪ No anticholinergic side effects, safer in overdose ▪ Newer Formulation: ▪ Trazodone ER (Oleptro™) 150,300 mg MMH CMT 
+
+00:30:45
+JARON ASHER Uhm, trazodone, ah, I, I used it commonly in people with depression or people with mood disorders. Uhm, I have rarely use it as antidepressant itself but I, I have done that. In general, I'm using it at the low dose range, uhm, to help treat insomnia. Of course, first, I do a complete evaluation for, uhm, sleep hygiene and make sure that the person is doing everything that can behaviorally to help themselves sleep better and once, I've satisfied myself that day or indeed in need of a, of a medication to help them sleep. Trazodone is a good option because, uhm, it's not one of the more addictive options, ah, like a benzodiazepine sedative hypnotic, uhm, even zolpidem. Ah, I reserve that, uhm, trazodone would be my first line. Uhm, it's a medication that blocks serotonin reuptake, uhm, but that's not it's only mechanism, ah, post-synaptic serotonin and H1 as well. Ah, it has them adverse effects that we need to be mindful, uhm, but one of the advantage is it has no anticholinergic side effects and it's safer in overdose. 
+
+00:32:00
+Trazodone (Desyrel®) ▪ Dosage: ▪ 200-600 mg/day (for depression) ▪ 20-50 mg q HS (for insomnia) ▪ Mechanism: blocks 5-HT reuptake, postsynaptics 5-HT2A, H1 ▪ Adverse Effects: sedation, orthostasis, priapism (rare) ▪ No anticholinergic side effects, safer in overdose ▪ Newer Formulation: ▪ Trazodone ER (Oleptro™) 150,300 mg MMH CMT 
+
+00:32:00
+JARON ASHER Ah, but the adverse effect, of course, is sedation and then we're trying to take advantage of that. Uhm, orthostasis is, is possible especially in the elderly. Uhm, and priapism which is extremely rare, one in 7,000, but, ah, is something that we need to be aware of and, and get informed consent, uhm, in the male population who we want put on trazodone. There is a newer formulation trazodone ER, uhm, those dosage 150, 300 milligrams as we've talked about, that's more for the depression end of spectrum and, uhm, for sleep, I'm not sure, I would go that way. 
+
+00:32:40
+Complex Depression ▪ Jerry is a 51 year-old male patient presenting for routine follow-up of his diabetes, neuropathy, hypertension, and HIV. ▪ He reports chronic neuropathic pain, depressed mood, anhedonia, and vacillating suicidal thoughts. ▪ He smokes marijuana daily. ▪ Current medications: metfromin, glyburide, hydrochlorothiazide, atenolol, efavirenz/emtricitabine/tenofovir MMH CMT MU 
+
+00:32:40
+KELLY N. GABLE Excellent. So it is a very good choice as an adjunct for insomnia and depression. So we're gonna switch gears now and talk a little bit more about, uhm, a more complex, uhm, depressive case and this is Jerry. He's a 51-year-old male who is presenting for a routine follow-up for diabetes care. He has neuropathy. He has hypertension. He has HIV. He reports chronic neuropa-- neuropathic pain, ah, depressed mood, anhedonia, and vacillating suicidal thoughts. He currently takes metformin, glyburide, hydrochlorothiazide, atenolol, Atripla for his HIV. So, uhm, we'd like to kinda pause as well and just talk through what we're thinking and what we might do if this were our patient. So what are your thoughts, Dr. Asher? 
+
+00:33:25
+JARON ASHER Well, uhm, I personally feel bad for Jerry. I mean he has a, a load of, of, of chronic medical problems that he has to deal with and, and including diabetes and a complications from that diabetes, neuropathy, hypertension, HIV, uhm, he has a lot of pain, uhm, and pain and depression often go hand and hand and so I, I am of course, wanting to, uhm, thoroughly assess for his suicidal thoughts. And I, uhm, would also want to talk to him about his marijuana use daily. Uhm, my opinion is that even people who are using substances everyday, uhm, depending on what those substances are and, and the risk involved, uhm, should be evaluated for medication if there are of that severity to need medication for depression. Uhm, looking at his medication, uhm, he's on diabetes medication and hydrochlorothiazide, and Atripla, and atenolol but as you mention before atenolol is not one we have to worry about as much - 
+
+00:34:25
+KELLY N. GABLE Uh-hmm. 
+
+00:34:30
+JARON ASHER - for the, you know, the depression. 
+
+00:34:30
+KELLY N. GABLE Uh-hmm. 
+
+00:34:30
+JARON ASHER Just propranolol is more - 
+
+00:34:35
+KELLY N. GABLE Uh-hmm. 
+
+00:34:35
+JARON ASHER - of the cause of depression. So these are my thoughts to begin with. 
+
+00:34:35
+KELLY N. GABLE Yeah. And I think, uhm, you know, this is a great example of, uhm, maybe moving beyond in SSRI and, and really thinking is there anything else that we can co-treat here. So for instance, he has neuropathic pain, might will lean more towards a TCA or an SSRI and really, uhm, targeting treating the neuropathic pain and also treating the depressive mood. 
+
+00:34:55
+Complex Depression Antidepressant Choices Bupropion SNRIs SSRIs TCAs Mirtazapine MMH CMT MU 
+
+00:34:55
+KELLY N. GABLE And that leads us right into, again, we're back to what are those four, uhm, medication or classes of medication that we could chose from. Uhm, it's a more complex, ah, case of depression, uhm, however, any of those could be, ah, a good option in SSRI and SNRI, remeron, or mirtazapine, or bupropion, I'd more incline to move towards, uhm, an SNRI and TCA certainly could be an option, ah, but I think we wanna talk a little bit more about why TCAs may not be a first line option. So you're certainly going to acquire patients that are on TCAs and, uhm, whether you chose to continue that or discontinue it, uhm, might be, ah, a conversation you have with each patients. Uhm, some of the reasons though that they're not considered first line anymore is really the tolerability and, uhm, the safety. And we're gonna talk a little bit more about tolerability in, in a just a moment, uhm, we do wanna highlight briefly why your patients might be on TCAs or why you might chose to use a TCA. 
+
+00:35:55
+Tricyclic Antidepressants (TCAs) ▪ Major depression ▪ Neuropathic pain ▪ Anxiety disorders ▪ Obsessive-compulsive disorder ▪ Panic disorder ▪ Enuresis MMH CMT MU 
+
+00:35:55
+KELLY N. GABLE Uhm, first and foremost, depression, uhm, however, I will say in the psychiatric world we use it less and less for depression and find that it's more often use for neuropathic pain, uhm, if, ah, someone has severe OCD. There are, uhm, indications for a use of medications like clomipramine, ah, or bedwetting and enuresis, imipramine might be used. So those are just, uhm, some reason someone might come in to you already on TCA. 
+
+00:36:20
+Tricyclic Antidepressants (TCAs) Mechanism: inhibit presynaptic reuptake of NE & 5-HT Tolerability Concerns: histamine1 & alpha 1 antagonism, anticholinergic Secondary Amine NE Nortriptyline (Pamelor) 50-200 mg Desipramine (Norpramin) Protriptyline (Vivactyl) *Plasma level: 50-150 ng/ml (toxic 500 ng/ml) Tertiary Amine (5-HT) Amitriptyline (Elavil): 75-300 mg Doxepin (Sinerquan): 75-300 mg Clomipramine (Anafranil): 150-250 mg Imipramine (Tofranil) *Plasma level: >250 ng/ml (toxic > 500 ng/ml) *Draw plasma level after 5-7 days of therapy: 12 hour post date MIMH CMT 
+
+00:36:25
+KELLY N. GABLE Uhm, if you do acquire a patient on a TCA, recognize one that it's a, a dual action agent so are gonna get that norepinephrine activity and serotonin activity and utilized that to your advantage. The norepinephrine activity is intended or it will be more effective for a, a nerve pain condition. Uhm, if you look at the difference between secondary amine and the tertiary amine TCAs, the secondary amines in its first column, those are more norepinephrine, uhm, have more affinity for the norepinephrine receptor, they will be more effective for neuropathic pain. So, uhm, in the primary care world, you might be more inclined to use a medication like nortriptyline. I didn't include a dose on here and again, uhm, be careful with the dosing of TCAs and I always recommend start it low and go slow because of tolerability concerns so that's a range that we've provided on this slide. On the other column, you're gonna see the tertiary amine T-- TCAs and those are really more serotonin specific, uhm, agents. And again in the psychiatry world, we might be more incline to use the medication like clomipramine for OCD, and really we need, ah, a high affinity serotonergic drug to treat OCD well. So, uhm, if you acquire patient on clomipramine, I would question whether or not that's why taking it and is it a more refractory case of OCD. Uhm, for doxepin and, uhm, amitriptyline, I do see a fair amount of patients that still get them for sleep and for neuropathic pain. And again, I think, there are probably safer options out there for both, uhm, nonetheless, if you're worried about toxicity, ah, you can drop plasma level with all of the TCAs and I have those ranges at the bottom of the table. 
+
+00:38:05
+Tricyclic Antidepressants (TCAs) Mechanism: inhibit presynaptic reuptake of NE & 5-HT Tolerability Concerns: histamine1 & alpha 1 antagonism, anticholinergic Secondary Amine NE Nortriptyline (Pamelor) 50-200 mg Desipramine (Norpramin) Protriptyline (Vivactyl) *Plasma level: 50-150 ng/ml (toxic 500 ng/ml) Tertiary Amine (5-HT) Amitriptyline (Elavil): 75-300 mg Doxepin (Sinerquan): 75-300 mg Clomipramine (Anafranil): 150-250 mg Imipramine (Tofranil) *Plasma level: >250 ng/ml (toxic > 500 ng/ml) *Draw plasma level after 5-7 days of therapy: 12 hour post date MIMH CMT 
+
+00:38:05
+KELLY N. GABLE And really, uhm, the purpose of the ranges is one to tell you if they're in a therapeutic range but also to look for toxicity. So, uhm, that is one advantage the TCAs have over any other antidepressant. Uhm, I also wanna add for tolerability concerns. They are strong histamine-1 blockers, strong alpha-1 blockers and strong, uhm, muscarinic blockers, and what that means is that they are just really kinda a dirty medications. They cause strong anticholinergic side effects. They have orthostasis and dizziness associated with them and then sedation. The tertiary amine TCAs are, uhm, tolerability is, is much worse. So you are gonna see more of the sedation and more of the anticholinergic side effects. 
+
+00:38:50
+TCAs: Adverse Effects ▪ Anticholinergic side effects ▪ Dry mouth, urinary retention, blurred vision, constipation ▪ Sedation, weight gain, sexual dysfunction ▪ ↓in seizure threshold ▪ Cardiovascular complications (lethal in overdose) ▪ Orthostatic hypotension ▪ Tachycardia ▪ Cardiac conduction abnormalities: ST depression, T wave flattening, QRS prolongation, QTc prolongation, ventricular fibrillation ▪ ECG at baseline (contraindicated in heart block) MMH CMT MU 
+
+00:38:50
+KELLY N. GABLE In this slide here, really highlights what side effects to be aware of and, uhm, and really what are those even more, more lethal concerns with TCAs. We've highlighted anticholinergic sedation and sexual dysfunction is also a possibility. But they also lower the seizure threshold. And so I would be mindful of that if you're co-prescribing something else that lowers seizure threshold. Uhm, in terms of cardiovascular risk, they, uhm, can effect, ah, the heart in lots of different ways. One is, of course, orthostasis from that alpha-1 blockade but they cause cardiac conduction abnormalities as well. And, uhm, so this is something to be concern about is you are prescribing to an adolescent population. People over the age of 40 or someone with a preexisting heart condition and they would be contraindicated in someone with, uhm, congestive heart failure. Precautions, I would say, uhm, if someone has BPH or if someone has dimentia, erectile dysfunction know that the anticholinergic aspect of these drugs could worsen those conditions as well. So, uhm, for the patient, Jerry, I'm inclined to say an SNRI is gonna be a safer option for him given his other co-occurring disorders. So we wanna talk a little bit about the four different SNRIs that are available and how would you chose between those four agents? 
+
+00:40:10
+Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) Venlafaxine (Effexor) ▪ Dosage: 150-225 (XR) or 375 (IR) mg/day ▪ Adverse Effects: nausea, HA, insomnia, sweating, sexual dysfunction, ↑ diastolic B/P (dose-related > 225 mg/day; 9% at doses > 300 mg/day) Desvenlafaxine (Pristiq) ▪ Dosage: 50-100 mg/day ▪ Extended-related version of venlafaxine ▪ Studied for vasomotor symptoms of menopause MMH CMT MU 
+
+00:40:10
+KELLY N. GABLE So we have venlafaxine, we have, ah, desvenlafaxine, we have duloxetine and, uhm, to start with slide one here, uhm, we've pointed out the red highlighted dose on all of these and really what that tells you is when the drug start to become dual action agents. So norepinephrine and serotonin, uhm, in receptor, uhm, blockers. And, uhm, 150 for venlafaxine. So what that means is that if you dose it lower than that, it really is more serotonin specific. So it's, it's very similar to an SSRI. If you're gonna use it for neuropathic pain and also for depression or anxiety, you need to push the dose up. So get that dose up between 150 to 220-- 225. 
+
+00:40:55
+Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) Venlafaxine (Effexor) ▪ Dosage: 150-225 (XR) or 375 (IR) mg/day ▪ Adverse Effects: nausea, HA, insomnia, sweating, sexual dysfunction, ↑ diastolic B/P (dose-related > 225 mg/day; 9% at doses > 300 mg/day) Desvenlafaxine (Pristiq) ▪ Dosage: 50-100 mg/day ▪ Extended-related version of venlafaxine ▪ Studied for vasomotor symptoms of menopause MMH CMT MU 
+
+00:40:55
+KELLY N. GABLE Ah, also be aware though as you push that dose up and you have the norepinephrine activity, blood pressure might also be impacted. So you may see, ah, ah, slight increase in the diastolic blood pressure. For desvenlafaxine, that's the active metabolite of venlafaxine. There's no real clinical advantage to using Pristiq over venlafaxine other than you get that dual activity at the lowest dose of 50 and that really could also be your target those. Uhm, this was really studied more for vasomotor symptoms of menopause. It could be used for depression, uhm, but again, it's a more expensive option and venlafaxine, uhm, would have some more efficacy. For duloxetine, uhm, I do like this agent because you get the dual activity at the lower doses. 
+
+00:41:40
+Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) Duloxetine (Cymbalta) ▪ Dosage: 40-60 mg/day ▪ Adverse Effects: nausea, insomnia, headache, dry mouth, constipation, sweating, sexual dysfunction ▪ Often used for diabetic neuropathy & fibromyalgia ▪ BBW: hepatotoxicity Levomilnacipran (Fetzima) ▪ Newest SNRI: 2013 ▪ Active enantiomer of milnacipran (Savella) approved for fibromyalgia ▪ Research shows no benefit over SSRIs or TCAs MMH CMT MU 
+
+00:41:40
+KELLY N. GABLE So if you start someone at 20 or 30, you're still getting dual activity and then as you pushed the dose, same thing. Uhm, so it's easier to dose and I think it's also been studied for fibromyalgia for, ah, diabetic neuropathy so it has those indications, uhm, but you should be aware that it has black box warning for hepatotoxicity. So in your patients who have liver damage or hepatitis C even, uhm, you might use caution or even avoid, uhm, duloxetine. 
+
+00:42:10
+Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs) Duloxetine (Cymbalta) ▪ Dosage: 40-60 mg/day ▪ Adverse Effects: nausea, insomnia, headache, dry mouth, constipation, sweating, sexual dysfunction ▪ Often used for diabetic neuropathy & fibromyalgia ▪ BBW: hepatotoxicity Levomilnacipran (Fetzima) ▪ Newest SNRI: 2013 ▪ Active enantiomer of milnacipran (Savella) approved for fibromyalgia ▪ Research shows no benefit over SSRIs or TCAs MMH CMT MU 
+
+00:42:10
+KELLY N. GABLE Uhm, and then we have, uhm, levomilnacipran which, ah, the newest, uhm, SNRI in the market. That's also approved, uhm, for depression whereas its the active antitumor of Savella which is already been on the market and approved for fibromyalgia. Uhm, it's a new agent, it's a new option for us. There's no good day to just say that it's anymore efficacious. So again it's gonna be a more expensive option. So you might, I think be better in terms of cost effectiveness to use duloxetine or venlafaxine. 
+
+00:42:40
+Question from Your Patient I do not want to take a medication that will effect my sex drive. What antidepressant can I take? MMH CMT MU 
+
+00:42:45
+KELLY N. GABLE So here we have a question that-- a question, Dr. Asher, from, uhm, your patients and they say, "I don't wanna take a medication that will affect my sex drive." Uhm, what are your thoughts on that and are there specific agents you might lean more towards because of that? 
+
+00:42:55
+JARON ASHER So yes, the word is out that antidepressants, especially, the SNRIs can affect the person's sex drive and, ah, there, there the good news is there are other options. Ah, I also tell people that even though they've heard that SNRI can affect their sex drives, not everybody. But there are many people who've had the, uhm, experience and so the options I think of are bupropion and mirtazapine. 
+
+00:43:20
+Bupropion (Wellbutrin) ▪ Bupropion IR 75, 100 mg (max 450 mg/day) ▪ Wellbutrin SR 100, 150, 200 mg (max 400 mg/day) ▪ Wellbutrin XL 150, 300 mg (max 450 mg/day) ▪ Mechanism: inhibits DA & NE (minimal) reuptake ▪ Dose: 300-450 mg divided BID - no later than 4 pm ▪ t½ = 8-12 hr (IR); 21 hr (SR) ▪ Adverse Effects: headache, insomnia, nausea, agitation, seizure, weight loss (NO sexual dysfunction) ▪ Contraindications: alcohol abuse, seizure disorder, active eating disorder MMH CMT MU 
+
+00:43:25
+JARON ASHER And so we'll be talking about each of those now. Uhm, bupropion is a dopamine inhibitor and minimal norepinephrine. 
+
+00:43:35
+KELLY N. GABLE Uh-hmm. 
+
+00:43:35
+JARON ASHER Uhm, and the maximum dose of bupropion is 450 milligrams. It comes in several different preparations including an immediate release, that's what the IR stands for, sustained release and XL. Uhm, we tend to try to use the, ah, SR or XL because the dosing is just much easier for people once or twice a day instead of more. Uhm, and even the bupropion XL we believe has a generic formulation, yeah. 
+
+00:44:05
+KELLY N. GABLE Yes, yes. What we really want today and it really is just an easier option for patients. 
+
+00:44:10
+JARON ASHER Yeah. Uhm, so there are, of course, some risks involve with bupropion as most people are aware. It can, ah, decrease the seizure threshold, uhm, and that's probably moreso than most of the other antidepressants, the SSRIs hardly any that the, ah, tricyclics also do decrease seizure, seizure threshold. 
+
+00:44:35
+Bupropion (Wellbutrin) ▪ Bupropion IR 75, 100 mg (max 450 mg/day) ▪ Wellbutrin SR 100, 150, 200 mg (max 400 mg/day) ▪ Wellbutrin XL 150, 300 mg (max 450 mg/day) ▪ Mechanism: inhibits DA & NE (minimal) reuptake ▪ Dose: 300-450 mg divided BID - no later than 4 pm ▪ t½ = 8-12 hr (IR); 21 hr (SR) ▪ Adverse Effects: headache, insomnia, nausea, agitation, seizure, weight loss (NO sexual dysfunction) ▪ Contraindications: alcohol abuse, seizure disorder, active eating disorder MMH CMT MU 
+
+00:44:35
+JARON ASHER Uhm, well, Wellbutrin is the, the brand name for bupropion and, ah, bupropion can cause a decrease in appetite which some people find helpful. Uhm, can cause headache, insomnia when you do give multiple doses of bupropion, I would do the, the second or third dose no later than 4 p.m. 
+
+00:44:55
+KELLY N. GABLE Uh-hmm. 
+
+00:45:00
+JARON ASHER Uhm, it's contraindicated in alcohol abuse, seizure disorder, and then active eating disorder. The, the eating disorder mainly because of the, uhm, metabolites, the, ah, electrolytes that can be altered in, in an eating disorder. 
+
+00:45:15
+KELLY N. GABLE And it's a, a good opportunity really to think to think, uhm, again bupropion is in that category of the four drugs that you can chose from utilize those-- some of those tolerability concerns, uhm, to your advantage like the way it lose if that something your patient, uhm, request or, uhm, the no sexual dysfunction and that might be a first line option because of like the patient here say they don't wanna take a medication that has sexual dysfunction side effects. 
+
+00:45:35
+JARON ASHER Or if they're a smoker. 
+
+00:45:40
+KELLY N. GABLE Absolutely, yeah. 
+
+00:45:40
+JARON ASHER So if, if smoking cessation is, is important to them, uhm, it's a good option for that because, ah, it was marketed as Zyban for smoking cessation. 
+
+00:45:50
+Mirtazapine (Remeron) ▪ Dosage: 15-45 mg/day ▪ Mechanism: 5-HT & NE release; blocks postsynaptic 5-HT2/3; inhibits presynaptic alpha2 & H1 receptors ▪ Adverse Effects: sedation (less at 30-45 mg/day), ↑appetite, weight gain, dizziness ▪ LESS sexual dysfunction ▪ May increase cholesterol (triglycerides) ▪ Comes in ODT REMERON SolTab MMH CMT MU 
+
+00:45:50
+JARON ASHER So the, the next option is mirtazapine. It's, it's a very different option whereas bupropion is more stimulating something you'd wanna take in the morning. Mirtazapine is definitely something you'd wanna take at night. Its, its the main side effect, uhm, is sedation and the mirtazapine mechanism is written there, inhibits pre-synaptic, pre-synaptic alpha-2 receptors, uhm, blocks post-synaptic serotonin and H-1 receptors. Uhm, the adverse effects include not only sedation but it can increase appetite. It can cause weight gain, it can cause dizziness, uhm, and may even increase cholesterol, triglycerides. 
+
+00:46:35
+KELLY N. GABLE Uh-hmm. 
+
+00:46:35
+JARON ASHER Uhm, we again, use this side effects as, ah, as a help for people with depression because the, ah, people with depression may have a reduce appetite and insomnia so I give mirtazapine. Uhm, it's important to know that at-- the higher doses of mirtazapine, it's less and less likely to help with, with se-- with sleep. And might add two, you know, primary care setting utilize the mechanism of action of this medication so instance there's a serotonin three postsynaptic blocker very similar to ondansetron so this drug has an anti-nausea effect inherently based on its mechanism. Therefore, it might be useful for someone who's describing, uhm, excessive nausea from, uhm, chemotherapy and they also have depression. So again, in other option in a primary care setting to utilize this agent. 
+
+00:47:25
+Question from a PCP I heard there is a new antidepressant on the market. How is it different from an SSRI or an SNRI? MMH CMT MU 
+
+00:47:30
+JARON ASHER Here is a question that I've gotten from PCPs that I've worked with. Uhm, I heard there is a new antidepressant on the market. How is it different from an SSRI or an SNRI? Do you get that question? 
+
+00:47:40
+KELLY N. GABLE I do get that question and, uhm, I think that, you know, we wanna be aware of what new medications come on the market and really do they have good clinical data to support their use or are they very similar to the drugs that are already on the market. 
+
+00:47:55
+Vilazodone (Viibryd) ▪ Newer antidepressant (2011) ▪ Dosage: 10-40 mg/day with food ▪ Mechanism: selective 5-HT re-uptake inhibitor & 5-HT1A partial agonist ▪ Precautions are similar to SSRIs ▪ Adverse Effects: nausea, diarrhea, insomnia, headache ▪ Minimal to NO sexual dysfunction. MMH CMT MU 
+
+00:47:55
+KELLY N. GABLE Uhm, so I'd say vilazodone is somewhere in the middle and the reason I say that is because it is, uhm, it functions like an SSRI, it's a serotonin reuptake inhibitor but it also has serotonin-1A partial agonist activity. You might think that sounds familiar like buspirone and that is the mechanism of action of buspirone. So the way I describe this is that this drug really is a combination of an SSRI and buspirone. So, uhm, my thoughts on this is that this medication maybe helpful for someone who has depression and co-occurring GAD or generalized anxiety. Ah, it also has no sexual dysfunction associated with it and I thought it's, it's because of that serotonin-1A partial agonist activity. Uhm, so that might be also an advantage to this medicine. Uhm, but I would also know that it's, uhm, it is more expensive agent and it might not be one that I would use as a first line simply because of cause effectiveness. So that leads us right into the timing of response. And I touched on this a little bit earlier in terms of how the SSRIs worked and that serotonin, uhm, sensitivity response. And so I think this in particular as important especially as we go into the topic of suicide. And you know that all antidepressants have, uhm, a warning associated with them regarding suicidality especially in those under 24 years old. Uhm, part of understanding how that came about is understanding the onset of action of the antidepressants and so, we start treatment. 
+
+00:49:25
+Time Course of Response Start Treatment 1-2 WEEKS ↑ Energy Improved sleep Improved appetite 3-4 WEEKs Improved mood & less anhedonia, ↓ hopelessness/helplessness, ↓suicidal ideation ↑Self care, concentration & memory 4-6 WEEKS Relief of depressed mood Adequate trial at adequate dosage MMH CMT MU 
+
+00:49:25
+KELLY N. GABLE And that first one to two week window, we would expect to see may be some more energy, even for medications like fluoxetine a little bit of agitation. Uhm, but also, ah, changes in appetite. Uhm, however during that time period we're not gonna see a dramatic change in the mood or, or suicidality if they were having those thoughts. It's really that three to four week window where we start to see a decrease in hopelessness, uhm, an improvement in mood and, ah, less suicidal thoughts. So, uhm, then we get into that four to eight week window and here's where we say, uhm, we reevaluate, have they responded, has there been a 50% response or higher. If there's been a 50% response or higher then we want to optimize the dose of that agents and continue on with therapy. If there has been less than a 50% response rate. We might reevaluate, do we need a switch to a different category of medications. In this time period though we can see where if one has an increase in energy, and, uhm, not sleeping well and they start any antidepressant, they have co-occurring suicidal thinking, they maybe more inclined to act on those thoughts. So here we're gonna talk a little bit more about this warning, uhm, it's different suicidal behaviors that you might encounter in your practice setting. 
+
+00:50:40
+Suicide & Antidepressants ▪ October 15, 2004: Black Box Warning ▪ FDA required warning statement recommending close observation of young adult & pediatric patients (>24 y.o.) treated with antidepressants for worsening depression or the emergence of suicidality ▪ A Patient Medication Guide must accompany all antidepressant prescriptions ▪ Why? MMH CMT MU 
+
+00:50:40
+JARON ASHER Thank you, Kelly. This, uhm, black box warning for suicide in antidepressants was issued in 2004, uhm, and it specifically is about young adult and pediatric patients. Uhm, people should be or they will be informed perhaps that the pharmacy so, it's important to inform them in your own doctors office, uhm, about the black box warning. We'll talk more about this but first I'm going to talk about what are the suicidal behaviors, how do you do, ah, depression and suicide risk assessment, and, uhm, then, we'll talk again about my approach to how to give informed consent for, ah, starting an antidepressant. 
+
+00:51:25
+Suicidal Behaviors ▪ Nonsuicidal self-injury(e.g., self-cutting): self-injury in which a person has no intent to die ▪ Suicide ideation - thoughts of engaging in behavior intended to end one's life ▪ Suicide plan - the formulation of a specific method through which one intends to die ▪ Suicide attempt - engagement in potentially self-injurious behavior in which there is at least some intent to die MMH CMT MU 
+
+00:51:25
+JARON ASHER So suicidal behaviors can be group. Uhm, there's the nonsuicidal self-injury, uhm, in which there's cutting or, uhm, taking a-- an overdose that is, you know, more of a benign trivial nature, they're never trivial but there are some overdoses which are more serious than others. Uhm, but really there's no intent to die that's what they have in common. And then there are suicidal ideations and, uhm, passive death wish and obsessions about death. Uhm, but they never cross the line into behavior. There's, ah, thoughts about suicide that actually involved a plan, ah, a formulation of a method, uhm, a side note to this is, is there a means to, to activate that plan? Does the person own a gun? Uhm, there's the suicide attempter so someone who actually engages in po-- potentially self-injurious behavior in which there's at least some intent to die. So the life time of risk of suicide in untreated depression is 20% that is why this is, uhm, such an important focus. 
+
+00:52:40
+Depression & Suicide Risk ▪ Lifetime risk of suicide in untreated depression ~20% ▪ Risk Factors: ▪ Prior attempts ▪ Family history of suicide ▪ Psychosis (command hallucinations) ▪ Drug/alcohol abuse ▪ A recent loss, hopelessness ▪ Chronic painful illness ▪ Male gender (4:1) ▪ Firearm availability ▪ Elderly or adolescent MMH CMT MU 
+
+00:52:40
+JARON ASHER Uhm, risk factors include, prior attempts, family history, ah, psychosis, drug or alcohol abuse, a recent loss which cause hopelessness, chronic pain, chronic illness, uhm, poor prognosis of an illness, male gender, uhm, as, as you've said males tend to complete suicide four times as often as women but women tend to com-- tend to attempt, ah, four times as often as men. Uhm, so another risk is what is the availability of lethal means? Uhm, is there a firearm in the house. And finally, there's a peak, ah, in the adolescent population and once again in the elderly population in terms of the ages that, that commit suicide. 
+
+00:53:30
+Suicide Assessment ▪ Do you feel that your life is worth living? ▪ Do you ever think about suicide? ▪ Have you ever attempted to hurt yourself? ▪ Is death something you've thought about recently? ▪ Have you made specific plan to harm or kill yourself? ▪ Do you have any weapons available to you? ▪ Do you see things improving in the future? ▪ What things in your life make you want to go on living? ▪ Who is part of your support system? MMH CMT MU 
+
+00:53:35
+JARON ASHER Suicide assessment, uhm, there are many different way to go about assessing someone for suicide. Many different questions to ask, uhm, do you feel that your life is worth living? Do you ever think about suicide? Have you er-- ever attempted to hurt yourself? These are just some of the questions. It's important to note that, uhm, asking about suicide is not going to put the idea in someone's head. It's important to just be very open and honest and, and ask a person then, it's important to, to build a good relationship with, with your patient cuz that's the, the most likely way that they're gonna be honest with you about these questions. 
+
+00:54:10
+Suicide Assessment ▪ Do you feel that your life is worth living? ▪ Do you ever think about suicide? ▪ Have you ever attempted to hurt yourself? ▪ Is death something you've thought about recently? ▪ Have you made specific plan to harm or kill yourself? ▪ Do you have any weapons available to you? ▪ Do you see things improving in the future? ▪ What things in your life make you want to go on living? ▪ Who is part of your support system? MMH CMT MU 
+
+00:54:10
+JARON ASHER Uhm, have you made specific plan to harm or kill yourself? Do you have any weapons available? Do you see things improving in the future? What things in your life make you hopeful, make you wanna go on living? And who is part of your support system? That is a key question. Uhm, you want to engage that support system. 
+
+00:54:30
+Question from a PCP Are there any antidepressant that are considered safer if my patient expresses suicidal thinking? MMH CMT MU 
+
+00:54:35
+JARON ASHER So, are there any depressants-- any antidepressant that are considered safer? Before I go there, I'm gonna talk about how I get informed consent. You mentioned it yourself that in that first week or two, uhm, there maybe some activation, some more agitation, anxiety, uhm, when you're-- when you've just started in SSRI, the body chemistry changes or, or, ah, any antidepressant really. The body chemistry is changing and it's, ah, it's a time when, uhm, there isn't necessarily response but there are these a potential activators and what I say to people is know that that's going to happen, know that as a part of that anxiety, you may get some, some suicidal thoughts and please tell me about those thoughts. Or have someone that you can talk to and who will talk-- who will then talk to me so that we can, uhm, deal with that but you should know also that many, uhm, when, when the black box warning, more people are actually ended up committing suicide because there was probably, there was a decrease in the amount of antidepressants. So I come down on the side of, yes, there is that risk but there is also a risk of not treating depression and I come down on the side of treating and dealing with whatever side effects there are. 
+
+00:55:55
+KELLY N. GABLE And, and having a, a better follow up quite honestly, uhm, we should never prescribe any antidepressant and, uhm, wait three months to see our patient again. We really need to have that routine follow up even if it's a phone call. And then, you know, back to our question here, are there agents that are safe in overdose and the answer is yes. Uhm, we've already talked about the lowered seizure threshold from bupropion so that's a possibility of someone overdoses. TCAs, uhm, absolutely are risk in overdose and that's really the seizure threshold but also the cardiotoxicity and really, a weeks worth of a TCA can be fatal. Uhm, and lithium which is a great, uhm, adjunct of agent for depression is also cardiotoxic so we need to be mindful of that SSRIs and trazodone are considered safer in overdose. So there's obviously gonna be, there's always a risk when someone overdoses but they are safer agents. 
+
+00:56:45
+JARON ASHER The risk is greater when they are combined - 
+
+00:56:50
+KELLY N. GABLE Yes. 
+
+00:56:50
+JARON ASHER - any medication with another substance. Either another medication or a drug. 
+
+00:56:55
+KELLY N. GABLE Yup, specifically depressants as well. Absolutely. So this is a great opportunity to talk about, uhm, how long do you continue pharmacotherapy? Uhm, is this a life long treatment or is this a one time treatment for, ah, one depressive episode? 
+
+00:57:10
+Course of Treatment in Depression MMH CMT MU 
+
+00:57:10
+KELLY N. GABLE Uhm, so if we look at this slide, you can see the course of depression and so we start with the quote is normal mood but we'll say euthymia and that's really our goal and someone drops down into a depressive episode and, and so what you can see is at the bottom of that, that's where we start the antidepressants. Uhm, ones that antidepressant is started we look for any kind of response. And once we get to that response considered at least a 50%, uhm, reduction in symptoms. It's very, very important that we don't stop here. Ah, the longer someone stays, uhm, without a response or a partial response, the harder it is to reach-- to achieve remission in the long run. So remission is very, very important. So we treat and we continue to increase for dose of the antidepressant until we get to remission and remission is really an absence of depressive symptoms for at least two months for that time period. Ah, if someone has a relapse, it's gonna happen in that four to nine month window of that episode and that's considered, uhm, a relapse into that same depressive episode. And then if we continue on, recovery happens at nine month marked and if we go beyond that and have another episode that is considered recurrence and that's a new episode of depression. So what this tells you is that, uhm, you really should be continuing pharmacotherapy for at least nine months in that first episode and we'll move to the, the next slide which highlight this. 
+
+00:58:35
+Medication Discontinuation ▪ 1st episode: ▪ Continue treatment for 4-9 months ▪ 2nd episode: ▪ Continue treatment for > 1 year ▪ Recurrent depression ▪ Lifelong treatment MMH CMT MU 
+
+00:58:35
+KELLY N. GABLE Uhm, continue for nine months for that first episode. If, if they had a second episode we're really looking at at least a year and if someone has recurrent episodes, uhm, we saw the, the risk of, of relapse and quite honestly if someone has three or more episodes, there's a 90% that they're gonna have another. They really, you know, we, we need to start talking about life long treatment for that person. And really making sure that we find, ah, the right pharmacotherapy or antidepressant for them. Uhm, be mindful if you don't treat an episode or if you, uhm, treat it partially, people can go on for six months or beyond, uhm, in a depressed state and the median time to recover is really around 20 weeks. Some people can be a little bit sooner and some people can be a little bit longer depending on the severity of their mood episode. 
+
+00:59:20
+Treatment Outcomes Monitoring ▪ Target symptoms (SIGECAPS) ▪ Patient / family report ▪ Clinician rated scales Nonadherence: ▪ 60% of patients stop antidepressant treatment within 3 weeks of initiation MMH CMT MU 
+
+00:59:25
+JARON ASHER So we're at the point of discussing what to do with monitoring the depression. Uhm, well, well, you've talked about recurrence, recovery, uhm, at this point, we really want to continue the PHQ-9 maybe even as often four to eight weeks. Uhm, we used PHQ-9 not just for screening but also for tracking our progress. Ah, we also want to ask a family as well as the patient how they're doing. The family is able, sometimes, to give the details of functioning the ins and outs of, of function where the patients sometimes is, is ready to talk because they're depressed. Finally, it's important to talk about adherence, ah, especially in that two to four week window that you talk about before where the patient has all the side effects maybe that activation, maybe other side effects, uhm, and they haven't yet got the positive effect of the antidepressant. 
+
+01:00:15
+Treatment Outcomes Monitoring ▪ Target symptoms (SIGECAPS) ▪ Patient / family report ▪ Clinician rated scales Nonadherence: ▪ 60% of patients stops antidepressant treatment within 3 weeks of initiation MMH CMT MU 
+
+01:00:15
+JARON ASHER They are likely to stop 60% of patients, stop antidepressant treatment but if you do soon follow up after starting an antidepressant, you can really bend that, ah, curve and, and maybe have more people adhere to their treatment. 
+
+01:00:30
+Patient Education ▪ Antidepressant effects are delayed; they may take up to 4 to 6 wees to be effective. ▪ Weight gain may occur as patients' mood improves. ▪ 78% of people believe that antidepressants are addictive-address this issue! ▪ Sexual dysfunction can be a problematic adverse effect for patients ▪ Serotonin withdrawal can occur when antidepressants are abruptly stopped. MMH CMT MU 
+
+01:00:30
+KELLY N. GABLE And this is a great opportunity to talk about, uhm, what do you talk about after you decides to start any antidepressant? Uhm, what counseling points are really important? And, uhm, if we look down this list, you can see, I think, uhm, we should always talk to people about response time and really we need time, we need at least four weeks to tell whether or not this drug is gonna be helpful and eight weeks before we say, you know, we've got into a goal those and we're still not getting any response we want. Let's try a different agent. Weight gain can happen. Weight gain can with all of the antidepressants with the exception of bupropion. It's also important to talk through why that weight gain might happen and just alone coming out of a depressive episode, regaining the appetite one might, uhm, gain weight from that and on the average from SSRI treatment anywhere from two to five pound weight gain a little bit more with mirtazapine. 
+
+01:01:20
+Patient Education ▪ Antidepressant effects are delayed; they may take up to 4 to 6 wees to be effective. ▪ Weight gain may occur as patients' mood improves. ▪ 78% of people believe that antidepressants are addictive-address this issue! ▪ Sexual dysfunction can be a problematic adverse effect for patients ▪ Serotonin withdrawal can occur when antidepressants are abruptly stopped. MMH CMT MU 
+
+01:01:20
+KELLY N. GABLE Seventy-eight of people believe that antidepressants are addictive. It's really important that we address this because they aren't addictive, really what we see is, uhm, changing in serotonin receptors and they become super sensitive. When we stop any antidepressants abruptly, you feel that change, you feel, uhm, you feel, uhm, agitation sometimes, irritability, and that really is called serotonin withdrawal. This does not mean that your addicted to a medication. It means that, uhm, our bodies adjusted to it and really we shouldn't be abruptly stopping treatment, we wanna taper slowly. I think it's important to address that with, uhm, our patients. Sexual dysfunction is something that we should talk about it at the beginning of starting treatment and just asking throughout our sessions with people if that's become problematic for them and then again, I mention serotonin withdrawal and just really highlighting the importance of, you know, if you wanna stop treatment or you're considering stopping, let's talk this through and figure out a safer way to do it maybe more slow. I do wanna talk a little bit more about sexual dysfunction and, and maybe, Dr. Asher, can you also talk a little bit how you approach that with patients and, uhm, how that's received by patients. 
+
+01:02:30
+JARON ASHER I frame it as, ah, up to 25, 28% of patients can get sexual dysfunction from an SSRI, however, that, ah, 28% also contains the range so in that 28% is the very, very mild perhaps decreased interest and the very, the, the other end of the spectrum is maybe actual dysfunction where it can't an erection, it can't ejaculate. What I do with my client, my patient is, uhm, say that you could be one of the, ah, unlucky ones and if you are, we will work with you on this, and, uhm, but remember that 72% I put it as the glass is half full, 72% of people do not have any kind of problem with sexual dysfunction. 
+
+01:03:25
+When to Refer to a Specialist ▪ Treatment resistant depression ▪ Failure of > 2 antidepressant trials ▪ Psychotic symptoms present ▪ Persistent suicidal thoughts ▪ Trauma history & psychotherapy MMH CMT MU 
+
+01:03:25
+JARON ASHER Finally as we're wrapping up, we wanna talk about when to refer to a specialist? Uhm, hopefully, you have access to someone that you can talk to just in a curve side sort of way and ask even this question when should I refer. I have this person, I'm thinking that maybe I should refer them to a psychiatrist, here's what I've done so far. Ah, some people have that option some people don't, so we'll talk about some guidelines. Uhm, failure of more than two antidepressant trials is, ah, I would considered that refractory depression and I would say that would be good time to involved a psychiatrist at least with curve side consultation. If psychotics symptoms are present especially, if they are commend hallucinations that's an emergency. Some voices telling you to do something to yourself. Uhm, that person should be referred maybe to an emergency room, uhm, but definitely to a mental health specialist like a psychiatrist. Persistent suicidal thoughts, uhm, and there's a big range of those as well but if they are, ah, persistent suicidal thoughts that aren't getting better with treatment, uhm, we wanna refer that to some sort of mental health specialist. 
+
+01:04:30
+When to Refer to a Specialist ▪ Treatment resistant depression ▪ Failure of > 2 antidepressant trials ▪ Psychotic symptoms present ▪ Persistent suicidal thoughts ▪ Trauma history & psychotherapy MMH CMT MU 
+
+01:04:35
+JARON ASHER Finally, uhm, just-- not just trauma history but many co-morbidities, ah, exist with depression. Depression in medical illness, depression in pain, depression in substance abuse, depression in other psychiatric illness, depression in personality disorder. I can go on, uhm, all of those make the, the diagnosis in treatment of depression more complex and that might be a good time to at least get a curve side consult if not an actual evaluation from a psychiatrist. Finally, uhm, psychotherapist are specialist and, ah, throughout this talk we've talked about how psychotherapy is an important, uhm, modality to consider both with mild depression but even with the moderate or severe depression because, uhm, when you combine psychotherapy with medication, that combination treatment is more effective than either treatment alone. That has been shown in studies. So that is when to refer to a specialist and thank you for watching this quality improvement video. 
+
+01:05:45
+Diagnosing Depression & Initial Antidepressant Selection Kelly N. Gable, Pharm.D., BCPP Associate Professor - SIUE School of Pharmacy Psychiatric Clinical Pharmacist - Places for People Jaron Asher, M.D. Medical Director / Psychiatrist Places for People MMH CMT MU 
+
+01:05:45
+END TRANSCRIPT 

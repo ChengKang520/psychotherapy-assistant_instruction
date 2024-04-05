@@ -1,0 +1,290 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:00
+DSM-5® AND ICD-10 
+
+00:00:05
+TRAUMA-RELATED DISORDERS 
+
+00:00:10
+JIM HARRIGAN Our lives are shaped to, perhaps in equal measure, by both the qualities that nature instilled in us and by the events that we experience. However, just as our biology can sometimes go out of balance, leading our thoughts, mood, or behavior, to become disordered, so too can we become impaired by our experiences, so that our perception of the world becomes distressed. This is the case for those who have trauma-related disorders, also known as trauma and stressor-related disorders, a grouping of disorders codified and defined in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders or DSM-5. Individuals with these disorders are exposed to a stressful or traumatic event, leading to a variety of responses, ranging from anxiety to depression, from social withdrawal to relive in the event or events over and over again. What makes these disorders so unique is how intrinsically tied they are to their inciting incidents. In fact, in DSM-5, trauma and stressor-related disorders is the only full section that seeks to describe sources of causation as part of their diagnostic criteria. This especially requires the clinician to not only be familiar with the effects of a patient's disorder but also its potential origins, and how those have altered the patient's sense of health and wellbeing. 
+
+00:01:55
+DSM-5® AND ICD-10 CODING 
+
+00:02:00
+JIM HARRIGAN The trauma-related disorders grouping contains a number of distinct disorders, each given its own unique diagnostic code. These codes correspond to those used by the World Health Organization in the International Classification of Diseases or ICD. In DSM-5, each disorder is first linked to the coding system from the ICD-9, with the codes for the ICD-10 listed in parentheses after. Hence, all of the DSM codes crosswalk to the ICD codes, including the newest iteration ICD-10. For instance, reactive attachment disorder is assigned the code 313.89 from the ICD-9, and F94.1 in parentheses, from the ICD-10. This is because the ICD-9 system was still in use when DSM-5 was first released. ICD-10 was released in the fall of 2015 in the United States, although, it was adopted previously in other countries. However, because ICD-10 is now the standard in the United States, this program will be listing the newer code from ICD-10 first, followed by the ICD-9's codes in parenthesis. Sometimes, when relevant, we will also delineate the ICD-9 and 10 codes, when we mention a disorder from another grouping of disorders. For example, obsessive-compulsive disorder, a condition mentioned later in this program, is coded as F42.0 (300.3) from the grouping of obsessive-compulsive and related disorders. It is also part of the F40 to F49 section of ICD-10 on neurotic, stress-related and somatoform disorders. Organizationally, there are a few differences between the layout of DSM-5 and ICD-10. The ICD-10 puts most of the trauma and stressor-related disorders into their F40 through F49 block of ICD-10 on neurotic, stress-related and somatoform disorders. This section also includes the equivalent DSM-5 chapters of anxiety disorders, obsessive-compulsive and related disorders, and somatic symptom and related disorders. And specifically, trauma and stressor-related disorders fit in the F43 section on reaction to severe stress and adjustment disorders. While the ICD-10 grouping of a large number of disorders into a bigger section may seem like a minor organizational difference, it does help to illustrate the underlying similarities between these disorders, many of which present co-morbidly. Furthermore, in the previous version of the DSM, DSM-IV-TR, post-traumatic disorder, acute stress disorder, and obsessive-compulsive disorder were even part of the anxiety disorders class. Two of these disorders however, reactive attachment disorder and disinhibited social attachment disorder are placed in the F90 through F98 block on behavioral and emotional disorders with onset usually occurring in childhood and adolescence. Specifically, in F94, the section for disorders of social functioning with onset specific to childhood and adolescence. This highlights not only the incidence of these disorders in childhood but also how the trauma of these disorders leads to a difficulty in the child functioning socially. We will cover this in more detail when looking at both of these disorders later in the program. 
+
+00:06:15
+POSTTRAUMATIC STRESS DISORDER 
+
+00:06:20
+JIM HARRIGAN Posttraumatic Stress Disorder or PTSD is a condition that can affect a soldier coming back from war, a witness to a murder, a first responder repeatedly exposed to human remains, and even a mother who has heard the details of her son's death. This is because PTSD can affect not only someone who experiences trauma directly, but also a witness to trauma, an individual who has heard about the traumatic event of a close friend or relative, or a person who is continually exposed to details of traumatic events. Though it should be noted that that doesn't apply to someone exposed to this trauma through media, unless it is work-related. 
+
+00:07:10
+KRISTEN HENLEY Honey? 
+
+00:07:15
+SEAN HARRIGAN Yeah. Umm… yeah, Sorry. 
+
+00:07:20
+JIM HARRIGAN These individuals will experience intrusive symptoms after the traumatic event or events have happened. This can be repeated memories or dreams of the event or events, or things associated with the trauma. Strong physiological reactions and psychological distress will also occur when the individual faces things that either symbolize or resemble the trauma. These cues can be external as well as internal. 
+
+00:07:50
+SEAN HARRIGAN Down. Get down. 
+
+00:07:55
+JIM HARRIGAN It can also manifest in flashbacks or intrusive memories. These flashbacks can occur across a spectrum of severity, potentially getting severe enough so that the patient is no longer cognizant of their environment. PTSD can affect an individual's mood or mental processes. They may feel negative emotions on a recurrent basis, affecting their outlook of themselves or their world. This can cause them to blame themselves for things related to the traumatic event, or to simply feel isolated from those around them. This can also manifest in numbness or emotional blunting. They will also experience a significant change in their arousal and reactivity. This can mean that they are more physically or verbally aggressive. They may become negligent or self-destructive. They may also tend toward hyper-vigilant behavior, becoming more easily startled. Similarly, the individual may avoid reminders of the trauma, be they external or internal. Internal reminders can be thoughts, emotions, or memories. Whereas, external reminders can include people, locations, activities, and situations associated with the trauma or symbolic of it. Any of this may make it feel like it's hard for the individual to keep calm, even in everyday situations. For a diagnosis of posttraumatic stress disorder, these symptoms last at least one month. As with many disorders, it is important for the clinician to ensure that the disturbance isn't better explained by use of a substance or another medical condition. 
+
+00:09:45
+POSTTRAUMATIC STRESS DISORDER 
+
+00:09:45
+SPECIFIERS 
+
+00:09:50
+SEAN HARRIGAN But it's also, it just felt like I wasn't me or something like that, you know. I just didn't feel like things were real. Umm… 
+
+00:10:00
+JIM HARRIGAN Some patients with PTSD will experience depersonalization or derealization. Depersonalization is when one continually feels disconnected from his or her person or cognitive processes. They feel like they are observing these experiences from the outside, perhaps, as if in a dream. Derealization involves a similar feeling of dream like disconnect, only this involves detachment toward the individual's environment, as opposed to their thoughts or body. Both of these fall under the category of dissociative symptoms. If a patient experiences these, the clinician can indicate this by adding a specifier to the diagnosis of PTSD with dissociative symptoms. Some individuals may also not experience the full set of symptoms of posttraumatic stress disorder until six or more months after the traumatic incident. If this is the case, the clinician can use the specifier with delayed expression. 
+
+00:11:10
+POSTTRAUMATIC STRESS DISORDER 
+
+00:11:10
+IN CHILDREN 
+
+00:11:15
+JIM HARRIGAN There are some differences in the fundamental characteristics of PTSD for a child under six experiencing post-traumatic stress disorder. With children, the distressing dreams and memories associated with the event may not be as straightforward as with adults. Memories or flashbacks may make themselves apparent through play-reenactment, which may not even look troubling. And it may not seem like the dreams even connect to the traumatic event. There are also fewer symptoms of cognitive alterations and alterations in arousal, based on how a child experiences these changes. 
+
+00:11:55
+POSTTRAUMATIC STRESS DISORDER 
+
+00:11:55
+OTHER CHARACTERISTICS 
+
+00:12:00
+SEAN HARRIGAN I know things have been kind of strange between us and things like that. 
+
+00:12:05
+KRISTEN HENLEY Yeah. 
+
+00:12:05
+SEAN HARRIGAN And I don't know how… I am sorry that thing are like, there's something that's kind of, kind of messed up with me. 
+
+00:12:15
+KRISTEN HENLEY I mean, it's not messed up, it's just… You're trying to deal with it. 
+
+00:12:15
+JIM HARRIGAN Yeah, yeah. There are factors that increase the risk of PTSD before, during, and after the trauma. Prior to the trauma, there is greater incidence of PTSD for those with lower socio economic status, lower intelligence, and prior experience of trauma. During trauma, generally speaking, the more severe the trauma, the more likely it is to lead to PTSD. After the trauma, there is greater risk for those who have poor coping methods or receive negative appraisals. An individual who is continually reminded of the event or experiences other negative life events following trauma is at greater risk for PTSD. The lifetime prevalence of PTSD is 8.7 percent in the United States with a 12 month prevalence of 3.5 percent. Though, this is estimated to be much lower in Europe, and most Asian, African, and Latin American countries. 
+
+00:13:20
+POSTTRAUMATIC STRESS DISORDER 
+
+00:13:20
+DIFFERENTIAL DIAGNOSIS 
+
+00:13:25
+JIM HARRIGAN While PTSD can potentially share the intrusive thoughts of obsessive-compulsive disorder, those come about because of an obsession and are not associated with a traumatic event. The inciting traumatic event also separates PTSD from anxiety related disorders, such as panic disorder, or generalized anxiety disorder. Though, they may share many of the same anxiety related symptoms. 
+
+00:13:55
+HANNAH HUFF How are you supposed to get over something like this? He was here and now he's gone, he's just not around anymore. This was a person whose, whose life is just… 
+
+00:14:05
+JIM HARRIGAN A traumatic incident may precede major depressive disorder as well. However, major depressive disorder doesn't feature the intrusive symptoms of PTSD, including distressing memories or dreams and flashbacks. It also doesn't include avoidance of external or internal cues associated with the event. The flashbacks of PTSD must also be distinguished from the hallucinations of schizophrenia and related disorders, such as schizophrenia and brief psychotic disorder. Other trauma-related disorders may also be more appropriate, which we'll explore for the remainder of this program. 
+
+00:14:50
+ACUTE STRESS DISORDER 
+
+00:14:55
+JIM HARRIGAN The fundamental characteristics of PTSD and acute stress disorder are very similar. They both feature exposure to a traumatic event. And the same possible ways that exposure can occur. In both disorders, there are also the same types of symptoms, such as intrusive, avoidant, or dissociative symptoms. The major differences between PTSD and acute stress disorder involve the duration and onset of the disorder, thought here are some differences in the extent of symptoms. For example, the fundamental characteristics of acute distress disorder do not entail some of the negative emotions and physiological symptoms. While a diagnosis of PTSD is appropriate for symptoms that occur beyond one month after the trauma, acute stress disorder describes symptoms that last from three days to one month after the trauma. For some patients, the symptoms of acute stress disorder remit before one month. However, up to 80 percent of patients with acute stress disorder are eventually diagnosed with PTSD after one month. Some patients with PTSD aren't identified until a month after the trauma, meaning, they don't qualify for acute stress disorder. But around half of all patients who develop PTSD will begin with a diagnosis of acute stress disorder. 
+
+00:16:30
+ADJUSTMENT DISORDER 
+
+00:16:35
+JIM HARRIGAN An adjustment disorder arises within three months of a noticeable stressor. It entails an individual experiencing distress beyond what would be expected given the circumstance or that interferes with social functioning and performance. This could be a relatively common event, such as marriage or divorce or financial issues. But the symptoms aren't better attributable to another disorder, a medical condition, or normal bereavement. The symptoms of the disorder also last no longer than six months after the stressor is over. Though if the stressor is continuous, that could entail a longer period of adjustment. There are numerous specifiers possible for adjustment disorder. These are, with depressed mood, with anxiety, with mixed anxiety and depressed mood, with disturbance of conduct, with mixed disturbance of emotions and conduct, and unspecified. 
+
+00:17:35
+REACTIVE DETACHMENT DISORDER AND DISINHIBITED SOCIAL ENGAGEMENT DISORDER 
+
+00:17:40
+JIM HARRIGAN There are many similarities between reactive detachment disorder and disinhibited social engagement disorder. And in some ways, they can be thought of as two sides of the same coin. Both affect children with at least a developmental age of nine months. The symptoms begin in response to serious psychological or physical neglect, abuse, or insufficiencies from the child's caregivers. This may be from the child having frequent changes in caregivers, or being raised in unusual settings, which makes it difficult for the child to form selective attachments. Where these disorders differ is in how this neglect manifests itself. For reactive attachment disorder, the child will become emotionally distant toward adults. The child may become fearful or hypervigilant around adults, not seeking or responding to comfort. They may show very little emotional responsiveness and may often seem in a state of misery. And they may display aggression toward others. This disturbance presents before the child is five years old. But where a child with reactive detachment disorder will become shy and withdrawn, a child with disinhibited social engagement disorder will do the opposite, approaching unknown adults with excessive familiarity. They'll seem unconcerned with the departure of their caregivers or even with wandering away from them. They may also show attention seeking behavior. Because of the impulsive nature of this disorder, it is important to distinguish disinhibited social engagement disorder from other impulsive disorders, such as attention deficit hyperactivity disorder. It's possible for the child to have both disorders. For reactive detachment disorder, the clinician should rule out autism spectrum disorder. For both disorders, the clinician can specify persistent, if the full criteria of symptoms have been present for over a year. And severe, when all of the symptoms are met, each to relatively high levels. It may be that a single moment or a series of events can lead to a patient spending the rest of their lives coping with a mental disorder. But even as it may be a lifelong process, there is hope for the patient in finding help and a source of treatment. This treatment can come in many forms, but it often truly begins when the patient's disorder is diagnosed. The diagnosis can allow the clinician to find the best course for assisting the patient and give the patient a new lens through which to view the symptoms they've been experiencing. This can be the first step to putting the patient on the path to living a healthier, more balanced life. 
+
+00:20:40
+Produced by 
+
+00:20:40
+Classroom Productions, INC. 
+
+00:20:40
+Technical Advisors 
+
+00:20:40
+Dr. Tracie Collins, MD, MPH 
+
+00:20:40
+Dr. Mathew Macaluso, DO 
+
+00:20:40
+Mary Llenell Paz, MS 
+
+00:20:40
+Directed by 
+
+00:20:40
+Sean Harrigan 
+
+00:20:40
+Written by 
+
+00:20:40
+Sean Harrigan 
+
+00:20:40
+Siobhan Doherty 
+
+00:20:40
+Script Editor 
+
+00:20:40
+Pandora Suderman 
+
+00:20:40
+Production Coordinator 
+
+00:20:40
+Siobhan Doherty 
+
+00:20:40
+Field Production 
+
+00:20:40
+Amanda Buffington 
+
+00:20:40
+Hannah Huff 
+
+00:20:40
+Merlin Huff 
+
+00:20:40
+Featured Cast 
+
+00:20:40
+Anatasha Blakely 
+
+00:20:40
+Ross Crain 
+
+00:20:40
+Siobhan Doherty 
+
+00:20:40
+Brett Duggan 
+
+00:20:40
+Abbey Grace 
+
+00:20:40
+Zach Hallett 
+
+00:20:40
+Jim Harrigan 
+
+00:20:40
+Sean Harrigan 
+
+00:20:40
+Kristen Henley 
+
+00:20:40
+Hannah Huff 
+
+00:20:40
+Merlin Huff 
+
+00:20:40
+Dennis Hurley 
+
+00:20:40
+Jason Ko 
+
+00:20:40
+Matt Koenig 
+
+00:20:40
+Amy Landon 
+
+00:20:40
+Maribel Martinez 
+
+00:20:40
+Marissa Moosekian 
+
+00:20:40
+Bree Murphy 
+
+00:20:40
+Alan Ramos 
+
+00:20:40
+Diana Sanchez-Vega 
+
+00:20:40
+David Santana 
+
+00:20:40
+Jennifer Shaevitz 
+
+00:20:40
+Bette Smith 
+
+00:20:40
+Eddie Smith 
+
+00:20:40
+Lindsay Smith 
+
+00:20:40
+Miller Tai 
+
+00:20:40
+Narration 
+
+00:20:40
+Jim Harrigan 
+
+00:20:40
+Post-Production 
+
+00:20:40
+Sean Harrigan 
+
+00:20:40
+Robert Suderman 
+
+00:20:40
+Property of 
+
+00:20:40
+Classroom Productions, Inc. 
+
+00:20:40
+Copyright 2016 
+
+00:20:40
+All Rights Reserved 
+
+00:21:00
+END TRANSCRIPTION 

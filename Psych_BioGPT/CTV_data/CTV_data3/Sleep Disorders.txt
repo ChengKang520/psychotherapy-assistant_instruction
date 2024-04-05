@@ -1,0 +1,320 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+_____________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The information in this program is presented solely for educational purposes and should not be used for the assessment or treatment of any condition without the advice and supervision of licensed medical professionals. The situations presented in this program do not necessarily reflect actual situation you may encounter. Classroom Productions disclaims any liability and/or loss resulting from the information contained in this video. DSM-5® is a registered trademark of the American Psychiatric Association. The American psychiatric Association has not participated in the preparation of this program. 
+
+00:00:05
+DIAGNOSING MENTAL DISSORDERS 
+
+00:00:05
+DSM-5® AND ICD-10 
+
+00:00:10
+SLEEP DISORDERS 
+
+00:00:15
+SEAN HARRIGAN For many people, sleep is a welcome end to a long day. We climb into our beds to restore our energy and prepare us for the day to come. It is so vital in fact, that the average person will spend a third of their life sleeping. Well, there are many theories. Research has yet to find a conclusive reason for our need to sleep. What they do know is that disrupted sleep or the lack of sleep can be extremely distressing, and in rare cases, even fatal. For most people, the main sleep episode last around seven hours and will include alternating between periods of non rapid eye movement sleep or NREM sleep and rapid eye movement sleep or REM sleep. Most of us have experienced trouble sleeping at one time or another, which may interrupt one or more of these types of sleep. However, for some, trouble sleeping can become habitual to the point it causes significant distress in an individuals life. These challenges may be due to difficulty falling asleep, intense nightmares, breathing issues or the effects of a substance or medication. They can even continue into the day affecting or interrupting an individual’s wake full period. If any of these appeared to be the case, the individual may have a sleep disorder, also called to sleep-wake disorder, which is a grouping of disorders codified and defined in the fifth edition of the diagnostic and statistical manual of mental disorders or DSM-5. Because sleep is so vital to our experience as human beings, individuals with sleep-wake disorders may find these disturbances go well beyond their periods of sleep, negatively affecting every aspect of their lives. 
+
+00:02:05
+DSM-5® AND ICD-10 CODING 
+
+00:02:10
+Sleep Disorder 
+
+00:02:10
+SEAN HARRIGAN The sleep disorder grouping contains a number of distinct disorders, each given its own diagnostic code. These codes crosswalk to the code used by the World Health Organization in the international Classification of Diseases or ICD. In DSM-5® each disorder is linked to the coding system from ICD-9, with codes from ICD-10 listed in parenthesis. For example Insomnia Disorder is assigned the code 307.42 from ICD-9 and (F51.01) in parenthesis from ICD-10. This is because the ICD-9 system was still in use when DSM-5 was first released. ICD-10 was released in the fall of 2015 in the United States, although it was adopted previously in other countries. However, because ICD-10 is now the standard in the United States, this program will be listing the newer codes from ICD-10 first followed by the (ICD-9 codes) and parenthesis. 
+
+00:03:15
+Bipolar II Disorder 
+
+00:03:15
+SEAN HARRIGAN Sometime when relevant, we will also delineate the ICD-9 and 10 codes when we mention a disorder from one of the other groupings of disorders. For example, Bipolar II Disorder mentioned later in the program, is coded as F31.81 (296.89), part of the F30 to F39 section of ICD-10 on Mood Disorders. Most of the sleep-wake disorders in DSM-5 are included in ICD-10 under section G47, sleep disorders or F51. Sleep disorders not due to a substance or known physiological condition. ICD-10 also sometimes refers to these two sections as organic sleep disorders and non-organic sleep disorders respectively. G47 includes the subsection for sleep related movement disorders, such as periodic limb movement disorders and sleep related leg cramps. But this small section does not include restless leg syndrome. This may highlight that while restless legs is more common in the evening, it is not solely related to sleep, instead restless legs is included in G25, other extra pyramidal and movement disorders. Chain stokes breathing which in DSM-5 is a specific type of central sleep Apnea is listed in ICD-10 under R06, abnormalities of breathing. This can serve as a reminder, that while it most commonly occurs during sleep. This disorder may occur during the day as well, particularly in patients with heart failure towards the end of life. 
+
+00:04:50
+NONORGANIC INSOMNIA 
+
+00:04:55
+SEAN HARRIGAN Insomnia is the most common of the sleep disorders affecting up to 10% of US adults. An individual with Insomnia disorder will complain of either not getting good sleep or not getting enough sleep. These events happen with regularity, at least three times a week for three months. And can be one of the following complaints, trouble falling asleep, trouble continuing sleep or waking up extremely early and being unable to go back to sleep. The clinician must be sure that the individual has plenty of opportunity for sleep and that the sleep disturbance is not better explained by substance use, another medical condition or another sleep disorder. This is not to say that insomnia can’t be comorbid with these things, but rather that these must all be considered as primary causes of the sleep disturbance before diagnosing insomnia as the patient’s primary disorder. Other characteristics of insomnia are concentration and memory problems, fatigue, and irritable or labile mood. Well, the third of adults experience symptoms of insomnia, only a small fraction experience the distress and impairment inherent in diagnosis. About half of patients with Insomnia will have a comorbid mental disorder. 
+
+00:06:15
+NONORGANIC HYPERSOMNIA 
+
+00:06:20
+SEAN HARRIGAN Individual with Nonorganic Hypersomnia also called Hypersomnolence Disorder will report feeling excessive daytime sleepiness. An individual who sleeps at least seven hours for the night will still take multiple naps throughout the day without feeling refreshed. Others will sleep nine or more hours each night, but will still feel extremely sleepy throughout the day. They will also find it hard to be fully awake after suddenly waking up. The individual has been experiencing this kind of sleep disturbances three times a week over the last three months, in addition to significant distress in multiple areas of life due to these sleep issues. Individuals with Nonorganic Hypersomnia also called hypersomnolence disorder will report feeling excessive daytime sleepiness. Hypersomnolence Disorder may appear after head trauma or a viral infection. 
+
+00:07:20
+HYPERSOMNOLENCE DISORDER 
+
+00:07:20
+SPECIFIERS 
+
+00:07:25
+SEAN HARRIGAN The clinician may specify comorbidities such as a mental disorder, medical condition or another sleep-wake disorder. Bipolar and depressive disorders are frequently comorbid with hypersomnolence disorder. As hypersomnolence is a symptom of both disorders. They may also specify the duration and current severity, signaled by frequency of episodes of daytime sleepiness per week. 
+
+00:07:55
+NARCOLEPSY 
+
+00:08:00
+SEAN HARRIGAN Narcolepsy may be known to the general public as the disorder that makes people fall asleep involuntarily, but while that it is one identifying feature, the symptoms and pathology are more complex. In many individuals with Narcolepsy, episodes of extreme need to sleep or lapsing into sleep occur daily. In order to diagnose these episodes occur a minimum of three times a week for three months. Narcolepsy may be indicated by reports of cataplexy, evidence of hypocretin deficiency, or through polysomnography. For many individuals with Narcolepsy, cataplexy occurs when they experienced short sudden episodes of muscle weakness, often following sensations such as laughing, crying or fear. In children or in individuals who have only recently developed Narcolepsy, cataplexy may present primarily in the face causing jaw movement, grimacing or tongue thrusting. Hypocretin deficiency is determined by testing the patient’s cerebral spinal fluid, hypocretin 1 amino reactivity values. Levels below 110 picograms per milliliter indicate this deficiency. There are many other conditions that may cause brief or lasting Hypocretin deficiency including traumatic brain injury, whipple’s disease, sarcoidosis or hypothalamic surgery, among others. Alternatively, polysomnography may determine Narcolepsy by providing evidence of a short sleep latency. Sleep legacy refers to the time it takes an individual to go from being fully awake to fully asleep during daytime. The clinician may choose to specify the current severity of the disorder according to the frequency and intensity of episodes from mild, moderate to severe. 
+
+00:09:55
+SLEEP DISOFRES AND BREATHING 
+
+00:10:00
+SEAN HARRIGAN There are a number of sleep disorders that are associated with breathing issues. For this disorder polysomnography is used to determine exactly what is causing the patient sleep disturbance. Obstructive sleep Apnea hypopnea may be diagnosed in one of two ways. If polysomnography shows the patient is experiencing at least five obstructive pauses of breath apneas or shortness of breath hypopneas for each hour of sleep and if the patient also experiences either daytime sleepiness or nocturnal breathing issues than the disorder is indicated. Alternatively, the clinician may diagnose if the patient’s polysomnography shows that they are experiencing 15 or more obstructive apneas or hypopneas for each hour of sleep. Central sleep apnea is determined by polysomnography results indicating that the patient is experiencing at least five central sleep apneas per hour. Central sleep apneas differ from obstructive apneas. Central apneas indicate the very ability of the patient’s respiratory rate, whereas obstructive apneas indicate an airway obstruction. Sleep-related hypoventilation is diagnosed when polysomnography indicates that the patient is experiencing decreased respiration leading to hypoxemia, low levels of oxygen in the blood, and hypercapnia, high levels of carbon dioxide in the blood. 
+
+00:11:30
+SLEEP DISORDERS AND BREATHING 
+
+00:11:30
+SPECIFIERS 
+
+00:11:35
+SEAN HARRIGAN Each of disorders in this group has additional specifiers. For obstructive sleep apneas hyperpnea, they are simply severity specifiers. Central sleep apnea has multiple specifiers and it’s coded accordingly. When there is a very ability of respiratory effort, the clinician should specify Idiopathic Central Sleep Apnea. Cheyne-stokes breathing is specified when the patient’s tidal volume increases and decreases causing apneas and hypopneas. Cheyne-stokes breathing is common in patients with acute stroke. Clinicians may additionally specify Central Sleep Apnea comorbid with Opioid Use, which occurs in about a third of individuals who are either using opioids for pain or for methadone maintenance therapy. Specifiers for sleep-related hypoventilation includes cyanosis, apnea and comorbid sleep-related hypoventilation, as well as congenital central alveolar hypoventilation, a rare birth defect in which a baby experiences shallow breathing. 
+
+00:12:45
+SLEEP DISORDERS AND BREATHING 
+
+00:12:45
+DIFFERENTIAL DIAGNOSIS 
+
+00:12:50
+SEAN HARRIGAN When considering one of these sleep disorders, clinician must bear in mind other conditions that affect breathing as well as those that can cause sleep disturbances, fatigue or sleepiness, particularly those that affect ventilation. These may include neuromuscular disorders, diseases of the lung, and skeletal disorders among others. 
+
+00:13:15
+CIRCADIAN RHYTHM 
+
+00:13:15
+SLEEP-WAKE DISORDERS 
+
+00:13:20
+SEAN HARRIGAN There are five types of disorders that affect the sleep-wake schedule. Each of which occurs when there is a difference between the individual circadian sleep cycle and that required by their professional or social schedule. In delayed sleep phase type, individuals are unable to fall asleep at a planned or conventional time. Their regular sleep phase occurs later than they prefer or later than it’s considered socially acceptable in their culture. Conversely, advanced sleep phase type is diagnosed when the patient sleep phase occurs earlier than they prefer or earlier than it’s conventional. Their lives are disrupted by being unable to stay up until conventionally acceptable bedtime and being unable to stay asleep until a similar wake time. In irregular sleep-wake type, individual do not have a set sleeping pattern, their sleep phase is vary from day-to-day to the point where the individual is significantly distressed or impaired in their normal functioning. With non-24 hour sleep-wake type, the individual’s endogenous circadian rhythm is out of sync with the 24 hour clock. For example, an individual circadian rhythm maybe functioning on a 28 hour cycle causing them to fall asleep 4 hours later each night, until they are sleeping during the day. Then a few days later, they will be sleeping through the night again. Understandably, this may cause the individual to have difficulty showing up for school or work, which in turn may cause social isolation. About 50% of individuals with blindness experience this type of sleep-wake disorder due to their limited visual exposure to light. Individual who consistently work night shifts or rotating shifts outside of the daytime work window of 8 AM to 6 PM make experience shift work type. This involve symptoms of both intense sleepiness at work and trouble sleeping at home. For most patients, symptoms resolved by returning to a regular daytime work window. 
+
+00:15:20
+PHYSICAL, BEHAVIORAL AND EMOTIONAL SLEEP-RELATED EVENTS 
+
+00:15:25
+SEAN HARRIGAN The following are group of disorders that include abnormal physical behavioral or emotional events that occur during or are associated with sleep. 
+
+00:15:35
+SLEEPWALKING AND SLEEP TERRORS 
+
+00:15:40
+SEAN HARRIGAN DSM-5 group sleepwalking and sleep terrors together under the heading, Non Rapid Eye Movement Sleep Arousal Disorders. These are instances of partial waking from sleep which are accompany by one of two things. Sleepwalking in which the individual gets out of bed, walks around and is mostly responsive to others or sleep terrors in which the individual is incompletely awoken from sleep by instances of sudden terror, which can include screaming and signs of autonomic arousal, such as sweating, pupil dilation, rapid heart rate, and rapid breathing. In both sleepwalking type and sleep terrors type, the individual doesn’t remember much if any of the episode. Well, sleepwalking episodes are fairly common, individual experience both a recurrence of episodes and mark distress in the diagnosis of the disorder. 
+
+00:16:35
+NIGHTMARE DISORDER 
+
+00:16:45
+SEAN HARRIGAN Although many people have had nightmares at some point in their lives. Nightmare disorders only indicated when individuals experience recurring nightmares which cause significant distress or impairment in the rest of the individual’s life. When waking up from these nightmares, individuals will quickly become oriented and alert. Nightmares occur during any REM sleep, but are more common during the later portion of a night sleep. Nightmares are more prevalent in females in early adulthood, but may be more common in males in later adulthood. There is also a higher risk of suicide for those who experience frequent nightmares. 
+
+00:17:20
+REM SLEEP BEHAVIOR DISORDER 
+
+00:17:25
+SEAN HARRIGAN In REM Sleep Behavior Disorder, individuals experience episodes of waking up after speaking or shouting and or complex motor behaviors. The individual is awake and alert following such episodes and may recall physically acting out a particular dream. These episodes occur during REM sleep, which means they usually happen after the individual has been asleep for atleast 90 minutes. REM Sleep Behavior Disorder is confirmed by either synucleinopathy diagnosis such as Parkinson’s Disease along with the history would suggest REM Sleep Behavior Disorder or polysomnography evidence of REM sleep without atonia. 
+
+00:18:10
+RESTLESS LEGS SYNDROME 
+
+00:18:15
+SEAN HARRIGAN Restless Legs Syndrome or RLS is characterized by the urge to move the legs which gets worse at night and during times of rest or stillness. Subsequent moving of the legs will either partially or fully relieve the urge. Additionally, these symptoms must not be better explained by another disorder or medical condition such as arthritis or leg cramps or even by a behavioral condition such as habitual foot tapping. As the urge to move the legs gets worse at night, sleep onset is often delayed, which make cause daytime sleepiness. RLS is almost twice as common in females as in males, which is mostly explained by the fact that pregnant women experience RLS two to three times as often as the general population. Symptoms often fade after delivery. 
+
+00:19:10
+SLEEP DISORDERS CAUSED BY A SUBSTANCE OR MEDICATION 
+
+00:19:15
+SEAN HARRIGAN The diagnosis of a substance medication induced sleep disorder is only warranted when a sever disturbance in sleep is more prominent than symptoms of substance intoxication or substance withdrawal. When considering a substance mediation induced sleep disorder, the clinician must assess when the sleep disturbance developed in relation to a substance or medication exposure, intoxication or withdrawal and must determine whether the substance or medication is able to produce the severe disturbance in the patient’s sleep. 
+
+00:19:50
+SLEEP DISORDERS CAUSED BY A SUBSTANCE OR MEDICATION 
+
+00:19:50
+CODING 
+
+00:19:55
+SEAN HARRIGAN Coding for substance mediation induced sleep disorder is based on both the substance or medication. And whether the patient has a substance used disorder for the same type of substance. For example, a patient may come in with what is determined to be an alcohol-induced sleep disorder. The clinician must decide between three coding options depending on whether the patient already has an alcohol-induced disorder. For a mild use disorder, the code is F10.182. For a moderate or severe use disorder, the code is F10.282. And if the patient does not have a use disorder, but the sleep disturbance is still caused by alcohol, the code is F10.982. The list of substances and medications that have their own codes include alcohol, caffeine, cannabis, opioids, sedatives, hypnotics or anxiolytic’s, amphetamines or other stimulants, cocaine and tobacco. There is an additional category for other or unknown substances. 
+
+00:21:00
+SUBSTANCES/MEDICATION- INDUCED SLEEP DISORDERS 
+
+00:21:00
+SPECIFIERS 
+
+00:21:05
+SEAN HARRIGAN The clinician should note which types of sleep difficulty the patient is having, whether insomnia type, daytime sleepiness type, parasomnia type or mixed type. The clinician should also note whether the sleep disturbance occurred during intoxication or during discontinuation withdraw. Being familiar with the features of the sleep disorders can allow the clinician to find the best diagnosis for a patient’s symptoms. This diagnosis may be the first step in the treatment process, putting the patient on the path to a consistent sleep, one that’s restorative rather than disruptive to their lives. 
+
+00:21:50
+Produced by 
+
+00:21:50
+Classroom Productions, INC. 
+
+00:21:50
+Technical Advisors 
+
+00:21:50
+Dr. Tracie Collins, MD, MPH 
+
+00:21:50
+DR. Mathew Macaluso, DO 
+
+00:21:50
+Mary Llenell Paz, MS 
+
+00:21:50
+Directed by 
+
+00:21:50
+Sean Harrigan 
+
+00:21:50
+Written by 
+
+00:21:50
+Sean Harrigan 
+
+00:21:50
+Siobhan Dohentry 
+
+00:21:50
+Script Editor 
+
+00:21:50
+Pandora Suderman 
+
+00:21:50
+Production Coordinator 
+
+00:21:50
+Siobhan Dohentry 
+
+00:21:50
+Field Production 
+
+00:21:50
+Amanda Buffington 
+
+00:21:50
+Hannah Huff 
+
+00:21:50
+Merlin Huff 
+
+00:21:50
+Featured Cast 
+
+00:21:50
+Anatasha Blakely 
+
+00:21:50
+Ross Crain 
+
+00:21:50
+Siobhan Dohentry 
+
+00:21:50
+Brett Duggan 
+
+00:21:50
+Abbey Grace 
+
+00:21:50
+Zach Hallett 
+
+00:21:50
+Jim Harrigan 
+
+00:21:50
+Sean Harrigan 
+
+00:21:50
+Kristen Henley 
+
+00:21:50
+Hannah Huff 
+
+00:21:50
+Merlin Huff 
+
+00:21:50
+Dennis Hurley 
+
+00:21:50
+Jason Ko 
+
+00:21:50
+Matt Koenig 
+
+00:21:50
+Amy Landon 
+
+00:21:50
+Maribel Martinez 
+
+00:21:50
+Marissa Moosekian 
+
+00:21:50
+Bree Murphy 
+
+00:21:50
+Alan Ramos 
+
+00:21:50
+Diana Sanchez-Vega 
+
+00:21:50
+David Santana 
+
+00:21:50
+Jennifer Shaevitz 
+
+00:21:50
+Better Smith 
+
+00:21:50
+Eddie Smith 
+
+00:21:50
+Lindsay Smith 
+
+00:21:50
+Miller Tai 
+
+00:21:50
+Narration 
+
+00:21:50
+Sean Harrigan 
+
+00:21:50
+Post-Production 
+
+00:21:50
+Sean Harrigan 
+
+00:21:50
+Robert Suderman 
+
+00:21:50
+Property of 
+
+00:21:50
+Classroom Productions, Inc. 
+
+00:21:50
+Copyright 2016 
+
+00:21:50
+All Rights Reserved 
+
+00:22:15
+END TRANSCRIPT 

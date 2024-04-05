@@ -1,0 +1,4022 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+_____________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+ALEXANDER 
+
+00:00:00
+STREET 
+
+00:00:00
+a ProQuest Company 
+
+00:00:05
+COUNSELING THEORIES IN ACTION: 
+
+00:00:05
+GESTALT THERAPY 
+
+00:00:05
+MATT ENGLAR-CARLSON, PHD 
+
+00:00:05
+LEAH BREW, PHD 
+
+00:00:10
+Matt Englar-Carlson, PhD 
+
+00:00:10
+CALIFORNIA STATE UNIVERSITY, FULLERTON 
+
+00:00:10
+MATT ENGLAR-CARLSON Hi, my name is Matt Englar-Carlson and I'm the host of the Counseling Theories in Action Video Series. Theory is the compass that allows counselors to navigate the vast territory of clinical practice. In the same ways that navigational tools have been modified to adapt to advances in thinking and ever expanding territory to explore, theories of counseling have changed over time to integrate advances in; science, to adapt to the broad range of presenting concerns and most importantly to be more inclusive of the full range of cultural identities that our clients embody. We do know that counselors adopt and practice according to one theory or another because their experience and decades of good evidence suggests that having a sound theory of counseling leads to greater therapeutic success. A sound theory helps the client and counselor makes sense of a client's experiences and their presenting concern. Theory also guides actions towards successful outcomes while generating hope, both the counselor and client that recovery is possible. There are many different counseling theories and that wide variety is a testament to different ways in which the same human behavior can be conceptualized. But also the different ways that counseling can be practiced. This video series presents different theoretical approaches to counseling with the emphasis on different theoretical based interventions. The viewer will get a chance to see how professionals make sense of their chosen theoretical model and also then observe that model in action. 
+
+00:01:40
+[music] 
+
+00:01:45
+MATT ENGLAR-CARLSON Hi, Lean, welcome. Uh… In this video, you're gonna demonstrate six interventions from gestalt perspective. Uh… Before we get to those techniques maybe you can tell us a bit about why gestalt? 
+
+00:01:55
+LEAH BREW Umm… In my grad program. 
+
+00:02:00
+MATT ENGLAR-CARLSON Mm-hmm. 
+
+00:02:00
+LEAH BREW Uh… My doctoral program, the professor had different umm… people come in who worked from different theoretical orientations. 
+
+00:02:05
+MATT ENGLAR-CARLSON Right… right. 
+
+00:02:10
+LEAH BREW And in 20 minutes, I watched uh… that demonstration with one of the students in the class. 
+
+00:02:15
+MATT ENGLAR-CARLSON Right. 
+
+00:02:15
+LEAH BREW Gained so much insight in… in that moment and I thought I want to be like. Umm… So I think that's what initially inspired it. 
+
+00:02:25
+MATT ENGLAR-CARLSON Right. 
+
+00:02:25
+LEAH BREW I think in retrospect, the other piece of that is that umm… I grew up in an emotionally reserved family. Japanese mother, uh… military father and we didn't do emotions in our house, not exuberance, or sadness or anger. 
+
+00:02:40
+MATT ENGLAR-CARLSON Right. 
+
+00:02:40
+LEAH BREW Uh… And I think I liked gestalt because of the emphasis on authenticity. 
+
+00:02:45
+MATT ENGLAR-CARLSON Right. 
+
+00:02:45
+LEAH BREW And I… I think I was naturally a sensitive person, emotional person. Umm… So I… I was drawn to it because I needed it to get healthier. 
+
+00:02:55
+MATT ENGLAR-CARLSON Yeah. 
+
+00:02:55
+LEAH BREW Yeah. 
+
+00:02:55
+MATT ENGLAR-CARLSON Yeah, it's not uncommon that (inaudible) took a theory because it helps explain their life. 
+
+00:03:00
+LEAH BREW Mm-hmm. 
+
+00:03:00
+MATT ENGLAR-CARLSON It sounds like in many ways this gave you some freedom to explain your past life too. 
+
+00:03:05
+LEAH BREW It did. Yeah, it helped me to umm… I guess owned who I really was. 
+
+00:03:10
+MATT ENGLAR-CARLSON Sure… sure. 
+
+00:03:15
+LEAH BREW And learn how to express myself… 
+
+00:03:15
+MATT ENGLAR-CARLSON Right… right. 
+
+00:03:20
+LEAH BREW Umm… more fully instead of in a very constricted way. 
+
+00:03:20
+MATT ENGLAR-CARLSON So you had this experience in graduate school and you thought gestalt is for me. 
+
+00:03:25
+LEAH BREW Mm-hmm. 
+
+00:03:25
+MATT ENGLAR-CARLSON How did you learn to apply the approach and perspective and what kind of training do they receive? 
+
+00:03:35
+LEAH BREW Mm-hmm. Uh… So we had to do three theory paper, so that was one of my theory paper. 
+
+00:03:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:03:35
+LEAH BREW And, you know, many times when you're in school, you're just whipping stuff out to meet the requirements. 
+
+00:03:40
+MATT ENGLAR-CARLSON Right. 
+
+00:03:45
+LEAH BREW Therefore that paper I really like read cover to cover multiple books, many journal articles so I wanted to learn it academically. 
+
+00:03:50
+MATT ENGLAR-CARLSON Okay. 
+
+00:03:50
+LEAH BREW And then I had the opportunity with the guy who did the presentation. He had a training institute. 
+
+00:03:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:03:55
+LEAH BREW And so for two years, every other Friday uh… for three hours, it was a gestalt training group that I was part of. Then, I went to the conferences and uh… long weekend workshops. 
+
+00:04:10
+MATT ENGLAR-CARLSON Right. 
+
+00:04:10
+LEAH BREW So I got very… very steeped in it during my doctoral program. 
+
+00:04:10
+MATT ENGLAR-CARLSON So it sounds like there's an academic component, one learned everything about it and then there's an immersion piece where you as a clinician but also as a person, it sounds like you really got to understand what it felt like to… to experience this theory. 
+
+00:04:25
+LEAH BREW Yeah, the… the training as you might expect within gestalt was very experiential. 
+
+00:04:30
+MATT ENGLAR-CARLSON Right. 
+
+00:04:30
+LEAH BREW It was… it's almost like which probably is true for many theories it's a way of life. 
+
+00:04:35
+MATT ENGLAR-CARLSON Right. 
+
+00:04:35
+LEAH BREW Not something that just you apply. 
+
+00:04:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:04:40
+LEAH BREW Umm… It's… its constant work. 
+
+00:04:45
+MATT ENGLAR-CARLSON Right. 
+
+00:04:45
+LEAH BREW In a different way of thinking about oneself. Uh… So I… yeah, it was definitely immersion. 
+
+00:04:55
+MATT ENGLAR-CARLSON Can you give us a brief description of gestalt counseling from your perspective in terms of what, you know, the concepts that come alive for you? 
+
+00:05:05
+LEAH BREW Umm… Awareness is the first word and authenticity, those are the two pieces. One of the things that stood out for me in gestalt was umm… that we have the capacity to be anything and everything that we can be umm… loving and compassionate or we can be hateful and vengeful, that we can be umm… I don't know conscientious and we can be lazy. 
+
+00:05:30
+MATT ENGLAR-CARLSON Sure. 
+
+00:05:30
+LEAH BREW So that any sort of duality that we… we're all of that and everything in between. 
+
+00:05:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:05:35
+LEAH BREW Umm… And I liked this idea of owning all aspects of ourselves as they emerge. And the awareness piece is what am I based on my culture or my social background, my gender. Umm… What do all these different things say that I'm supposed to be versus umm… that… that I'm actually everything. 
+
+00:05:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:06:00
+LEAH BREW So the awareness pieces where do I get stuck and held back and… and not being some aspect of myself. 
+
+00:06:05
+MATT ENGLAR-CARLSON Sure. 
+
+00:06:05
+LEAH BREW Umm… So that if I can fully own it, umm… then it becomes more fully integrated with me and then I can live more authentically instead of trying to live by a set of rules that I didn't even know I had. 
+
+00:06:15
+MATT ENGLAR-CARLSON Right. So it sounds like there's some umm… some assessment and awareness that's the… the big piece here and then experience of kinda understanding what these… what these ranges might… might feel like. 
+
+00:06:30
+LEAH BREW Yeah, I… I bristle at the word assessments. 
+
+00:06:30
+MATT ENGLAR-CARLSON Okay. 
+
+00:06:30
+LEAH BREW Umm… I think because it's a little less clinical. 
+
+00:06:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:06:35
+LEAH BREW Umm… It's really easy to figure out what our rules are about what we shouldn't be. 
+
+00:06:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:06:40
+LEAH BREW Like those just scream. 
+
+00:06:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:06:45
+LEAH BREW If you know how to look for them and so it's really about trying to figure to articulate that more clearly and then what the opposite pole is and then understanding like is this who I am and I hated about myself or is this something that I've completely denied within myself. 
+
+00:07:05
+MATT ENGLAR-CARLSON So my next question was going to be what do you do as a gestalt counselor, what do you… while you assessing in terms of your clients maybe I might referring that and say from like a salt perspective as a counselor, what are you looking for in your clients then? 
+
+00:07:15
+LEAH BREW Yeah, so I'm looking for those projections. Those things where those rules that they have about who they shouldn't be 
+
+00:07:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:07:25
+LEAH BREW And the way that we can umm… hear it is through the language that they use, through behaviors that they're allowed to express or behaviors that they seem to inhibit. 
+
+00:07:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:07:40
+LEAH BREW Umm… Or people who trigger then that's really an easy one like I can ask a quick question about who triggers you, and then we can get really to the core of it very quickly, although it may need some refinement to figure out, okay, that's something where umm… where they're stuck, where they have unfinished business. 
+
+00:08:00
+MATT ENGLAR-CARLSON So the idea that that person that triggers them isn't indicative of unfinished business within oneself? 
+
+00:08:05
+LEAH BREW Yes. 
+
+00:08:05
+MATT ENGLAR-CARLSON I got it. So how do you tell to adapt gestalt counseling to work with the broad range of clients and they're intersecting identities? 
+
+00:08:15
+LEAH BREW Yeah, I always umm… find it interesting when I look at textbooks. 
+
+00:08:20
+MATT ENGLAR-CARLSON Yeah. 
+
+00:08:20
+LEAH BREW They talk about that this isn't a culturally sensitive… 
+
+00:08:25
+MATT ENGLAR-CARLSON Right. 
+
+00:08:25
+LEAH BREW … theory and I guess if we did it all the way for (inaudible) it wouldn't. 
+
+00:08:30
+MATT ENGLAR-CARLSON Okay. 
+
+00:08:30
+LEAH BREW Uh… But the way (inaudible) did it, it… it would be. 
+
+00:08:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:08:35
+LEAH BREW Because it's about being authentic to oneself. 
+
+00:08:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:08:40
+LEAH BREW And it's not that umm… yeah, some of the things that Fritz said, 'We're kind of self-centered.' Right that I umm… like, I mean, you were you and if we meet that's great and if not whatever kind of attitude of a very umm… individualistic in its bias in his sort of way of working, but in my way of working, it's about discovering all aspects of yourself. 
+
+00:09:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:09:00
+LEAH BREW And it's not that you have to choose to behave in a way that's incongruent with your culture. Umm… Because you can still say this is my culture and this is my value, but it's owning that you have the capacity to be otherwise and not denying that. 
+
+00:09:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:09:15
+LEAH BREW So I really feel like it doesn't matter what cultural background you come from umm… probably where it might be more difficult are people who have like a below-average IQ. 
+
+00:09:30
+MATT ENGLAR-CARLSON Okay. 
+
+00:09:30
+LEAH BREW Uh… Because they may not be a self-aware, it'd be more like play therapy oriented with someone with that, but whether they're emotionally intelligent or not, uh… whether they're average intelligence or brilliant, I, you know, I think those factors don't matter whatever cultural background, we can modify the work to articulate how the restrictions are culturally uh… defined… 
+
+00:09:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:10:00
+LEAH BREW …without putting any judgment on that because you don't have to judge. 
+
+00:10:00
+MATT ENGLAR-CARLSON Right. 
+
+00:10:00
+LEAH BREW That's something's right or wrong, but just to say, 'Hey, this is human nature and this is natural,' and it's how you express it, that's culturally appropriate or not. 
+
+00:10:10
+MATT ENGLAR-CARLSON So it sounds like what you're saying is that maybe the theory it's self, you know, it really rests in… in the hands of a counselor. 
+
+00:10:15
+LEAH BREW Yes. 
+
+00:10:15
+MATT ENGLAR-CARLSON And the counselor is inclusive in terms of how they apply the theory that can work for a wide… wide range of people. 
+
+00:10:25
+LEAH BREW I think most humanistic theories are that way. 
+
+00:10:25
+MATT ENGLAR-CARLSON Right… right. 
+
+00:10:25
+LEAH BREW Yeah. 
+
+00:10:25
+MATT ENGLAR-CARLSON Right… right. I… I often think the same thing when I read those textbooks and it's like, 'Well, the theory has written this, you know, but again I always think theories rest in the hands of theoreticians and counselors. 
+
+00:10:35
+LEAH BREW Yeah. 
+
+00:10:35
+MATT ENGLAR-CARLSON And so it's just an idea how you apply the idea, has lot to do with whether or not, it's inclusive are not. 
+
+00:10:40
+LEAH BREW Exactly, and I think with the humanistic theories because they are phenomenological. 
+
+00:10:45
+MATT ENGLAR-CARLSON Sure. 
+
+00:10:50
+LEAH BREW Umm… That how could you not be culturally sensitive because it comes from the client's worldview, not from my worldview. 
+
+00:10:55
+MATT ENGLAR-CARLSON Right… right. 
+
+00:10:55
+LEAH BREW Yeah. 
+
+00:10:55
+MATT ENGLAR-CARLSON You talked a bit about kind of… of maybe the client who may not be best for it. 
+
+00:11:00
+LEAH BREW Mm-hmm. 
+
+00:11:00
+MATT ENGLAR-CARLSON Is there a client who is more appropriate for this approach who would maybe kinda, maybe grasping quicker or maybe is drawn to this one? 
+
+00:11:10
+LEAH BREW Hmm… Those are all very different question actually. 
+
+00:11:15
+MATT ENGLAR-CARLSON Yeah. 
+
+00:11:15
+LEAH BREW Because when I think about drawn to umm… I know many of our students like CBT. 
+
+00:11:20
+MATT ENGLAR-CARLSON Right. 
+
+00:11:20
+LEAH BREW Because it's simple and it makes sense to them, but it's not what they need. 
+
+00:11:25
+MATT ENGLAR-CARLSON Right… right… right. 
+
+00:11:25
+LEAH BREW So I think that they would probably need it the most. 
+
+00:11:25
+MATT ENGLAR-CARLSON Right… right… right. 
+
+00:11:30
+LEAH BREW One of the things that I… Because it's my issue umm… being culture… Or I guess emotionally restricted gestalt help free that. 
+
+00:11:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:11:40
+LEAH BREW So I feel like it's really good for that. 
+
+00:11:40
+MATT ENGLAR-CARLSON Right. 
+
+00:11:45
+LEAH BREW But I can also see there's… there's a cognitive part to gestalt as well. 
+
+00:11:45
+MATT ENGLAR-CARLSON Sure… sure. 
+
+00:11:50
+LEAH BREW And so when somebody who's overly emotional, there can be because it's about balance and being everything. 
+
+00:11:55
+MATT ENGLAR-CARLSON Right. 
+
+00:11:55
+LEAH BREW It's not about one versus another. It's just that umm… I don't know there's something about human nature because I don't think it's culturally bound. 
+
+00:12:00
+MATT ENGLAR-CARLSON Right. 
+
+00:12:05
+LEAH BREW That emotional restriction is valued. 
+
+00:12:05
+MATT ENGLAR-CARLSON Right… right. 
+
+00:12:05
+LEAH BREW And its which emotions is dependent on which culture. 
+
+00:12:10
+MATT ENGLAR-CARLSON Right… right. 
+
+00:12:10
+LEAH BREW But somewhere there's an emotional inhibition and so I think it… it works for all… all people. But I think that's why we think about the emotional part coming up a lot… 
+
+00:12:20
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+00:12:25
+LEAH BREW …for gestalt that expression of full on… full authenticity. 
+
+00:12:30
+MATT ENGLAR-CARLSON Yeah… yeah. It sounds like it would fit for almost anyone, right? Because it… it fits theories about the range of human experience, right? 
+
+00:12:35
+LEAH BREW Yes. 
+
+00:12:35
+MATT ENGLAR-CARLSON And somebody may not (inaudible) drawn to it, uh… but maybe the reason why they're not drawn to this. Why they might actually need it. 
+
+00:12:40
+LEAH BREW Right, exactly that's precisely it, yeah. 
+
+00:12:45
+MATT ENGLAR-CARLSON Yeah… yeah. So umm… one of things about gestalt is that it's got a lot of techniques. And how do you decide which techniques to apply and when? 
+
+00:12:55
+LEAH BREW Umm… So when I first started training, they… there is a huge toolbox, right. 
+
+00:13:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:05
+LEAH BREW And umm… the challenge of the beginning therapist is that you want to use them so badly. 
+
+00:13:05
+MATT ENGLAR-CARLSON Right… right. 
+
+00:13:10
+LEAH BREW And you can't. 
+
+00:13:10
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:10
+LEAH BREW Really gestalt is about getting outside of the chair and it was a little bit different… difficult with the microphone. 
+
+00:13:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:15
+LEAH BREW Because there are things that I would do differently in this session. 
+
+00:13:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:20
+LEAH BREW If I could've gotten up. 
+
+00:13:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:25
+LEAH BREW Or like I'll talk about that later, but I… I think that the techniques are about being inspired to be created outside of just using words. 
+
+00:13:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:35
+LEAH BREW And… and I think umm… you have to use your intuition as a therapist… 
+
+00:13:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:13:40
+LEAH BREW …to know when the moment is right and when you feel inspired. 
+
+00:13:45
+MATT ENGLAR-CARLSON Okay. So I… I hear you say is that maybe initially when you learned this… this approach and again many people watching this will be in their first year class or maybe a kind of (inaudible) what this approach is, is that the (inaudible) gets presented in some ways like you're a therapist or a counselor with this toolbox here these interventions, but as a more skilled kinda season counselor you realize that you the counselor actually is the intervention and you have these things at your disposable that isn't necessarily a toolbox, you are the toolbox. 
+
+00:14:15
+LEAH BREW Right. 
+
+00:14:15
+MATT ENGLAR-CARLSON Right. 
+
+00:14:15
+LEAH BREW Yeah, and we're not limited by the stuff in the books. 
+
+00:14:15
+MATT ENGLAR-CARLSON Got you… got you. You know, so if counseling is effective from a gestalt perspective, what do you expect to see happen? 
+
+00:14:25
+LEAH BREW Umm… Awareness, insight. 
+
+00:14:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:14:30
+LEAH BREW And not just an insight that's above the neck. 
+
+00:14:30
+MATT ENGLAR-CARLSON Okay. 
+
+00:14:30
+LEAH BREW Uh… But a full body shift in change. 
+
+00:14:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:14:35
+LEAH BREW Yeah. It's like relieving a pressure in a balloon. 
+
+00:14:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:14:40
+LEAH BREW Yeah, there's a… there's a shift, there's a softening. 
+
+00:14:45
+MATT ENGLAR-CARLSON So it's not necessarily insight and… and like in the mind or cognition, it sounds like, body awareness, emotional awareness, emotional insight, body insight to that holistic kinda notion. 
+
+00:14:55
+LEAH BREW Yeah. I think gestalt would define insight is bigger than just umm… a thought change. 
+
+00:15:00
+MATT ENGLAR-CARLSON Right. Okay… okay. 
+
+00:15:00
+LEAH BREW Yeah. 
+
+00:15:05
+MATT ENGLAR-CARLSON Umm… You're a professor, you teach. You teach this theory to your students. 
+
+00:15:10
+LEAH BREW Mm-hmm. 
+
+00:15:10
+MATT ENGLAR-CARLSON Umm… When you train kinda counselors in gestalt, what do you want them to understand? 
+
+00:15:15
+LEAH BREW They have to do their own work. 
+
+00:15:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:15:20
+LEAH BREW Right. Umm… It's probably true for all theories, but umm… whatever I'm not good at, if my client has that, I can't help them go there. 
+
+00:15:30
+MATT ENGLAR-CARLSON Okay. 
+
+00:15:35
+LEAH BREW So I have to constantly work on myself, so I… I think umm… we have to aim know ourselves, so we know our limitations and can get supervision on that or consultation, and then we have to work on them, we can't just know them. 
+
+00:15:45
+MATT ENGLAR-CARLSON Okay. 
+
+00:15:50
+LEAH BREW Umm… Because we have to own all aspects of ourselves to… to do the work well. And so I think that's something that I imagine some of the other theories umm… don't require quite as much as of that, as this does because there's the unconditional acceptance, the Rogerian unconditional positive regard… 
+
+00:16:10
+MATT ENGLAR-CARLSON Right… right. 
+
+00:16:15
+LEAH BREW …that… that sits with this and we really have to be non-judgmental. 
+
+00:16:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:16:20
+LEAH BREW And then the second part is it takes a long time to become a gestalt therapist because I had to become more comfortable with myself, and my body, and who I am and how I do the work and when you're initially training, you should question everything that comes out of your mouth. 
+
+00:16:35
+MATT ENGLAR-CARLSON Right… right. 
+
+00:16:35
+LEAH BREW And so you can't really be authentic. Because you really have to untrained bad habits. 
+
+00:16:40
+MATT ENGLAR-CARLSON Right. 
+
+00:16:40
+LEAH BREW Uh… So I think it… it takes time plus my, like, for me my own work to get better at doing this or working this way. 
+
+00:16:50
+MATT ENGLAR-CARLSON Right. So maybe more than other kinda theories on, on the spectrum this just sounds like it's one it's you don't just have to know it, you actually have to truly embody it. 
+
+00:17:00
+LEAH BREW Yes. 
+
+00:17:00
+MATT ENGLAR-CARLSON And that over time, I mean, you have to dedicated practice, dedicated work, not just reading a book, reading an article. 
+
+00:17:05
+LEAH BREW Yes. 
+
+00:17:10
+MATT ENGLAR-CARLSON Or watching a video, but it's also doing all of that plus being in contact which you have these actual experiences. 
+
+00:17:15
+LEAH BREW Yeah… yeah, I think training is needed that it's you can't get it all from a book. 
+
+00:17:20
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+00:17:20
+LEAH BREW Because the… the work is very interpersonal. 
+
+00:17:25
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+00:17:25
+LEAH BREW we use the word contacting, you know, making contact is an important part or being aware of the lack of contact between two people is an important part of the work, and you can't do that by reading it out of a book. 
+
+00:17:40
+MATT ENGLAR-CARLSON Yeah. 
+
+00:17:40
+LEAH BREW You have do that with somebody. 
+
+00:17:40
+MATT ENGLAR-CARLSON Yeah. 
+
+00:17:40
+LEAH BREW Yeah. 
+
+00:17:40
+MATT ENGLAR-CARLSON It's like when I teach this approach to sometimes I think students they learn all these techniques and then there's almost like a warning, you know, like these techniques are really powerful in the wrong hands, you know, and so sometimes students get like… You know, but… but I think there's some truth to that too is that these are techniques that an unskilled hand, you can take clients and take people at places that are really deep and require some skill to have it be therapeutic. 
+
+00:18:10
+LEAH BREW Hmm. I would say (inaudible) it a little differently. 
+
+00:18:15
+MATT ENGLAR-CARLSON Okay, yeah. 
+
+00:18:15
+LEAH BREW In that a lot of people are afraid to go really deep and so they'll suck the client out of that. 
+
+00:18:20
+MATT ENGLAR-CARLSON Right… right. 
+
+00:18:20
+LEAH BREW Really quickly. Umm… Which isn't harming, but it's… it… it goes against the work. 
+
+00:18:25
+MATT ENGLAR-CARLSON Right, okay. 
+
+00:18:25
+LEAH BREW And so people have to be able to sit with pain and be comfortable. 
+
+00:18:30
+MATT ENGLAR-CARLSON Right. 
+
+00:18:30
+LEAH BREW Or sit with anger or euphoria. What all emotions have to be comfortable? 
+
+00:18:35
+MATT ENGLAR-CARLSON Yeah. 
+
+00:18:40
+LEAH BREW And for the therapist counselor to experience. 
+
+00:18:40
+MATT ENGLAR-CARLSON Right. 
+
+00:18:45
+LEAH BREW And to sit with another person who's going through that. 
+
+00:18:45
+MATT ENGLAR-CARLSON Right. 
+
+00:18:50
+Introduction to Client 
+
+00:18:55
+MATT ENGLAR-CARLSON So in just a minute, we're going to have a chance to see you apply some of these techniques with Sara. Uh… Can you tell me a bit about Sara and why she is here? 
+
+00:19:00
+LEAH BREW Yes, so she is a student in our program like a counseling program and she's in her early 20s. 
+
+00:19:05
+MATT ENGLAR-CARLSON Okay. 
+
+00:19:10
+LEAH BREW She is ethnically Indian and also Muslim, so I think that's an important context about her. 
+
+00:19:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:19:20
+LEAH BREW Umm… And she is going to be talking about umm… the balance, we start with the balance between humility and arrogance umm… and the context of it is from experience of not feeling confident. 
+
+00:19:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:19:35
+LEAH BREW And being frustrated with her lack of confidence. 
+
+00:19:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:19:40
+GESTALT THERAPY 
+
+00:19:40
+SKILL NUMBER ONE: 
+
+00:19:40
+Immediacy/Here & Now 
+
+00:19:40
+MATT ENGLAR-CARLSON Skill number one, Immediacy:Here and Now. So Leah, what do you mean by here, now and immediacy? 
+
+00:19:55
+LEAH BREW I think it stood out most for me in group therapy. 
+
+00:19:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:20:00
+LEAH BREW It was just easier to see in group therapy. If you don't get what's in your foreground kind of out of the way especially if it doesn't have to do with the work… 
+
+00:20:05
+MATT ENGLAR-CARLSON Okay. 
+
+00:20:10
+LEAH BREW …then it attains whatever's going on. You know, it's like when a client has something they want to talk about and a new therapist tries to direct him in some other direction, but the client keeps going where they're going to go. 
+
+00:20:20
+MATT ENGLAR-CARLSON Right. 
+
+00:20:20
+LEAH BREW So it's really about, 'Okay, where are we right here, right now in this moment.' So that's one piece of it. 
+
+00:20:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:20:25
+LEAH BREW And then the other is working with what is and… and letting go of agendas like for me because I'm a planner, I like to have a rough idea of the direction I want to go, but I also I'm free to completely let it go. Because sometimes… whatever comes in this moment, whatever emerges is far more important than whatever I had planned. 
+
+00:20:45
+MATT ENGLAR-CARLSON Okay. So it sounds like it's kind of almost like a centering for you and the client to kinda come into the present space right there and focus on what's right in front of you. 
+
+00:20:55
+LEAH BREW Yes. And… and I like to use it to start to focus. 
+
+00:20:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:21:00
+LEAH BREW And then I'm using it throughout because umm… I have to use what the client gives me, right? 
+
+00:21:05
+MATT ENGLAR-CARLSON Right… right. 
+
+00:21:05
+LEAH BREW Instead if I just stay on my agenda then I'm… I'm not helping the client with where she needs to go. 
+
+00:21:10
+MATT ENGLAR-CARLSON Okay, so in a moment we're gonna see this in action. What should we be looking for? 
+
+00:21:15
+LEAH BREW Umm… Just the… I don't know I think it's pretty obvious. What… what immediacy is, here and now in the clip that's coming up. 
+
+00:21:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:21:25
+LEAH BREW So just paying attention to umm… how we don't jump into the work right away that the work really is the here and now. 
+
+00:21:35
+MATT ENGLAR-CARLSON Okay… okay. 
+
+00:21:35
+LEAH BREW Yeah. 
+
+00:21:35
+MATT ENGLAR-CARLSON Great. 
+
+00:21:40
+EXAMPLE OF SKILL NUMBER ONE: 
+
+00:21:40
+Immediacy/Here & Now 
+
+00:21:40
+LEAH BREW Well, thanks for coming in today, Sara to do this. And uh… I thought I'd start with checking in with how you're doing with the cameras and the lights here all around us? 
+
+00:21:55
+SARA And thank you for having me. Umm… It's a little nerve-racking, but I'm really comfortable with your, so I think that should be okay. 
+
+00:22:00
+LEAH BREW And how does your anxiety show up for you? 
+
+00:22:05
+SARA I think I smile a lot. So umm… yeah… 
+
+00:22:15
+LEAH BREW And do you feel something in your body? 
+
+00:22:15
+SARA Yeah. 
+
+00:22:20
+LEAH BREW Yeah. 
+
+00:22:20
+SARA Just kinda… and my legs just shuffle around and… 
+
+00:22:25
+LEAH BREW You notice yourself fidgeting. 
+
+00:22:25
+SARA Yeah, fidget. 
+
+00:22:25
+LEAH BREW Yeah. 
+
+00:22:25
+SARA Yeah. 
+
+00:22:25
+LEAH BREW So you're more aware of your external behaviors and sort of an internal sense. 
+
+00:22:30
+SARA Yeah. 
+
+00:22:30
+LEAH BREW Okay, so feeling a little bit self-conscious. 
+
+00:22:35
+SARA Mm-hmm. 
+
+00:22:35
+LEAH BREW Yeah. I'm wondering if you could just take a deep breath for a minute. 
+
+00:22:40
+SARA Yeah. 
+
+00:22:45
+LEAH BREW And take one more. Did you notice anything shift for you? 
+
+00:22:55
+SARA Umm… Yeah, I think a little more comfortable. 
+
+00:22:55
+LEAH BREW Yeah. It helped me too actually. 
+
+00:23:00
+SARA Yeah. 
+
+00:23:00
+LEAH BREW I was feeling nervous. 
+
+00:23:00
+SARA (inaudible) I'm a little more comfortable. 
+
+00:23:05
+LEAH BREW Okay. Well, thank you. Okay. 
+
+00:23:10
+DEBRIEFING OF SKILL NUMBER ONE: 
+
+00:23:10
+Immediacy/Here & Now 
+
+00:23:15
+MATT ENGLAR-CARLSON So Leah, it's just a good example of… of immediacy? 
+
+00:23:15
+LEAH BREW Yeah, it's probably the most obvious because… 
+
+00:23:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:23:20
+LEAH BREW As a… as a beginning part of the session. 
+
+00:23:20
+MATT ENGLAR-CARLSON Right… right… right. 
+
+00:23:20
+LEAH BREW Umm… And I… I do it throughout. But umm… focusing on where she's out with her nervousness, I mean, the reality is there are lights, there are cameras. 
+
+00:23:30
+MATT ENGLAR-CARLSON Sure. 
+
+00:23:30
+LEAH BREW Cameras make people nervous. 
+
+00:23:35
+MATT ENGLAR-CARLSON Right. 
+
+00:23:35
+LEAH BREW Uh… We get self-conscious and so I think it's really important to acknowledge that and when we do, then we can I don't know it reduces the anxiety and then she is able to move forward from there. 
+
+00:23:45
+MATT ENGLAR-CARLSON Okay, so it's not ignoring what's happening around you. 
+
+00:23:45
+LEAH BREW Right. 
+
+00:23:50
+MATT ENGLAR-CARLSON Its kinda focus on her behavior what she's experiencing. 
+
+00:23:50
+LEAH BREW Yeah more… yeah what she's experiencing. 
+
+00:23:50
+MATT ENGLAR-CARLSON Okay. 
+
+00:23:55
+LEAH BREW Yeah, more than just behavior. 
+
+00:23:55
+MATT ENGLAR-CARLSON And this helps the client by? 
+
+00:24:00
+LEAH BREW It grounds them into the moment. 
+
+00:24:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:24:00
+LEAH BREW Umm… And… and again in this particular case was to remove the anxiety that she would have felt that umm… she's never done this video thing before. 
+
+00:24:10
+MATT ENGLAR-CARLSON Right… right. 
+
+00:24:10
+LEAH BREW Uh… So helping her to articulate feeling nervous and… and then me honoring that too, like yes, I get it, you're nervous. 
+
+00:24:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:24:20
+LEAH BREW Umm… Because I think that's important too is… is to honor where she's at. 
+
+00:24:25
+MATT ENGLAR-CARLSON And so even though we're showing this as like here's a skill which are also saying is that this is something that you really do all the time. 
+
+00:24:30
+LEAH BREW I do it all the time. I'm… I'm constantly shifting and changing to what she brings up and I… I think what you'll see throughout, you know, sort of wrap up at the end with is umm… I had kinda we had talked about a general direction that we would go and it kinda went in a really different direction. 
+
+00:24:45
+MATT ENGLAR-CARLSON Okay. 
+
+00:24:45
+LEAH BREW Umm… And that's what the gestalt is about. 
+
+00:24:50
+MATT ENGLAR-CARLSON Okay. 
+
+00:24:50
+LEAH BREW It's just going with the client and that's what (inaudible) now is and using immediacy. And… and it's also like, okay, right in this moment, what are you feeling? Umm… So it's… it's that too. I… I look at it both as a philosophy and a way of working. 
+
+00:25:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:25:05
+GESTALT THERAPY 
+
+00:25:05
+SKILL NUMBER TWO: 
+
+00:25:05
+Unfinished Business 
+
+00:25:05
+MATT ENGLAR-CARLSON Skill number two, Unfinished Business. What exactly is unfinished business from a gestalt perspective? 
+
+00:25:15
+LEAH BREW Umm… Part of gestalt therapy is… is looking at where we feel stuck. 
+
+00:25:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:25:20
+LEAH BREW Uh… And where we feel stuck is kind of what's preventing us from being fully authentic and pulling yourselves. 
+
+00:25:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:25:30
+LEAH BREW Umm… An unfinished business is the cause. So I mean, we think about Freud's work is all about the unfinished business. 
+
+00:25:35
+MATT ENGLAR-CARLSON Sure, right. 
+
+00:25:40
+LEAH BREW Umm… And in gestalt it's an acknowledgement that, yes, our past impacts uh… our present. 
+
+00:25:45
+MATT ENGLAR-CARLSON Okay. 
+
+00:25:45
+LEAH BREW It has an influence on… on what's going on. We don't have to be trapped by it, uh… but without I guess in an unexamined life, it can influence us… 
+
+00:25:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:25:55
+LEAH BREW …in a… in a big way. 
+
+00:26:00
+MATT ENGLAR-CARLSON So what do you trying to do then in this clip, is it to bring awareness the unfinished business to kind of explore deeper or? 
+
+00:26:05
+LEAH BREW So there's… there's two pieces. 
+
+00:26:10
+MATT ENGLAR-CARLSON Okay. 
+
+00:26:10
+LEAH BREW And one is mostly for the client to make a connection between umm… how her past is influencing her present. 
+
+00:26:20
+MATT ENGLAR-CARLSON Okay… okay. 
+
+00:26:25
+LEAH BREW But on the other hand, it's also if they already know, then it's to inform me. 
+
+00:26:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:26:30
+LEAH BREW Right. Because maybe they've already done that work, I mean, which is often the case with our students, right? 
+
+00:26:30
+MATT ENGLAR-CARLSON Sure… sure. 
+
+00:26:35
+LEAH BREW So I… I… I need to discover where is there a connection and to try to form that more thoroughly, I guess. 
+
+00:26:40
+MATT ENGLAR-CARLSON So it sounds like there's some clients who will come in, who will kind of be really clear like; I got an issue with my mother, I have issue with this, I have… and that and they're kinda saying my issue is (inaudible) unfinished business. 
+
+00:26:50
+LEAH BREW Yes. 
+
+00:26:50
+MATT ENGLAR-CARLSON The other clients like coming with (inaudible) wondering, I'm not sure what's going on here. 
+
+00:26:55
+LEAH BREW Yeah, they just know, oh, this person really makes me mad or this I keep picking the wrong relationship and they don't understand that that's connected to something in the past. So sometimes the work is around kind of discovering the past to the uh… the present and… and sometimes it's… it's already there. 
+
+00:27:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:27:15
+LEAH BREW Yeah. 
+
+00:27:15
+MATT ENGLAR-CARLSON So what should we be paying attention to in this clip then? 
+
+00:27:20
+LEAH BREW Umm… So in this clip, umm… the Sara already knows the connection, so we don't spend as much time exploring it. But we… we do try to umm… make connections between then and now and how it's impacting. 
+
+00:27:40
+MATT ENGLAR-CARLSON Okay… okay. So Sara's kind of aware of kind of maybe what's her unfinished business is, but she's kinda beginning of (inaudible) how it's impacting her in the present. 
+
+00:27:45
+LEAH BREW Yes. 
+
+00:27:45
+MATT ENGLAR-CARLSON Great. 
+
+00:27:50
+EXAMPLE OF SKILL NUMBER TWO: 
+
+00:27:50
+Unfinished Business 
+
+00:27:55
+LEAH BREW So what would you like to talk about? 
+
+00:28:00
+SARA Umm… I think umm… I know I have, like, this has been an ongoing issue of self-esteem and how to have a healthy balance of it. Because there's sometimes where I'm like, okay, I got this or I am comfortable with where I am, but then there's sometimes where I really beat myself up and I'm just really hard on myself and I know… I know the cause and the roots of like it being related to my dad, but at the same time I don't know why I guess it's still affecting me now and just in general I like to have that healthy balance. 
+
+00:28:40
+LEAH BREW So you feel like you should have overcome it by now. 
+
+00:28:40
+SARA Yeah. 
+
+00:28:45
+LEAH BREW Because it's been X number of years. 
+
+00:28:45
+SARA Exactly. 
+
+00:28:45
+LEAH BREW And so where did you get that idea? 
+
+00:28:50
+SARA Umm… Because I have talked about it a lot. I've talked about it with my family, I've talked about it with my friends, umm… I've talked about it with you. I talk… I've meaning like I've done work also, but I still feel like, I'm not at the level where I'd like to be. 
+
+00:29:10
+LEAH BREW And tell me about the difference between the level that you're at and the level that you would like to be? 
+
+00:29:15
+SARA So an example of… of that would be, when I umm… We just finished… uh… we had a farewell for our end of the year umm… for my program for the seminary program and we were like giving our thanks to our teachers and staff, and every time I heard someone else's, like, oh, they were great and how they were able to like show their gratitude. But when… It wasn't like (inaudible), Okay, anyone else? And I was like, I need to speak but I didn't know how to articulate myself well, so I was really nervous and I feel it goes really short, so then I was like, thank you umm… you know, for everything and that was really… really nervous and I felt like it was… it was inadequate in how I did it and then I was talking to another teacher after and he's like, you know, it's healthy to be hard on yourself, but, I mean, you're fine, it's not, so like just getting over that, so then I can focus on what other people are saying or it's just instead of just getting out of my head basically. 
+
+00:30:15
+LEAH BREW Hmm… You're assuming that being in your head is uh… not a good thing? 
+
+00:30:20
+SARA Too much yes. 
+
+00:30:20
+LEAH BREW Too much. 
+
+00:30:25
+SARA Yeah. 
+
+00:30:25
+LEAH BREW Because I'm aware of uh… in… in the story you just told me how you got feedback that umm… part of it was just you being really hard on yourself. 
+
+00:30:35
+SARA Yeah. 
+
+00:30:35
+LEAH BREW And not necessarily that you did as core of a job as you expected. 
+
+00:30:40
+SARA Mm-hmm. 
+
+00:30:40
+LEAH BREW So that is it the low self-esteem realizing that maybe how you perceive yourself and how other… others perceive you is different? 
+
+00:30:50
+SARA Yeah. 
+
+00:30:50
+LEAH BREW Okay. 
+
+00:30:50
+SARA Yeah… 
+
+00:30:55
+LEAH BREW And then the other piece then would be feeling more confident. 
+
+00:31:00
+SARA Mm-hmm. Like, the reason why I know it's not something that I've overcome or some I'm… where I'm at a place that I'm like, you know, I'm healthy it's because like when people… when someone give me a compliment, I'll be like no… no. And… and that's a cultural thing because you don't, like, you're supposed to be shy and stuff… 
+
+00:31:15
+LEAH BREW Modest. 
+
+00:31:15
+SARA Modest and stuff, but at the same time I'm also American, so you do take a compliment. 
+
+00:31:25
+LEAH BREW Right. 
+
+00:31:25
+SARA So to have that. It's a…it's a culture clash. 
+
+00:31:30
+LEAH BREW And I'm… I'm thinking of you in two different cultures, one is Asian. 
+
+00:31:35
+SARA Yes. 
+
+00:31:35
+LEAH BREW Which highly values humility… 
+
+00:31:35
+SARA Exactly. 
+
+00:31:35
+LEAH BREW … and modesty. And then your religion and then being Muslim also valuing modesty. 
+
+00:31:45
+SARA See, so that's where the Muslim part, you're supposed to be like modest, but at the same time you should take a compliment, it's not like there's no issue. I feel like it's more culturally. 
+
+00:31:55
+LEAH BREW Hmm… So I'm interested in this nuance that taking a compliment is not modest. 
+
+00:32:10
+SARA So I watch too much drama, too many drams… 
+
+00:32:10
+LEAH BREW Too many drams, so what does a confident person look like when they… when they take a compliment? 
+
+00:32:20
+SARA They just say, thank you. I don't know umm… 
+
+00:32:20
+LEAH BREW What do you imagine they're feeling inside? 
+
+00:32:25
+SARA So I… I struggle with not being arrogant, like, I'm not going to overboard where it's like, then I'm like, yeah, I'm the greatest type of thing. So then I get too scared of getting on to that side, so then I go to the no… no… no. Here you're not, whatever the complement is. 
+
+00:32:45
+LEAH BREW I see, so you're either arrogant or your incredibly humble? 
+
+00:32:50
+SARA Sure. 
+
+00:32:50
+LEAH BREW And… and then so you know something about people being really arrogant? 
+
+00:32:55
+SARA Yeah, and I don't like that at all. 
+
+00:33:00
+LEAH BREW Uh-huh. 
+
+00:33:00
+SARA (inaudible) it bothers me I'm like. 
+
+00:33:05
+LEAH BREW So who's your earliest experiences of arrogance? Who has been that way? 
+
+00:33:10
+SARA Hmm… My dad. 
+
+00:33:10
+LEAH BREW Your dad that way. 
+
+00:33:10
+SARA Yeah. 
+
+00:33:15
+LEAH BREW Yeah, and so from your perspective, what did that look like for you, when you saw what looked like arrogance when he exhibited that type of behavior? 
+
+00:33:25
+SARA Umm… it was very showy. Umm… See then I saw the opposite side of my mom where she was always humble and uh… she umm… exhibited humility and I… I was always warmer to her than closer to her. 
+
+00:33:40
+LEAH BREW Mm-hmm. 
+
+00:33:40
+SARA But then at the same time I like confident guys, so but then it's like… Yeah, so problematic. 
+
+00:33:55
+LEAH BREW Well, I mean that's a whole another topic. 
+
+00:33:55
+SARA Yeah. 
+
+00:33:55
+LEAH BREW I mean, we could go with your attraction to like confident guys that I'll… I'll just say that umm… of course you do. 
+
+00:34:05
+SARA Yeah. 
+
+00:34:05
+LEAH BREW Because we're often attracted to our parents. 
+
+00:34:05
+SARA Yeah. 
+
+00:34:10
+LEAH BREW So what I kinda wanna acknowledge is there's a part of you that values umm… confidence. 
+
+00:34:15
+SARA Yeah. 
+
+00:34:20
+LEAH BREW Even a little bit of overconfidence. 
+
+00:34:20
+SARA Mm-hmm. 
+
+00:34:20
+LEAH BREW But there's some invisible line that you're terrified you're going to cross over into umm… and then also valuing humility because here you are trying to embody your mom and your dad. 
+
+00:34:35
+SARA Yeah, and I think… I think it's coming from me right now is umm… the realization that I like the over… or the confidence, but when I know that the actions are sincere or like if coming from sincerity or genuineness. 
+
+00:34:50
+LEAH BREW Mm-hmm. 
+
+00:34:50
+SARA Whereas with… with some people I've seen that it's arrogance, but it's very like umm… whatever the opposite of genuineness (inaudible) yeah. 
+
+00:35:00
+LEAH BREW Maybe it comes from a place of insecurity and overcompensating? 
+
+00:35:05
+SARA Sure. 
+
+00:35:05
+LEAH BREW Yeah. 
+
+00:35:05
+SARA Yeah. Okay, I can feel that. 
+
+00:35:10
+LEAH BREW Yeah. Hmm… So what as I say that does that connect anything for you the… that there's two kinds of confidence; one… 
+
+00:35:20
+SARA Mm-hmm. 
+
+00:35:20
+LEAH BREW One that which you said is very sincere and then the other where I said it comes from a place of insecurity. 
+
+00:35:25
+SARA Yeah. 
+
+00:35:30
+LEAH BREW Does that connect anything with you? 
+
+00:35:30
+SARA Like in the middle. 
+
+00:35:30
+LEAH BREW You want to be in the middle? 
+
+00:35:35
+SARA No, I am in the middle. I don't want to be in the middle. 
+
+00:35:35
+LEAH BREW You don't want to be in the middle. 
+
+00:35:35
+SARA I don't want to be in the middle of insecurity… 
+
+00:35:40
+LEAH BREW You don't want to be in the middle of insecurity? 
+
+00:35:45
+SARA Insecurity and genuineness, I just want to be in genuineness side. 
+
+00:35:50
+LEAH BREW I see… I see, okay. So let me check something out with you. When we… when you think back at a time uh… in your life since you perceive yourself to be insecure, umm… have you over compensated at times and sane to confidence? 
+
+00:36:10
+SARA Say anything like pretending? 
+
+00:36:15
+LEAH BREW Yeah, in a way that was… 
+
+00:36:15
+SARA Not okay. 
+
+00:36:15
+LEAH BREW Not okay for you? 
+
+00:36:20
+[sil.] 
+
+00:36:25
+SARA I don't have an example, but I just know that when I am… On the inside when I feel overconfident, I mess up. 
+
+00:36:30
+LEAH BREW Can you tell me it? 
+
+00:36:35
+SARA Okay, so an example of that would be, I had to do a speech and I was like, 'I got this… I got this,' and then I saw the speech and then I just stumbled and I zoned out, and I was just and literally everyone is saying, like I had that like a moment where I was just like, 'Oh, my God!' And I was like, Sara, you have to continue. And I… I felt like that was rooted, I mean, I know in speeches you, it's natural to stumble and not, but I did practice it many times to, like last minute I didn't have… I didn't print it. I had to read on my phone, so it was a different (inaudible) and I just kinda messed me up. So then when I was reading it, I was just like, like, before I was like, 'I got this… I got this everything,' and then it just (inaudible) kept stumbled a lot. 
+
+00:37:25
+LEAH BREW So I'm struck by something that just came out. 
+
+00:37:30
+SARA Okay. 
+
+00:37:30
+LEAH BREW I wanted an example of how you demonstrated overconfidence and you demonstrated… You told me a story about how you thought you were confident and then were incompetent? 
+
+00:37:40
+SARA Yeah. 
+
+00:37:40
+LEAH BREW Isn't that interesting? 
+
+00:37:40
+SARA Yeah. 
+
+00:37:45
+LEAH BREW Yeah. 
+
+00:37:45
+SARA Yeah. Okay, just give me an example… 
+
+00:37:50
+LEAH BREW No… no… no. 
+
+00:37:50
+SARA Okay. 
+
+00:37:50
+LEAH BREW It's okay. I… I… I think that's important and that… that means something. 
+
+00:37:55
+SARA Yeah. 
+
+00:37:55
+LEAH BREW Because you're very deeply steeped in your lack of confidence in this moment right now. 
+
+00:38:00
+SARA Yeah. 
+
+00:38:05
+LEAH BREW Yeah, for fear of being your dad? 
+
+00:38:05
+SARA Yeah. 
+
+00:38:10
+LEAH BREW Have you ever exhibited the kind of behaviors that you didn't like that your dad did from time to time? 
+
+00:38:20
+[sil.] 
+
+00:38:25
+SARA No… I really (inaudible) so I don't do that or I really try not to. 
+
+00:38:30
+LEAH BREW Great. 
+
+00:38:35
+DEBRIEFING OF SKILL NUMBER TWO: 
+
+00:38:35
+Unfinished Business 
+
+00:38:40
+MATT ENGLAR-CARLSON So Leah, is this a good example of focusing on unfinished business? 
+
+00:38:45
+LEAH BREW It's a pretty good example. 
+
+00:38:45
+MATT ENGLAR-CARLSON Okay. 
+
+00:38:45
+LEAH BREW Umm… It's not my best example. 
+
+00:38:45
+MATT ENGLAR-CARLSON Okay. 
+
+00:38:50
+LEAH BREW Uh… So one of the things that we've connected to was that it's related to her father. 
+
+00:38:55
+MATT ENGLAR-CARLSON Right. 
+
+00:38:55
+LEAH BREW Umm… And one of the things that she and I agreed on before coming to this video is that we wouldn't delve deep into that. 
+
+00:39:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:39:00
+LEAH BREW In an actual session without cameras umm… I would really want to do a lot of work around understanding that relationship and precisely what behaviors we're triggering her. 
+
+00:39:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:39:15
+LEAH BREW Umm… That I wanted to honor that boundary. 
+
+00:39:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:39:15
+LEAH BREW Since lots of people would watch it. Umm… So another piece that I did that I would also do is bringing it into the here and now, how is it impacting you now, what does it look like now, how is it triggering you know, umm… so that we can umm… I don't know being able to articulate it gives a clearer picture. 
+
+00:39:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:39:35
+LEAH BREW Uh… With the intention of trying to understand the projection and eventually clarify what the polarities are. 
+
+00:39:45
+MATT ENGLAR-CARLSON Okay, so there's an acknowledgement it sounds like there's some deeper digging on-time unfinished business with her father. 
+
+00:39:50
+LEAH BREW Mm-hmm. 
+
+00:39:50
+MATT ENGLAR-CARLSON But yet in the present, you're really going to focus on the here and now in terms of how Sara is experiencing that unfinished business in her… her present life. 
+
+00:39:55
+LEAH BREW Exactly, yeah. 
+
+00:40:00
+GESTALT THERAPY 
+
+00:40:00
+SKILL NUMBER THREE: 
+
+00:40:00
+Projection 
+
+00:40:00
+MATT ENGLAR-CARLSON Skill number three, Projection. So Leah, what is projection and why is it important to addressing gestalt? 
+
+00:40:10
+LEAH BREW Umm… I'm not sure if other gestalt therapist focus on it as much as I do. 
+
+00:40:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:40:15
+LEAH BREW But I find it to be really… really helpful. 
+
+00:40:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:40:15
+LEAH BREW To understand uh… what's going wrong. 
+
+00:40:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:40:20
+LEAH BREW So often when people are struggling it's an inner personal struggle. 
+
+00:40:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:40:25
+LEAH BREW And they're projecting onto a person something they dislike about themselves or something they've disowned in themselves. Uh… So I… I find it really helpful to explore who triggers them… 
+
+00:40:40
+MATT ENGLAR-CARLSON Okay. 
+
+00:40:40
+LEAH BREW to… to enhance some awareness about one disowned aspect of themselves. 
+
+00:40:45
+MATT ENGLAR-CARLSON So it sounds like in the clip then which we looking in terms of who Sara is protecting onto, right. Who's that that other out there? 
+
+00:40:55
+LEAH BREW Yes, exactly. She umm… Yeah, she needs to… to explore umm… I guess it's to take ownership of it. 
+
+00:41:05
+MATT ENGLAR-CARLSON Okay. 
+
+00:41:10
+LEAH BREW That's… that's the purpose of it. It's not because we're always like them… them… them… them. And, you know, they say when you point your finger at another person, you got three pointing back at you. 
+
+00:41:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:41:15
+LEAH BREW So it's about looking at the three pointing back at you. 
+
+00:41:20
+MATT ENGLAR-CARLSON Okay. So you should look for that in this clip in terms of how you kinda redirect that act of her. 
+
+00:41:20
+LEAH BREW Yes. 
+
+00:41:20
+MATT ENGLAR-CARLSON So good. 
+
+00:41:25
+EXAMPLES OF SKILL NUMBER THREE: 
+
+00:41:25
+Projection 
+
+00:41:30
+LEAH BREW So there's no part of you that's ever been like the arrogant self of your dad? 
+
+00:41:45
+SARA No, there has a little bit, but to draw an example, I know the feeling I don't know an example. 
+
+00:41:55
+LEAH BREW Oh, that's interesting. Say more about that you know the feeling, that don't have an example? 
+
+00:42:00
+SARA So like the fact that I know like I'm confident in something that getting something done (inaudible) example. Umm… An inefficient way like there's something that I can do and I know my siblings can't and it like I'll just get it done. And it's not… 
+
+00:42:30
+LEAH BREW What do you're doing slow you down there first okay? 
+
+00:42:30
+SARA Okay, umm… planning. 
+
+00:42:35
+LEAH BREW You're good at planning. 
+
+00:42:35
+SARA Yes. Managing and planning. 
+
+00:42:40
+LEAH BREW What's the biggest thing you've ever managed planned? 
+
+00:42:45
+[sil.] 
+
+00:42:50
+SARA I don't know. 
+
+00:42:50
+LEAH BREW I'm noticing you get uncomfortable just talking about that. Wow! You completely disowned that. You must have done something? 
+
+00:43:00
+SARA No… no, I have like, I mean, I help on my brother's wedding. 
+
+00:43:05
+LEAH BREW Okay. 
+
+00:43:05
+SARA Yeah, but… 
+
+00:43:05
+LEAH BREW And… and what was your job in planning your brother's wedding? 
+
+00:43:10
+SARA I put the photographer to umm… book the… I talked to the catering people with my mom, but umm… I'm helping with the guest list. I think a better example would be like managing conferences. 
+
+00:43:30
+LEAH BREW Okay. 
+
+00:43:30
+SARA Yeah… 
+
+00:43:35
+LEAH BREW So tell me about that some stuff that you've done with that managing conferences? 
+
+00:43:40
+SARA Okay umm… okay, I'll give a better example. I think umm… I take for granted the fact that I'm able to talk to people and make… it's like very easy for me to make friends and to… to get along with people, so umm… that's something I really think (inaudible), but at the same… so that's the thing like I always if I know that I'm over, like, on the verge of like feeling arrogant, I always remind myself I need to be thankful. 
+
+00:44:10
+LEAH BREW Mm-hmm. 
+
+00:44:15
+SARA I know that's the arrogance… 
+
+00:44:15
+LEAH BREW Hmm… So I'm trying to feel the connection between that being thankful minimizes your confidence? 
+
+00:44:25
+SARA (inaudible) No. 
+
+00:44:25
+LEAH BREW Somehow it does. 
+
+00:44:30
+SARA A humbling, you know. 
+
+00:44:30
+LEAH BREW It humbles you. 
+
+00:44:30
+SARA Yeah. 
+
+00:44:35
+LEAH BREW Can you be humble and confident? 
+
+00:44:35
+SARA Yes. 
+
+00:44:40
+LEAH BREW So making friends is that… is that an example of where you can be confident and humble? 
+
+00:44:45
+SARA Yeah. 
+
+00:44:45
+LEAH BREW You feel good. So give me an example of… of making friends like going to a party where you don't know everybody or? 
+
+00:44:55
+SARA Yeah, and then it's… it's easy to just meet everyone and just make, like, make friends very easily. 
+
+00:45:05
+LEAH BREW Strike up conversations. 
+
+00:45:05
+SARA Yeah… yeah, that's super… I just meant my cousin yesterday and for the first time, we met like and it was really easy just to make them feel comfortable, talking to both of them, the couple so. 
+
+00:45:20
+LEAH BREW So there's a part of you that can feel confident. 
+
+00:45:25
+SARA Yeah. 
+
+00:45:25
+LEAH BREW Umm… And then you work really hard to make sure you don't move into arrogance. 
+
+00:45:30
+SARA Yeah. 
+
+00:45:30
+LEAH BREW And then there's a part of you that umm… you slip back into sometimes that that goal of humi… humility shifts you into umm… lacking confidence like that it sucks your confidence away somehow? 
+
+00:45:45
+SARA Yeah, I think so. 
+
+00:45:50
+LEAH BREW Yeah. 
+
+00:45:55
+[sil.] 
+
+00:46:00
+LEAH BREW So tell me about a person more recently so we know that it's connected to your dad. Tell me something in recent history where an arrogant person has really pushed your buttons? 
+
+00:46:15
+[sil.] 
+
+00:46:30
+SARA I don't see arrogance more, I see anger. 
+
+00:46:35
+LEAH BREW Anger? 
+
+00:46:35
+SARA Yeah. 
+
+00:46:35
+LEAH BREW Say more about that? 
+
+00:46:40
+SARA Like umm… I see the… the… like, the grudges, I don't know, that's not really the arrogance… 
+
+00:47:00
+LEAH BREW So someone is coming to mind that it hold grudges? 
+
+00:47:05
+SARA Yeah. 
+
+00:47:05
+LEAH BREW Mm-hmm. So it's friend or family member? 
+
+00:47:10
+SARA Let's say a friend. 
+
+00:47:10
+LEAH BREW Let's say a friend. Okay. Uh… And I'm struck by this connection between arrogance and the word anger and grudges? 
+
+00:47:25
+SARA Arrogance, anger, grudges? 
+
+00:47:25
+LEAH BREW Yeah. 
+
+00:47:25
+SARA Hmm… 
+
+00:47:30
+LEAH BREW There's they seem to be tied together in some way for you. 
+
+00:47:30
+SARA My dad… 
+
+00:47:35
+LEAH BREW And that goes back to dad. 
+
+00:47:35
+SARA Yeah. 
+
+00:47:40
+[sil.] 
+
+00:47:45
+LEAH BREW Can you separate them? Can you think about people who might exhibit one versus… 
+
+00:47:50
+SARA Grudges, yes. Thus, I think arrogance now. I don't… I don't know. 
+
+00:47:55
+LEAH BREW So nobody rises to the level of your dad? 
+
+00:48:00
+SARA No. I don't know (inaudible) befriend them. No. 
+
+00:48:05
+LEAH BREW Yeah. You don't befriend them? 
+
+00:48:05
+SARA No. 
+
+00:48:10
+LEAH BREW So how do you know when somebody is like that? 
+
+00:48:10
+SARA I could tell by their personality. 
+
+00:48:15
+LEAH BREW What… what are some indications? Teach me like I have no idea. I'm like a super naive. 
+
+00:48:20
+SARA Umm… They just like to show off a lot. They're just a very exuberant and narcissistic in away and like only talking about themselves umm… yeah. 
+
+00:48:40
+LEAH BREW Look at me… look at me. 
+
+00:48:40
+SARA Yeah. 
+
+00:48:40
+LEAH BREW That's what I'm hearing kind of. 
+
+00:48:40
+SARA Yeah. 
+
+00:48:40
+LEAH BREW Uh-huh. Okay. And so that can really push your buttons. So I imagine that… 
+
+00:48:50
+SARA It just… it just turns me off. It's just like, 'Oh, I don't… I'd like to stay away. 
+
+00:48:55
+LEAH BREW You look disgusted over there. 
+
+00:48:55
+SARA Yeah. 
+
+00:48:55
+LEAH BREW Yeah… yeah. 
+
+00:48:55
+SARA I was like hmm… Okay, I'd rather not talk to you. 
+
+00:49:00
+LEAH BREW Mm-hmm. So that's… that's what pushes your buttons. 
+
+00:49:00
+SARA Mm-hmm. 
+
+00:49:05
+LEAH BREW And… and I imagine that happens in class sometimes like (inaudible). 
+
+00:49:10
+SARA Talk about class. 
+
+00:49:10
+LEAH BREW Yes, you… you have many classes. 
+
+00:49:15
+SARA Yeah. 
+
+00:49:15
+LEAH BREW Yeah. 
+
+00:49:15
+SARA But arrogance, no, I don't see that. 
+
+00:49:20
+LEAH BREW No, not so much. 
+
+00:49:20
+SARA No, not in my classes. 
+
+00:49:20
+LEAH BREW Okay. 
+
+00:49:20
+SARA Again both programs that I'm in, they're very humbling and they teach you like to be non-judgmental and I don't see the arrogant side. I can see them being very narcissistic and I know that can be related to arrogance, but not solely arrogance. 
+
+00:49:40
+LEAH BREW You get to see other parts? 
+
+00:49:40
+SARA Yeah. 
+
+00:49:45
+LEAH BREW Okay. So there's something really repulsive about that when you see it? 
+
+00:49:50
+SARA Mm-hmm. 
+
+00:49:50
+LEAH BREW Yeah, okay. 
+
+00:49:50
+SARA I just don't… I think maybe, I mean, it could be no. I'd always associate it with a negative connotation with being like Hadi or just not. Umm… Yeah, just negatively. So I don't see the sincerity so I don't, then… then it pushes me away. 
+
+00:50:15
+LEAH BREW Hmm… so one of the advantages in at least a counseling program. I can't speak for your other program. Is that you get to hear people's stories. 
+
+00:50:20
+SARA Mm-hmm. 
+
+00:50:20
+LEAH BREW And so somehow when those behaviors are exhibited, you can have more compassion. 
+
+00:50:25
+SARA Exactly because I've context. 
+
+00:50:30
+LEAH BREW Okay. 
+
+00:50:30
+SARA Yeah. 
+
+00:50:30
+LEAH BREW But if you're meeting a total stranger where you don't hear the story it's that repulsion. 
+
+00:50:35
+SARA Mm-hmm. Then I'm just like stay away, yeah. 
+
+00:50:40
+LEAH BREW Okay. All right. 
+
+00:50:45
+DEBRIEFING OF SKILL NUMBER THREE: 
+
+00:50:45
+Projection 
+
+00:50:50
+MATT ENGLAR-CARLSON So Leah, is this a good example of projection? 
+
+00:50:50
+LEAH BREW It is and I think you saw it even in earlier clips. 
+
+00:50:55
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+00:50:55
+LEAH BREW This conversation about her dad being her unfinished business. 
+
+00:50:55
+MATT ENGLAR-CARLSON Right. 
+
+00:50:55
+LEAH BREW She already understood that as a projection. 
+
+00:51:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:51:00
+LEAH BREW And it takes a while to get to uh… an example. 
+
+00:51:05
+MATT ENGLAR-CARLSON Okay. 
+
+00:51:05
+LEAH BREW She's so repulsed uh… by the person that triggers her that she runs away and she can't even think of any examples. 
+
+00:51:15
+MATT ENGLAR-CARLSON Right… right. 
+
+00:51:15
+LEAH BREW So she doesn't umm… she doesn't… This is a disowned issue. This is an unowned and dislike issue. 
+
+00:51:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:51:25
+LEAH BREW So we have a lot further to go in the work for her to be able to own that… that part of herself. 
+
+00:51:30
+MATT ENGLAR-CARLSON So from your perspective as the counselor, then as you're kinda aware that that is such a push back for her. What are you trying to do with it then? 
+
+00:51:40
+LEAH BREW Uh… I am trying to first of all get her to see that it is a disowned aspect of herself in this case. Umm… And then I wanna move toward her owning it. 
+
+00:51:50
+MATT ENGLAR-CARLSON Okay. 
+
+00:51:55
+LEAH BREW Umm… Not that we'll have enough time today to have been able to get there. 
+
+00:51:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:52:00
+LEAH BREW Uh… But it's… it's this awareness that umm… I guess when we… when we're triggered by someone, if we can own that aspect in ourselves, then we ceased and then be compassionate toward ourselves because we know our own story, then we're less triggered by other people and we can own it. We'll just do it at lower volumes than the people who trigger us. 
+
+00:52:20
+MATT ENGLAR-CARLSON Okay. So it sounds like that's the natural next step with (inaudible) would be to as opposed to saying, well, that person's all, it's that person's fault, it's that person's issue, we (inaudible) kinda own the part of it that gets… gets triggered in them and then to have it more compassion for oneself understand kind of why that might be the case. 
+
+00:52:35
+LEAH BREW Exactly. 
+
+00:52:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:52:40
+LEAH BREW The… the… the thing about projection is when we're triggered by another person, we are part of that relationship. So while that other person may engage in some sort of behavior that we don't like. 
+
+00:52:50
+MATT ENGLAR-CARLSON Right. 
+
+00:52:55
+LEAH BREW Umm… We are uniquely triggered and so even if everybody is triggered by the same (inaudible) type of personality. 
+
+00:53:00
+MATT ENGLAR-CARLSON Okay. 
+
+00:53:00
+LEAH BREW Umm… There's a unique way that each person umm… experiences it and then there are also people who aren't triggers by that at all because they own that in themselves. 
+
+00:53:10
+MATT ENGLAR-CARLSON Right. 
+
+00:53:15
+LEAH BREW So it's… it's that… that ownership part, like, hey, I… I can be arrogant too, you know, I can be entitled. And if I think that I can't, then I'm gonna continued to be triggered by others. 
+
+00:53:25
+MATT ENGLAR-CARLSON So it sounds like the goal then would be to kinda reduce the reactivity in a way through ownership and in compassion understanding that this is probably part of me too. 
+
+00:53:35
+LEAH BREW Yeah, exactly. It's that… that compassion, I think, it's easier to give compassion toward oneself sometimes umm… and then when we can't, then we know that other people have stories behind it. 
+
+00:53:45
+MATT ENGLAR-CARLSON Right. 
+
+00:53:45
+LEAH BREW And then maybe we just don't know their story. 
+
+00:53:50
+MATT ENGLAR-CARLSON Right. 
+
+00:53:55
+GESTALT THERAPY 
+
+00:53:55
+SKILL NUMBER FOUR: 
+
+00:53:55
+Polarities 
+
+00:53:55
+MATT ENGLAR-CARLSON Skill number four, Polarities. So Leah, what is meant by polarities in gestalt perspective? 
+
+00:54:00
+LEAH BREW Uh… So it's really hard to separate all these constraints because they work so well together. 
+
+00:54:05
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+00:54:05
+LEAH BREW So polarities is the part that's umm… there's a top-dog or underdog apart that's owned… 
+
+00:54:10
+MATT ENGLAR-CARLSON Okay. 
+
+00:54:10
+LEAH BREW …and aware and kind of has the power, and then the part that is less owned. 
+
+00:54:15
+MATT ENGLAR-CARLSON Okay. 
+
+00:54:15
+LEAH BREW I think, you know, I… I can't help but umm… speculate that pearls pulled this from sort of this id, superego idea that was Freud's. 
+
+00:54:25
+MATT ENGLAR-CARLSON Okay. 
+
+00:54:25
+LEAH BREW Umm… But just not… it's not always that child and parent that became (inaudible) later on umm… it's like it could be any two things. 
+
+00:54:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:54:40
+LEAH BREW And… and when we disown some aspect of ourselves, we almost put a boundary on it where it's an either or and make it a dichotomy rather than something fluid that we flow between and that we move around in. 
+
+00:54:55
+MATT ENGLAR-CARLSON Okay. 
+
+00:54:55
+LEAH BREW So the polarity is like how are we putting these boundaries to create a duality on something that isn't a yes or a no, black and white. 
+
+00:55:05
+MATT ENGLAR-CARLSON Okay. 
+
+00:55:05
+LEAH BREW That its… it moves from black to white. 
+
+00:55:05
+MATT ENGLAR-CARLSON So when we watch this clip, how we'll see that with Sara? 
+
+00:55:15
+LEAH BREW Umm… So I try to clearly articulate the different poles that's really important. 
+
+00:55:20
+MATT ENGLAR-CARLSON Okay. 
+
+00:55:20
+LEAH BREW One of the things that new students try to do is jump into this right away and if they're not fully formed, then uh… it's hard to, I guess, take the next step. 
+
+00:55:35
+MATT ENGLAR-CARLSON Okay. 
+
+00:55:35
+LEAH BREW So the work here is about trying to set up and get clarity about what the polarities are. 
+
+00:55:40
+MATT ENGLAR-CARLSON Okay. So you're gonna work with Sara and kinda setting up these… these two poles, right? 
+
+00:55:45
+LEAH BREW These two poles. Yeah, and you probably have seen it emerging up to this already. 
+
+00:55:50
+MATT ENGLAR-CARLSON Right… right. 
+
+00:55:55
+EXAMPLE OF SKILL NUMBER FOUR: 
+
+00:55:55
+Polarities 
+
+00:56:00
+LEAH BREW Okay, so when I'm seeing are umm… two sides of you. One that remains humble but the humble seems umm… tangled with insecurity. 
+
+00:56:15
+SARA Mm-hmm. 
+
+00:56:15
+LEAH BREW And then there's another piece of you that umm… you've disowned you're arrogant side, right? Because if your confidence gets too high then it slips into that arrogant piece and so your umm… disowning this arrogant side for fear of becoming like your dad and as if you actually could. 
+
+00:56:40
+SARA Mm-hmm. 
+
+00:56:45
+LEAH BREW And then you drown yourself in the humility side which pulls away some of your… your confidence? 
+
+00:56:55
+SARA But I feel like I pull more away from the arrogant side because I know that I'll slip up to. Oh, I have an example of an arrogant person. 
+
+00:57:05
+LEAH BREW Excellent. 
+
+00:57:10
+SARA Oh, yeah. Okay… okay… okay. She… she always talks about herself and she's like, okay. It's to an extent or to a (inaudible) she deserves the, I mean, she's very hardworking. She's very, yeah, hard-working, smart, ambitious all that good stuff, but at the same time there's like an arrogant piece to it and to me it's just weird. Like, Oh, I mean, I've known her for a long time and everything so to me it's just like where's that coming from. But then I also understand in the environment that she's in… she's in the Corporate World, you kinda have to have that. 
+
+00:57:50
+LEAH BREW Mm-hmm. 
+
+00:57:50
+SARA But whenever I talk to her, I still see that, so it's weird, like, I… I understand where it's coming from and the context, but then when she's always just talking about herself and it's just like, 'Okay, that's a little uncomfortable.' 
+
+00:58:10
+LEAH BREW Mm-hmm. It seems like maybe arrogance isn't though… 
+
+00:58:15
+SARA (inaudible). 
+
+00:58:15
+LEAH BREW It doesn't quite fully explain it, I think that's part of it. But arrogance is tangled with umm… narcissism. 
+
+00:58:25
+SARA Yeah. 
+
+00:58:25
+LEAH BREW And I… I… I just mean it is not the DSM way. 
+
+00:58:30
+SARA No… no… 
+
+00:58:30
+LEAH BREW But in… in the… it's all about me and look at me. 
+
+00:58:35
+SARA Yeah. 
+
+00:58:35
+LEAH BREW Mm-hmm. So there's a part of you that's dying to be the center of attention. 
+
+00:58:40
+SARA I don't know about that a little kind of I think I'm… to an extent I am. Maybe youngest so I get a lot of attention and thankful but yeah… yeah. 
+
+00:59:00
+[sil.] 
+
+00:59:05
+LEAH BREW So I noticed you took just the attention piece of it umm… but there's the arrogance piece that's missing, right? Now look at me… look at me. No… 
+
+00:59:20
+SARA Yeah, I don't like that part. 
+
+00:59:20
+LEAH BREW You don't like that part. 
+
+00:59:25
+SARA No. Like I think it's… it's important to receive appreciation and praise. 
+
+00:59:30
+LEAH BREW Mm-hmm. 
+
+00:59:30
+SARA But it shouldn't be to the extent that it's overpowering. 
+
+00:59:40
+LEAH BREW Overpowering for whom? 
+
+00:59:40
+SARA I'm thinking now I think of feel like collectivism is coming into place. 
+
+00:59:45
+LEAH BREW Yeah… yeah. 
+
+00:59:45
+SARA Yeah, so maybe that's why. 
+
+00:59:50
+LEAH BREW Uh-huh. So being collectivistic it's really important to blend in and not stand out. 
+
+00:59:55
+SARA I don't know about blend in, but what I'm trying to say is umm… to like ensure that everyone is appreciated and praised. 
+
+01:00:05
+LEAH BREW Mm-hmm. 
+
+01:00:05
+SARA But also given enough attention as well. 
+
+01:00:05
+LEAH BREW Mm-hmm. 
+
+01:00:05
+SARA (inaudible). 
+
+01:00:10
+LEAH BREW Yeah, so in… in… in Japanese there is a phrase that says, 'If there's a nail sticking out hammer it down to make sure they all look even.' 
+
+01:00:20
+SARA So the thing is I was born here so it like my mom always gave us all a lot of attention, but I feel like being the youngest I got even more. 
+
+01:00:30
+LEAH BREW Mm-hmm. 
+
+01:00:30
+SARA So that's where individualism and collectivism clash. 
+
+01:00:35
+LEAH BREW Right, yes. 
+
+01:00:35
+SARA At the same time because… 
+
+01:00:35
+LEAH BREW You are bicultural. 
+
+01:00:35
+SARA Yeah. 
+
+01:00:40
+LEAH BREW Because you were born here. 
+
+01:00:40
+SARA Yes. So I see the… the clash. I don't know where I'm going with this, but yeah. 
+
+01:00:45
+LEAH BREW And then the part of you that umm… got all that attention, you're good with it? 
+
+01:00:50
+SARA Yeah. 
+
+01:00:50
+LEAH BREW No guilt? 
+
+01:00:55
+SARA Uh… No… no, guilt. 
+
+01:00:55
+LEAH BREW So the maybe you're more okay with umm… standing out than you think, you just temporary with gratefulness with gratitude. 
+
+01:01:05
+SARA Maybe, yeah. I still don't like narcissism or arrogance. 
+
+01:01:15
+LEAH BREW Yeah. 
+
+01:01:15
+SARA Those two are still… 
+
+01:01:20
+LEAH BREW Yeah… yeah. I think we need to go back to the narcissism and arrogance then (inaudible). 
+
+01:01:20
+SARA yeah. 
+
+01:01:25
+LEAH BREW Hmm… Define arrogance for me? 
+
+01:01:25
+SARA No, uh… 
+
+01:01:30
+LEAH BREW In your idea, like what it looks like? 
+
+01:01:30
+SARA I did, didn't I? Uh… 
+
+01:01:35
+LEAH BREW The me to the standing out, but you… you just described yourself it's getting all that stuff when you're a kid as the youngest child. 
+
+01:01:40
+SARA No… no, before that I like being Hadi being umm… what else should I say before being umm… overconfident… 
+
+01:01:55
+[sil.] 
+
+01:02:00
+SARA …being I… I think I related to ungratefulness. 
+
+01:02:00
+LEAH BREW Ungratefulness? 
+
+01:02:05
+SARA Yeah, like, I… I should expect that. Like that's what I… 
+
+01:02:05
+LEAH BREW Entitlement. 
+
+01:02:10
+SARA There you go, yeah. 
+
+01:02:15
+[sil.] 
+
+01:02:20
+DEBRIEFING OF SKILL NUMBER FOUR: 
+
+01:02:20
+Polarities 
+
+01:02:25
+MATT ENGLAR-CARLSON So is this a good example of working with polarities? 
+
+01:02:30
+LEAH BREW Yeah, I think it was helpful because umm… we were able to more clearly articulate. 
+
+01:02:35
+MATT ENGLAR-CARLSON Okay. 
+
+01:02:35
+LEAH BREW That instead of arrogance it was entitlement. 
+
+01:02:40
+MATT ENGLAR-CARLSON Okay, right… right. 
+
+01:02:40
+LEAH BREW Uh… And…and there's an important nuanced difference between arrogance, like. I'm all that. 
+
+01:02:45
+MATT ENGLAR-CARLSON Right. 
+
+01:02:50
+LEAH BREW And entitlement, like I deserve all that. 
+
+01:02:50
+MATT ENGLAR-CARLSON Right… right. 
+
+01:02:50
+LEAH BREW So I think that that was umm… really good and… and helping to firm up with that pieces, the humility part was pretty clear. 
+
+01:03:00
+MATT ENGLAR-CARLSON Yeah, and she actually has this insight as well which she's like, 'Oh, okay. Yeah, that's what,' you know, that's what it is and I think if we think about the other clips up until this point you're right, you're building upon each other through she gets to this point versus, oh, this is… this is what it is. 
+
+01:03:15
+LEAH BREW Yeah. 
+
+01:03:15
+MATT ENGLAR-CARLSON Yeah. 
+
+01:03:15
+LEAH BREW And I'm always looking for that… that umm… light bulb that goes off. 
+
+01:03:20
+MATT ENGLAR-CARLSON Right. 
+
+01:03:25
+LEAH BREW Because we can talk about something, but I don't know it's just not quite there and then there's a ting. 
+
+01:03:30
+MATT ENGLAR-CARLSON Right. 
+
+01:03:30
+LEAH BREW Right, the light bulb goes off and… and that's what the word entitlement seems to do. 
+
+01:03:35
+MATT ENGLAR-CARLSON Right… right. And you mentioned like, so again it sounds like she knows the one side really, that whether it's culturally informed that the importance of humility on her side. 
+
+01:03:45
+LEAH BREW Yes. 
+
+01:03:45
+MATT ENGLAR-CARLSON But this other piece is this other umm… and she's kinda lenience that trying to figure out what exactly is happening for her. 
+
+01:03:55
+LEAH BREW Yeah, exactly. Yeah. And it helps sets us up for the next part, so that we could speak from those different aspects of ourselves. 
+
+01:04:05
+MATT ENGLAR-CARLSON Right. And again it goes back to this notion of kind of sequencing how you're building upon different ideas which leads to different types of insight or awareness that allows you to go a little bit deeper each time. 
+
+01:04:15
+LEAH BREW Exactly. 
+
+01:04:15
+GESTALT THERAPY 
+
+01:04:15
+SKILL NUMBER FIVE: 
+
+01:04:15
+Empty Chair 
+
+01:04:15
+MATT ENGLAR-CARLSON Skill number five, Empty Chair. So what exactly is an empty chair exercise? 
+
+01:04:25
+LEAH BREW Uh… An empty chair exercise is the opportunity to have a conversation with umm… the polarity. 
+
+01:04:30
+MATT ENGLAR-CARLSON Okay… okay 
+
+01:04:35
+LEAH BREW Yes. That umm… there's one thing about talking about, this is how I am, this is how I should be or… 
+
+01:04:40
+MATT ENGLAR-CARLSON Sure. 
+
+01:04:40
+LEAH BREW …this is how I shouldn't be. But there's another thing about disembodying umm… maybe the underdog. 
+
+01:04:50
+MATT ENGLAR-CARLSON Okay. 
+
+01:04:50
+LEAH BREW And fully embodying the top-dog and being able to speak to and have a conversation with it, I don't know it just feels different, it… it must trigger something different in the brain. 
+
+01:05:00
+MATT ENGLAR-CARLSON Okay. 
+
+01:05:05
+LEAH BREW Because it yields insights just having a conversation with oneself. 
+
+01:05:10
+MATT ENGLAR-CARLSON Okay. 
+
+01:05:10
+LEAH BREW Or a projection it could be with another person. 
+
+01:05:15
+MATT ENGLAR-CARLSON Right. 
+
+01:05:15
+LEAH BREW Umm… That… that talking about doesn't get. 
+
+01:05:20
+MATT ENGLAR-CARLSON Okay. So how do you… how do you set this up with… with Sara? 
+
+01:05:25
+LEAH BREW Umm… So now that we found that word entitlement. 
+
+01:05:25
+MATT ENGLAR-CARLSON Right. 
+
+01:05:30
+LEAH BREW I wanted to set it up so that she could have a conversation with entitlement. 
+
+01:05:35
+MATT ENGLAR-CARLSON Okay. 
+
+01:05:35
+LEAH BREW And… and that's what I want you to look at. I take some time to set that up. 
+
+01:05:40
+MATT ENGLAR-CARLSON Yeah. 
+
+01:05:45
+LEAH BREW And then umm… kind of invite her to (inaudible) or just express whatever comes to mind. 
+
+01:05:50
+MATT ENGLAR-CARLSON Okay, so it sounds like in… in again from your perspective as… as the councilor, your… you've kinda seen those polarities kinda form. 
+
+01:06:00
+LEAH BREW Mm-hmm. 
+
+01:06:00
+MATT ENGLAR-CARLSON You know enough from experience that if we kinda… kinda build these all a little bit more there's an opportunity here to… to go a bit deeper have different experience. 
+
+01:06:05
+LEAH BREW Yes. 
+
+01:06:10
+MATT ENGLAR-CARLSON So you're building up to that then that asking a permission of the client, would you be willing to do this. 
+
+01:06:15
+LEAH BREW Yes. 
+
+01:06:15
+MATT ENGLAR-CARLSON Right. Umm… Anything else we should be looking for in this clip? 
+
+01:06:20
+LEAH BREW Hmm… Maybe umm… maybe how she does it. 
+
+01:06:25
+MATT ENGLAR-CARLSON Okay. 
+
+01:06:30
+LEAH BREW Yeah. 
+
+01:06:30
+MATT ENGLAR-CARLSON Okay… okay. 
+
+01:06:30
+LEAH BREW Whichever… 
+
+01:06:30
+MATT ENGLAR-CARLSON Her reaction to it what she does with it? 
+
+01:06:30
+LEAH BREW Yeah, what she does with it. 
+
+01:06:35
+EXAMPLE OF SKILL NUMBER FIVE: 
+
+01:06:35
+Empty Chair 
+
+01:06:40
+LEAH BREW Okay, entitlement and humility. 
+
+01:06:45
+SARA Mm-hmm. 
+
+01:06:45
+LEAH BREW Those are the… those might be the things that really push your buttons that entitlement. 
+
+01:06:50
+SARA Mm-hmm. 
+
+01:06:55
+LEAH BREW Mm-hmm. Do you have brothers? 
+
+01:06:55
+SARA One. 
+
+01:07:00
+LEAH BREW Does he entitle? 
+
+01:07:00
+SARA Little bit, but he… he's really… really… really helped so I think it's like he deserved, it deserved so it's not entitled. 
+
+01:07:10
+LEAH BREW Say that again? 
+
+01:07:15
+SARA Uh… So I said he's helped out a lot with the family, so I think he deserved. 
+
+01:07:20
+LEAH BREW So he's not really entitled? 
+
+01:07:20
+SARA So it's not that's (inaudible). 
+
+01:07:20
+LEAH BREW Okay, yeah. All right that was probably a random unnecessary connection. So uh… try to think of how to construct this and I want you to have a conversation umm… between these two parts of yourself. Umm… And I think your humble side is louder, so that might be a really good place to start. 
+
+01:07:55
+SARA Okay. 
+
+01:07:55
+LEAH BREW Umm… So are you up for trying an experiment? 
+
+01:08:00
+SARA Sure. 
+
+01:08:00
+LEAH BREW Okay. I want you to imagine sitting in this chair right here. 
+
+01:08:05
+SARA Okay. 
+
+01:08:10
+LEAH BREW Umm… The entitled person and we could imagine it as your dad or just generic. You don't have to tell me and it doesn't really matter, but you can be clear in your head about what you would wanna say to that entitled person. 
+
+01:08:30
+[sil.] 
+
+01:08:35
+SARA That's not fair. 
+
+01:08:35
+LEAH BREW Tell the person, it's not fair? 
+
+01:08:40
+SARA It's not fair. Uh… I think it's important to work hard and to umm… get what you want through your hard work and through earning it, not just by getting a gold plate given to you. 
+
+01:09:10
+LEAH BREW It's very soft and sweet. Yeah, so you would tell the entitled person umm… that would… would privileges be the right? Word privileges are to be earned. 
+
+01:09:25
+SARA Yeah. 
+
+01:09:25
+LEAH BREW And that you shouldn't just get things, you have to work for them. What else would you want your entitled person to know? 
+
+01:09:40
+SARA To stay humble umm… 
+
+01:09:40
+LEAH BREW Why? 
+
+01:09:45
+SARA I think that comes from values to be humble, to be grateful, to not take things for granted. So that's why don't be entitled so because if… if you continue to be entitled then you're gonna take things for granted and not be thankful to God. 
+
+01:10:05
+LEAH BREW Okay. And it's very important in your value system to be grateful to God. 
+
+01:10:15
+SARA Yeah. 
+
+01:10:15
+LEAH BREW Mm-hmm. Okay. Uh… Is there anything else you'd want to say? 
+
+01:10:20
+SARA No, I don't. 
+
+01:10:20
+LEAH BREW You don't (inaudible). 
+
+01:10:25
+SARA I think it's really uncomfortable uh… and there is much more like I feel like I would say, but I just don't want to. 
+
+01:10:40
+LEAH BREW Tell me about not wanting to say more? 
+
+01:10:45
+SARA Umm… (inaudible) and its hurts. 
+
+01:10:55
+LEAH BREW (inaudible). 
+
+01:10:55
+SARA Oh, the feelings, I would say more I would hurt. 
+
+01:11:00
+LEAH BREW If you say more, you would feel pain. Yeah, sadness. 
+
+01:11:05
+SARA Yeah… 
+
+01:11:10
+LEAH BREW Tell me about that sadness? 
+
+01:11:15
+SARA Umm… I think it's greater than umm… the fact that I really… I really had to work really hard umm… to get where I'm… 
+
+01:11:30
+[sil.] 
+
+01:11:40
+SARA I mean, just see others (inaudible) come from umm… you come from what entitlement, so like that. You really had to work hard to get where I am and it's still really hard, you know, just balancing everything and doing the best I can but it requires a lot of whole hard work sort of (inaudible). 
+
+01:12:15
+[sil.] 
+
+01:12:20
+LEAH BREW So like here you're… you're tired. 
+
+01:12:25
+SARA Yeah. 
+
+01:12:25
+LEAH BREW As you're working really hard. 
+
+01:12:25
+SARA Yeah. 
+
+01:12:30
+LEAH BREW And uh… even though you're soft and your tears are soft. Umm… I also (inaudible) resentment, right that entitle people often get what they expect (inaudible). 
+
+01:12:40
+SARA Anything that's where I'm conflicted because umm… I… I'm really privileged to, you know, in many ways being in America, being in amazing schools, being given the opportunities that I'm given, so I think that's why I even say that, you know, it's wrong for me to feel that way because I do have so many privileges myself. 
+
+01:13:15
+LEAH BREW So only if you were suffering in a war torn country would you be entitled to feeling overwhelmed and… 
+
+01:13:20
+SARA No. 
+
+01:13:25
+LEAH BREW That's what I'm hearing. 
+
+01:13:25
+SARA Yeah, no, but, like it just comes, like, you should be grateful, you know. 
+
+01:13:40
+LEAH BREW You can be overwhelmed and grateful to this aren't mutually exclusive. 
+
+01:13:45
+SARA No. When I think to hide the overall (inaudible) I push up the gratefulness to… to focus on that instead. 
+
+01:14:00
+LEAH BREW You get overwhelmed with feeling overwhelmed. 
+
+01:14:00
+SARA No, definitely. 
+
+01:14:05
+LEAH BREW And there is on space or anything else? 
+
+01:14:05
+SARA No, that's like I tried so much and burned out so much… 
+
+01:14:10
+LEAH BREW And you really be yourself… 
+
+01:14:10
+SARA Yeah. Because I'm not used to, I mean, I'm use to being busy. I like being busy and so I work best, but at the same time I'm not… I'm used to, I mean, I come… I only graduated high school early and I did community college then I did my UCLA then (inaudible) has done some like I'm use to faster pace, I'm used to being done quickly, getting good only A's, umm… just being on top of everything and I think starting, I think, it started with the seminary when I wasn't excelling and I was weird and I was just like (inaudible). So I had to really… I was out of my comfort zone. I really had to push myself and it's very uncomfortable for sure I think that's when it started. 
+
+01:15:15
+LEAH BREW What I'm almost hearing is that you had a greater sense of confidence until you decided to do two masters programs at the same time. 
+
+01:15:20
+SARA Yeah. 
+
+01:15:20
+LEAH BREW And because you're feeling overwhelmed, you're not getting the results that you're used to. 
+
+01:15:25
+SARA Yeah. 
+
+01:15:30
+LEAH BREW And that is beating up on your self-esteem. 
+
+01:15:30
+SARA Hmm… In addition to time management but yeah. 
+
+01:15:35
+LEAH BREW Oh, yeah. I mean, you're doing a lot right now. 
+
+01:15:35
+SARA Yeah. 
+
+01:15:40
+LEAH BREW So you're really beating yourself up. 
+
+01:15:40
+SARA Yeah. 
+
+01:15:40
+LEAH BREW And then you get good at that so that when you make a speech that you think isn't as moving as everybody else is umm… that that just adds to that. 
+
+01:15:50
+SARA Mm-hmm. 
+
+01:15:50
+LEAH BREW Uh-huh. So maybe the, I guess only a check, is it accurate to say that this lack of confidence right now is more about umm… the combination of being overwhelmed with the umm… Yeah, with… with not being able to perform the way you normally do. 
+
+01:16:15
+SARA Yeah. 
+
+01:16:20
+LEAH BREW And… and where you confident before? 
+
+01:16:25
+SARA (inaudible). 
+
+01:16:25
+LEAH BREW Confident, not entitled. 
+
+01:16:30
+SARA More… more than I am. And the thing is right now I'm in a lot of the learning side, not of the teaching side, not of the practicing side, I think maybe that'll change from the fall (inaudible). When I started practicing, seeing clients (inaudible) you know what, I… I can do (inaudible). 
+
+01:16:45
+LEAH BREW Oh, no, first you're gonna start off saying, I can't do this (inaudible). 
+
+01:16:45
+SARA Oh, yeah, I'm already there. 
+
+01:16:50
+LEAH BREW Yeah. 
+
+01:16:50
+SARA (inaudible). 
+
+01:16:50
+LEAH BREW No, even with the first client, just so, you know, you have realistic expectations, but yeah. 
+
+01:16:55
+SARA Yes… yes. 
+
+01:16:55
+LEAH BREW But in-time. 
+
+01:16:55
+SARA Oh, yeah, in-time. 
+
+01:16:55
+LEAH BREW You feel like… 
+
+01:17:00
+SARA (inaudible) trust me, I'm already like, 'Oh, my God! I don't know what I'm doing?' 
+
+01:17:00
+LEAH BREW Yes. 
+
+01:17:00
+SARA Definitely, but… 
+
+01:17:05
+LEAH BREW …realistic expectation. 
+
+01:17:05
+SARA Yeah… yeah, no. Thank you. Umm… But no, more so the fact that umm… What am I saying? Umm… That I'm learning from both programs, so I'm on the student side. I'm not… I don't want to be on the other side. But the fact that I'm being it's a lot of information… Oh, I'm sorry. It's a… it's a lot of information coming to me, so there's no, I mean, I have assignments to show that I am performing well and excelling, but I think umm… with Arabic it's just really hard. It's really hard and I don't give myself enough time to practice it, so I'm obviously not gonna excel and hopefully this summer will change a lot… 
+
+01:17:50
+LEAH BREW Yeah. 
+
+01:17:55
+SARA Yeah. 
+
+01:17:55
+LEAH BREW Do you see the connection between entitlement and being overwhelmed? 
+
+01:18:00
+SARA Time, given myself (inaudible). 
+
+01:18:05
+LEAH BREW Not giving yourself time, so much that it's more that some entitlement is an unearned advantage in a way, right? 
+
+01:18:10
+SARA yeah. 
+
+01:18:10
+LEAH BREW Or an expectation of unearned advantage and you're so overwhelmed right now that the entitlement is more repulsive to you because you're exhausted. 
+
+01:18:25
+SARA Yeah, I can see that. 
+
+01:18:30
+DEBRIEFING OF SKILL NUMBER FIVE: 
+
+01:18:30
+Empty Chair 
+
+01:18:35
+MATT ENGLAR-CARLSON Is this a good example of an empty chair exercise? 
+
+01:18:40
+LEAH BREW Uh… Yes, I think, it is. 
+
+01:18:40
+MATT ENGLAR-CARLSON Okay. 
+
+01:18:45
+LEAH BREW She softly, like, she really embodied humility… 
+
+01:18:50
+MATT ENGLAR-CARLSON Yeah, that was easy for her. 
+
+01:18:50
+LEAH BREW Yeah. She… Her voice went down. 
+
+01:18:55
+MATT ENGLAR-CARLSON Yeah. 
+
+01:18:55
+LEAH BREW Umm… She was very shy in speaking. Her choice of words were uh… I won't say they lacked confidence, but umm… I don't know there's just this softness. 
+
+01:19:10
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+01:19:10
+LEAH BREW That… 
+
+01:19:10
+MATT ENGLAR-CARLSON Overly respectful. 
+
+01:19:10
+LEAH BREW Overly respectful, yeah. That was the antithesis of entitlement. 
+
+01:19:15
+MATT ENGLAR-CARLSON Right… right. 
+
+01:19:15
+LEAH BREW Yeah. So she really was able to form that umm… Who she was and I was trying to decide do I want her to try to take on entitlement. To see what that feels like? 
+
+01:19:25
+MATT ENGLAR-CARLSON Yeah. 
+
+01:19:25
+LEAH BREW And I'm like no, she's… she's resonating more with her humility and I… I think it would be better to start where she's at (inaudible). 
+
+01:19:35
+MATT ENGLAR-CARLSON Okay. Sure… sure. 
+
+01:19:35
+LEAH BREW …that here and now and immediacy thing, and using that umm… for her to have a conversation with it. 
+
+01:19:40
+MATT ENGLAR-CARLSON Okay, but then it sounds like you would kind of look for another opportunity… 
+
+01:19:45
+LEAH BREW Yes. 
+
+01:19:50
+MATT ENGLAR-CARLSON The kind of habit going in the other direction then. 
+
+01:19:50
+LEAH BREW Yeah, if we had more time, she would eventually… I would want to have a two-chair exercise where she could have a conversation and I would want her to physically move between those chairs. 
+
+01:20:00
+MATT ENGLAR-CARLSON Okay. 
+
+01:20:00
+LEAH BREW And we would get in the position of entitlements. 
+
+01:20:05
+MATT ENGLAR-CARLSON Okay. 
+
+01:20:05
+LEAH BREW I would have her sit differently, like, how would your back be? How would your legs be? You know, maybe put your legs down and your arms out instead of being so proper and… 
+
+01:20:15
+MATT ENGLAR-CARLSON Right… right. 
+
+01:20:15
+LEAH BREW …folded in, so that she could truly embody it and begin to take ownership of that part. 
+
+01:20:25
+MATT ENGLAR-CARLSON Yeah, likely I just pointed out the differences between those two because oftentimes they're often written about as the same thing and feature one chair, two-chair dialogue and they're not the same thing, right? And… and what we saw here was this… was this one chair kinda empty chair and yet that can lead to this two-chair dialogue, right? 
+
+01:20:40
+LEAH BREW Yes. 
+
+01:20:40
+MATT ENGLAR-CARLSON In which the again given a bit more time, give it more space you'd actually have her kinda go from chair to chair and kind of embody each of those experiences? 
+
+01:20:50
+LEAH BREW Yes, and have a conversation with each other. And that conversation always for me results in a huge shift. 
+
+01:21:00
+MATT ENGLAR-CARLSON Right. 
+
+01:21:00
+LEAH BREW Where I would expect that she would be able to embody umm… her own entitlement eventually. 
+
+01:21:05
+MATT ENGLAR-CARLSON Right… right. 
+
+01:21:05
+LEAH BREW So that she wouldn't be triggered, so she could feel her entitlement different. And then umm… I think exude a confidence that she's right now uh… afraid to exhibit her fear of looking like she's entitled or arrogant. 
+
+01:21:20
+MATT ENGLAR-CARLSON Right… right. You know, one things I like about that clip, Leah, it's just that awareness you had which is using your clinical judgment making I think, we will do this and this is what feels right for this moment, knowing that another moment maybe something else, but not trying to force her into something that wasn't really ready for appropriate at that moment. 
+
+01:21:45
+LEAH BREW Yeah… yeah. Umm… And you could see that it worked. 
+
+01:21:45
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+01:21:45
+LEAH BREW Because she cried. Umm… For… And… and I think one of the things that I… that is very gestalt… 
+
+01:21:55
+MATT ENGLAR-CARLSON Mm-hmm. 
+
+01:21:55
+LEAH BREW …that I liked about this approach is clarifying what do you mean by, right? So she used the word it and I'm like what's it? 
+
+01:22:05
+MATT ENGLAR-CARLSON Right. 
+
+01:22:05
+LEAH BREW And then having her articulate and speak, and I think she was even debating like, 'Oh, do I want to cry on camera or not. 
+
+01:22:10
+MATT ENGLAR-CARLSON Right… right. 
+
+01:22:15
+LEAH BREW Umm… And eventually she went there, but that to me when the tears come, umm… there's truth. 
+
+01:22:20
+MATT ENGLAR-CARLSON Okay. 
+
+01:22:20
+LEAH BREW Like we've hit some really important truth. 
+
+01:22:25
+MATT ENGLAR-CARLSON Yeah… yeah. And I think you can see it in her face too. 
+
+01:22:25
+LEAH BREW Yeah. 
+
+01:22:25
+MATT ENGLAR-CARLSON Yeah. 
+
+01:22:30
+LEAH BREW Yeah. And I think that was an important awareness that she came to about umm… (inaudible) the importance of her humility and the connection to the sadness, and frustration, and resentment and… and being overwhelmed. How all of that is mixed into this. 
+
+01:22:45
+MATT ENGLAR-CARLSON Right. 
+
+01:22:45
+LEAH BREW that it's not as clean and simple as, 'Oh, I have this issue. My dad was entitled and so that gets on my nerves.' 
+
+01:22:55
+MATT ENGLAR-CARLSON And I'll work (inaudible). 
+
+01:22:55
+LEAH BREW I should be… I should be done with it because I already know that. 
+
+01:22:55
+MATT ENGLAR-CARLSON Right.. right. 
+
+01:22:55
+LEAH BREW And it's like, no, this is way more complicated than that. 
+
+01:23:00
+MATT ENGLAR-CARLSON Right.. right. 
+
+01:23:00
+LEAH BREW Yeah. 
+
+01:23:05
+GESTALT THERAPY 
+
+01:23:05
+SKILL NUMBER SIX: 
+
+01:23:05
+Body Awareness 
+
+01:23:05
+MATT ENGLAR-CARLSON Skill number six, Body Awareness. So Leah, this final skill is body awareness. What does that mean from a gestalt perspective? 
+
+01:23:15
+LEAH BREW Being aware of your body. 
+
+01:23:15
+MATT ENGLAR-CARLSON Okay. 
+
+01:23:15
+LEAH BREW Umm… I think this one's important to me. My… In my master's program, I was also a biofeedback therapist. 
+
+01:23:20
+MATT ENGLAR-CARLSON Okay. 
+
+01:23:20
+LEAH BREW I trained to be a biofeedback therapist and I was aware one of the things about Asian culture is because we are expected to be… to demonstrate equanimity. 
+
+01:23:30
+MATT ENGLAR-CARLSON Mm-hmm. 
+
+01:23:35
+LEAH BREW Umm… We have to disconnect from our feelings. 
+
+01:23:35
+MATT ENGLAR-CARLSON Okay. 
+
+01:23:35
+LEAH BREW I don't think that's the intention, but that's how it kind of ends up working. 
+
+01:23:40
+MATT ENGLAR-CARLSON Okay. 
+
+01:23:40
+LEAH BREW And so I like many other Asians (inaudible) different issues, somatize maybe is the right word. And umm… getting in touch with the body, there's a lot of information there. 
+
+01:23:55
+MATT ENGLAR-CARLSON Right, okay. 
+
+01:23:55
+LEAH BREW Umm… So I like to use the body especially with people who are disconnected from it. 
+
+01:24:00
+MATT ENGLAR-CARLSON Okay, right. 
+
+01:24:00
+LEAH BREW So that they can get more information about themselves. 
+
+01:24:05
+MATT ENGLAR-CARLSON Okay… okay. So it sounds like there's… there's a learning component which is your body is telling you something and maybe a lot of people just don't listen it, don't know how to read it. 
+
+01:24:15
+LEAH BREW Yeah, they don't know how to read it. They're disconnected from it. 
+
+01:24:15
+MATT ENGLAR-CARLSON Yeah. They just experienced it and just experience it. 
+
+01:24:20
+LEAH BREW Right. And they… they tried to suppress it actually. They tried to suppress it and disconnect from it, which is the exact opposite of what we need to do and gestalt is about fully being with… 
+
+01:24:30
+MATT ENGLAR-CARLSON Right. 
+
+01:24:35
+LEAH BREW …as opposed to trying to change. 
+
+01:24:35
+MATT ENGLAR-CARLSON Okay. 
+
+01:24:35
+LEAH BREW So the goal isn't to change the body, it's to be aware and let it speak to us and to listen. 
+
+01:24:40
+MATT ENGLAR-CARLSON Okay… okay, so in this clip here what should we look for? 
+
+01:24:50
+LEAH BREW Umm… Look for how we explore. 
+
+01:24:50
+MATT ENGLAR-CARLSON Okay. 
+
+01:24:50
+LEAH BREW What… what to focus on. 
+
+01:24:50
+MATT ENGLAR-CARLSON Okay. 
+
+01:24:55
+LEAH BREW Right. Umm… And this one is… In this clip it's constructed, right because I'm not sure that that was a natural flow, where some of the other stuff was a more natural flow… flow. 
+
+01:25:00
+MATT ENGLAR-CARLSON Okay. 
+
+01:25:05
+LEAH BREW So we kind of had to construct it. Usually somebody would say something like, they are do, attention or something and then that's where you would go there. 
+
+01:25:10
+MATT ENGLAR-CARLSON Okay. 
+
+01:25:10
+LEAH BREW So this one was a little bit constructed, so look for how I explored and… and how she would turn and how Sara would turn inward to try to find, 'Yeah, what is going on in my body?' 
+
+01:25:25
+MATT ENGLAR-CARLSON Okay. So we'll look for you to kinda explore that with her but you're saying that in other scenarios where other clients acute kinda use this intervention would be the client saying, 'Oh, my neck hurts or I got tension in my… in my… my shoulder or something or (inaudible) like you're playing with part of their body and… 
+
+01:25:40
+LEAH BREW Yes. 
+
+01:25:40
+MATT ENGLAR-CARLSON What's happening there, right? 
+
+01:25:40
+LEAH BREW Yes. So that would be a more natural umm… segue into it. 
+
+01:25:45
+MATT ENGLAR-CARLSON Okay. 
+
+01:25:45
+LEAH BREW Mm-hmm. 
+
+01:25:50
+EXAMPLE OF SKILL NUMBER SIX: 
+
+01:25:50
+Body Awareness 
+
+01:25:55
+[sil.] 
+
+01:26:00
+LEAH BREW I… I almost sense that if we could help you move through feeling overwhelmed that you would be less triggered umm… by people who are entitled. 
+
+01:26:15
+SARA Mm-hmm. 
+
+01:26:15
+LEAH BREW Certainly that doesn't resolve the initial unfinished business. 
+
+01:26:20
+SARA Yeah. 
+
+01:26:25
+LEAH BREW Which is the original part of it, but I think it could get you closer to it because you started by saying, you should be over this now, you should be done with it you've been working on it. 
+
+01:26:30
+SARA Mm-hmm. 
+
+01:26:35
+LEAH BREW So I… I think I wanna try to help you get in touch with that better. 
+
+01:26:40
+SARA Mm-hmm. 
+
+01:26:40
+LEAH BREW Umm… So as you think about what's going on in the next week, what… what stuff do you have to do? 
+
+01:26:50
+SARA Uh… I've to read a lot of Quran. I have to go to (inaudible) class, I've to go to work, uh… I have to go to prayer (inaudible) I haven't been going as much as I want to for the past 20 days because I've been traveling and then finals, umm… so I really wanted to take advantage of last ten days. Umm… 
+
+01:27:15
+LEAH BREW The last ten days of Ramadan. 
+
+01:27:15
+SARA …of Ramadan, yeah. 
+
+01:27:15
+LEAH BREW And you're hungry right now. 
+
+01:27:15
+SARA No, I'm okay. Yeah… yeah, I'm okay. Umm… Still early (inaudible) but I'll start to do. I've to clean my room clean (inaudible). 
+
+01:27:30
+[sil.] 
+
+01:27:35
+SARA See my nephew (inaudible). 
+
+01:27:35
+LEAH BREW So there's some stuff is it? 
+
+01:27:35
+SARA Yeah. 
+
+01:27:35
+LEAH BREW Is it a normal kind of week or… 
+
+01:27:40
+SARA No, this is a very easy week. 
+
+01:27:40
+LEAH BREW This is an easy week. 
+
+01:27:40
+SARA Very easy. 
+
+01:27:40
+LEAH BREW So this isn't an overwhelming week… 
+
+01:27:45
+SARA No. 
+
+01:27:45
+LEAH BREW All right, so let me take you back two weeks ago with finals. 
+
+01:27:50
+SARA Okay. 
+
+01:27:50
+LEAH BREW Or maybe it's three weeks ago. 
+
+01:27:50
+SARA Yeah. 
+
+01:27:50
+LEAH BREW (inaudible) finals. 
+
+01:27:55
+SARA So hard. 
+
+01:27:55
+LEAH BREW Yeah, and then you are trying to prepare for your finals, right? 
+
+01:27:55
+SARA My brother was getting married. 
+
+01:28:00
+LEAH BREW Your brother was getting… when was his wedding? 
+
+01:28:00
+SARA May 12th. 
+
+01:28:00
+LEAH BREW Okay, so right before finals, he was getting married. 
+
+01:28:05
+SARA Mm-hmm. 
+
+01:28:05
+LEAH BREW And you're trying to help organize the wedding. 
+
+01:28:10
+SARA Mm-hmm. 
+
+01:28:10
+LEAH BREW And do your own stuff and get through the end of two schools. 
+
+01:28:15
+SARA Mm-hmm. 
+
+01:28:15
+LEAH BREW Not just one. 
+
+01:28:20
+SARA (inaudible) for my seminary was… was just last week so, it wasn't as hard but I mean still I had the homework. 
+
+01:28:25
+LEAH BREW …all stuff to do. 
+
+01:28:25
+SARA Yeah. 
+
+01:28:25
+LEAH BREW Okay. Umm… Can you bring your (inaudible) back into that moment what that was like? So as you think about that what do you aware of? Umm… What does… what does overwhelm feel like to you? 
+
+01:28:45
+SARA Umm… She's in the mode of what… what is… what deadline is first and work accordingly. 
+
+01:28:55
+LEAH BREW Mm-hmm. 
+
+01:29:00
+SARA Because I can (inaudible) I had two finals so (inaudible) and then the oral final, okay. Yeah, let's… Oh! And then I had Arabic presentation the day of my oral final, math (inaudible). Yeah, that was a busy day. (inaudible) very overwhelmed, anxious umm… but trying to make myself calm to just get the work done. So I was really just trying to focus on (inaudible) I mean, I did well on first final (inaudible) so on Monday, let's go… let's (inaudible) days. 
+
+01:29:40
+LEAH BREW Pick just one day? 
+
+01:29:40
+SARA Oh! 
+
+01:29:40
+LEAH BREW Which is the worst day? The ethics… the (inaudible) final… 
+
+01:29:45
+SARA Let's just pick that… 
+
+01:29:45
+LEAH BREW Okay. 
+
+01:29:45
+SARA Mm-hmm. 
+
+01:29:50
+LEAH BREW So you in your mind, you are working hard to overcome the feelings of being overwhelmed by focusing on your next task. 
+
+01:29:55
+SARA Yes. 
+
+01:30:00
+LEAH BREW What do you aware of in your body? 
+
+01:30:05
+SARA Oh, that (inaudible) oh, my body. 
+
+01:30:05
+LEAH BREW In your body? How your shoulders feel like? 
+
+01:30:10
+SARA Oh, really bad, tense. 
+
+01:30:10
+LEAH BREW Mm-hmm. 
+
+01:30:15
+SARA Umm… I don't know if I ate… Oh, I wasn't actually I didn't eat because I was fasting. It was first-day Ramadan too. 
+
+01:30:20
+LEAH BREW And the first day of Ramadan. 
+
+01:30:20
+SARA Yeah. 
+
+01:30:20
+LEAH BREW It's a very busy day. 
+
+01:30:20
+SARA Very busy. So thankfully I did eat (inaudible) so the pre-dawn meal, so I was good, umm… but I was very nervous. I was… I was still like my stomach was a little like… 
+
+01:30:35
+LEAH BREW Is it tight? 
+
+01:30:35
+SARA No, just kinda like… 
+
+01:30:35
+LEAH BREW Tumbling. 
+
+01:30:35
+SARA Yes. 
+
+01:30:40
+LEAH BREW Yeah, like what would it look like? 
+
+01:30:40
+SARA Like so much is going on, 'Oh my gosh! 
+
+01:30:40
+LEAH BREW Uh-huh. 
+
+01:30:45
+SARA Yes. 
+
+01:30:45
+LEAH BREW Like stuff kind of moving around like this? 
+
+01:30:45
+SARA Yes… yes. 
+
+01:30:45
+LEAH BREW Yeah, you've got this and you've got kinda this. 
+
+01:30:50
+SARA Mm-hmm. 
+
+01:30:50
+LEAH BREW Umm… What else do you are you aware of? 
+
+01:30:55
+SARA Umm… Just heavy breaths (inaudible). 
+
+01:31:00
+LEAH BREW A lot of sign. 
+
+01:31:00
+SARA Yeah, I'm not really aware of my… 
+
+01:31:00
+LEAH BREW Not usually aware of your body? 
+
+01:31:05
+SARA No, bad posture for sure. 
+
+01:31:05
+LEAH BREW Bad posture? 
+
+01:31:05
+SARA Yeah. 
+
+01:31:05
+LEAH BREW How do you know you have bad posture when you're stressed? 
+
+01:31:10
+SARA I because after… the aftermath of it I was (inaudible) there, I go get a massage or… 
+
+01:31:15
+LEAH BREW Where's the most pain? 
+
+01:31:20
+SARA Upper back, right here. Oh, neck. 
+
+01:31:20
+LEAH BREW Neck? 
+
+01:31:25
+SARA Neck, shoulders, upper back and then… yeah upper back. It's pretty maybe hands because I'm typing… 
+
+01:31:30
+LEAH BREW Okay. So which… which is the louder portion of your neck, shoulders and back or your stomach kind of turning in? 
+
+01:31:45
+SARA Neck. Okay, can we switch to Monday? 
+
+01:31:45
+LEAH BREW It doesn't matter whatever day you wanna think about? 
+
+01:31:45
+SARA Okay, let's do Monday. 
+
+01:31:50
+LEAH BREW Okay. 
+
+01:31:50
+SARA Because I was writing for… I was writings… So the wedding was on Saturday, then I was writing Sunday, Monday all day. 
+
+01:32:00
+LEAH BREW Okay. 
+
+01:32:00
+SARA So my eyes were hurting. 
+
+01:32:00
+LEAH BREW Even your eyes were? 
+
+01:32:00
+SARA My eyes were hurting so badly. 
+
+01:32:05
+LEAH BREW That somehow stands out to you even more than your neck, and shoulders and stomach. 
+
+01:32:05
+SARA Yes, because I'm… Stomach is it's not as (inaudible) or like it's not as painful or whatever. Umm… This whole thing… this whole thing I'm fairly used to umm… but the eyes, like, I was looking at the screen just way too long. 
+
+01:32:25
+LEAH BREW Mm-hmm. 
+
+01:32:25
+SARA So that was painful. 
+
+01:32:30
+LEAH BREW So that was the most painful. 
+
+01:32:30
+SARA Mm-hmm. That (inaudible). 
+
+01:32:35
+LEAH BREW Hmm… Looking at it would be hard about going with your eyes right now is because you're probably not hurting right now. 
+
+01:32:35
+SARA Oh, yeah. No. 
+
+01:32:40
+LEAH BREW Yeah, so let's go with your neck and shoulder? 
+
+01:32:40
+SARA Okay. 
+
+01:32:40
+LEAH BREW Yeah, so I want you to bring your attention right now to your neck and shoulders. 
+
+01:32:45
+SARA Okay. 
+
+01:32:50
+LEAH BREW And what are you aware of? 
+
+01:32:50
+SARA The tenseness. Umm… The fact that I'm always like this. 
+
+01:33:00
+LEAH BREW Yeah, it was like this. So kinda bring your shoulder… Don't tighten it too much because we don't want you to bring it up to your ears as far as you can and they bring it down. 
+
+01:33:05
+SARA Yeah, it feels good. 
+
+01:33:10
+LEAH BREW Yeah, (inaudible) feel different. 
+
+01:33:10
+SARA Yeah. 
+
+01:33:10
+LEAH BREW It shifts a little bit. 
+
+01:33:10
+SARA Mm-hmm. 
+
+01:33:15
+LEAH BREW Umm… And then just continue to focus your attention on your neck and shoulders. Don't worry about your breathing, don't try to change it. 
+
+01:33:25
+SARA Oh! 
+
+01:33:25
+LEAH BREW Just let it give it attention because it's calling you, right? And be aware of the sensation. 
+
+01:33:40
+[sil.] 
+
+01:33:45
+LEAH BREW If you could describe it aesthetically or with colors or sounds, what… what would it, how else could you describe it? 
+
+01:33:55
+[sil.] 
+
+01:34:00
+SARA We'll do it with a vein. It's like a thick vein and then it like elongates and it stretches like its tight and then it stretches. Right now it's like loosening. 
+
+01:34:15
+LEAH BREW It's loosening. 
+
+01:34:15
+SARA Yeah. 
+
+01:34:15
+LEAH BREW Just as you pay attention to it. 
+
+01:34:15
+SARA Yeah. 
+
+01:34:20
+LEAH BREW And so when it's loosening then what's the vein doing? 
+
+01:34:25
+SARA It's able to just flow and I feel calmer. I'm not like focusing on it because I'm… I'm good whereas when I'm stressed it's like tight and restricted. 
+
+01:34:35
+LEAH BREW Mm-hmm. Hmm… Like it constricts the flow? 
+
+01:34:40
+SARA Mm-hmm. 
+
+01:34:40
+LEAH BREW Like the flow of energy moving through you. 
+
+01:34:45
+SARA Exactly. 
+
+01:34:45
+LEAH BREW So be aware of the flow right now and where it is and how much it is or isn't flowing. 
+
+01:34:55
+SARA It's flowing. 
+
+01:34:55
+LEAH BREW It's flowing. And as you focus on it more, is it changing in any way? 
+
+01:35:05
+SARA I think because I focused on it more, it's relaxing because I'm giving that respect to it. 
+
+01:35:15
+LEAH BREW Yeah, giving respect to (inaudible), I like that. 
+
+01:35:15
+SARA Mm-hmm. 
+
+01:35:20
+LEAH BREW Yeah. 
+
+01:35:20
+SARA (inaudible) respects their whole body because it's the trust from God, so to that's why I like taking care of yourself is very important. Doing thus is feels like taking care of myself. 
+
+01:35:35
+LEAH BREW Yeah, just to take a moment to focus on that part of your body that just needs a little bit of attention and allows you to flow a little it better. 
+
+01:35:45
+SARA Mm-hmm. And I feel my neck kinda tight. 
+
+01:35:50
+LEAH BREW Your neck is a little bit tight? 
+
+01:35:50
+SARA Yeah. 
+
+01:35:55
+LEAH BREW Yeah, so you just focus on that right now. Don't try to change it. See what it's telling you. 
+
+01:36:05
+[sil.] 
+
+01:36:10
+SARA (inaudible) feels better. 
+
+01:36:10
+LEAH BREW You think it's better when you bring attention. 
+
+01:36:15
+SARA Mm-hmm. It's crazy. 
+
+01:36:15
+LEAH BREW Yeah, its crazy it is. 
+
+01:36:20
+SARA Yeah. 
+
+01:36:20
+LEAH BREW Yeah, it's like your body is calling out to tell you, "Hey, look at me, 'Oh, it's like a little arrogant part of your body,' look at me I need some attention." 
+
+01:36:30
+SARA Yeah. 
+
+01:36:30
+LEAH BREW Yeah, and then you give it some gentle loving attention. 
+
+01:36:35
+SARA Yeah… 
+
+01:36:35
+LEAH BREW And it goes… 
+
+01:36:40
+SARA Yep, exactly like that. Like I just feel better. I think I can swim. 
+
+01:36:50
+LEAH BREW You think you can swim, by the way I like that. 
+
+01:36:50
+SARA (inaudible) feeling so good. 
+
+01:36:55
+LEAH BREW Yeah, and now think of that entitled person again that we spoke too earlier and then the chair. And what do you think about that person now is there something more that you would say or different that comes up for you? 
+
+01:37:15
+SARA My body? 
+
+01:37:15
+LEAH BREW Just no, from… from just thoughts. 
+
+01:37:20
+[sil.] 
+
+01:37:25
+SARA I don't think about it. Yeah, (inaudible) I think I'm too vulnerable with it so I just push it. 
+
+01:37:40
+LEAH BREW So you know that's where your work is? 
+
+01:37:45
+SARA Mm-hmm. 
+
+01:37:45
+LEAH BREW Yeah. So maybe we helped you a little bit with feeling less overwhelmed. 
+
+01:37:50
+SARA Yeah. 
+
+01:37:55
+LEAH BREW But that unfinished business with your dad umm… probably we need to be worked out without cameras and big bright lights. 
+
+01:38:05
+SARA Yeah. 
+
+01:38:05
+LEAH BREW Yeah. 
+
+01:38:05
+SARA I feel healthier though. I feel like, I'm able to still recognize… but I feel like now I can put words to what… what I was feeling because… because we explore that so much, unable to put the proper words not what I thought it was. 
+
+01:38:30
+LEAH BREW What you thought it was… 
+
+01:38:30
+SARA Sorry. 
+
+01:38:30
+LEAH BREW (inaudible) what? 
+
+01:38:35
+SARA Before it was arrogance and humility, and now it's entitlement and humility. 
+
+01:38:40
+LEAH BREW Okay. 
+
+01:38:40
+SARA I think that speaks or that resonates speaks better. 
+
+01:38:45
+LEAH BREW That resonates (inaudible) that's more clarity about that piece. 
+
+01:38:45
+SARA Yeah. 
+
+01:38:45
+LEAH BREW Yeah. 
+
+01:38:45
+SARA Definitely. 
+
+01:38:50
+LEAH BREW And the connection maybe. 
+
+01:38:50
+SARA Yeah. 
+
+01:38:50
+LEAH BREW Between you're not just the humility, but in this particular state of being overwhelmed and how hard you worked to get to this point. 
+
+01:39:00
+SARA Mm-hmm. 
+
+01:39:00
+LEAH BREW Yeah, and you can do that body thing anytime you need it. 
+
+01:39:05
+SARA Yeah. 
+
+01:39:05
+LEAH BREW I mean, it just takes a minute. 
+
+01:39:10
+SARA Yeah. 
+
+01:39:10
+LEAH BREW Yeah. Thanks for being here. 
+
+01:39:15
+SARA Thank you for having me. I appreciate that. 
+
+01:39:20
+DEBRIEFING OF SKILL NUMBER SIX: 
+
+01:39:20
+Body Awareness 
+
+01:39:25
+MATT ENGLAR-CARLSON Is this a good example of body awareness? 
+
+01:39:25
+LEAH BREW Yeah, I think umm… since we had a kind of create it. 
+
+01:39:30
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+01:39:35
+LEAH BREW It was a good example because we were able to find something and focus on it, something here, something right now. 
+
+01:39:40
+MATT ENGLAR-CARLSON Right. So she was able to kinda again the kinda dug into that a little bit, (inaudible) kinda scan, explore, she kinda found that part and then working with her what… what is your focus here. What are you trying to do? 
+
+01:39:55
+LEAH BREW Yeah, so it's debating on whether or not to see if there was anything going on from us talking about the issue. 
+
+01:40:00
+MATT ENGLAR-CARLSON Okay… okay. 
+
+01:40:00
+LEAH BREW Umm… But I… I just… I didn't sense that she was kind of more relaxed, we'd pass the tears. Uh… So I… I wanted to umm… Yeah, I… I wanted to bring her into a moment of overwhelm because overwhelm is something that's so tied to what she talked about. 
+
+01:40:20
+MATT ENGLAR-CARLSON Sure absolutely, yeah. 
+
+01:40:20
+LEAH BREW Umm… So I took a past moment and tried to say, now bring that into right here, right now what are you feeling? What are you aware of? 
+
+01:40:25
+MATT ENGLAR-CARLSON Right. 
+
+01:40:25
+LEAH BREW And she was like, 'Ooh, I want to go to Monday because my eyes are really tired.' I'm like (inaudible) your eyes aren't going to be tired right now. 
+
+01:40:30
+MATT ENGLAR-CARLSON Right. 
+
+01:40:35
+LEAH BREW But you can't bring, you know, a stiff neck and shoulders pretty much anyone in school could bring that up at any moment, so I felt like that was a good one because she could umm… embody that she could really resonate and that even if she's not as overwhelmed today as she was on the day she was speaking out, uh… there would still be some of that tension because umm… many of us carry tension in our neck and shoulders. 
+
+01:40:55
+MATT ENGLAR-CARLSON Right… right. So kind of a setup here than it is to be aware of a situation or a moment, bring that moment in… in to present awareness. 
+
+01:41:05
+LEAH BREW Mm-hmm. 
+
+01:41:05
+MATT ENGLAR-CARLSON Note where you're feeling it in your body. 
+
+01:41:10
+LEAH BREW Yes. 
+
+01:41:10
+MATT ENGLAR-CARLSON Right. And then what is your body telling you? 
+
+01:41:10
+LEAH BREW Yeah, and I always like to use other modalities. 
+
+01:41:15
+MATT ENGLAR-CARLSON Okay. 
+
+01:41:15
+LEAH BREW Of either umm… visual, auditory, uh… kinesthetic ways of describing. 
+
+01:41:25
+MATT ENGLAR-CARLSON Okay. 
+
+01:41:25
+LEAH BREW Because you know, my neck and shoulders are tensed, yeah. 
+
+01:41:30
+MATT ENGLAR-CARLSON Yeah. 
+
+01:41:30
+LEAH BREW So what, so let's take it deeper, let's fully experience how would you describe it. 
+
+01:41:35
+MATT ENGLAR-CARLSON Okay. 
+
+01:41:35
+LEAH BREW And I got her description was really beautiful… 
+
+01:41:35
+MATT ENGLAR-CARLSON Yeah… yeah. 
+
+01:41:35
+LEAH BREW …of like a vein that would constrict, it would shrink and expand. 
+
+01:41:40
+MATT ENGLAR-CARLSON Yeah. 
+
+01:41:45
+LEAH BREW And… and notice and this happens every time when people are aware of some area of their body that's uncomfortable and they bring attention to it, it eases. 
+
+01:41:55
+MATT ENGLAR-CARLSON Okay. 
+
+01:41:55
+LEAH BREW It softens. 
+
+01:41:55
+MATT ENGLAR-CARLSON Okay. 
+
+01:41:55
+LEAH BREW It's… it works every time. 
+
+01:42:00
+MATT ENGLAR-CARLSON Yeah. I notice to that so that happened and then you noted it and you kinda said, 'Oh, you can… you can take this with you.' 
+
+01:42:05
+LEAH BREW Yes. 
+
+01:42:05
+MATT ENGLAR-CARLSON Right. Isn't just something you can do with me in a… in a therapy session. 
+
+01:42:10
+LEAH BREW Yeah, it's… it's a skill. 
+
+01:42:15
+MATT ENGLAR-CARLSON Right. 
+
+01:42:15
+LEAH BREW Not that… not that gestalt is all about teaching skills. 
+
+01:42:15
+MATT ENGLAR-CARLSON Right. 
+
+01:42:20
+LEAH BREW But I wanted her to have that connection of, 'Hey, you know, stuff comes up and we have to listen to our body. 
+
+01:42:25
+MATT ENGLAR-CARLSON Okay. 
+
+01:42:25
+LEAH BREW (inaudible) and for her to be able to use that. 
+
+01:42:25
+MATT ENGLAR-CARLSON Right. 
+
+01:42:30
+LEAH BREW And particularly because she is Asian. 
+
+01:42:30
+MATT ENGLAR-CARLSON Okay. 
+
+01:42:30
+LEAH BREW Right, that… that's something that Asians do is inhibits. 
+
+01:42:35
+MATT ENGLAR-CARLSON Okay. 
+
+01:42:35
+LEAH BREW So I wanted her to at least acknowledge what her body is trying to tell her. 
+
+01:42:40
+MATT ENGLAR-CARLSON And that's part of it, it sounds like the longer term strategy right of kinda beginning to listen to what your… your whole body is kind of saying to you in these moments and that could lead to deeper insight in terms of what's happening for her and awareness. 
+
+01:42:50
+LEAH BREW Yeah. 
+
+01:42:50
+MATT ENGLAR-CARLSON Yeah. 
+
+01:42:50
+LEAH BREW Yeah. I think that's one difference in gestalt compared to some other ways of working… 
+
+01:43:00
+MATT ENGLAR-CARLSON Okay. 
+
+01:43:00
+LEAH BREW …is we learn, it's not that the therapy teaches but somehow we learn how to be more self-aware… 
+
+01:43:10
+MATT ENGLAR-CARLSON Sure. 
+
+01:43:10
+LEAH BREW …and more in tune and nuanced to ourselves. 
+
+01:43:15
+MATT ENGLAR-CARLSON Okay. 
+
+01:43:15
+LEAH BREW And as we can do that then we can… I don't know it enhances our awareness in many ways. 
+
+01:43:20
+MATT ENGLAR-CARLSON Right. 
+
+01:43:20
+LEAH BREW So like once I discovered about my own projections and anytime I feel triggered, I always question myself, what's my… what's my projection here? So I can own it and have power over it instead of being a victim… 
+
+01:43:35
+MATT ENGLAR-CARLSON Okay. So you kinda learn as opposed to things just happening to you? 
+
+01:43:35
+LEAH BREW Yes. 
+
+01:43:35
+MATT ENGLAR-CARLSON Right, things happen… then you become attuned to kinda what is happening within you. 
+
+01:43:40
+LEAH BREW Yes. 
+
+01:43:40
+MATT ENGLAR-CARLSON Which then can lead to you to kinda actually have some action and some (inaudible) to… to do something. 
+
+01:43:45
+LEAH BREW Yeah, or to just fully be with it. 
+
+01:43:45
+MATT ENGLAR-CARLSON Or… or to be with it. Yeah, have a different experience. 
+
+01:43:50
+LEAH BREW To have a different experience with it. 
+
+01:43:50
+MATT ENGLAR-CARLSON Okay. 
+
+01:43:50
+LEAH BREW So yeah, body awareness is one way of doing that. 
+
+01:43:55
+MATT ENGLAR-CARLSON Excellent, yeah. 
+
+01:44:00
+END TRANSCRIPT 

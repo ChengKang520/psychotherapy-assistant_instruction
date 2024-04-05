@@ -1,0 +1,275 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The information in this program is presented solely for educational purposes and should not be used for the assessment or treatment of any condition without the advice and supervision of licensed medical professionals. The situations presented in this program do not necessarily reflect actual situations you may encounter. Classroom Productions disclaims any liability and/or loss resulting from the information contained in this video. DSM-5® is a registered trademark of the American Psychiatric Association. The American Psychiatric Association has not participated in the preparation of this program. 
+
+00:00:05
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:05
+DSM-5® AND ICD-10 
+
+00:00:05
+DISSOCIATIVE DISORDERS 
+
+00:00:10
+[music] 
+
+00:00:15
+UNKNOWN Asteroids often carry... 
+
+00:00:15
+SEAN HARRIGAN We all may have times that we are unaware of our actions, where we go on autopilot, so that our mind wanders to some other place, while our body goes through the motions. May be we've been so caught up in a thought while driving that we've been going for miles without even realizing it. Or in an emotional moment, like after a breakup or losing a job, we may feel overwhelmed so that minutes pass without us even knowing how we spent them. It could even be that at some random moment we've experiences a real kind of detachment where we feel disconnected from our thoughts, bodies or surroundings. For most of us, these moments of dissociation pass and even when we may find them troubling, they usually don't cause ongoing and significant distress in our lives. For some people however, this dissociation not only persist, but can make it so that a person has no memory of an aspect or aspects of their lives. They may even find that during this gap in memory, they behaved in a way that was in congruous with their own sense of identity as if another personality state had taken control of their body. And even if they don't have gaps in memory, they may experience a disconnect from themselves or their surroundings. This is the case for individuals with dissociative disorders. A grouping of disorders codified and defined in the fifth edition of the Diagnostic and Statistically Manual of Mental Disorders or DSM-5®. These individuals experience symptoms, some of them positive, meaning something that has been added such as flashbacks or intrusive identities. Some of them negative, meaning something almost seems taken away such as memories in the case of amnesia. But all of them have the potential to leave the individual feeling disconnected from themselves, their lives, and the world around them. There are a number of distinct dissociative disorders each given its own diagnostic code. The diagnostic codes correspond to the codes used by the World Health Organization in the international classification of diseases or ICD. In DSM-5®, each disorder is first linked to the coding system from ICD-9, with codes for ICD-10 listed in parenthesis. Hence, all of the DSM codes crosswalk to the ICD codes, including the newest iteration ICD-10. For example Dissociative Identity Disorder is assigned the code 300.14 from ICD-9 and (F44.81) from ICD-10. This is because the ICD-9 system was still in use when DSM-5® was first released. ICD-10 was released in the fall of 2015 in the United States, although it was adopted previously in other countries. However, because ICD-10 is now the standard in the United States, this program will be listing the newer codes from ICD-10 first followed by the (ICD-9 codes). Sometimes when relevant, we will also delineate the ICD-9 and ICD-10 codes when we mention a disorder from a different grouping of mental disorders. For example, major depressive disorder, single episode, mild mentioned later in the program is coded as F32.0, (296.21), part of the F30 to F39 section of ICD-10 on mood or effective disorders. Organizationally the layouts for these disorders are quite similar between DSM-5® and ICD-10. All the equivalent DSM-5® dissociative disorders are in ICD-10's F40 to F48 block on neurotic, stress-related and Somatoform Disorders. This section also includes the equivalent DSM-5® chapters of anxiety disorders, obsessive-compulsive and related disorders, and trauma and stressor-related disorders, highlighting the similarities in neurosis of these disorders. There may also be an element of psychological causation to many of the disorders within these sections. Even in DSM-5®, dissociative disorders are placed right behind trauma and stressor related disorders because of the close relationship between these groups of disorders. Dissociative disorders often occur in the wake of some sort of trauma and both acute stress disorder and posttraumatic stress disorder have elements of dissociative symptoms. Almost all of the dissociative disorders are specficially in the F44 section of ICD-10 for dissociative (conversion) disorders, characterized by "A partial or complete loss of the normal integration between memories of the past, awareness of identity, immediate sensations and control of bodily movements." This F44 section also includes dissociative stupor, trance and possession disorders, dissociative motor disorders, dissociative convulsions, and dissociative anesthesia and sensory loss. Depersonalization/derealization disorder is the exception to this, which ICD-10 codes under F48 or other neurotic disorders. ICD-10 does this because only limited aspects of personal identity are usually affected, and there is no associated loss of performance in terms of sensations, memories or movements. There is also not the same disturbances in memory as there are with the other dissociative disorders. We'll go more into these differences as we look at depersonalization/derealization disorder later in this program. 
+
+00:06:10
+DISSOCIATIVE IDENTITY DISORDER 
+
+00:06:15
+UNKNOWN That sounds very good. Wednesday at... 
+
+00:06:15
+SEAN HARRIGAN Dissociative identity disorder was previously known as multiple personality disorder. A condition dramatized to varying degrees of accuracy in movies, TV shows and books to the extent that some of these even confuse this with schizophrenia or schizotypal disorder. But while the old name does hint at some of the broader aspects of the disorder, that has since been changed to give a more accurate picture. Dissociative identity disorder isn't a growth of some new personality, as the name multiple personality disorder suggested, but rather the fragmentation of the individual's personality into two or more distinct states. Since personality describes the characteristics, behaviors, thoughts, feelings, and mood of the entire individual, an individual with dissociative identity disorder instead has multiple identities and behavior patterns that compose the whole of their personality. This points to one of the fundamental characteristics of dissociative identity disorder, that the individual has two or more personality states. This is indicated by distinct changes in the individual's perception of self, which can also include changes in mood, consciousness, preferences, and the way the individual behaves or perceives the world. 
+
+00:07:30
+Dissociative Identity Disorder 
+
+00:07:30
+F44.81 (300.14) 
+
+00:07:30
+UNKNOWN I don't know, I, I... All I remember is just coming back home, just parking the car and coming back home. I... 
+
+00:07:45
+SEAN HARRIGAN The individual will also experience gaps in memory that go beyond typical forgetfulness. These symptoms cause the patient to experience clinically significant distress. And as with all disorders, it is important to ensure that the symptoms are better explained by another mental disorder, the affects of a substance or another medical condition. The way the disruption of identity can manifest itself may vary from individual to individual. Some may find intrusions into their behavior, consciousness or sense of self. This could be voices, intrusive thoughts, emotions or actions, or changes in speech or actions. The individual may also experience changes in their sense of self, a feeling like their actions, thoughts or even their bodies are not their own. And they could additionally feel disconnected from their own perceptions, feeling a sense of depersonalization or derealization. These individuals could have up to 200 different personality states, each with their own names, preferences, and behaviors. In addition to experiencing amnesia over previous life events or in their dependable memory, which includes memory of recent occurrences or well learned skills, they may also find evidence of actions or activities that they have no memory of. Additionally, some individuals with dissociative identity disorder may have what are known as dissociative fugues, which means they travel to a different location and are unable to recall how they got there. While some patients may be aware that time has passed during any of these gaps in memory, others may not realize it until someone points it out. It is also important that the individual's culture be considered when making a diagnosis. Some cultures or religious practices may have behaviors that appear similar to dissociative identity disorder, but would not qualify for diagnoses. This also does not include developmentally appropriate occurrences in children such as pretend play. Individuals from some cultures may refer to the split in personality states as a possession experienced known as a possession form presentation. Individuals may feel as if another person or an other worldly spirit is in charge of their actions. 
+
+00:10:05
+DIFFERENTIAL DIAGNOSIS AND COMORBIDITY 
+
+00:10:10
+SEAN HARRIGAN There are numerous other disorders for the clinician to consider when making their differential diagnosis. Just some of these are bipolar disorders, major depressive disorder, posttraumatic stress disorder and factitious disorder. The mood shifts of bipolar disorders most often bipolar two can be misdiagnosed for the shifts and identity of dissociative disorders. However, the shifts and dissociative disorders are often much faster, sometimes happening within minutes or hours of one another. This is partly because these changes in mood may happen concurrently with the change in identity. The particular mood may occur with one identity state, but not others. So that as the identity shifts, so too does the mood. This can also be the case for depressive disorders. While individuals with dissociative identity disorder may have depressive symptoms, they may not meet the requirements for major depressive disorder. Other specified depressive disorder may be appropriate if the depressive symptoms occur in one or more personality states, but not others. Some individuals may fake dissociative disorder, as may be the case for an individual with factitious disorder or someone trying to avoid sentencing for a crime. These individuals may report the more well-known aspects of the disorder, such as dissociative amnesia, while neglecting to mention comorbid symptoms such as anxiety, depression or self-mutilation. There is also usually shame associated with experiencing dissociative identity disorder or as an individual who fake symptoms may almost seem to enjoy them. Someone who malingers dissociative identity disorder will often miss the subtle their characteristics of the intrusive identities creating stereotyped identities and they may pretend to have amnesia for events in ways that benefit them. As we mentioned previously, post traumatic stress disorder, PTSD, and dissociative disorders have many similarities. It is possible to experience both, but it is vital to determine if this is the case for each patient. While both disorders may have elements of amnesia, flashbacks, and intrusions, dissociative identity disorders amnesia can be about everyday events, not just traumatic ones. And their experience of sudden changes in identity states is distinct. In addition to depressive disorders and PTSD, disorders which are commonly comorbid with dissociative identity disorder are personality disorders, conversion disorder, functional neurological symptom disorder, somatic symptom disorder, eating disorders, substance-related disorders, obsessive-compulsive disorder and sleep disorders. 
+
+00:12:55
+DISSOCIATIVE AMNESIA 
+
+00:13:00
+Dissociative Amnesia 
+
+00:13:00
+F44.0 (300.12) 
+
+00:13:00
+SEAN HARRIGAN While an individual with dissociative amnesia may have elements of depersonalization, they don't have the fragmentation of identity of dissociative identity disorder. 
+
+00:13:05
+UNKNOWN You okay? Where were you? Where have you been? 
+
+00:13:10
+UNKNOWN I'm what, sorry. 
+
+00:13:10
+UNKNOWN I've been looking for you for hours. Where were you? 
+
+00:13:15
+UNKNOWN What do you mean you've been looking for me for hours? I've been... 
+
+00:13:20
+UNKNOWN Where? Where were you? 
+
+00:13:25
+SEAN HARRIGAN The fundamental characteristic instead is a failure to remember personal information beyond regular forgetfulness. Usually the forgotten information is psychologically stressful to the individual. These symptoms cause clinically significant distress and are not better explained by another disorder. The duration of the disorder can vary widely from individual-to-individual, lasting from as little as minutes to up to years. The clinician can specify if dissociative amnesia occurs with dissociative fugue, if the patient travels either deliberately or aimlessly in conjunction with gaps in memory regarding their personal life and adequate self-care. This amnesia is differentiated from dissociative identity disorder, in that it is not typically about everyday life events. And while it can be precipitated by a traumatic event, the amnesia goes for longer than the time of trauma unlike PTSD. There are five types of dissociative amnesia. The two most common are localized amnesia and selective amnesia. Localized amnesia means that the patient has no memory of any of the events that happened within a particular period of time, this is often associated with the trauma. Selective, means the patient has no memory of some of the events within a time period, but not all of them. There are three other and rarer types of dissociative amnesia. Generalized means the individual is unable to recall their life events in entirety. An individual with systemized dissociative amnesia has forgotten everything within a certain class of information such as a family member, any memories of a particular group of people or assault during childhood. Continues means the patient has no memory of anything from a certain point in time to the present. 
+
+00:15:10
+DEPERSONALIZATION DEREALIZATION DISORDER 
+
+00:15:10
+Depersonalization Derealization Disorder: F48.1 (300.6) 
+
+00:15:15
+UNKNOWN Yes sort of I've just had a really weird week. I've had a lot of umm... lot of incidences where I am feeling like I am really sort of watching my life, almost like it's... like it's a movie, like you're sort of outside of it watching it happen, but then I'm also not... I'm not feeling any of it. 
+
+00:15:35
+SEAN HARRIGAN About half of all adults will experience some moment of depersonalization or derealization in their lives and because of this it is important to the symptoms of this disorder are persistent and cause significant distress or functional impairment. Patient can experience both depersonalization and derealization and there are no distinguishing characteristics about an individual who experiences one over the other, because of this, they are grouped together in DSM-5® and ICD-10. Depersonalization is characterized by perceptions of unreality or the feeling that one is experiencing someone else's life through someone else's body in thoughts, emotions, actions, or physical senses. They can feel physically or emotionally numb. Their sense of time may feel distorted and their perceptions and senses may seem altered. It's possible the patient could have an out of body experience, where one aspect of their self watches another. For derealization, the individual experiences unreality or feel separated from their environment. They can feel in a dream like state disconnected from other objects or people and seeing them as lifeless or unreal. However, reality testing still remains intact for the individual. Because depersonalization and derealization can be an aspect of many other disorders, it's important to rule out other disorders before diagnosing depersonalization/derealization disorder. 
+
+00:17:05
+OTHER SPECIFIED DISSOCIATIVE UNSPECIFIED DISSOCIATIVE DISORDER 
+
+00:17:10
+UNKNOWN I also worked really hard to have... 
+
+00:17:10
+SEAN HARRIGAN If the patient experiences clinically significant dissociative symptoms, but doesn't meet the requirements for one of the other dissociative disorders, the clinician may diagnose one of the other specified dissociative disorders. Examples of this are, chronic and recurrence syndromes of mixed dissociative symptoms if the patient experiences less obvious fragments of self an agency or those symptoms without amnesia. Identity disturbance due to prolonged and intense coercive persuasion, if the alterations in self-identity have come about because of coercive elements such as brainwashing or thought manipulation and dissociative trance, if the individual occasionally looses awareness and it's unresponsive to external stimuli. If none of these symptoms are appropriate or if the clinician feels there isn't enough information to make a more specific diagnosis, they can indicate unspecified dissociative disorder. 
+
+00:18:10
+UNKNOWN Well, I mean, either way of speaking, yeah. 
+
+00:18:10
+UNKNOWN Maybe... Maybe there's something... 
+
+00:18:15
+SEAN HARRIGAN While some of these disorders are rare, they can cause significant distress to an individual making them feel as if their life and very sense of self is fragmented. Being familiar with the features of these disorders can allow a clinician to diagnose them, which for many patients may offer the first step in the treatment process putting them on the path to live a more cohesive balanced life. 
+
+00:18:40
+Produced by Classroom Productions, INC. 
+
+00:18:40
+Technical Advisors 
+
+00:18:40
+Dr. Tracie Collins, MD, MPH 
+
+00:18:40
+Dr. Matthew Macaluso, DO 
+
+00:18:40
+Mary Llenell Paz, MS 
+
+00:18:40
+Directed by Sean Harrigan 
+
+00:18:40
+Written by 
+
+00:18:40
+Sean Harrigan 
+
+00:18:40
+Siobhan Doherty 
+
+00:18:40
+Script Editor 
+
+00:18:40
+Pandora Suderman 
+
+00:18:40
+Production Coordinator 
+
+00:18:40
+Siobhan Doherty 
+
+00:18:40
+Field Production 
+
+00:18:40
+Amanda Buffington 
+
+00:18:40
+Hannah Huff 
+
+00:18:40
+Merlin Huff 
+
+00:18:40
+Featured Cast 
+
+00:18:40
+Anatasha Blakely 
+
+00:18:40
+Ross Crain 
+
+00:18:40
+Siobhan Doherty 
+
+00:18:40
+Brett Duggan 
+
+00:18:40
+Abbey Grace 
+
+00:18:40
+Zach Hallett 
+
+00:18:40
+Jim Harrigan 
+
+00:18:40
+Sean Harrigan 
+
+00:18:40
+Kristen Henley 
+
+00:18:40
+Hannah Huff 
+
+00:18:40
+Merlin Huff 
+
+00:18:40
+Dennis Hurley 
+
+00:18:40
+Jason Ko 
+
+00:18:40
+Matt Koenig 
+
+00:18:40
+Amy Landon 
+
+00:18:40
+Maribel Martinez 
+
+00:18:40
+Marissa Moosekian 
+
+00:18:40
+Bree Murphy 
+
+00:18:40
+Alan Ramos 
+
+00:18:40
+Diana Sanchez-Vega 
+
+00:18:40
+David Santana 
+
+00:18:40
+Jennifer Shaevitz 
+
+00:18:40
+Bette Smith 
+
+00:18:40
+Eddie Smith 
+
+00:18:40
+Lindsay Smith 
+
+00:18:40
+Miller Tai 
+
+00:18:40
+Narration 
+
+00:18:40
+Sean Harrigan 
+
+00:18:40
+Post-Production 
+
+00:18:40
+Sean Harrigan 
+
+00:18:40
+Robert Suderman 
+
+00:18:40
+Property of Classroom Productions, Inc. 
+
+00:18:40
+Copyright 2016 
+
+00:18:40
+All Rights Reserved 
+
+00:19:00
+END TRANSCRIPT 

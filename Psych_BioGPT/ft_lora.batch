@@ -1,0 +1,50 @@
+#!/bin/sh
+#SBATCH --partition=amdgpufast
+#SBATCH --time=4:00:00
+#SBATCH --gres=gpu:4
+#SBATCH --ntasks-per-node=1 # tasks per node
+#SBATCH --mem-per-gpu=40000
+#SBATCH --job-name=LoRA_FT
+#SBATCH --err=LoRA_FT.err
+#SBATCH --out=LoRA_FT.out
+#SBATCH --mail-user=kangchen@fel.cvut.cz    # where send info about job
+#SBATCH --mail-type=ALL              # what to sen  d, valid type values are NONE, BEGIN, END, FAIL, REQUEUE, ALL
+
+/bin/hostname
+srun -l /bin/hostname
+srun -l /bin/pwd
+
+ml PyTorch/2.1.0-foss-2022a-CUDA-11.7.0
+source /home/kangchen/Chatbot/Psych_BioGPT/EnvFT/bin/activate
+cd /home/kangchen/Chatbot/Psych_BioGPT/LoRA-FT/
+
+
+CUDA_VISIBLE_DEVICES=0  python mistral-ft.py \
+    --base_model_id "mistralai/Mistral-7B-v0.1"  \
+    --data_id "squad_v1"
+
+#python mistral-ft.py \
+#    --base_model_id "mistralai/Mistral-7B-v0.1"  \
+#    --data_id "squad_v2"
+#
+#python mistral-ft.py \
+#    --base_model_id "mistralai/Mistral-7B-v0.1"  \
+#    --data_id "viggo"
+#
+#python mistral-ft.py \
+#    --base_model_id "NousResearch/Llama-2-7b-chat-hf"  \
+#    --data_id "viggo"
+
+
+
+#python mistral-ft.py \
+#    --base_model_id "mistralai/Mistral-7B-v0.1"  \
+#    --data_id "squad_v2"
+#
+#python mistral-ft.py \
+#    --base_model_id "mistralai/Mistral-7B-v0.1"  \
+#    --data_id "viggo"
+
+
+
+

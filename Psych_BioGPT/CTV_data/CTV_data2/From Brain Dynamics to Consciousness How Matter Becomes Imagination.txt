@@ -1,0 +1,257 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The Evolution of Psychotherapy Gerald M. Edelman, MD, PhD Gerald M. Edelman, MD, PhD Gerald M. Edelman, MD, PhD is Director at the Neurosciences Institute in La Jolla California and Professor at The Scripps Research Institute in 1972, he received the Nobel Prize in Physiology or Medicine for his work From Brain Dynamics to Consciousness: How Matter Becomes Imagination Wednesday December 11-8:30 am Anaheim Convention Center Arena Gerald Edelman, MD, PhD FROM BRAIN DYNAMICS TO CONSCIOUSNESS: How Matter Becomes Imagination First, an Apology About Dr. Edelman • Nobel prize for his work on antibodies 40 years ago • A devoted scientist • Humanist: Scientific Monasteries: How genes are turned on and off in sleep; how music is a language from a neurobiological perspective • Studies consciousness: Robotic models: Darwin • Invented Neural Darwinism 
+
+00:00:00
+DANIEL SIEGEL It is, ah, my extraordinary honor to introduce to you Prof. Edelman. I'd been immersing myself in his literature and in his lectures and he's going to be talking about, how matter become imagination and, ah, first thing is an apology and my apology is that we only have one hour for, for Prof. Edelman because he is so interesting, erudite, his thinking is so incisive and this is the man who in 1970s won the Nobel Prize. We never had an Nobel Prize winner speaker at an Evolution conference. He's won the Nobel Prize for his understanding of antibodies and how the immune system works as a selectional system by Darwinian principles. He invented Neural Darwinism and, ah, then, uhm, went on to understand how the brain acts as a selectional system. And, ah, wonderful, ah, devoted scientist that humanist is created of scientific monastery where some of his people study how genes are turned on and off during sleep, how music is a language from a neurobiological perspective. He's-- he has created Darwins. Darwin I through X, these are, uhm, robots that simulate aspects of human consciousness so he can better understand consciousness. 
+
+00:01:15
+Preempt: Neural Darwinism: The Brain as a selectional system - Neuronal group selection -Developmental selection -Environmental selection Important concepts that you may hear about: -Reentry -Degeneracy, which is a factor in how the brain heals -Qualia -Value systems -why the brain is not a computer -Epistemology Intelligence and Mind and Brain are not singularities 
+
+00:01:20
+DANIEL SIEGEL And, ah, a preempt, uhm, just ever so slightly. He's going to be talking about neural group selection, developmental selection, environmental selection and important concepts that you're going to hear about is reentry and degeneracy, qualia, value systems, and why the brain is not a computer, the scope is to cover epistemology and, ah, we will understand that intelligence, the brain, the mind, these are not singularities. These are, ah, things that work on neu-- on Darwinian principles. So it is, ah, an extraordinary pleasure. Please join me in, ah, welcoming Prof. Gerald Edelman. 
+
+00:02:05
+The Evolution of Psychotherapy December 11-15 2013 
+
+00:02:10
+[sil.] 
+
+00:02:30
+GERALD EDELMAN Are we, are we on? 
+
+00:02:30
+ Yes. 
+
+00:02:30
+GERALD EDELMAN Indeed. 
+
+00:02:35
+ You're on your own. 
+
+00:02:35
+GERALD EDELMAN I want to thank our desired in the foundation for the high privilege of this occasion. I am not a psychotherapist. I'm not even a patient but I have followed this field and very important humane field for some time now working at its triumphs and its challenges. And so, I want to speak to one issue as Dr. Siegel has touched. Maybe the issue over the fact that you have to deal with the mind but the way it used to be as you had to deal with the philosophical principle not a scientific one. We are now at a juncture where it's possible to make that scientific and I dedicate my efforts to that. So as that customarily for, ah, an empirical scientist to discuss the mind but, it's, ah, obvious thing for both poets and for philosophers. 
+
+00:03:40
+The Mind is an Enchanting Thing is an enchanted thing like the glaze on katydid-wing subdivided by sun till the nettings are legion. Like Gieseking playing Scarlatti. DESCARTES GALILEO 
+
+00:03:40
+GERALD EDELMAN Take for example the Fragment by Marianne Moore, the great American poet. The Mind is an Enchanting Thing is an enchanted thing like the glaze on a katydid-wing subdivided by sun till the nettings of legion. Like Gieseking playing Scarlatti. Notice a little hint of an hard work. Now, the fact is that the, ah, American philosopher, the English philosopher and mathematician, Alfred North Whitehead has work science in the modern were pointed out that the mind was removed from nature at the very beginnings of Western science in the 17th century by two gentlemen. The first on your, ah, left library Galileo Galilei who might be considered the origin through modern physics who said in his piece. He has say, ah, he said, "I know without animals there'd be no worm, there would be no green but that's not my concern." Sometime later another would be physicist of mostly philosopher René Descartes came up with the curious notion that the fact is that the issue of the world was divided into two things, res extensa and res cogitans. Res extensa was applicable in physics and vice versa but res cogitans, their minds were not. And of course that would be an idea of dualism. And I must say there's been an appropriate modesty I hope that even though he was the great genius, that's wrong. So we have before as a challenge how do we deal with the mind, the mind of a patient, the mind of a therapist and the human mind in general. I want to dedicate my remarks to that issue. The mind was brought back into an issue by this adorable genius William James and also by, ah, German, ah, scientist and, ah, and that should have physiological phsychology and, ah, I have quite a time, time to figure out whether it means the same. 
+
+00:06:10
+Brain and Mind How is the brain put together? What are its fundamental operations? How can we connect psychology to biology? What are the bases of perception? How does memory work? Can we account for consciousness by analyzing brain function? 
+
+00:06:15
+GERALD EDELMAN So let's summarize who are, eh, has been and the last, ah, two decades has been in amazing, an amazing, of course, period in field of neuroscience. We now know something about how is the brain has put together. We know what its fundamental operation, ah, mainly and we can ask the question, how come we connect psychology to biology? What are the bases of perception? How does memory work? And can we account for consciousness by analyzing brain function? You know, ah, we all know what consciousness is, is what we loose when we are falling to a deep during the sleep but when we are again when we are awaken again but it is paradoxical in a way. It's unitary, it's pivot and at the same its capable of enormous numbers of variation. So, I want to go after this for you. We're going to see a lot of technical detail. We ignore that and pay attention, pay attention to their concept, ah, and when you get to the hard parts you may hum in. You see the picture of the human, ah, or a cartoon actually of the human, ah, cerebral cortex. It has 30 billion neurons and 1 million billion connections. If you have counted one connection per second you had just finish counting, just counting 32 million years later. It gives you a respect even for an idiot. Now if I cu-- if I cut through this at the plane of the board and staying where a particular kind of stay, ah, I seen you through a six layer structure where there are an extraordinary architecture and, ah, furthermore, it consist of a set of nerve cells called neurons. We're gonna come to those and, ah, it has an imaging connectivity as I've said. Now, this is a cartoon of a neuron. A neuron and I call other cells of this kind traumatic cells has, ah, another and for other DNA but it also has a tree, a dendrite tree that connects each other neurons. Here's to be through a single branch called an axons and if you go down in the middle of the circle here, you will see the connection called the synapse. Now, in fact there's-- that means there's pre-inactive neuron and a post-inactive neuron. The electrical activity of this neuron is to made down me, ah, tracts in such a way to release from particular vesicles, a neurotransmitter which governs the strength of the-- of their connection. And in fact, ah, results of the physiological experts have been remarkable for example, ah, strength of the, ah, of, of the actual situation is this. This is so called five time independent plasticity. The strength of the, ah, situation is this. There's a increase inactive neuron fires before the, of course, the inactive neuron. It become strengthened, if, if I gather it it becomes weaken and this is a remarkable achievement. 
+
+00:10:05
+A) READ, ERASE, PRINT, MOVE B) HALT C) STATE OF MACHINE 
+
+00:10:05
+GERALD EDELMAN In fact, let's deviate and say, say this and, ah, a British mathematician theory came up with a remarkable idea of their computer. And the computer is a finite state automaton which has gotten, ah, the endless tape written in binary mathematics and such a way that we can rate a one of a zero or raise in a move one step to the right or the left under control of a program and what is astonishing about what Turing did is that indeed is that he showed that you could have in a universal Turing machine and so, as you have an effective and ambiguous procedure. He has a neuron and he has a situation in which you can cover every aspect. So, why not the nervous system. Well, I know in fact to tell you that it's not a computer. The nervous system in humans are not machine in that sense and the world is not a piece of tape especially when you have time to this that's going to work here. Now, I want to say something about that and if I have to give you a metaphor to sort of realize about Dr. Siegel has said and what I'm saying now consider this Henri Rousseau, a French impressionist painter primeval forest with the setting sun. There are random elements, there are number of random structures, there are overall organization et cetera and it is not like a computer because its individual and you cannot be compared to describe by an algorithm. Now, even that without in mind, I want to take up in the situation here of this, ah, Turing machine and to this place. So let's begin by looking at neurodevelopment. At the fertilization of an egg the neural system develops a bunch of neuron cell which move and when they move to make a structure they move in the same way of, a, if I said, fire and you run out of this room and it's very certain aperture or door but if I did it twice it wouldn't be the same individual even if the number are the same. So that in enormous individuality, a new relation in the development of this, ah, structure. Furthermore, the major structures neurons die. For example, in this substantiate to that nerves throughout the nervous system. The, ah, ah, cell die up to 70% before you get the structure. I want to stop here and say that about when I was a 40 years old I, ah, I was a reductionist. I believe there were a 400 more years of, ah, science, rarely answer everything by science. I do not believe that anymore by the way is that explosive receptions? Is that a explosive noise of warning? Oh, if there any reductionist in the audience I wanna challenge them with this parable. The parable was this, in a hot, in a hot July day in New York, a young man suspected that his girl was crying over someone else. So he came home early and he look in the closet and into the bag and he said, "You fooled there's nobody." If I myself at the end of this tirade at the window where he saw a Jack losing his collar and at that point, at that point-- this is astonishing I discover something. At that point he found himself near the at window and he saw this Jack and with this source of strength he lifted up her refrigerator, smash through the window and drop it on his head where upon he drop it of hot failure. The scene switches to have and where St. Peter says, "You have to say how you die?" The first man said, "Well, I thought there is some hunky funky. She denied it but I find it so disretching(ph) and I must to have an adrenaline through the drop to his refrigerator on his head and, and then had a heart attack." The second probably said, "I couldn't answer, ah, for example, ah, for an air-condition. So I came home early. I took a drink, I stepped out on the fire escape and I was very quite losing my collar wipe and dry and this very refrigerator fell on my head and the third guy has said, 'I don't know I was just sitting in this refrigerator minding my own business.'" If you can reduce this to molecules I will pray. 
+
+00:15:30
+[sil.] 
+
+00:15:35
+GERALD EDELMAN Here's an example of why we're not dealing with machines. This is a an illusionary contour of by Gaetano Kanizsa our great Gestalt psychologist and I challenge your-- well, does everybody see this overlying triangle because it's not there in fact. It's an illusionary contour and the fact that the lines are straight is not an issue if you look in this wonderful books you will see that this-- the, the issue is true and that is wrong. So, this kind of issue is as I say contact dependent. And despite of all of this, you can trained patients for example in the middle range of this thing let's say of fish and then recognize pressures up and pressures down and they reject all of the things that are not pressures. So what are we dealing with here. 
+
+00:16:30
+The world is an unlabeled place. Brain order shows biologically significant variance. Perception is adaptive and context-sensitive. Motion is an essential element in perception. Perceptual categorization and generalization are fundamental. 
+
+00:16:30
+ Excuse me for a minute. Will you help, help me on here? 
+
+00:16:40
+GERALD EDELMAN Yes, thank you so much. I've always found visual aids as a kind of course grade intelligence test of the speaker of course. So here we are, what I've said so far is this, that the world is an unlabeled place but brain order shows biologically significant variance. That perception is adaptive and context-sensitive as in the Kanizsa figure. I haven't said this but motion is an essential element in perception and perceptual categorization and generalization are fundamental. So here we, here we go. The question is, what is the situation if a brain is not a computer and the world is not a patient tape. 
+
+00:17:30
+Nothing in Biology Makes Sense Except in the Light of Evolution Theodosius Dobshansky 
+
+00:17:30
+GERALD EDELMAN Well, I'm going to turn it all when I start Theodosius mention and mention Theodosius Dobzhansky who is my colleague of mine at the Rockefeller University and said "Nothing in biology makes sense except in the light of evolution." 
+
+00:17:50
+Darwinian Population Thinking and the Sciences of Recognition Somatic selection systems Immunity (non-cognitive) Higher nervous systems (cognitive) CHARLES DARWIN 
+
+00:17:50
+GERALD EDELMAN And so, let us turn to this extraordinary figure. Charles Darwin there's the kind of sadness in this genius when you look at the picture this age and he came up with the notion of population thinking and the sciences are very genius. He came up with the idea of natural selection and I wanna talk about that for centuries time we now know that there are somatic selection systems. The immune system I'm going to show you that however your feeling for how one of those systems works. And I believe and I contend that higher nervous systems, cognitive systems are also selection of system. 
+
+00:18:35
+Requirements met by selectional systems • Generator of diversity (GOD) • Environmental interactions (Polling) • Differential amplification (Selection) 
+
+00:18:40
+GERALD EDELMAN What do you need if you're going to have, ah, two things by selection. Well, the first thing is you need the generator of diversity, GOD. Second of all you need an environment interactions. You have to have for example in evolution a kind of ecology which an individual is challenge by the violent for whether its fit or not, whether it's not fit. You need and above all, for those individuals who are more fit on the average a differential amplification in the case of natural selection is differentially production the progeny of those sort of selected survive and those who are not die. Now, how does the somatic system work? I think I wanna give you that picture because I think when you see that picture you'll understand a little more but I will apply it to the nervous system. So here is the fra-- a fragment of my life. Uhm, this is a picture-- an x-ray picture essentially of the antibody molecule and there kind of central molecule of immunity and if you look at the ends, ah, of that molecule there's a region in the part of the end that in fact is constantly changing because the DNA inside the cell is mutating and each cell has only one kind of antibody. Ah, it's called the hypervariable region. That's like getting to all of the tail that I wa-- I think it's the simple example to see how selection of my work. Oh, by the way, a very great scientist Linus Pauling try to explain this situation and for recognition of foreign molecules, viruses, bacteria, even chemicals by an instruction of system. So that like a coping color. So, when, the molecule folds it would fold around the things that's going to recognize that goes away in the next time I would see, that is wrong. Ah, I have the privilege of contending with Linus Pauling and when I did for the first event of this kind of course, and I work this distinction or size I was invited to San Francisco to discuss my work. When I opened up the, ah, program I saw that Pauling was gonna talk first. So I called a friend in Stanford University and says, "Let's have le-- let's have dinner with Pauling." I, ah, hurray that he came with his wife. We had dinner with this friend of mine and Pauling and his wife and tried to explain that his theory couldn't be right. He ignored it all, he talked about nuclear war and you remind yourself that he got a peace prize for his work on-- for a piece and I gave up. The next day, the next day, he gave his lecture and he showed a picture that he published in 1941 and said, "This is one of the polypeptide change of the antibody." And I said, "My god, he understood everything." When I got back in my seat there was a note that said, "Gentlemen, send the reference. Pauling." 
+
+00:22:05
+CLONAL SELECTION Lymphocyte Repertoire Clonal Cell Division 
+
+00:22:10
+GERALD EDELMAN Every cell that makes of this kind the lympocytes who have carry antibodies is just makes one kind of antibody and when a foreign molecule comes in if it gets the antibody reasonably well up to 70% it was then multiply by clonal selection which is in a sexual form, ah, producing new amounts of cell and that's the whole idea of selection. It didn't even look at what is out there. When I die, I will be dying with, ah, antibody molecules and they were-- knew they were antibodies and in fact, this is an amazing concept that when you make a repertoire of an enormous number in this case by the way 10 to the 11 different kinds of antibodies and in the moment and some them are really fit. 
+
+00:23:00
+Neuronal Group Selection Stage 1 - Creation of repertoires of circuits during embryogenesis by epigenetic variation and selection Stage 2 - Selection among diverse pre-existing circuits by differential amplification of synaptic strengths 
+
+00:23:05
+GERALD EDELMAN So, uhm, since we're telling stories and since we're now exploding within system here. I want to say something about, ah, a theory that I developed and I'm missing the up bringing the theory, ah, and this obviously deal with the kids doing in those days sit on the floor and write. And so, I wrote up this theory, the theory of neuronal group selection. It said, ah, the selection of system and you create a repertoires of their kind that I sure within neuroembryology wants to make a whole bunch of different kinds of circuit. Ah, overlying this is selection emotions pre-existing circuits by changing the synapses that I've talk to about good. 
+
+00:23:55
+GERALD EDELMAN So here it is that are rather primitive permanent diagram there will be in the first case in developmental selection millions and millions of these concept connective circuit. And then, overlying this would be a set upon in, ah, colored here that show the strength and, and that's in terms of the experience you know, development and experience who they turn a repertoire in the nervous system. Now, I'm going to leave the discussion, ah, to the next day out but the next thing says rather this is regard left to have repertoire that to have something that's organized and what we are tended to call, ah, machine system and that is call reentry and I'm going to discuss to that later so bear with me. 
+
+00:24:40
+Value systems • diffusely release neuromodulators: dopamine, acetylcholine, norepinephrine etc • globally affect activity, plasticity, excitability • different combinations have different effects 
+
+00:24:45
+GERALD EDELMAN As the same time of course, you have to have some basic situation and then that that's given in the nervous system by value system instead of having neurotransmitters inside the person active in the person and active neuron. You have the release of compounds for neuromodulators like dopamine, acetylcholine, norepinephrine, reward systems and punishment system that are globally effect the activity and that extra cited this that secreted in the whole environment of the, of the nervous system. 
+
+00:25:15
+Group 1 Group 2 Group 3 Group 4 Group 5 Extrinsic Inputs 
+
+00:25:20
+GERALD EDELMAN Now, what selected-- what selected are groups of neuron? Now, the reason is the two different kinds of neuron excitatory and inhibitory and they mix as shown in this diagram. And so, it is a combination of neurons with a little microcircuit that, ah, in selection in union. And here are some evidence that in fact this is the case. This is a period of a experiment by Wolf Singer of the Maximilian Institute in Germany, where he penetrated the brain of her cat with an electrode and, and pick up this up, ah, up and down movement of the electrical activity of that as he move above in the field upstairs like that sort of a ray. When he took this whole thing and he, ah, analyze it over the computer-- by the way the computers are bad model but it's a wonderful tool. Ah, when he, ah, applied current compensation analysis to this he found that there were neurons all around the towards to the bridge and that exactly is spike of the original neuron and extended that, that is a neuron root. Another remarkable experiments done by Michael Merzenich at the University of California in which he work of he-- called the conceptual field mainly he would stimulate and then, now the mark here and try to smooth cerebral cortex and stimulate the fingers and the palm while it is recorded into electrode and where it no longer response move it over and they would get a map as you seen in this figure, ah. Now, that map would have palm, ah, as you move fingers and you say one, two, three, four and the black things with the hair inside and, you know, he trained the monkey and, you know, it's very hard to tap then what would happen is those neurons protect neurons next to-- from the face and pull those end and those pulls away and you could not explain that except in terms of neuronal group selection. So we have this theory and we have this incredible complexity and here for example as in the early example by, ah, same memorable scientist Turing, ah, an anatomical analysis of the visual system. So we have in five different areas and when we know this connection and notice it looks like a computer diagram is that this not really because in this part of this lines there are millions of different axons going back and forth in this the figurative field and, and this is for every individual. So the question is here. 
+
+00:28:20
+Human cortical regions (modalities) 
+
+00:28:25
+GERALD EDELMAN What is that all mean? Well, what it mean it means is this. With regard to cortex you see there has different modalities in the back of the brain for usually you have-- you accepted the cortex which coming first and for provisions then you have the auditory cortex and try when you come out to pre-frontal cortex is by the way what you deal with largely when you're treating your patient. So the question is how do you connect those up? 
+
+00:28:55
+The Binding Problem How does the brain bind together the responses of several functionally segregated areas to one or more objects? FEATURE DETECTOR (needed for individual aspects of exemplars) Reentry FEATURE CORRELATOR (yielding mainly aspects of classes) MAP 1 MAP 2 
+
+00:28:55
+GERALD EDELMAN This is infamous problem which known as the binding problem. How does the brain bind together then responses of several function in segregated areas to one or more objects? And the answer I have approach is this, reentry the thing because from their repertoire regularity and that is you must imagine a axon of fibers to be in a bond of like this and some of them are going from this neuron to that neuron and then that neuron turns back on to the original neuron all over the brain, that is the reentering system for example in this case, a feature detector of that has reentering connections back and forth further within an hour ahead, ah, to a feature correlator on the governs of motions let's say, ah, back and forth, back and forth connection you have to these areas. Right now, and so I'm speaking, reenters going on all over my brain connecting up these areas and he has of, ah, the areas that are connected to a different function. 
+
+00:30:00
+white matter anatomy obtained by means of diffusion tensor imaging (DTI) 
+
+00:30:05
+GERALD EDELMAN And here for example as it triumph of modern neuroscience and physics white matter anatomy is now able to be look up by means of diffusion tensor imaging and here are some reentered pictures of one of my colleagues brain that show this reenter kind of connectivity so imagine the numbers that are involve to that start that I have telling you before I wish I did down by in adequate, ah, microphone again. 
+
+00:30:35
+MODELING INTEGRATION IN THE VISUAL SYSTEM The Neurosciences Institute PERCEPTUAL GROUPING AND FIGURE-GROUND SEGREGATION STIMULUS: FIGURE AND COHERENT BACKGROUND Behaving Real-World Device • NOMAD (Neurally Organized Mobile Adaptive Device) - Senses • gripper that measures conductivity or "taste" • CCD camera for visual input • microphone for auditory input • IR supports to prevent collisions - Actuators • pan and tilt of CCD camera • wheels to permit rotational and translational movement • gripper grasps and picks up objects 
+
+00:30:35
+GERALD EDELMAN Now, we do a lot of modeling in this such complex situation and here is the model that were develop for on brain. Oh, I see. How does it all get together? What I told you so far is the theories says it your have repertoires of enormous numbers in the different kinds of neuroconnections and then you have a selection by reentry is causes part of your brain to the next stop, but how does it over that and then work kind of surgery inside there? Well even today we can't get into that so what we did if the neuroscience think it's what you say. Let's take what they call a robot and instead of using out of his from intelligence as this putting a model of the brain, ah, selection of brain. So we did that in this device called Darwin VII and we named it after of course a great man and here we have it and we have installed anything that to actually, carrying though this way. For this is, uhm, this is an intact Darwin VII. This clean condition the alarm and sound explore its environment and what we see up here is a picture of his retina and right on the top, ah, its brain and then the bottom in this orange the, the value existing which life to look at stripes then occur from the scissor stripe closes this now but here when he sees a blood that ignores that. So what we did is a show that you learn enough a lot about neurosurgery of human being. Ah, in fact, if a, ah, now I have a to ask a question. How do we go to the next? 
+
+00:32:40
+MODELING INTEGRATION IN THE VISUAL SYSTEM The Neurosciences Institute PERCEPTUAL GROUPING AND FIGURE-GROUND SEGREGATION STIMULUS: FIGURE AND COHERENT BACKGROUND RESPONSES 
+
+00:32:40
+GERALD EDELMAN How do we go the next page five? Okay, so here we go. We patiently modeling integration. We made a model and we have reinstalled principle of figure around stimulus which is here and we really said, not much very dynamic system does and this is right into this computer model which has reentry. When it goes though you will see it at, ah, tenfold reduced speed the responses of this part of the stimulating nervous system. Watch what happens as a result of reentry, neurons becomes synchronize as a group. You notice? And so, it just around in your background when you of that if you take away the reentry simply it does an hard work. Okay. Now, how do we use to you seeing this? 
+
+00:33:45
+RoboCup US Open 2005 Carnegie Mellon University vs The Neurosciences Institute "BrainWorks B Scores!" 
+
+00:33:50
+GERALD EDELMAN Okay. So we were challenge by the United States calling that to play a robot soccer and to play Carnegie Mellon's robot and round of the, ah, the scientist with ours. So here we go. 
+
+00:34:15
+[sil.] 
+
+00:34:20
+GERALD EDELMAN Okay. This by one is us. Okay and it has a brain. The black one is them. And you recognizes it the same color by its human so being to able shoot a ball and collect the ball and do all of that and just watch what happens as it shoots for our goal. Oh by the way the rule is, ah, this afternoon with this microphone don't come any closer in three feet because your away 200 times and we have no neurosurgeons available. 
+
+00:34:55
+[sil.] 
+
+00:35:00
+GERALD EDELMAN So looking at-- looking out of teammate here, one of our colleagues and, and, ah, I look at it as it change the ball and shoots the ball, okay. And then it will go through, you'd see as the ball by looking at the goal which is the reddish pink. I'll kick you in the back. Here we go. Looks around. His eyes other than an, an, an attractive for a tricks for the goal. There we are. 
+
+00:35:40
+RoboCup US Open 2005 Carnegie Mellon University vs The Neurosciences Institute "BrainWorks B Scores!" Degeneracy: The ability of elements that are structurally different to perform the same function or yield the same output 
+
+00:35:50
+GERALD EDELMAN Now, here's an important principle of social selection of system for the degeneracy and as you know, ah, it starts with the, ah, DNA code. Uhm, the DNA code is degenerate. This is the two or so that is of the trepid code, the third position doesn't matter which basic for that but that's were of all biological systems all around up to speech, ah, that is to say you have elements which can be structurally different but through the same today. So, that's an important issue. As an example of it if I look at the computer memory it is a replicated memory. There's an address label as an ave-- an average for me to ask to look at a particular circuit but if I have just one digit, one bit wrong all the thing crashes. It has to be either way with the narrow code or whatever it is replicated. However, when we look it on by brain base devices like Darwin VII in what you just saw, we see, in fact, that it's not all true. If you look for example on your left for the same particular act, the second time I do it inside the neurocircuit. These are completely different react change yet it does the same thing and that's important because if you miss something in that repertoire you have another one which you need fix down. Now, let's, ah, see if we can go one step further here. 
+
+00:37:45
+Kinds of Memory Replicative INSTRUCTION SYNTACTIC RELIABILITY = ACCURACY NON-CREATIVE Non-Replicative SELECTION SEMANTIC RELIABILITY = ACHIEVING GOAL CREATIV 
+
+00:37:45
+GERALD EDELMAN Yes, so here we are with kinds of memory. Ah, replicative memory works by instructions, it is syntactic, its reliability is in its accuracy and basically speaking inspired what they said by playing chess it really doesn't play chess or plays the history of chess. Human beings do that and it is non-creative. Whereas in our case in the non-replicative sense. It works by selection, it is semantic meaning is given by the value systems and reliability is not a questioning stage of feedback or correction in that kind to see achievement of a goal and it is by as nature created. Oh, by the way, since we are in that mode if you have never created is, ah, the modeled area is Beethoven's landlady. She's says, "Beethoven, get out of my house. Your cat drinks my milk. You throw your laundry in the stairwell and you pound on the piano all night. And he says, "Mrs. Smith, don't do this to me. You're my inspiration." And she says, "Ha ha ha ha!" 
+
+00:39:00
+Jamesian Properties of Consciousness Consciousness is a form of awareness, is a process (not a thing), is individual or personal, is continuous but changing, and has intentionality (but does not exhaust all aspects of things with which it deals). 
+
+00:39:10
+GERALD EDELMAN So now we are at a time. The Jamesian properties of consciousness. Consciousness is a form of awareness. It is a process not a thing. That's a very important point. Don't treat it like a thing. It's individual, ah, or personal and of course, philosophers love that because there's no way around that and I can't tell what's in your brain exactly et cetera, et cetera. And it is continuous for changing all the time and it has what's called intentionality, that is to say usually refers to things of what-- of everything. They can also have the mood which is not a reference but above all it doesn't exhaust all of the thing that take place in an attention. So we wanna look at that in terms of what we're talking about and so, let me see what we can do. Ah, so here it is a picture of the structure called the thalamus. Ah, these are course diagram is false because in connection can the thalamus in the below and the cortex above by string of stripes-- of axon, is that correct? There are millions of them back and forth, back and forth and they are reentering connections which are essential. There are about 30 different roots of neurons in each thalamus, okay, and that processes everything excepts smells and in fact, it, ah, is there. Ah, these are a non-specific nucleus. So, the first set of nuclei as specific, ah, namely vision and hearing and touching, they are all-- each has its own nucleus but there's also non-specific nuclei and so that I've had shown here, they are intralaminar nucleus. If you have a stroke in an intralaminar nucleus, you are not conscious ever. So, consistent those defend upon that and we are now beginning to be able to actually look at consciousness not as a philosophical idea but as a neuroscientific entity. 
+
+00:41:40
+Forms of Consciousness • Primary consciousness - Experience of a unitary scene in a period of at most seconds (the remembered present). No consciousness of consciousness. • Higher-order consciousness - Consciousness of consciousness. Past and future narratives occur (sematics and, in some cases, syntax). Report is possible. Requires primary consciousness. 
+
+00:41:40
+GERALD EDELMAN So here we are with the distinction, ah, I think is terribly important from, from, ah, what we are talking about. Say for example, primary consciousness is the experience of the unitary stage in the period of at most seconds which I called the remember present. There is no possible consciousness of being conscious in that place yet that's the fundamental of neuro about the neuro and evolutionary result. But in the human case, there are the only species that have a two language that is a language that has syntax as well as, ah, semantic and, ah, certain primate species which has syntax but not semantic. So, excuse me, let's talk over, uhm, semantics but not syntax. In the case of syntax there can make sentences that can long forever. So that's higher-oder conscious-- consciousness. Consciousness of being conscious. Past and future narratives occur and you know all about this juncture. Report is possible and it requires primary consciousness at the same time. So how do we get at this thing? 
+
+00:43:00
+SELF Brain Stems Hypothalamus Automatic Cortex Correlation in Hippocampus Amygdala, Septum Special Value Category Memory in Frontal, Temporal, Parietal Cortex NONSELF Primary and Secondary Cortex for Sight, Hearing, Touch, Etc. PRIMARY CONSCIOUSNESS 
+
+00:43:05
+GERALD EDELMAN Well, this takes me back if you're at that point. I think to me at a certain point of evolution probably interacts with reptiles, a neurosurgery was developed by natural selection, Darwinian natural selection which connected at those parts of the brain that there were perception to those installed with memory, ah, and back and forth by reentry and we saw as that's picture and that later on we invented language and there in life being extraordinary challenge. So, the question is can we really look at this. Well, I think we can provide better encephalography and what I'd like to do is show you that because show you that because I think surg-- one of the things we can do to relate what I showed to you in the modeling is right actually connection here being tested in the experiment. 
+
+00:44:00
+Dewar Liquid Helium SQUID Detention Cell Magnetic Fields Isofield Contours To Electronics 
+
+00:44:05
+GERALD EDELMAN Ma-- magnetoencephalography works by, ah, device of a superconducting interference device or SQIUD and liquid helium temperatures and what it does is measure and respond to the magnetism in their and to accomplish the electric right to relieve the brain and its non-invasive and what happens is in no particular case we have 48 of these electrodes sitting there in this person, a hairdresser, what I say. 
+
+00:44:45
+[sil.] 
+
+00:44:50
+GERALD EDELMAN And this is a, this is the thing the experimental test. Take red vertical stripes and at the same time your blue horizontal stripes. Now your eyes, your two eyes can have, ah, fusion after a certain point but when thing are this or farther than, ah, right angles that's thing were on a positive. So what you get is binocular rivalry. First you see red, then you see blue, then you red then you see blue and with this additives we have and with this oddity see if we can exploit this. 
+
+00:45:30
+Binocular Rivalry Stimulus: Left eye Right eye Percept: Time Response: 
+
+00:45:30
+GERALD EDELMAN So here is binocular rivalry and stimulus is going into the brain both of them at the same time. The individual in it, ah, particular room that avoids picking up breath air station from Tokyo, ah, since then he has a percept or she has a percepts which is red stripes, blue perhaps, ah, vertical, horizontal and we ask them to record that while they experience shifted consciousness and quite tragic. 
+
+00:46:05
+Binocular rivalry: Frequency tagging Left eye Right eye 12-7 30 Hz Time (sec) 
+
+00:46:05
+GERALD EDELMAN So, there's only one problem how do you relate in which frequency you see to which particular, ah, entity blue or red and now we don't tell the subject to, to record anything that we do a little change. We change the intensity in that course of, ah, particular cognitive spike and we therefore can say this part of the brain reacting to the blue in this part of the red. Let me do that experiment. And frequency tagging of this kind. We look at seven different individuals and we see if you look on the right on this tag of strength. We see that every single one of them is different. They do what they call fourier analysis to all this waves, okay, and you see that every single individual has its own pattern but that's not so really interesting and, and follow me. You can do something called coherence. You look at the question of synchrony and guess what, here we have the blues-- blue lines then I real-- we do that to show neurons have connect to each other and strengthen the synapse where you can have conscious. Notice ah, there's just like what we show before with reentry. So we are now at the stage where a consciousness is becoming something different than it was before and it's not a philosophical issue anymore. It's, it's mainly now a question of whether the neuroscience can do something about it. 
+
+00:47:50
+The Dynamic Core Hypothesis A group of neurons can contribute directly to conscious experience only if it is part of a distributed functional cluster which, through reentrant interactions in the thalamocortical system, achieves high integration in hundreds of milliseconds. 
+
+00:47:50
+GERALD EDELMAN And here I have, ah,-- ah, ah, it's extremely important to say that the thalamocortical system is the key. So the idea here is the dynamic core hypothesis mainly the-- a group of neuron can contribute to conscious experience only if it is part of a distributed functional cluster which, through reentrant interactions in the thalamocortical system, okay, arrives in high integration in hundreds of milliseconds. 
+
+00:48:25
+WORLD C 1°C PHENOMENAL TRANSFORM C° CAUSAL CHAINS World signals Dynamic core Self signals BRAIN AND BODY ACTION 
+
+00:48:30
+GERALD EDELMAN So here is the kind of diagram (inaudible ) for it. Symbols come from the world, symbols ah, in partner also a it comes from the self to this dynamic core and the action of the individual of the emotion individual changes in this sample but the, the complexity of what I cannot see because this light is in my eyes are really complex in situation done within the remaining (inaudible ). At the same time, each one of you has what's called the qualia like worm, like green, like red. Now philosophers love that because you can't really analyze it yet if ever but in fact it is the form of discrimination green is not worm, worm is not sticky, sticky is not blue et cetera and, ah, when you put it all together you get a spectra of conscious states. 
+
+00:49:30
+Conscious States Are entailed by reentry among neuronal groups in the dynamic core Evolution of the dynamic core provided vastly increased numbers of sensorimotor discriminations helpful in planning and survival Qualia are just those discriminations entailed by selection among different core states Darwinian natural selection gave rise to a system of neuronal group selection within individual lifetimes (Neural Darwinism), providing grounds for the emergence of consciousness 
+
+00:49:30
+GERALD EDELMAN Conscious states are entailed by reentry among neuronal groups in the dynamic core. Evolution of the cores provided vastly increased numbers of sensorimotor discriminations helpful in planning and survival that's the Darwinian evolutionary selection which is where consciousness appeared in the first place. Qualia are just those discriminations which were entailed by selection among different core states. In Darwinian natural selection gave rise to a system of neuronal group selection within individual lifetimes Neural Darwinism providing grounds for the emergence of consciousness. It still very active cases where we can go into human brains and, and place that were talk you operated it on because of the saying, you have to have seen or whatever but that's really what uhm, scientist specify. 
+
+00:50:30
+Some implications for psychotherapy • Meaning is not fully reducible to formal measures of information • Natural language is ambiguous, yielding associative richness reflected in higher order consciousness • Neuroscience must avoid scientism and excessive reductionism • Psychotherapy must in turn pay heed by providing a means of connecting neuroscientific to conscious and unconscious experience 
+
+00:50:35
+GERALD EDELMAN And a lot of the modesty, I hope this is say something about what it mean for psychotherapy. I think the first thing I understand is that meaning in not fully reducible to a formal measure of information. Now, information theory is very, very important and its being applied everywhere but it real-- not a kind for the feelings of your patient. Some of the content 0r would be a content for the very information but not be a meaning. There is narrow formal reduction of bringing in its full sense and we never be. It's important to note that in your case natural language is being, ah, exercise but natural language is ambiguous and yield to associative richness which is reflected in higher order consciousness. It's important that is-- it's important that its ambiguous because I believe that early brains work by metaphor and metaphor involves taking things that don't work at all like et cetera and putting them together to creative mode of our memory. Neuroscience itself must avoid scientism and excessive reductionism. Scientism in biology is a, is a term invented by Friedrich Hayek the great economist, a friend of mine were invented the notion by-- to say this, and so they, they try to imitate science or scientist that applicable. Psychotherapy must in turn however really throughout by providing a means of connecting neuroscientific discovery to conscious and unconscious experience. That's what I have to say as my message. I believe that the evolution of psychotherapy is a turning point. That turning point is this, the, ah, instead of having to your apologize sort of (inaudible ) in that scientific develop the science of neuroscience in terms of neuro field without giving out your field prepares together and then what I think is the challenge that's extremely important for the psychotherapy how in turn it turnout is one of the great challenges to a noble discipline and what you do have in fact, in your efforts is nobility, humanity and a very important exercise of your time and connection to every human beings. So let me say that I've had this whole lecture and dependent of mechanical defects. I've re-- I've had this whole lecture with the idea of, ah, one of the fewer poet and this one is another one I believe their concept. 
+
+00:53:45
+The Brain - is wider than the Sky - For - put them side by side - The one the other will contain With ease - and you - beside - The Brain is deeper than the sea - For - hold them - Blue to Blue - The one the other will absorb - As sponges - Buckets - do - The Brain is just weight of God - For - Heft them - Pound for Pound - And they will differ - if they do - As Syllable from Sound - Emily Dickinson, c. 1862 
+
+00:53:45
+GERALD EDELMAN 1862, before the before the revolution they gave rise, ah, not in neuroscience. So let me read what it said. The brain is wider than the sky For put them side by side The one the other will contain With ease and you beside The brain is deeper than the sea For hold them Blue to Blue The one the other will absorb As spongers buckets do The brain is just the weight of God For heft them pound for pound And they will differ if they do As syllable from sound. Matter has become imagination. Thank you. 
+
+00:54:40
+The Evolution of Psychotherapy December 11-15 2013 
+
+00:54:40
+END TRANSCRIPT 

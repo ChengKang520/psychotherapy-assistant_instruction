@@ -1,0 +1,305 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:00
+DSM-5® AND ICD-10 
+
+00:00:05
+OBSESSIVE-COMPULSIVE DISORDERS 
+
+00:00:10
+SEAN HARRIGAN An obsession is defined as a persistent disturbing preoccupation with an often unreasonable idea or feeling. A compulsion is a strong, usually irresistible impulse to perform an act, especially one that is irrational or contrary to one's will, which can often be in response to an obsession or guided by a rigid set of rules. Inherent in both of these definitions is the idea that those who experience obsessions and compulsions may find their lives disrupted and controlled by thoughts or behaviors that are entirely unwelcome. This can be the case for those who experience obsessive compulsive and related disorders. A grouping of disorders co-defied and defined in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders or DSM-5. While the disorders in this grouping may present with a variety of symptoms, the core symptom set is obsessive thoughts. In some but not all cases, patients will have repetitive or compulsive behaviors associated with the obsessive thoughts. The disorders contained in this grouping can present with varying degrees of severity, ranging from mild impairment to incapacitation. Some patients may even have a profound degree of functional impairment that limits their ability to participate in usual activities, potentially affecting every aspect of their lives. 
+
+00:01:45
+DSM-5® AND ICD-10 CODING 
+
+00:01:50
+SEAN HARRIGAN The obsessive compulsive disorders grouping contains a number of distinct disorders, each given its own diagnostic code. The diagnostic codes respond to the codes used by the World Health Organization in the International Classification of Diseases or ICD. In DSM-5, each disorder is first linked to the coding system from ICD-9, with the codes for ICD-10 listed in parentheses. Hence, all of the DSM codes crosswalk to the ICD codes, including this newest iteration, ICD-10. For instance, obsessive compulsive disorder is assigned the code 300.3 in ICD-9, and F42.0 in ICD-10, listed in parentheses. This is because the ICD-9 system was still in use in the United States when DSM-5 was first released. ICD-10 was adopted in the US in the fall of 2015. However, because ICD-10 was implemented in 2015, this program will be listing the newer code from the ICD-10 first, followed by the ICD-9 codes in parentheses. Sometimes when relevant, we will also delineate the ICD-9 and 10 codes, when we mention the disorder from another grouping of disorders. For example, major depressive disorder, single episode, mild, a condition mentioned later in this program is coded F32.0 (296.21), part of the grouping of depressive disorders. Major depressive disorder is also part of the F30-F39 section of ICD-10 on mood (affective) disorders. Organizationally, there are a few differences between layouts of DSM-5 and ICD-10. ICD-10 classifies most of the DSM-5 obsessive-compulsive and related disorders as part of the neurotic, stress-related and somatoform disorders, which is the F40-F48 block of ICD-10. The same section of ICD-10 also includes the equivalent DSM-5 chapters on anxiety disorders, trauma-and stressor-related disorders, and somatic symptom and related disorders. The ICD-10 grouping of a large number of disorders into one section, it may seem like a minor organizational difference, but helps to illustrate the underlying similarities between these disorders, which can present co-morbidly. Further, in the previous version of DSM, DSM-IV-TR, obsessive-compulsive disorder, post-traumatic disorder, and acute stress disorder were even included as part of the anxiety disorders class. Another difference is that ICD-10 places trichotillomania (hair-pulling) disorder into the F60-F69 section on disorders of adult personality. Excoriation (skin-picking) disorder, on the other hand, is placed into the L00-L99 block, on diseases of skin and subcutaneous tissue. Though DSM-5 organizes these conditions based on the compulsive nature that underlies each of them, it is useful to note their prominent features as indicated by this organizational difference. We will explore this in more detail later in the program. The ICD-10 puts what they call mental and behavioral disorders due to psychoactive substance abuse in the F10 block. And organic-including symptomatic mental disorders in F00-F09, specifically F06, or other mental disorders due to brain damage and dysfunction and to physical disease. In this case, the code is F06.8, for other specified mental disorders due to brain damage and dysfunction and to physical disease. 
+
+00:05:55
+OBSESSIVE-COMPULSIVE DISORDER 
+
+00:06:00
+SEAN HARRIGAN The flagship disorder in this section is obsessive-compulsive disorder, which is characterized by the presence of obsessions, compulsions, or both. While the majority of patients will experience both obsessions and compulsions, only one of the two is required for a diagnosis. Some writers in the literature have referred to obsessions in the absence of compulsion as the pure O form of OCD. In addition to the previous definition of an obsession, where individuals experience ideas, feelings, or urges that are unpleasant and unwanted, another feature of an obsession is an effort to rid oneself of the thoughts by using another thought or action, also known as a compulsion. This can cause or worsen anxiety for most individuals. In some cases, these compulsions are intended to reduce or eliminate anxiety. In others, they are thought to stop a feared event from occurring. For example, an individual may have an obsession about contamination with germs and may seek to remedy this by repeatedly washing their hands, which is a ritualistic-compulsive behavior. In either case, the compulsion does not relieve the anxiety, but instead, worsens it over time, contributing to a vicious cycle or loop that is difficult for some patients to break. And it is important to note that the acts won't realistically alter the situation or event. These symptoms can take up at least one hour per day of the patient's time or alternatively cause considerable functional difficulties. 
+
+00:07:40
+OBSESSIVE-COMPULSIVE DISORDER 
+
+00:07:40
+SPECIFIERS 
+
+00:07:45
+SEAN HARRIGAN The clinician can add course specifiers to the diagnostic code for obsessive-compulsive disorder, which are used to indicate the presence of other associated characteristics of the patient's disorder. 
+
+00:07:55
+JIM HARRIGAN No, no, I… You know, I've… I mean, I've been dealing with this for a long time. 
+
+00:08:00
+UNKNOWN Sure. 
+
+00:08:05
+JIM HARRIGAN And uh… obviously, this, this is a bit of a problem. Not locking your doors isn't a problem. You know, washing your hands isn't a problem. I, I… I know I'm probably a little over, over the top of this. 
+
+00:08:20
+SEAN HARRIGAN The patient may or may not believe that these obsessional thoughts are true. If the patient realizes the thoughts aren't or likely aren't true, the clinician can indicate that the patient is experiencing obsessive-compulsive disorder with good or fair insight. Using our previous example of an individual who excessively washes their hands, if the individual realizes they aren't actually contaminated, and that the hand washing is unnecessary, they could have good or fair insight. However, if the patient thinks that these beliefs are probably true, for example, if the hand-washing individual believes that they probably are contaminated, they can be said to have poor insight. Alternatively, if the patient is convinced that these beliefs are definitely true, or in this case, if the patient believes that they are contaminated and the only way to become clean is to wash their hands, then the clinician should specify that the patient is with absent insight or delusional beliefs. Tics are commonly associated with OCD. In fact, as many as 30 percent of individuals with obsessive-compulsive disorder, will also experience a Tic disorder in their lifetime. If the individual is experiencing Tics or has a history of them, the clinician can specify tic-related. 
+
+00:09:45
+OBSESSIVE-COMPULSIVE DISORDER 
+
+00:09:45
+OTHER FEATURES 
+
+00:09:50
+SEAN HARRIGAN According to some studies, completed suicide occurs in OCD at a higher rate than that seen in major depression. 
+
+00:09:55
+JIM HARRIGAN I'm just sick of dealing with it. I mean, I… you know, I'm done, I'm done, I'm done, I'm tired. I'm done. 
+
+00:10:05
+SEAN HARRIGAN One study reported that up to 20 percent of individuals with OCD have attempted suicide. Suicidality associated with OCD is more prevalent when a patient has co-morbid major depression. Switching gears to genetics, there is a greater risk of OCD in first degree relatives of patients with the same disorder. Epidemiologic studies have reported a greater prevalence of OCD in higher socioeconomic classes and among individuals of high intelligence. 
+
+00:10:40
+OBSESSIVE-COMPULSIVE DISORDER 
+
+00:10:40
+DIFFERENTIAL DIAGNOSIS 
+
+00:10:45
+SEAN HARRIGAN As with all psychiatric disorders, it is important to consider a broad differential diagnosis when approaching individual patients, which involves exploring other disorders that could better explain the symptoms the patient is experiencing. Disorders classified as anxiety disorders in DSM-5 can easily be confused with OCD, because there is a similar level of worry in both classes of disorders. But where the worries of a condition like generalized anxiety disorder are usually about everyday issues, those of OCD are typically more fantastical or irrational. Social anxiety disorder, on the other hand, involves fear of situations where the patient might embarrass themselves, which is contrasted to the intrusive obsessional thoughts and ritualistic compulsive behaviors associated with OCD. The worried thoughts of major depressive disorder are similarly repetitive, but tend to follow the individual's mood, and aren't typically distressing, like those of OCD. Further, ruminations associated with major depression occur only in the context of depression. The movements in tic disorder, characterized by motor and/or vocal tics and stereotyped movements, which are purposeless, repetitive motions, can both be mistaken for the compulsions associated with obsessive-compulsive disorder, especially if they are complex tics or movements. One big difference is that these tics or stereo-typed movements are usually preceded by sensory impulses. Whereas, obsessions often come before compulsions arise. However, if the features for both OCD and tic- disorder present concurrently, then it may be appropriate to make both diagnoses. As always, it is important to determine the symptoms in question are not due to a substance use or another medical or psychiatric condition. There are other disorders that are characterized by obsessive thoughts or compulsive behaviors. These include paraphilic disorders, gambling disorder, and substance-related, and addictive disorders. These disorders differ from OCD in terms of the nature of the compulsions and the quality of the associated distress. For example, some patients with substance use disorders may not be distressed by their use. Along these lines, there are similarities and differences between OCD and the other obsessive compulsive and related disorders. For example, the obsessive or compulsive symptoms associated with the other disorders in the class are usually focused on one domain of symptomatology, such as hair-pulling, skin-picking or body image. 
+
+00:13:35
+BODY DYSMORPHIC DISORDER 
+
+00:13:40
+SEAN HARRIGAN A fixation with body image may be indicative of body dysmorphic disorder. This disorder involves obsessions with physical flaws in one's appearance that seem either negligible to others or go by unnoticed. Similar to OCD, body dysmorphic disorder is associated with repetitive behaviors or mental acts, although, these are associated with concerns about physical appearance. The individual may continuously examine parts of their body, or other such compulsive acts. They may seek reassurance from others, which may only offer temporary relief. Some may compare their appearance to that of others. These symptoms are significant enough to cause distress in daily life. 
+
+00:14:25
+BODY DYSMORPHIC DISORDER 
+
+00:14:25
+SPECIFIERS 
+
+00:14:30
+SEAN HARRIGAN Similar to with OCD, clinicians can specify the patient's degree of insight incases of body dysmorphic disorder. Some individuals, usually males, can be preoccupied that they are not lean or muscular enough. If this is the case, the clinician can specify a diagnosis of body dysmorphia with muscle dysmorphia. This specifier can also be used when patients are concerned about other parts of their bodies. Some individuals can have muscle dysmorphia, when they have an average body or even are physically fit. This can lead to dieting, excessive weight training, and even taking steroids or abusing other substances. 
+
+00:15:15
+BODY DYSMORPHIC DISORDER 
+
+00:15:15
+DIFFERENTIAL DIAGNOSIS 
+
+00:15:20
+SEAN HARRIGAN Included in the differential diagnosis for body dysmorphic disorder are feeding and eating disorders, which can be distinguished from body dysmorphic disorder on the basis of concern about being overweight. It is possible for an individual to have both an eating disorder and body dysmorphic disorder. Body dysmorphic disorder should also be differentiated from appropriate concerns about appearance that do not cause functional impairment. Repetitive and time-consuming behaviors can differentiate body dysmorphic disorder from appropriate behaviors that do not reach the level of a disorder or disease or cause functional impairment. Also, someone with a noticeable physical defect may not meet all the characteristics for body dysmorphic disorder. 
+
+00:16:10
+HOARDING DISORDER 
+
+00:16:15
+SEAN HARRIGAN Individuals with hoarding disorder have a considerable difficulty getting rid of material items on an ongoing basis, to the extent that the prospect of parting with them, causes significant distress. 
+
+00:16:25
+JIM HARRIGAN Hey. 
+
+00:16:25
+SEAN HARRIGAN Hey. 
+
+00:16:30
+JIM HARRIGAN I just struck gold here. I was just got back from (inaudible ), one of those, what they call it, the garage sales. Have a seat. I want to show you what I got, man. I got some very, very cool stuff here. 
+
+00:16:40
+SEAN HARRIGAN Because of this, the individuals living space is usually cluttered and congested, making it increasingly difficult to function in some or all areas of the household. This can extend beyond just storage areas into places like the living room, kitchen, and bathroom, making it difficult to use these areas as intended. Often, the only way these spaces become clear is with the assistance of another person, such as a family member, caretakers, cleaners, or authority figures. The hoarding can spread to other areas, such as vehicles, the workplace, or even friends and families homes. That can make hoarding disorder distressing to the patient and those around them. In some cases, family members or children maybe so embarrassed that they do not invite other people to the patient's home. Many patients with a hoarding disorder also display excessive acquisition, which leads to buying objects, acquiring free items, or less commonly, stealing items. In all cases the items aren't needed or there isn't space for them. This can be indicated by using the specifier with excessive acquisition. 
+
+00:18:00
+TRICHOTILLOMANIA (HAIR-PULLING DISORDER) 
+
+00:18:05
+SEAN HARRIGAN Hair-pulling is the predominant compulsion in the obsessive-compulsive related disorder trichotillomania. While DSM-5 places this disorder in the section on obsessive-compulsive and related disorders. It is worth noting that ICD-10 codes trichotillomania with the F63 code, indicating a habit and impulse disorder. These are characterized by repeated acts that have no clear rational motivation and that generally harm the individual's own interests and those of other people. The organizational difference between DSM-5 and ICD-10 indicates both, the compulsive and self destructive elements of trichotillomania. The hair-pulling is often done in private or only among close family members, because some individuals feel shame about the act and prefer to do it in private. They also try to stop the hair-pulling. While hair-pulling can be preceded by boredom, it can also be brought on by anxiety that does not remit until the individual pulls their hair. The hair-pulling can lead to a false feeling of relief or gratification once the act has been completed. The feeling of tension and release can be similar to excoriation, skin-picking disorder, another disorder in the class of obsessive-compulsive and related disorders. 
+
+00:19:25
+EXCORIATION (SKIN-PICKING DISORDER) 
+
+00:19:30
+SEAN HARRIGAN While trichotillomania involves pulling the hair, excoriation entails picking at the skin. Most individuals with excoriation spend at least one hour per day picking, thinking about picking, or resisting the impulse to pick. This behavior can lead to scarring and infection, to the extent that it can be life-threatening or cause serious injury. Just as with trichotillomania, the individual with excoriation disorder will continually try to decrease or stop the behavior. 
+
+00:20:05
+OTHER OBSESSIVE-COMPULSIVE AND RELATED DISORDERS 
+
+00:20:10
+SEAN HARRIGAN Well, we won't cover them in detail, there are two other disorders listed in the obsessive-compulsive and related disorders class. These are substance/medication induced obsessive-compulsive and related disorder and obsessive-compulsive and related disorder due to another medical condition. OCD and related symptoms can be caused by substances such as coding, cocaine, ecstasy, and methamphetamine. They can also be associated with other medical disorders, such as sydenham's chorea. In these cases, there is both a patho-physiologic and chronologic relationship between the obsessive-compulsive symptoms and the medical condition or substance in question. There are many modes and methodologies of treatment that can help patients suffering from obsessive-compulsive and related disorders. But the first step in recovery is helping the patient identify their disorder. Giving the patient greater awareness of their disorder can help them recognize the patterns of their thoughts and behavior, and may give them greater control over their symptoms. Patients may even find comfort in knowing that they aren't alone in their disorder, but that it's one shared by others. Regardless, just making the diagnosis can put the patient on the path to recovery. 
+
+00:21:35
+Produced by 
+
+00:21:35
+Classroom Productions, INC. 
+
+00:21:35
+Technical Advisors 
+
+00:21:35
+Dr. Tracie Collins, MD, MPH 
+
+00:21:35
+Dr. Mathew Macaluso, DO 
+
+00:21:35
+Mary Llenell Paz, MS 
+
+00:21:35
+Directed by 
+
+00:21:35
+Sean Harrigan 
+
+00:21:35
+Written by 
+
+00:21:35
+Sean Harrigan 
+
+00:21:35
+Siobhan Doherty 
+
+00:21:35
+Script Editor 
+
+00:21:35
+Pandora Suderman 
+
+00:21:35
+Production Coordinator 
+
+00:21:35
+Siobhan Doherty 
+
+00:21:35
+Field Production 
+
+00:21:35
+Amanda Buffington 
+
+00:21:35
+Hannah Huff 
+
+00:21:35
+Merlin Huff 
+
+00:21:35
+Featured Cast 
+
+00:21:35
+Anatasha Blakely 
+
+00:21:35
+Ross Crain 
+
+00:21:35
+Siobhan Doherty 
+
+00:21:35
+Brett Duggan 
+
+00:21:35
+Abbey Grace 
+
+00:21:35
+Zach Hallett 
+
+00:21:35
+Jim Harrigan 
+
+00:21:35
+Sean Harrigan 
+
+00:21:35
+Kristen Henley 
+
+00:21:35
+Hannah Huff 
+
+00:21:35
+Merlin Huff 
+
+00:21:35
+Dennis Hurley 
+
+00:21:35
+Jason Ko 
+
+00:21:35
+Matt Koenig 
+
+00:21:35
+Amy Landon 
+
+00:21:35
+Maribel Martinez 
+
+00:21:35
+Marissa Moosekian 
+
+00:21:35
+Bree Murphy 
+
+00:21:35
+Alan Ramos 
+
+00:21:35
+Diana Sanchez-Vega 
+
+00:21:35
+David Santana 
+
+00:21:35
+Jennifer Shaevitz 
+
+00:21:35
+Bette Smith 
+
+00:21:35
+Eddie Smith 
+
+00:21:35
+Lindsay Smith 
+
+00:21:35
+Miller Tai 
+
+00:21:35
+Narration 
+
+00:21:35
+Sean Harrigan 
+
+00:21:35
+Post-Production 
+
+00:21:35
+Sean Harrigan 
+
+00:21:35
+Robert Suderman 
+
+00:21:35
+Property of 
+
+00:21:35
+Classroom Productions, Inc. 
+
+00:21:35
+Copyright 2016 
+
+00:21:35
+All Rights Reserved 
+
+00:21:55
+END TRANSCRIPTION 

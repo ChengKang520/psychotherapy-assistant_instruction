@@ -1,0 +1,938 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The materials contained on this DVD are protected by United States and International copyright laws. Your rights to use them are governed by terms of this license agreement. 
+
+00:00:00
+You may not reproduce or distribute any material from this disk nor may you include any material from this disk in any product to be offered for sale. Any such uses are subject to approval, fees and a supplemental written license signed by John Wiley & Sons. 
+
+00:00:00
+THE MATERIAL ON THIS DISK IS PROVIDED “AS IS.” NEITHER THE AUTHORS OF THE MATERIAL NOR JOHN WILEY & SONS, INC. MAKE ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, REGARDING EITHER THE FUNCTIONALITY OR THE CONTENTS. NEITHER THE AUTHORS NOR JOHN WILEY & SONS, INC. ASSUME ANY RESPONSIBILITY FOR ERRORS OR OMISSIONS, OR DAMAGES. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, JOHN WILEY & SONS, INC. DISCLAIMS ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+00:00:00
+To contact Wiley directly, 
+
+00:00:00
+call (877) 762-2974, fax to (800) 597-3299, or visit our website at www.wiley.com. 
+
+00:00:30
+ANNOUNCER The following is a presentation of John Wiley and Sons. It’s part of an informative series about empirically informed treatment planning. This program focuses on generalized anxiety disorder. 
+
+00:00:45
+Timothy J. Bruce Ph.D 
+
+00:00:45
+Arthur E. Jongsma, Jr. Ph.D. 
+
+00:00:45
+ARTHUR JONGSMA Hello and welcome. I’m Arthur Jongsma. And joining me is my colleague Dr. Tim Bruce. Today, we’re going to discuss evidence-based treatment planning for Generalized Anxiety Disorder or GAD. 
+
+00:01:00
+TIMOTHY BRUCE This program is broken into a number of modules. In it, we’ll describe the DSM criteria for GAD, discuss the essential elements of the treatment planning process. provides a brief history of the movement to identify empirically supported treatments or ESTs. We’ll then show how to empirically inform a treatment plan with findings from the EST literature on GAD. Spend some time discussing common considerations in relapse prevention and present an example of an evidence-based treatment plan. 
+
+00:01:30
+ARTHUR JONGSMA Before we get started, one thing it should be noted. The purpose of this program is to demonstrate how a treatment plan for GAD can be empirically informed. We will incorporate goals, objectives, and treatment interventions consistent with those who identified ESTs and with evidence-based practice guidelines. You’ll also see brief scenarios that demonstrate aspects of the EST interventions described. 
+
+00:02:00
+TIMOTHY BRUCE It’s important to note that these scenarios are selected examples of the ESTs and don’t represent delivery of any one of them in their entirety. Our program is designed to be educational in nature and is not intended to be a substitute for clinical training in the interventions discussed. For those interested in learning more about any of these therapies, references to their empirical support, clinical resources, and training opportunities can be found in the Companion Workbook. Let’s begin by looking at the DSM criteria. GAD is characterized by excessive anxiety and worry, occurring more days than not, for a period of at least six months and about a number of events or activities. 
+
+00:02:40
+ARTHUR JONGSMA Adults with GAD often worry about everyday things such as, daily responsibilities, health of family members, safety of children, finances, job security, and relationship issues. Children with the disorder tend to worry about the quality or competence of their actions at home and in school. The focus of the worry in GAD may shift from one concern to another. Although the particular content of a worry may not be that different from those without GAD, its frequency, intensity, or duration is far out of proportion to the actual likelihood or impact of the feared event. 
+
+00:03:20
+TIMOTHY BRUCE Although individuals with GAD may not believe that all their worries are excessive. They do find them difficult to control. The worry in GAD is accompanied by at least three additional symptoms reflecting increased arousal. These include restlessness, being easily fatigued, difficulty concentrating, irritability, muscle tension, or sleep disturbances such as difficulty falling or staying asleep or restless unsatisfying sleep. 
+
+00:03:50
+ARTHUR JONGSMA In diagnosing GAD, it’s important to rule out that the worry does not represent the feature of another psychiatric disorder. Worry that is confined to features of another mental disorder is not considered GAD, but rather a feature of those syndromes. 
+
+00:04:05
+TIMOTHY BRUCE As with all mental disorders, the anxiety, worry, or physical symptoms of GAD must cause clinically significant distress or functional impairment such as in social occupational or other areas of functioning. In GAD this functional impairment may result from avoidance of situations in which a negative outcome could occur. There may be excessive time and effort spent preparing for situations in which a negative outcome could occur. Procrastination and repeatedly seeking reassurance due to worries are also commonly seen in GAD. And again as with all mental disorders, it should be ruled out first that the GAD symptoms are not due to the direct physiological effects of a substance, for example a stimulant or general medical conditions such as hypothyroidism. 
+
+00:04:55
+ARTHUR JONGSMA GAD is a common anxiety disorder. In any one year, approximately 2% of the population meets the criteria for this disorder. 5% to 8% of those presenting to primary care settings meet these criteria as well. Two-thirds of those with GAD are women. 
+
+00:05:15
+TIMOTHY BRUCE There are six essential steps in developing a psychotherapy treatment plan. Each is customized to the individual client’s unique presentation. These steps are, identify the client’s primary and secondary problems, described behavioral definitions of the problem. That is each problem’s behavioral, cognitive, emotional, physiological, and interpersonal expression or symptom manifestations. Make a diagnosis based on DSM or ICD criteria. Specify the long-term goals of the treatment. Create short-term objectives for the client and select therapeutic interventions. 
+
+00:06:00
+ARTHUR JONGSMA A client might talk about a variety of issues during the assessment. But as a first step in creating a treatment plan, the clinician must determine the most significant problem or problems. This is often done by assessing which are the most related to current distress disability or both. Usually a primary problem will surface and secondary problems may also be evident. Some other issues may have to be set aside as not urgent enough to require treatment at this time. An effective treatment plan can only deal with a few identified problems or treatment will lose its direction. 
+
+00:06:40
+TIMOTHY BRUCE Clients may express the same general problem in different ways. The manner in which they think, feel, behave, or interact will be to some degree unique to them in their situation. So each problem that is selected for treatment requires a specific definition of how it’s evidenced in your particular client. Therefore as a second step in the treatment planning process, the behavioral definition to the problem are specified. These features may very well correspond to diagnostic criteria such as those found in the DSM or ICD, which should be kept in mind as behavioral definitions are formulated. 
+
+00:07:15
+ARTHUR JONGSMA The third step in treatment planning, the determination of an appropriate diagnosis is based on an evaluation of the clients complete clinical presentation. The clinician must compare the behavioral, cognitive, emotional, and interpersonal features causing distress or disability to the DSM or ICD criteria. Note that not all therapists use psychiatric diagnoses per se in formulating their treatment plans, but instead prefer to focus on changes in the identified problem behavior, cognition, emotions and the like. Having said that, most third party payers require a diagnosis and most ESTs are based on research that uses diagnostic criteria to define problems. So it is usually necessary to make a diagnosis. 
+
+00:08:10
+TIMOTHY BRUCE Step four in developing a treatment plan is to set long-term goals for the resolution of the client’s primary and secondary problems. These goals statements need not be crafted in measurable terms but can be broader and indicated desired general positive outcome to the treatment process. One or more goal statements can be developed. 
+
+00:08:30
+ARTHUR JONGSMA Writing short-term objectives for the client to achieve is step five in developing a treatment plan. In contrast to long-term goals, objectives should be stated in behaviorally measurable or observable terms. Clearly stated objectives are helpful to both the therapist and client in assessing progress. They are also important to quality assurance review agencies, HMOs, and managed care organizations and assessing whether and when the client is making progress. The objective should be designed with this requirement for accountability in mind. 
+
+00:09:10
+TIMOTHY BRUCE Interventions are the action of the clinician within the therapeutic alliance designed to help the client accomplish the treatment objectives, selecting the appropriate therapist interventions at the sixth and final step in treatment planning. There should be at least one intervention planned for every client objective. If the client does not accomplish the objective after the initial interventions have been implemented, new interventions or reassessment of the problem should be considered in the plan. 
+
+00:09:40
+ARTHUR JONGSMA From what we have just described, it may sound like this is a pretty cut and dried process that you just simply repeat it with every client. But that’s really not the case. One important aspect of effective treatment planning is that each plan should be tailored to the individual client’s unique problems, strengths and needs. Treatment plans should not be boilerplate even if clients have similar problems. The individual strengths and weaknesses, unique stressors, cultural and social network, family circumstances, and symptom patterns must be considered in developing a treatment strategy. Clinicians should rely on their own good clinical judgment and select interventions that are appropriate for the individual client. It can conceivably be argued that the movement toward evidence-based psychological treatment planning began hundreds of years ago when the scientific method was first applied to the study of psychology. But, the specific task of identifying empirically supported psychological treatments began in the early 1990s in Great Britain and then in the United States. 
+
+00:10:55
+TIMOTHY BRUCE On the forefront of the movement in the United States, was Division 12 of the American Psychological Association, the Society of Clinical Psychology. In 1993, Division 12 organized a task force Chaired by Dr. Diane and charged it with reviewing the psychotherapy outcome literature to identify psychological treatments whose efficacy have been demonstrated to clinical research. 
+
+00:11:20
+ARTHUR JONGSMA The group established criteria for judging the quantity and quality of the research supporting a particular treatment and categorize treatments meeting these criteria as well-established or probably efficacious. Both sets of criteria require replicated demonstrations of efficacy through high-quality trials or case series. The well-established category requires independent replication as well as other features, the details of which can be found in the workbook. 
+
+00:11:50
+TIMOTHY BRUCE By 1996, the group had identified a preliminary list of 25 ESTs meeting their criteria. By 1998, the list had grown to 71 ESTs. In 1999 Division 12 took over full ownership of maintaining the growing list. The current list and information about the treatments can be found on its website. 
+
+00:12:15
+ARTHUR JONGSMA Since the work of this original group, other reviewers using the same or similar criteria have initiated or updated literature reviews. Their conclusions relate to a variety of populations, problems and interventions. On your screen are a few recent examples. You can find more of them in the Companion Workbook. 
+
+00:12:35
+TIMOTHY BRUCE Descriptions of the treatments identified through many of the reviews as well as references to their empirical support, clinical resources, and training opportunities can be found at therapyadvisor.com. This resource was developed by personal improvement computer systems with funding from the National Institute of Mental Health and in consultation with members of the original Division 12 task groups. 
+
+00:13:00
+ARTHUR JONGSMA As we mentioned Great Britain was on the forefront of these efforts to identify ESTs. The latest products of their work can be found at the website for the National Institute for Health and Clinical Excellence or NICE. The website includes practical and specific guidelines for the treatment of various medical and mental health problems. 
+
+00:13:20
+TIMOTHY BRUCE The Substance Abuse and Mental Health Services Administration or SAMHSA also has an initiative to evaluate identify and provide information on evidence-based mental health practices. Their summaries entitled the National Registry of Evidence-Based Programs and Practices or NREPP. 
+
+00:13:40
+ARTHUR JONGSMA The Agency for Healthcare Research and Quality has established guidelines and criteria for identifying evidence-based practices and provides links to evidence-based clinical practice guidelines for various medical and mental health problems. Their work is summarized on their website. 
+
+00:14:00
+TIMOTHY BRUCE Lastly, The Cochrane Collaboration is an international network of professionals who conduct systematic reviews of research in healthcare. Among their products are critical reviews of psychological treatment interventions and specific intervention questions. 
+
+00:14:20
+ARTHUR JONGSMA In this series we draw from all these sources in our discussion of how clinicians can create evidence-based treatment plans. 
+
+00:14:25
+TIMOTHY BRUCE There have been several independent reviews of the psychotherapy outcome literature for the treatment of GAD that have identified either empirically supported treatments or support evidence-based practice guidelines. Examples include APA’s Division 12, Barlow, Allen and Basden in Nathan and Gorman series, “A Guide to Treatments that Work.” Barkovec, for therapy advisor. Hunot colleagues for the Cochrane Collaboration and NICE in Great Britain among others. These reviews have been uniformed in concluding that treatments based on cognitive behavioral principles or the treatment of choice for GAD. 
+
+00:15:05
+ARTHUR JONGSMA APAs Division 12 has judged CBT as the only treatment for GAD that has met the criteria for well-established treatment. 
+
+00:15:15
+TIMOTHY BRUCE Borkovec notes that numerous controlled trials have shown CBT to be superior to no treatment. In 83% of comparisons, CBT has been superior to non-specific or alternative therapies of post-treatment and at follow-up assessment in 70% of comparisons. This review also noted that CBT has shown a relatively low average dropout rate of approximately 8%, and clinical gains produced by it have been maintained out to two-year follow-ups. 
+
+00:15:45
+ARTHUR JONGSMA CBT has also been recommended as the preferred form of psychotherapy for GAD by the International Consensus Group on Depression and Anxiety. And NICE in Great Britain cites it and applied relaxation therapy as first-line treatment options for GAD. Let’s take a brief look at what CBT for GAD involves. So, Tim, CBT as it’s been done in the treatment studies for GAD may have multiple components or just one or two, right? 
+
+00:16:20
+TIMOTHY BRUCE Yeah, that’s true. I mean, I use of the term CBT for GAD refers to a number of different techniques, some of which have been used successfully by themselves or in combination with each other. 
+
+00:16:30
+ARTHUR JONGSMA As with all CBT there is initial and ongoing psychoeducation. What is this usually emphasized? 
+
+00:16:40
+TIMOTHY BRUCE Well, emphasis of psychoeducation include things like helping the client understand the features of GAD, such as the excessive worry that defines this disorder, as well as the features of like physiological over arousal such as tension for example. There’s an emphasis on teaching the CBT conceptualization of how thoughts, feelings and behaviors interact to distress or disable, as well as the rationale for treating it through CBT interventions. 
+
+00:17:10
+ARTHUR JONGSMA What other types of interventions have been used within a CBT approach to GAD? 
+
+00:17:15
+TIMOTHY BRUCE Well, other interventions include training and relaxation skills through for example, progressive muscle relaxation or applied relaxation training. Cognitive therapy typically consistent with Beck’s approach has been used. Stimulus control techniques that try to limit worry to a specific time and place have been used in some models and controlled exposure to thoughts and situations that are feared and avoided. That’s been conducted as well when those features exist. In some applications pleasurable activity, scheduling which has been used successfully with depression has also been employed. 
+
+00:17:50
+ARTHUR JONGSMA The psychotherapy outcome literature for GAD is evolving with differences in findings over the years. Various CBT approaches have clearly shown themselves to be better than no treatment. Earlier studies suggested that for example, these directive therapies were not necessarily better than non-directive therapy. 
+
+00:18:10
+TIMOTHY BRUCE That’s true in a few early studies both direct cognitive behavioral and more non-directive therapies were superior to weightless controls but not different from each other. Part of this was thought to be due to the fact that in early studies, although patients improved, the level of improvement was more modest than we see in a lot of today’s versions of these treatments. 
+
+00:18:35
+ARTHUR JONGSMA Part of that also may have been due to the way we conceptualize GAD then. I mean, it’s only been more recently that the worry component of this disorder has been better recognized and targeted in treatment. 
+
+00:18:50
+TIMOTHY BRUCE Yeah, that’s true. Those points have been made in this literature. It’s clear that many newer CBT treatments are addressing this worried dimension of GAD more specifically. Some current cognitive interventions for example are more precise in the biases that they target based on what psychopathology research has been revealing about those biases in GAD. 
+
+00:19:10
+ARTHUR JONGSMA That’s interesting because there are also studies that have looked at cognitive therapy interventions versus non-directive or alternative therapies and found that a preferential effect for the cognitive therapy exists. Tell us about those studies, Tim. 
+
+00:19:30
+TIMOTHY BRUCE Sure. There was a two group comparison that had both groups doing progressive muscle relaxation. One was paired with non-directive therapy, the other with cognitive therapy. The relaxation with cognitive therapy group outperformed the other on nearly all outcome measures. 
+
+00:19:45
+ARTHUR JONGSMA Another study found cognitive therapy better than analytic therapy. 
+
+00:19:50
+TIMOTHY BRUCE Yeah, that’s true. That comparison looked at brief and conventional liked versions of both therapies. All Therapy showed gains but cognitive therapy was significantly more effective than the, in the analytic approach. 
+
+00:20:05
+ARTHUR JONGSMA But what about when CBT components have been compared to each other, like when cognitive therapy has been compared to relaxation based therapy such as applied relaxation? Results have not been clear and consistent. 
+
+00:20:20
+TIMOTHY BRUCE No, they haven’t been. That’s true. For example in one study both perform well and better than non-directive therapy. But the percentage of patients showing high quality improvement was greater in the cognitive therapy group. In another study however, those showed equal improvement with the applied relaxation group appearing to show it more quickly. 
+
+00:20:40
+ARTHUR JONGSMA That’s interesting because the NICE guidelines recommend either CBT or applied relaxation as first-line interventions. 
+
+00:20:50
+TIMOTHY BRUCE Right, you know, both have shown efficacy and neither has demonstrated it consistently over the other. 
+
+00:20:55
+ARTHUR JONGSMA Not being superior to of one over the other. That could be construed as good. No, that’s therapists have more choice. 
+
+00:21:00
+TIMOTHY BRUCE Sure. Yeah, that’s true. 
+
+00:21:05
+ARTHUR JONGSMA But a lot of CBT therapists report using more multi-component versions of CBT. How has this approach fared in outcome studies? 
+
+00:21:15
+TIMOTHY BRUCE Well, there was an interesting study that looked at a multi-component therapy that was behavioral in nature, involving progressive muscle relaxation, graduated exposure to feared situations, and pleasurable activity scheduling but no cognitive therapy. So that therapy was compared to CBT that included cognitive therapy with the behavioral assignments at typically uses. Both were also compared to a wait-list or no treatment control. And the results were that the BT and the CBT, the behavioral therapy and the cognitive behavioral therapy were better than the wait-list, but the CBT showed a broader spectrum effect including superior performance on measures of anxiety, depression, and cognition related to GAD. 
+
+00:22:00
+ARTHUR JONGSMA Suggesting that cognitive interventions may be an important contributor to the treatment of GAD. But results haven’t always been consistent, correct? 
+
+00:22:10
+TIMOTHY BRUCE True. Another study took an initial look at the question of multi components in a more additive way. That is cognitive therapy, applied relaxation and both combined were compared. Results showed no additive benefit of the combination therapy over the single modality treatments. 
+
+00:22:25
+ARTHUR JONGSMA I assume counter to expectations. 
+
+00:22:30
+TIMOTHY BRUCE Yeah, I think most thought the combination would show some additive benefit but some authors have suggested that you may be getting the same change through different pathways such that cognitive changes may occur through relaxation based therapies just as decreases in physiological over arousal may accompany changes made through cognitive interventions. 
+
+00:22:50
+ARTHUR JONGSMA So what are the reviewers concluding from this complexity of findings, Tim? 
+
+00:22:55
+TIMOTHY BRUCE Well, most experts in this area note that CBT is that combine at least relaxation and cognitive therapy interventions have performed well in clinical trials. So it’s supported to consider first-line use of these therapies. Others have noted that the best available evidence suggests a flexible approach that involves these two interventions as well as others tailored to the individual client’s particular presentation. For example, adding exposure if the client fears and avoids worrisome situations or behavioral activation if depressive features are evident. 
+
+00:23:30
+ARTHUR JONGSMA My experience has been that most practicing CBT therapist lean in favor of this more comprehensive approach erring on the side of using a variety of techniques rather than relying on just one favorite approach. Why don’t we summarize by describing what a more comprehensive CBT for GAD might look like? 
+
+00:23:50
+TIMOTHY BRUCE CBT for GAD typically begins by asking the client to self-monitor they’re interconnected worrisome thoughts, feelings and behaviors. Clients are asked to become objective recorders of this moment-to-moment anxious process. This information is used in the therapy for example to help the client learn about the process, how it maintains the GAD and how treatment is designed to change it as well as to track change in the anxious process throughout therapy. 
+
+00:24:20
+ARTHUR JONGSMA GAD is often characterized by increased sympathetic nervous system activity leading to muscle tension and other signs of physiological over arousal. Consequently, training and relaxation has long been a staple of CBT, to allow for flexibility of use and because clients may vary in which types of relaxation techniques they find effective. They may be taught several methods such as slowed paced diaphragmatic breathing, progressive muscle relaxation, meditation, and pleasant imagery. As we’ve mentioned previously, therapists may also elect to use applied relaxation. Applied relaxation is a specific therapy in which the client progressively learns how to relax rapidly and then uses this response as soon as worry or anxiety is detected. They are often taught to use the skill before, during, and after any anticipated stressful events. A concurrent goal of applied relaxation is to help the client develop a more relaxed lifestyle by frequently introducing the relaxed state throughout the day. Clients typically practice relaxation skills in session and through homework exercises and then apply them to the context of their lives. 
+
+00:25:45
+TIMOTHY BRUCE Cognitive theory holds that the anxiety and worry in GAD stands from biased maladaptive ways of perceiving and interpreting the world. In GAD over-interpreting and over-predicting threatened future events is prominent. Standard cognitive therapy techniques are used for addressing these biases. They include learning the connection among thoughts, feelings, and actions. Identifying relevant, automatic thoughts, images, and their underlying beliefs. Challenging the biases by first treating them as hypotheses rather than his facts and then subjecting them to logical and empirical analysis. Developing alternative perspectives for which there’s evidence and ultimately testing bias and alternative beliefs through behavioral experiments. 
+
+00:26:35
+ARTHUR JONGSMA Although having fear and avoidance of specific anxiety provoking situations is not as characteristic of GAD as it is other anxiety disorders. Some clients with GAD do fear and avoid certain situations. When this is evident, systematic graduated exposure, imaginal, live or both, is typically used. A common method of exposure used for GAD is to have the clients do homework exercises in which they intentionally approach in vivo feared or worry provoking situations while using their newly acquired cognitive and relaxation coping strategies. In imaginal exposures of this nature, clients may be asked to frequently rehearse more adaptive coping while imagining challenging scenes. This would eventually be practiced in the context of their real lives until it is part of a new consolidated and adaptive approach. 
+
+00:27:35
+TIMOTHY BRUCE Stimulus control strategies may also be used in the treatment of GAD. The rationale for their use is that worry in GAD occurs in many environmental contexts and therefore is under poor stimulus control. Although GAD clients may find it difficult to simply stop worrying. They may be able to develop the skill to postpone it and bring it under better stimulus control. The technique involves establishing a worry time in place, in which the client can address daily worries specifically. They learn to identify worries as soon as they begin and then postpone them to the worry time. They use appropriate cognitive coping strategies such as self-talk designed to delay engagement in the worry and a redirect attentional focus to the task at hand. They repeat this process each time a worry is detected. Once the worry time is reached, they address the worries using techniques acquired to therapy such as problem-solving. 
+
+00:28:35
+ARTHUR JONGSMA Lastly, some CBT approaches employ behavioral activation in which clients identify positive, pleasant, and/or self-worth building activities that they engage in on a daily basis. Such activities serve at least two useful purposes. They help clients create new experiences that help them change perspective positively, while also generating positive effect that helps counter the negative thoughts and feelings that commonly accompany GAD. 
+
+00:29:05
+TIMOTHY BRUCE Interventions in a more comprehensive CBT approach to treating GAD are often integrated such that for example applied relaxation is integrated into behavioral activation. And those activities are then used as an arena for testing worrisome predictions against alternatives. 
+
+00:29:25
+ARTHUR JONGSMA After determining that generalized anxiety disorder is the primary presenting problem, we then add to the treatment plan those behavioral manifestations of GAD that define the client’s expression of the disorder. Although there are commonalities in the presentation of GAD, the treatment plan is tailored to each client’s particular expression of it. 
+
+00:29:50
+TIMOTHY BRUCE Here’s a list of behavioral definitions commonly used for GAD. Note the focus on excessive anxiety and worry that defined the disorder. And on various manifestations of over arousal such as feeling on edge, having difficulty concentrating and feeling generally irritable. 
+
+00:30:10
+ARTHUR JONGSMA The next step in treatment planning is to determine long-term goals. Of course, there may be other goals that you want to develop and add to this list as well. 
+
+00:30:20
+TIMOTHY BRUCE We now direct our attention to client objectives and therapist interventions consistent with research supported treatments for GAD. While common to all forms of therapy, the assessment phase of GAD treatment typically involved obtaining a detailed history, including the impact of the GAD on social, occupational and interpersonal functioning. Psychological tests or objective measures may be used to supplement the clinical interview and/or track treatment response. A medical evaluation may be warranted to rule out medical or substance related etiologies. Of course a medication consultation may be warranted. Should the client decide upon exploring this option? 
+
+00:31:05
+ARTHUR JONGSMA Empirically supported treatments for GAD emphasize initial and ongoing psychoeducation. In addition to helping facilitate a client’s progress in therapy, the process and content of psychoeducation is used to reassure, instill hope, motivate and otherwise enhance the therapeutic relationship. Common emphases include conveying a conceptualization of GAD consistent with the treatment model, describing the treatment approach and its rationale and enhancing engagement of the client in treatment. Examples of objectives and interventions consistent with psychoeducation may look like these. Reading material may also be assigned to supplement psychoeducation done within the session. 
+
+00:31:55
+TIMOTHY BRUCE Having briefly reviewed assessment and psychoeducation objectives and interventions. Let’s move now to integrating objectives and interventions consistent with the principles of CBT for GAD. As we’ve noted, relaxation training is a staple of the CBT approach to GAD and can be captured in an objective such as this one. Treatment interventions for relaxation training should capture the type of relaxation training that will be taught including homework assignments related to practicing the relaxation skill. Is always reading assignments may be made to supplement interventions initiated in session. 
+
+00:32:35
+ARTHUR JONGSMA In this vignette we join a therapist and client as they transition from one form of relaxation exercise to another. The vignette also introduces the concept of cue controlled relaxation in which a relaxing word or phrase is paired with the relaxed state. Let’s take a look. 
+
+00:33:00
+ Okay over the last number of sessions, Jan, we’ve been focusing on learning the deep muscle, deep breathing relaxation technique. We started with you systematically tensing and then relaxing small groups of muscles throughout your body, until you are completely and deeply relaxed. Then regroup muscles together and asks you to tense and relax these larger groups such as both of your hands, arms, and shoulders at one time. This is intended to make the relaxation techniques shorter, while still being effective. Then we did the release only technique leaving the tension phase out. This two reduces the time it takes to relax. Has he done that? 
+
+00:33:40
+JAN Yeah, I was able to relax more quickly when using the release only approach. 
+
+00:33:45
+DAVE Perfect. Today, we’re going to take this relaxation skill. You’re learning a step further. We’re going to first have you relax using the release only technique. When you get completely relaxed, I’ll ask you to pair the relaxed state with the cue words that you chose, be calm. While you are relaxed, I will ask you to take a deep breath. As you exhale, I want you to say the words “Be calm” and release tension as you are saying them. Do you follow me? 
+
+00:34:10
+JAN I think so. After I’m relaxed I take a deep breath and say the words be calm to myself as I exhale, right? 
+
+00:34:20
+DAVE Exactly. Then you will breathe normally, scan your body for tension. Then again take a deep breath, exhale, and say be calm. Then we’re just going to repeat that awhile. I’ll guide you through the procedure just like we’ve done before. Any questions? 
+
+00:34:35
+JAN No, I’m ready. 
+
+00:34:35
+DAVE Okay. Why don’t you lay back, close your eyes and stretch out in the chair allowing your entire body to be supported and comfortable. Now take a slow deep breath and then exhale slowly, releasing tension as you breathe out. Next, please focus on the first muscle group of both hands, both arms, and shoulders. Take a deep breath. Now exhale and release tension. Feel the heaviness as the tension leaves. Relax those muscles and feel the blood rush in and provide warmth. Notice how it feels to be warm and relaxed while you breathe deeply and smoothly. That’s great, Jan. Now that we’ve gone through all the muscle groups, please write your relaxation for me on a scale of 1 to 10, with 10 being the deepest possible relaxed state. 
+
+00:35:40
+JAN I’m about an eight. 
+
+00:35:40
+DAVE Wonderful. Good job. Now stay warm and relaxed. Now breathe deeply, exhale and say the words, be calm to yourself. Allow the words be calm to produce an even deeper relaxation. Now breathe in slowly and deeply, breathe out slowly and say be calm to yourself. Good. Let’s do it again. Breathe in deeply and now breathed out saying, be calm, gently in your mind. Very good. Now slowly open your eyes and sit up as I count to five. One, two, three, four, five. Good. You’re alert again. How do you feel, Jan? 
+
+00:36:45
+JAN Great, it’s so good to just let loose of all the tension I carry around. 
+
+00:36:50
+DAVE Excellent. This is a skill that we’re going to use in various situations, some of which have triggered anxiety and muscle tension. So let’s see if we can start putting together a list of possible situations. What situations come to mind? 
+
+00:37:05
+JAN Well, I don’t know. I get tense while I’m driving especially on the expressway. And whenever I’m around my supervisor at work, I’m all nerves. 
+
+00:37:15
+DAVE Uh-huh. Those are two excellent examples of situations in which you could repeat the cue words, be calm to yourself. Breathe deeply and prompt the relaxation response. Let’s look for some more. 
+
+00:37:30
+ARTHUR JONGSMA Well, I jotted a few notes about our reaction to that particular vignette. It seemed like it was a good summary to start off with, a previous work that they had done. 
+
+00:37:40
+TIMOTHY BRUCE Yeah, yeah. I think that helps the client kind of, you know, why are we here right now, you did good job of doing that kind of setting up the rationale for what they’re gonna do today. 
+
+00:37:50
+ARTHUR JONGSMA Then he explained what he is expecting of the client in this particular session. Well, I like to call an advanced organizer for the client. 
+
+00:38:00
+TIMOTHY BRUCE Yeah, yeah, brings them to the same page. 
+
+00:38:00
+ARTHUR JONGSMA Yeah. And then he had them, the client in a relaxed position rather than sitting up straight in a chair which makes things a little more difficult when you’re trying to be relaxed. 
+
+00:38:10
+TIMOTHY BRUCE Yeah. 
+
+00:38:10
+ARTHUR JONGSMA Sitting like this, huh… 
+
+00:38:10
+TIMOTHY BRUCE Yeah, that’s true. 
+
+00:38:15
+ARTHUR JONGSMA But the nice recliner is a nice way to go there. 
+
+00:38:15
+TIMOTHY BRUCE She’s likely to get much more relaxed and then you’re going to be pairing a deeper state of relaxation with the word. 
+
+00:38:25
+ARTHUR JONGSMA And if they’re at home they may lie on a bed to this or a couch or something like that. 
+
+00:38:25
+TIMOTHY BRUCE Yeah. 
+
+00:38:30
+ARTHUR JONGSMA And I like he’s used of the rating scale to tell how deeply they’re relaxed. 
+
+00:38:30
+TIMOTHY BRUCE Yeah. 
+
+00:38:30
+ARTHUR JONGSMA kind of a common use. 
+
+00:38:35
+TIMOTHY BRUCE It is and you can track progress. And, you know, the client starts to think about, you know, well, how relaxed am I? You know, we’ve all had clients said, you know, I’m… I’m not very relaxed at all and they were or vice versa. 
+
+00:38:50
+ARTHUR JONGSMA Kind of reassuring to the client to about their progress and get it. 
+
+00:38:50
+TIMOTHY BRUCE Yeah, I can do this. Yeah. 
+
+00:38:55
+ARTHUR JONGSMA And then he used some cue words to pair with the relaxed state. What do you think of that? 
+
+00:39:00
+TIMOTHY BRUCE Yeah. Well, that’s cue controlled relaxations that’s based on classical conditioning. So you take this relaxed state and you take this word or sound or there’s a lot of, you know, options in terms of what you can do and you’re just classically condition in relaxed state to this word. 
+
+00:39:15
+ARTHUR JONGSMA Use a word like relax or take it easy or be calm. 
+
+00:39:15
+TIMOTHY BRUCE Sure. 
+
+00:39:20
+ARTHUR JONGSMA Anything can be used there that’s effective. 
+
+00:39:20
+TIMOTHY BRUCE Whatever is likely to be used. Yeah. 
+
+00:39:25
+ARTHUR JONGSMA Then, when she came out of the relaxed state through the procedure, he said, now you’re feeling relaxed but alert. 
+
+00:39:30
+TIMOTHY BRUCE Yeah. 
+
+00:39:30
+ARTHUR JONGSMA Why is that important? 
+
+00:39:35
+TIMOTHY BRUCE Well, you know, I think it’s important to spend a little time at that moment to allow the client to see and experience having an alert mind with a relaxed body because especially in GAD they’re very used to… If my mind’s active, I’m tense. That’s where, you know, this kind of conditioning comes into play. So to spend a little time there even as they get more advanced to maybe do a little problem solving… 
+
+00:40:00
+ARTHUR JONGSMA While they are relaxed. 
+
+00:40:00
+TIMOTHY BRUCE While they are relaxed to see that they can actually think about problems and… 
+
+00:40:05
+ARTHUR JONGSMA Rather than thinking in order for me to be productive I have to be tensed up. 
+
+00:40:10
+TIMOTHY BRUCE Yeah. I always think of like what they touch it when you were a kid and they said, you know, okay, put your thinking cap on and every kid goes like this. 
+
+00:40:15
+ARTHUR JONGSMA Yeah. Yeah. That’s right, yeah. Yeah. Now he also at the end tried to get her to apply this to her daily life. And I think that was a good application of taking something that’s a little skill building here. And now how are you gonna apply it at home? 
+
+00:40:30
+TIMOTHY BRUCE Yeah, and he’s probably looking at two ways. One is to cope with stress and applying it those moments. But they also typically just try to incorporate relaxation throughout the day, even when you’re not stressed as more of a kind of a lifestyle intervention. 
+
+00:40:45
+ARTHUR JONGSMA That’s a good vignette for showing us what relaxation training can do. 
+
+00:40:50
+TIMOTHY BRUCE Yeah. Stimulus control techniques such as establishing a worry time have been used in some applications of CBT for GAD. As reflected in this objective and its treatment interventions, they are intended to limit the associations of environmental stimuli and worry by restricting worry to a specific time and place. This also requires the client to develop the skill of identifying, stopping, and delaying worry to the worry time. 
+
+00:41:20
+ARTHUR JONGSMA In this vignette, the therapist introduces the concept of worry time and conveys its rationale to his client. Let’s review that session. 
+
+00:41:30
+DAVE Okay, this is your log of worries. Thanks, Jan. Why don’t we take a look at it? You know, we’ve talked about how all worries are anticipations of things to come. 
+
+00:41:40
+JAN Yeah. 
+
+00:41:40
+DAVE Well, it seems that a lot of your worries are focused on the very next thing that you’re gonna be about to do in your day. 
+
+00:41:45
+JAN They are. 
+
+00:41:50
+DAVE Yeah, let me read them to you. Getting the kids off to school on time. What to make them for lunch? Whether it’s nutritional enough? Getting ready for work. That traffic you’ll face going to work, whether you get your work done, whether you get in trouble with your supervisor? How much homework the kids have? It kinda follows your day. 
+
+00:42:10
+JAN And that’s true. I pretty much worry about everything that’s coming up. 
+
+00:42:10
+DAVE It looks like it and because your worries anticipate routine events in your day, they occur at various situations at various times and repeat themselves day after day. 
+
+00:42:20
+JAN It does feel like it never really stops. 
+
+00:42:25
+DAVE I’m sure it does. One thing that’s important for us to see is that when we worry in several settings or situations repeatedly, just returning to that situation can trigger our worries again. They get associated and repeating them keeps that setting and worry association alive. 
+
+00:42:45
+JAN So just being in that situation triggers the worry? 
+
+00:42:50
+DAVE Yeah. Take making lunch for instance. You get yourself in that setting and start looking for what to make and what worry pops into your head. 
+
+00:42:55
+JAN Lots. Like, what should I make? Do I have time? Is it nutritious? Well, it spoil, you name it. 
+
+00:43:00
+DAVE Exactly. Did you plan to worry about these things or do they just seem to come up? 
+
+00:43:05
+JAN They just come up. I mean, I have to do these things. I can’t not do them. 
+
+00:43:10
+DAVE That’s true. But because we know that these settings are capable of triggering the worry, where we can work with is how you respond to the worry that’s triggered. 
+
+00:43:20
+JAN How? 
+
+00:43:20
+DAVE Well, first the worries are going to come. It’s your reaction to the situation. But let’s make a distinction between your worry reaction and your response to that reaction. So let’s say that your reaction to a situation is a worry. What’s your response to that worry typically been? 
+
+00:43:40
+JAN I’m not sure. I guess I just tried to prevent whatever I’m worrying about from happening. 
+
+00:43:45
+DAVE Okay. So in a sense you stay focused on the worry and focus on trying to prevent it. 
+
+00:43:50
+JAN Yeah. 
+
+00:43:55
+DAVE So the situation of the worry get associated more. What other responses could you have besides that one, maybe one that reduces that association? 
+
+00:44:00
+JAN I don’t know. 
+
+00:44:05
+DAVE Well, let’s look at options. One could be to respond to it by letting the worry go. But you usually don’t let a go. 
+
+00:44:10
+JAN No, not at all. I just get caught up in it. I can’t help it. 
+
+00:44:15
+DAVE I understand. Worry makes us feel threatened and we have a tendency to stay focused on what we find threatening, but we’re not cemented in that response. We can try different ones and see their effect on us. 
+
+00:44:25
+JAN Like what? 
+
+00:44:30
+DAVE Well, our goal here is to disconnect worry from these situations, but the worry is going to happen. At this stage of therapy, are you willing to just try to move those worries, put them off, postpone them to a single time and setting where you can worry about them there and then, it’s called worry time. 
+
+00:44:50
+JAN Boy, I don’t know if I can do that. 
+
+00:44:50
+DAVE I understand. Do you see how your reaction right now to my suggestion to move the worries to her worry time, is to worry about whether you can do it. 
+
+00:45:00
+JAN Yeah, I guess I am. 
+
+00:45:00
+DAVE Okay. So let’s try this with that worry right now. Are you willing to give it a shot? 
+
+00:45:05
+JAN Yeah, I’ll try it. But how? 
+
+00:45:10
+DAVE Let’s talk about that. This is a new way of responding to your worry at the moment you notice that it’s happening. Our goal is to postpone them until your worry time. Our plan is to build on some of the things you’re already doing like monitoring your worry and using your relaxation skill. We’ll also add a few mental skills intended to stop a worrisome train of thought and redirect your focus. 
+
+00:45:30
+JAN All right. I’d like to learn to do that. 
+
+00:45:30
+DAVE Good. 
+
+00:45:35
+ARTHUR JONGSMA Well, worry-time its application in a good session by Dave here again. A good use of homework to bring her up, bring the, introduced the concept and start off the session. 
+
+00:45:50
+TIMOTHY BRUCE Yeah, he, he did that in the last vignette. You know, he, he brings previous sessions up and it’s a good setup for the rationale. So they’re on the same page. I like that, that technique. 
+
+00:46:00
+ARTHUR JONGSMA And it applies the homework to the session. I think that’s important. Don’t just give people homework and let it fall. 
+
+00:46:05
+TIMOTHY BRUCE Oh, yeah, exactly, good point. 
+
+00:46:05
+ARTHUR JONGSMA And a nice show of empathy. When he responds to her saying, I understand that. 
+
+00:46:10
+TIMOTHY BRUCE Yeah. I mean, this is a good example of how those relationship skills can facilitate the delivery of an EST. They’re not one or the other. There’s something that you have to combine. 
+
+00:46:20
+ARTHUR JONGSMA A technique by itself is not worthwhile. You have to wrap it up in empathy and good relationship skills. 
+
+00:46:25
+TIMOTHY BRUCE Absolutely. 
+
+00:46:30
+ARTHUR JONGSMA And he explains concepts and applies them to her daily life. They’re not abstract that way, ties him down. 
+
+00:46:35
+TIMOTHY BRUCE Yeah, I like that technique and he also asked her to do that, he engages her. So it’s not just completely didactic. Here’s how you apply this. What do you think? 
+
+00:46:45
+ARTHUR JONGSMA What do you think he will? Yeah. Yeah. 
+
+00:46:45
+TIMOTHY BRUCE Yeah. 
+
+00:46:50
+ARTHUR JONGSMA Even though she struggles with that, he gives her a chance. 
+
+00:46:50
+TIMOTHY BRUCE Absolutely. 
+
+00:46:50
+ARTHUR JONGSMA Yeah. 
+
+00:46:50
+TIMOTHY BRUCE Yeah. 
+
+00:46:50
+ARTHUR JONGSMA Then he differentiates between worry and her reaction to the worry, which I think is a very critical distinction that she has to learn. 
+
+00:47:00
+TIMOTHY BRUCE Yeah. 
+
+00:47:00
+ARTHUR JONGSMA And he does a good job of doing that and then works with the reaction. 
+
+00:47:05
+TIMOTHY BRUCE Yeah. Yeah. He’s asking her well, how are you gonna respond, respond to what it is you’re doing. 
+
+00:47:10
+ARTHUR JONGSMA Yeah. 
+
+00:47:10
+TIMOTHY BRUCE As opposed to just thinking, well, my reaction is what I’m going to do. And she hadn’t thought about that. 
+
+00:47:15
+ARTHUR JONGSMA And we want to postpone that reaction to the worry time. 
+
+00:47:15
+TIMOTHY BRUCE Yeah. 
+
+00:47:20
+ARTHUR JONGSMA Yeah. 
+
+00:47:20
+TIMOTHY BRUCE Yeah. 
+
+00:47:20
+ARTHUR JONGSMA And then at the end this whole thing about consolidating various interventions that he’s pulled together. 
+
+00:47:25
+TIMOTHY BRUCE Yeah. So I mean this is a really nice demonstration of, you bring the previous stuff up to set it up. You do some work and then you say, well, now how are we going to integrate this. So she’s learned this skill, this skill, and this skill and he’ll be doing that throughout the therapy. He’s consolidating these things. And by the end hopefully all the work they’ve done is something she has internalized and, and as a consolidated skill. 
+
+00:47:45
+ARTHUR JONGSMA Good. Good use of worry time. Objectives and therapeutic interventions descriptive of the cognitive therapy component of CBT for GAD highlight the major features of the cognitive therapy process, including psychoeducation unrelated to the cognitive restructuring, exploring fearful self-talk and beliefs, identifying and challenging biases and generating alternatives. Prediction testing through the use of behavioral experiments is a principal feature of CBT for GAD. Homework assignments related to any of these tasks are used commonly in the therapy. 
+
+00:48:30
+TIMOTHY BRUCE In this vignette, the therapist is leading his client through a more guided approach to cognitive restructuring, using a handout that leads the client through the process of challenging her thoughts and beliefs. Let’s take a peek at this session. 
+
+00:48:50
+DAVE Jan, talked last session about starting to use this form to help guide you through the process of evaluating your worries. Why don’t we go through it with one of the worries that you’ve identified to give you a sense for how to use it between our sessions. Sound okay? 
+
+00:49:05
+JAN Yeah, I want to be able to understand this. 
+
+00:49:05
+DAVE Okay. Well, our first step is to select a specific worry. As a starter, how about working with that worry that you won’t be able to get the kids lunches made? 
+
+00:49:15
+JAN Sure, that’s a daily thing. 
+
+00:49:15
+DAVE So the first question we want to ask has to do with the fact that all worries are anticipations. Do you remember that idea? 
+
+00:49:25
+JAN Yeah. I understand that. They’re all about what could happen. 
+
+00:49:25
+DAVE Exactly. So what we’re going to do is turn that anticipation into a prediction. That is, we’re going to make the worry make a prediction of what it says is going to happen. So specifically what is the worry predicting will happen here with the lunches? 
+
+00:49:40
+JAN That I won’t get the lunches made, that the kids will go to school without a lunch. 
+
+00:49:45
+DAVE Excellent. That’s exactly what its saying. Next question. How likely is this to actually happen, zero to a 100%. Zero means it’s not going to happen. One hundred means it’s definitely going to happen. Fifty means a 50-50 chance. 
+
+00:50:00
+JAN I don’t know. I guess 20% maybe. 
+
+00:50:05
+DAVE Okay. Now how bad would it be if it actually occurred, 0 to 100, with 100 being the absolute worst. 
+
+00:50:15
+JAN Oh, 80, maybe an 80. It won’t be good at all. 
+
+00:50:15
+DAVE Okay. Now since you’re estimating that there’s a 20% chance of it happening. The next question is, what is the most likely thing to happen? 
+
+00:50:25
+JAN Well, that I get the lunches made I guess. 
+
+00:50:30
+DAVE Right. So that’s most likely. Now next question. What is the worst thing that could happen if you don’t get the kids lunches made? 
+
+00:50:35
+JAN The kids will starve I guess. 
+
+00:50:35
+DAVE Starve? 
+
+00:50:40
+JAN I guess be hungry is more accurate. 
+
+00:50:40
+DAVE It is. So they would be hungry. And then what would happen? 
+
+00:50:45
+JAN I don’t know. Maybe they won’t be able to concentrate at school. I don’t know. I guess I would feel bad. That’s probably the worst thing I guess. I never really thought about this. 
+
+00:51:00
+DAVE Right, that’s exactly why we’re doing it. So let’s stay with it a little bit longer. Okay, a little switch here. So what’s the best outcome here, even if you don’t get the lunches made? 
+
+00:51:10
+JAN I don’t know. Maybe they could get lunch at school. 
+
+00:51:10
+DAVE Okay, good. 
+
+00:51:15
+JAN I’ve never stopped to think like this. 
+
+00:51:15
+DAVE That’s exactly what this form helps you to do. So let’s go to the next section. It’s an important one. I think you’re already doing this in your head, but let’s do it this way for now. We’re going to look at the evidence in your life and see if it supports the prediction that the worry is making or if it supports something other than the worry. Let’s start with the likelihood question. You said there was a 20% chance of not getting the lunch made. So in the past, how many times have the kids gone to school without lunch? 
+
+00:51:45
+JAN Well, actually none. 
+
+00:51:45
+DAVE Never? 
+
+00:51:50
+JAN No, I’ve always made them. 
+
+00:51:50
+DAVE Okay. So one thing we can see with this process is that the worry way overestimates the actual likelihood of what it’s worrying about. 
+
+00:52:00
+JAN Well, I’m not sure what you mean. 
+
+00:52:00
+DAVE Let me ask another way. How many times have you had this particular worry? 
+
+00:52:05
+JAN Oh, hundreds, probably thousands. I don’t know, a lot. 
+
+00:52:10
+DAVE Okay. So if we could have gone back in time and made this worry, make this prediction each time it was there. How many times would it have been right? 
+
+00:52:15
+JAN Never. 
+
+00:52:20
+DAVE Never, not once. And how many times has it been wrong? 
+
+00:52:20
+JAN I see thousands. 
+
+00:52:25
+DAVE Right. So, Jan, if this worry was a real person who is telling you every morning, you’re not going to be able to get to lunch made and every single time it was wrong. What do you think you might tell this person after a while? 
+
+00:52:40
+JAN To shut up I suppose. 
+
+00:52:40
+DAVE Yeah, who wouldn’t? Let me ask you. Do you ever talk to your worry that way, like you would if it was a person constantly telling you that bad things are gonna happen even though they never actually do happen? 
+
+00:52:50
+JAN No, I never do. I don’t like that the worry is there but I never thought of telling it off. 
+
+00:52:55
+ARTHUR JONGSMA Well, this was a rather formal way to introduce cognitive restructuring. 
+
+00:53:00
+TIMOTHY BRUCE Yeah. 
+
+00:53:00
+ARTHUR JONGSMA Not always done this way. 
+
+00:53:05
+TIMOTHY BRUCE No. He’s using a handout to guide the process. So it’s very concrete. It’s very structured and ask the client specific questions, which is fine for some people that, that’s how they learn the steps in this. 
+
+00:53:20
+ARTHUR JONGSMA And the probability biases are examined. He’s really trying to get her to look at those biases. 
+
+00:53:25
+TIMOTHY BRUCE Yeah, one of the downsides of using a form that ask you about specific biases is, they better be present, you know, and this one, so ubiquitous. He hears Aaron on that side, but what he could do is also modify the form if a bias comes up and have her start asking herself that question. 
+
+00:53:40
+ARTHUR JONGSMA Yeah. And he could point out where those biases are hidden or rather than her being aware of them up front. He’s trying to introduce her to look at her fears, examine them rather than just react to them. And I think that’s critical for her to be able to look at how she reacts to those. Because typically she doesn’t look at them. 
+
+00:54:05
+TIMOTHY BRUCE No, those with her reaction. 
+
+00:54:05
+ARTHUR JONGSMA Yeah. 
+
+00:54:05
+TIMOTHY BRUCE Yeah. 
+
+00:54:10
+ARTHUR JONGSMA And then he brings up this whole concept of how she grossly overestimates the feared outcome. 
+
+00:54:15
+TIMOTHY BRUCE Yeah, yeah. I thought he actually did that very well where she became aware. You know, how often has this occurred? 
+
+00:54:25
+ARTHUR JONGSMA He brought up the data and she looked at it and said, it never happens. 
+
+00:54:30
+TIMOTHY BRUCE Yeah. That’s the essence of cognitive restructuring. Yeah. 
+
+00:54:35
+ARTHUR JONGSMA And then he encouraged her to do some self-talk to confront those fears to tell them off and say that’s really not so possible. 
+
+00:54:40
+TIMOTHY BRUCE Yeah, another principle is that, just because it’s in my head I don’t need to own it. 
+
+00:54:45
+ARTHUR JONGSMA Yeah. 
+
+00:54:45
+TIMOTHY BRUCE I can talk back to, you know, these thoughts to separate yourself from your thinking. 
+
+00:54:50
+ARTHUR JONGSMA Where do you think this is going? What’s the next step here? 
+
+00:54:50
+TIMOTHY BRUCE Yeah. Well, you know, especially with this form, using, using this form, they’re just going to keep using it and using it and reinforcing these skills and building these skills. So, you know, actually use of the form is a fairly efficient way to move yourself through here but not necessarily applicable to everyone. 
+
+00:55:10
+ARTHUR JONGSMA Good. Let’s move on now to examples of objectives and interventions consistent with the exposure therapy component of CBT for GAD. Although it is not characteristic of patients with GAD to have phobic like anxiety to specific situations. Feared and avoided situations may be present. When this is evident, systematic graduated exposure techniques imaginal and/or in vivo are implemented. A common application is to assign homework in which the patient deliberately approaches feared or worry eliciting situations or deploying ones newly developed cognitive and relaxation coping strategies. Because the worry process in GAD can become so habitual, self-control desensitization may be used. And self-controlled desensitization clients repeatedly imagine anxiety provoking or worrisome situations while imagining themselves coping successfully by using relaxation and other newly learned skills. 
+
+00:56:20
+TIMOTHY BRUCE Lastly, many CBT approaches employ other behavioral strategies such as behavioral activation and problem-solving skills training in treating GAD. In behavioral activation, clients are encouraged to identify pleasant worthwhile or self-concept building activities that they can engage in on a daily basis. Such activities create pleasant circumstances for focused attention. They build self-esteem and generate positive effect, counter to the anxious or depressive moods that often accompany worry. 
+
+00:56:50
+ARTHUR JONGSMA Problem-solving skills training is also a common behavioral intervention used in CBT for many disorders. It teaches an orientation to problems that accepts that they exist, as well as systematic means for addressing them. Problem-solving guides clients to address worries productively and counters the more ruminative habit characteristic of GAD. Homework assignments in which problem-solving is implemented, recorded and reviewed are commonly used. 
+
+00:57:25
+TIMOTHY BRUCE In this last vignette the therapist and client review previously rehearsed problem-solving steps for a particular issue and discuss implementation of the plan the client has chosen. Let’s see how this is handled. 
+
+00:57:40
+DAVE Jan, in our session last week we began to apply problem-solving to an issue that had made you anxious. We worked first at pinpointing the problem in specific terms and not broad strokes. Can you recall where we landed with our problem description? 
+
+00:57:55
+JAN Yeah, I’m afraid I may be fired at work because I don’t clear my desk of all the clutter at the end of the day. 
+
+00:58:00
+DAVE Yes, that’s excellent. It’s specific, which makes it easier to begin to problem-solve. After this pinpointing step we talked about possible solutions to this problem. And you came up with three possible things that you could do to address your worry about this problem. Do you remember those options? 
+
+00:58:15
+JAN Yeah, first I could do nothing and just try to let it go. Or I could talk to Mary who works next to me and ask her if she thought I could get fired for leaving the stuff in my desk basket. Or I could talk to my boss about it and ask him if it was okay for me to leave my papers in my basket overnight. 
+
+00:58:35
+DAVE Exactly, those were three possible solutions we talked about. Then we listed the pros and cons of each of these solutions and evaluated them. Do you recall the result of that process? 
+
+00:58:45
+JAN Yeah, the option of talking my boss had the most benefit to it and the least downside from what I saw. 
+
+00:58:50
+DAVE Yeah, and that’s where we ended last time. What I’d like to do now is work on implementing that solution. I can help rehearse the conversation in a role play here in the office. You’re willing to try that with me? 
+
+00:59:05
+JAN I guess so. How do we go about doing it? 
+
+00:59:05
+DAVE Well, I’ll play the role of your supervisor. What did you say his name is? 
+
+00:59:10
+JAN Chuck Bailey. 
+
+00:59:15
+DAVE Okay, I’ll be Chuck Bailey and you play yourself. This will give you a chance at a dry run with this conversation and a way to reduce your anxiety over talking to him. So why don’t you begin asking if you can talk to me briefly and we’ll go from there. 
+
+00:59:25
+JAN Okay, I’ll give it a try. Chuck, could I talk to you privately for a minute? 
+
+00:59:30
+CHUCK BAILEY Sure, what’s it about? Come in and sit down. 
+
+00:59:35
+JAN I want to ask a question that’s been bothering me a little. 
+
+00:59:35
+CHUCK BAILEY Okay, what is it? 
+
+00:59:40
+JAN Well, at night when I’m wrapping up my work… 
+
+00:59:40
+DAVE That was very good. How did you feel about it? 
+
+00:59:45
+JAN Well, the first time it was a little shaky but by the third time we went through it, I felt good. I think I can do this tomorrow. 
+
+00:59:50
+DAVE Great. Can you remember to make a journal entry about your experience, so we can go over it in our next session? 
+
+00:59:55
+JAN Yeah, I can do that. 
+
+01:00:00
+DAVE Great. I’m looking forward to hearing about what happened. 
+
+01:00:05
+ARTHUR JONGSMA What I liked about this problem solving vignette is, how it starts with him summarizing previous work that they’ve done. I mean, she’s worked on pinpointing the problem. She’s worked on developing options for solutions. They must have worked on this in previous sessions or sessions. And looking at the pros and cons of each of those solutions and then selecting an option that she thought was best of all those. 
+
+01:00:30
+TIMOTHY BRUCE Yeah. Yeah, I think he did a very good job not only of just taking her through those steps but in each step, you know, kind of taking her through how to do that well. So if you’re at the problem definition stage of problem-solving, you know, how do you do that well? 
+
+01:00:45
+ARTHUR JONGSMA Yeah, it seems so easy, but it’s really not, to get them to be behaviorally specific. 
+
+01:00:50
+TIMOTHY BRUCE That’s exactly it. Good point. 
+
+01:00:50
+ARTHUR JONGSMA And then he moves on to role playing. What it is she selected rather than just say, well, why don’t you go try that at home. He’s saying, well, let’s play that up between us here. 
+
+01:01:00
+TIMOTHY BRUCE Yeah, that’s a, you know, a staple of CBT is to practice, rehearse to build the skill in a session and then take it out into your environment as opposed to just being kind of insight oriented. So this is good one and she try that, much more likely to not be, you know, taken out and transported into day-to-day. 
+
+01:01:20
+ARTHUR JONGSMA Behavior rehearsal is important, sure. 
+
+01:01:20
+TIMOTHY BRUCE Yeah. 
+
+01:01:20
+ARTHUR JONGSMA And we should also point out of course that they fade in and fade out of that session. It was obviously a much longer session than what we depicted here. 
+
+01:01:30
+TIMOTHY BRUCE Takes awhile to rehearse at all. 
+
+01:01:30
+ARTHUR JONGSMA Sure. 
+
+01:01:30
+TIMOTHY BRUCE Yeah. 
+
+01:01:30
+ARTHUR JONGSMA And then he asked her to record her experience that she’s going to have if she applies this and then bring it back. 
+
+01:01:40
+TIMOTHY BRUCE Yeah, yeah. Your point earlier to a previous vignette that, you know, if you’re going to assign this out there, you want to follow up on it. You want to build this skill because there’s probably going to be things that go well and there may be things that don’t. And that’s not a therapeutic failure. That’s an opportunity then to build the skill in the next session. 
+
+01:01:55
+ARTHUR JONGSMA Sure, and processing homework is very important. Reinforces the client spending time and effort to do it. 
+
+01:02:00
+TIMOTHY BRUCE Absolutely. 
+
+01:02:00
+ARTHUR JONGSMA Yeah. 
+
+01:02:00
+TIMOTHY BRUCE Weather treated pharmacologically, psychologically are both, GAD like all anxiety disorders is prone to relapse. Let’s take a look at some common considerations and relapse prevention interventions and how they can be incorporated into your treatment plan. 
+
+01:02:20
+ARTHUR JONGSMA One of the first steps in relapse prevention interventions is to provide a rationale for them. This typically involves a discussion of the risk for relapse and how using the relapse prevention approach we will outline can lower that risk. This can be captured in your treatment plan by including a therapist intervention such as this. 
+
+01:02:40
+TIMOTHY BRUCE Another initial step in this relapse prevention approach is to distinguish between a lapse and relapse. A lapse is presented as a rather common temporary setback that may involve for example re-experiencing a ruminative train of thought or finding oneself procrastinating in solving a problem. Relapse on the other hand is described as a return to a sustain pattern of thinking, feeling, and acting that is characteristic of the GAD. The rationale for this distinction is that lapses do not need to develop into a relapse if they can be caught and managed. This component of relapse prevention can be captured in a therapist’s intervention such as this one. 
+
+01:03:25
+ARTHUR JONGSMA The next step in relapse prevention is to assist the client and identifying future circumstances which might trigger strong anxiety. 
+
+01:03:35
+TIMOTHY BRUCE In addition to using skills learned in therapy to manage high-risk situations, clients are also encouraged to use strategies learned in therapy during their day-to-day life. Examples include, continuing behavioral activation. Self statements reflecting the new messages gained through cognitive restructuring, and consistent use of problem-solving skills to address problems. The intervention now on your screen reflects this prevention emphases in the treatment plan. Sometimes clients benefit from having a coping card or other reminder of important strategies and information regarding relapse prevention. 
+
+01:04:10
+ARTHUR JONGSMA Finally, periodic booster sessions of therapy can help reinforce positive changes, problem-solve challenges and facilitate continued improvement. So clients are invited to periodically revisit therapy for these purposes. 
+
+01:04:25
+TIMOTHY BRUCE On your screen now appears an example of a sample treatment plans that incorporate selected aspects of evidence based psychotherapy treatment planning for GAD that we’ve presented in this program. Not every objective and intervention covered earlier is included here but only representative items from each step in the treatment planning process have been selected. 
+
+01:04:50
+ARTHUR JONGSMA This sample plan includes a specification of the primary problem. Behavioral definitions of the problem applicable to your client. The diagnosis, a long-term goal of treatment, and short-term client objectives and related therapist interventions consistent with some of those research supported treatments for GAD, including those related to assessment. Initial and ongoing psychoeducation. Relaxation training. Stimulus control techniques. Cognitive restructuring. Problem-solving skills training and relapse prevention. Today’s discussion focused on evidence-based psychotherapy treatment planning using goals, objectives and treatment interventions consistent with those found in identified research supported treatments and evidence-based treatment guidelines. As we have shown considerable research has been done and continues to be done in this area. 
+
+01:06:10
+TIMOTHY BRUCE Remember, the purpose of this series is to demonstrate the process of evidence-based psychotherapy treatment planning for common mental health problems. It’s designed to be informative in nature and did not intend to be a substitute for clinical training in the interventions discussed and demonstrated. For those interested in learning more about empirically supported treatments, references to their empirical support, clinical training materials, and training opportunities are provided in the Companion Workbook to this DVD. 
+
+01:06:35
+ARTHUR JONGSMA Finally, the practice planner series of treatment planning, homework planning and progress note planning books published by John Wiley and Sons are helpful resources for the clinician. Many of the treatment planner books had been revised to include objectives and interventions consistent with the approach demonstrated in this series. For example, the complete adult psychotherapy treatment planner fourth edition contains a step-by-step guide to writing treatment plans for over 40 behaviorally based presenting problems. Many of the presenting problems are approached with evidence-based treatment planning. We hope this information will help you in helping your clients live more happy and productive lives. 
+
+01:07:25
+[credits] 
+
+01:07:35
+END TRANSCRIPT 

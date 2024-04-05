@@ -1,0 +1,371 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:00
+DSM-5® AND ICD-10 
+
+00:00:05
+DIAGNOSTIC CRITERIA 
+
+00:00:10
+Dr. Matthew Macaluso, D.O. 
+
+00:00:10
+ABPN Board Certified 
+
+00:00:10
+MATTHEW MACALUSO There's not a single lecture that I give that doesn't have DSM criteria imbedded into it. So because it's the gold standard for diagnosis, that's what we teach medical students in residence. 
+
+00:00:20
+Dr. Tracie Collins, MD, MPH 
+
+00:00:20
+Professor, Practising Physcian 
+
+00:00:20
+TRACIE COLLINS As a primary care position, you see a lot of depression, generalized anxiety disorders, uh… adjustment disorders with depressed mood. And the DSM is very helpful for understanding how to accurately diagnose a patient as far as put them into a certain category. 
+
+00:00:40
+MATTHEW MACALUSO You know, I think that there are aspects of the billing and coding system that a little clunky. Umm… And I think physicians need to be well educated on them. And I think that's one of the purposes of this video series is to help doctors understand the differences between DSM and ICD and how they cross-walk and how they can understand the DSM criteria, how they can use those codes in their practice and how those codes apply to their billing. 
+
+00:01:10
+SIOBHAN DOHERTY Every year, nearly one in five American adults, or 42.5 million people, experience a mental illness. A mental illness or mental disorder can be defined as a clinically important syndrome, that is, it's a collection of symptoms, these can be behavioral or psychological that causes the person disability or distress in social, personal or occupational functioning. This definition helps to convey the scope of these mental disorders, as they cover a wide range of symptoms, with no two individual's experiences exactly alike. While some may experience a lower depressed mood, others could be easily excitable or agitated. And there are those that can swing back and forth from one set of symptoms to another. The symptoms can manifest in physical compulsions or could be relegated to the individual's internal life, with the individual experiencing racing thoughts or hallucinations. And well there are individuals that may find their symptoms completely debilitating, others may find them to be a mild but still problematic facet of their lives, which nonetheless causes a degree of functional impairment. Each set of symptoms can require its own mode of treatment, and so the first step in beginning that treatment process is evaluating these symptoms, in order to diagnose the patient with a specific mental disorder. Because of this, it is crucial for a clinician to have both an effective diagnostic method and set of diagnostic criteria. In the United States, the gold standard for diagnosing a mental disorder is the Diagnostic and Statistical Manual of Mental Disorders, or DSM. 
+
+00:02:50
+MATTHEW MACALUSO DSM is a necessity in psychiatry because we're operating on a syndromic level. And so psychiatric illnesses are different from illnesses elsewhere in medicine, in that we don't have to discreet biomarkers to diagnose them. For example, if someone comes in with signs and symptoms of kidney failure, there are lab tests that can be done to confirm that diagnosis. In psychiatry, no such lab tests or brain imaging exists as of today that can definitively confirm a diagnosis. So because of that we're operating on a syndromic level. 
+
+00:03:25
+SIOBHAN DOHERTY Since the same tests or biomarkers may not be available to diagnose a mental disorder as when diagnosing a physical condition. DSM can provide the clinician with the standardized method of identifying a patient's disorder. This allows for the disorder to be treated or even communicated to another clinician during the treatment process. However, it is not the only diagnostic criteria used both in the United States and throughout the world. The World Health Organization's International Classification of Diseases, or ICD, is used in concert with DSM in the United States. It is also considered the standard throughout the rest of the world. Because of this, it is vital for the clinician to be familiar with these two classification systems, their role in the current medical landscape and their use in the field, so that the clinician can better guide the patient along their path to recovery. 
+
+00:04:25
+CLINICIANS 
+
+00:04:30
+SIOBHAN DOHERTY To better understand that DSM, ICD and their use in various healthcare or academic settings, we consulted with two experts in the field, Dr. Tracie Collins, MD, MPH and Dr. Matthew Macaluso, D.O.. 
+
+00:04:40
+TRACIE COLLINS I first came into contact with the DSM and ICD when I was a medical student. The DSM was really emphasized during my psychiatry rotation, umm… and during that time I learned about the various umm… codes and how to diagnose a patient based on their symptoms and signs. DSM was very helpful to categorize patients as being either major, umm… where's they having either major depression or other symptoms, umm… other diagnosis. 
+
+00:05:10
+MATTHEW MACALUSO DSM has been a major part of my professional life since the time when I was a resident and I learned the DSM criteria. I was tested on DSM when I became Board Certified as a psychiatrist. And in clinical practice, I used DSM to document patient diagnosis and for billing purposes. 
+
+00:05:35
+TRACIE COLLINS As far as my practice… So after medical school in residency, I practiced General Internal Medicine. As a primary care position you see a lot of depression, generalized anxiety disorders, uh… adjustment disorders with depressed mood. And the DSM is very helpful for understanding how to accurately diagnose a patient as far as put them into a certain category. And so in my practice, it has been helpful as far as communicating with other practitioners about what I believe is going on with the given patient. 
+
+00:06:05
+MATTHEW MACALUSO Although, I teach it to medical students and residence umm… and it's the gold standard within the profession and so use DSM everyday, have a copy of it on my desk. 
+
+00:06:15
+SIOBHAN DOHERTY Before delving into the current use of DSM and ICD, it is important to understand their history in the larger context of psychiatry. 
+
+00:06:25
+HISTORY OF ICD AND DSM 
+
+00:06:30
+MATTHEW MACALUSO Umm… So are there other diagnostic manuals that I use? At present no, but historically there have been a number of other schools of thought in terms of diagnosis. In fact, the first diagnostic manual in psychiatry came out of Washington University in St. Louis. And it had far fewer diagnosis than the DSM. The DSM has gone through multiple iterations stating back to the 1950s and 60s. I mean, it's expanded and contracted over time. There's a working group that sits down and looks at the DSM codes and DSM diagnosis and brings an expert consensus into the development of those criteria. 
+
+00:07:10
+SIOBHAN DOHERTY Since antiquity, people have been working on classification systems from mental disorders. Hippocratic system was based on imbalances in the four humors. Later, in the 1600s, Thomas Sydenham focused more on clinical observation and defined the idea of syndromes that would be used for centuries. Throughout the 18th century, (inaudible ), William Cullen, Pinel and Esquirol contributed to psychiatric noselogy in that century, as they tried to revise previous taxonomic classifications into basic classes or types. In the 19th century, the term psychiatry was coined by Johann Christian Reil and the terms psychosis and neurosis began to be used. During this time, an anatomical clinical approach to classification became preferred over the prior taxonomic classifications of mental disorders. As the 19th century progressed, so to did the additional definitions and explanations of mental disorders. In 1949, ICD-6 was the first include mental disorders. DSM developed out of a US army manual, as well as from systems for collecting census and psychiatric hospital statistics. With the publication of ICD-6 and it's newly included mental and behavioral disorders, the APA was tasked with developing a version specifically for use in the US. Thus, DSM-1 was born in 1952. ICD has since gone through four other versions leading to the current standard ICD-10 in 1992. The World Health Organization is currently revising ICD towards ICD-11. The final draft of the ICD-11 system is expected to be submitted to WHO's World Health Assembly, WHA, for official endorsement by 2017. However, new iterations of ICD are adopted in the United States at a much slower rate, as we'll cover in more detail later in this program. There have been five major versions of DSM. DSM-II 1968 was similar to DSM-I but eliminated the term reaction. And in the reprint of DSM-II in 1974, homosexuality was removed as a disorder, and the decision was made to create a new revision to the DSM. DSM-III 1980 was designed to make nomenclature consistent with the ICD and to improve uniformity and validity of psychiatric diagnosis. DSM-4, in 1994, brought clinical significance to almost half of the categories, requiring that symptoms cause clinically significant distress or impairment in social, occupational or other important areas of functioning. The current version of DSM is DSM-5. 
+
+00:10:15
+MATTHEW MACALUSO But I have been a member of the American Psychiatric Association Assembly for a couple of years now and the assembly voted unanimously to accept DSM-5 in 2013 and DSM-5 then went into effect in May of 2013. DSM, you know, it's sold nationwide, it's sold worldwide and it's the gold standard for the diagnosis of mental illness. 
+
+00:10:40
+SIOBHAN DOHERTY However, for clinicians used to using DSM-4TR, there are some key differences. 
+
+00:10:50
+DSM-4® and DSM-5® 
+
+00:10:55
+TRACIE COLLINS From my perspective, from a primary care physicians perspective, the big difference between DSM-4 and DSM-5 is more detail in DSM-5. 
+
+00:11:00
+MATTHEW MACALUSO DSM-5 tried to place more of an emphasis on dimensional diagnosis rather than categorical. So for example, umm… in most DSM-4 diagnosis, you need a certain number of criteria in order to meet… uh… In order to be diagnosed with the given disorder. But what happens with the people who have, you know, one or two, umm… one or two fewer criteria than needed. You know, they still have a burden of illness, but they may not meet the full criteria for a disorder. Well, DSM-5 is using more of a dimensional approach, where certain disorders exist along more of a spectrum. 
+
+00:11:40
+TRACIE COLLINS The DSM-4 allowed you to, to categorize a patient as saying major depressive disorder. Well, the DSM-5 allows you the same thing, but now it has sort of additional components, mild, moderate, severe, uh… duration. So instead of saying only cyclothymia or a dysthymia, you now can put a length of time to someone's depression and how long they have it. And so the categories are pretty similar, but their additional modifiers that you can add on to those diagnosis that actually provide more information to either their personal reimbursing the, uh… company reimbursing you as well as communicating with your colleagues about a persons, about a patients diagnosis. 
+
+00:12:25
+MATTHEW MACALUSO The best example of the, the differences between DSM-4 and DSM-5 is in the personality disorder of a class. That DSM-5 actually has two conventions for making personality disorder diagnosis, one which is categorical, which is essentially the same as DSM-4, and the other which is dimensional. And that dimensional uh… approach looks at different personality trades and characteristics over dimensions and the clinician assesses the patient accordingly. The old categorical approach says, well, if you have a certain number of criteria, you meet the diagnosis. If you don't have that number of criteria, you don't meet the diagnosis. So it, it leaves some people in limbo to where they may not have enough criteria, so they can't be diagnosed with the given condition, they may then wind up without a diagnosis or could wind up with or not otherwise specified diagnosis. So these are the problems with having a, with operating on a syndromic level and not having definitive biomarkers that can help people finalize or confirm a diagnosis. 
+
+00:13:35
+SIOBHAN DOHERTY DSM-5, also has a different organizational system than DSM-4 for some classes of disorders. 
+
+00:13:40
+MATTHEW MACALUSO The, the bread and butter diagnosis in psychiatry are gonna be your mood disorders and your anxiety disorders. Now those who are discreet classes in DSM-4, but they have been broken up into separate classes in DSM-5. And so I'm referring to the depressive disorders class in DSM-5, as well as the bipolar and related disorders class in DSM-5. You also have several classes that used to be listed in the anxiety disorders class in DSM-4 including umm… obsessive-compulsive and related disorders and some of the trauma uh… disorders in DSM-5. Those are very common disorders in psychiatric practice. 
+
+00:14:25
+DSM-5® and ICD-10 IN THE UNITED STATES 
+
+00:14:30
+SIOBHAN DOHERTY While DSM-5 went into effect in 2013 as previous mentioned. ICD-10, wasn't adopted until October 2015 in the United States. As you will remember, ICD010 was introduced internationally in 1992. This marks a separation between the United States and the rest of the world, one that is not without some controversy. 
+
+00:14:50
+MATTHEW MACALUSO I believe physicians have been given a grace period on implementing ICD-10. The American Medical Association had lobbied to CMS and other third party payers to allow physicians a grace period in adopting ICD-10. Well, that being said, the rest of the world adopted ICD-10 more than 20 years ago and the United States actually put off that adoption. The rest of the world also doesn't use ICD-10 for billing purposes. The rest of the world is using ICD-10 to capture a data on the incidents and prevalence of disorders, which is used for epidemiological purposes. So we have a very unique use of ICD in this country. So 20 some odd years ago, when ICD-10 was released in the rest of the world. The United States and the United States Congress chose not to adopt it. And the US has put off the adoption of ICD-10 until this year. In fact, ICD-10 was supposed to be adopted last year, but that adoption was put off for a variety of reasons, mainly because, you know, third party payers and physicians just weren't ready for it. At this point, the rest of the world is ready to bring in ICD-11. And so the United States is again a little bit behind the curve in that adoption. Uh… The United States is also a little different in that. We use DSM as the gold standard for the diagnosis of mental illness, uh… which again crosswalks over to ICD-10. 
+
+00:16:15
+SIOBHAN DOHERTY Now that we have covered the larger historical and international context of DSM-5 and ICD, we can begin to look more into their use in the field. 
+
+00:16:25
+USING DSM-5® 
+
+00:16:30
+SIOBHAN DOHERTY The DSM-5 text is broken up into over 20 chapters, organized by classes of disorders. Throughout this series, we will be covering each chapter in more detail and exploring the diagnostic criteria for most disorders within these chapters. Most disorders covered in DSM-5 are organized into specific chapters. These disorders are made up of diagnostic criteria, which lists the symptoms required for a diagnosis of a given disorder. A list of specifiers or additional features the clinician can indicate when giving their diagnosis. Differential diagnosis, or other conditions for the clinician to consider when making their diagnosis. And comorbidity or other disorders that can co-exist with the disorder in question. The clinicians familiarity with these disorders will be vital in making a diagnosis. 
+
+00:17:25
+MATTHEW MACALUSO My process for diagnosing and subsequently treating kind of depends on the setting I'm in. So if I'm in a restart setting, I may be doing a very structured diagnostic interview like a skid or a mini for example that asks a structured set of questions from a script. And depending on the patient's "Yes or No" answers to those questions, they may have one or, or other different diagnosis. If I'm in clinical practice, I do a much less structured interview which more or less resembles a conversation with the patient. And then based on that conversation and my clinical judgment I'll come up with a diagnosis using DSM-5 as a guide. 
+
+00:18:05
+TRACIE COLLINS My process for diagnosing and subsequently treating a mental order, is to obtain a detailed history and physical. And from the symptoms that the patient describe in his/her own words, synthesize that into a list of symptoms and from that list, referred to the DSM-5 to see what diagnose is best matches or diagnosis best match this patient symptoms. 
+
+00:18:35
+MATTHEW MACALUSO If I'm seeing a patient, you know, at the end of my note when I get into the diagnosis, I'm gonna give a DSM-5 diagnosis. Throughout that note I'm gonna give supporting criteria that's say, why I'm making that diagnosis. So it plays a very big role in everything I do. 
+
+00:18:55
+CODING 
+
+00:19:00
+SIOBHAN DOHERTY Every disorder in DSM-5 is given its own diagnostic code. 
+
+00:19:00
+MATTHEW MACALUSO Many people who do a lot of clinical work have some of these codes memorized. And when they are coming up with a list of diagnosis, they will not only list the diagnostic terms but they will also list the diagnostic codes. Usually in psychiatry we're listing the DSM-5 codes and DSM-5 terms in our, our documentation. And there are some type of electronic health record system or coder who will convert it over to ICD, because all of those codes will crosswalk to one another. In fact, if you look throughout DSM, you will see listings of ICD-9 codes, ICD-10 codes, as well as DSM codes. 
+
+00:19:45
+SIOBHAN DOHERTY In DSM-5, each disorder is first linked to the coding system from ICD-9, with the codes for ICD-10 listed in parenthesis. This is what is meant when we say all of the DSM codes crosswalk to the ICD codes. For instance, obsessive-compulsive disorder is a sign to the code 300.3 in ICD-9 and F42.0 in ICD-10 listed in parenthesis. This is because as previously mentioned, ICD-9 was still in use in the United States when DSM-5 was released. However, because ICD-9 is no longer the standard in the United States, for this series, we will be listing the newer code from ICD-10 first, followed by ICD-9s coding in parenthesis. Additional specifiers maybe added to these codes depending on the disorder. In many ways, DSM and ICD compliment each other, though they do have differences in both their content and their application. 
+
+00:20:45
+DSM-5® AND ICD-10 
+
+00:20:50
+MATTHEW MACALUSO DSM and ICD crosswalk to one another and so there's a conversion from the DSM code to the ICD code which is the main convention for billing in the United States. 
+
+00:21:05
+TRACIE COLLINS The DSM is for clinician to clinician communication. The ICD is for clinician to reimburse her communication. 
+
+00:21:15
+MATTHEW MACALUSO Well, in clinical practice psychiatrists are using DSM-5 and DSM codes which crosswalk over at ICD. So most commonly a psychiatric would have an electronic health record or a coder of some kind who would make that conversion for them. 
+
+00:21:30
+TRACIE COLLINS In my practice as a primary care position, the DSM-5 is what I use when I want to figure out from the list of symptoms I have. What's the best diagnosis for this patient? And if there's another clinician with whom I'm gonna communicate, they can easily glean from my diagnosis, what's going on with this patient. The ICD-10 allows for me to adequately uh… be reimburse, so that I can get the actual diagnosis in to the medical record. And so when I submit for reimbursement, it's clear to the reimburser what the diagnosis is for a given patient. It also allows for uh… going back and reviewing registries and looking at sort of the population health perspective because you've got these codes and these large databases that you can use. 
+
+00:22:20
+SIOBHAN DOHERTY There are organizational differences between DSM-5 and ICD-10. We will highlight these for specific classes of disorders throughout the series. Highlighting these differences, is useful not only in understanding the diagnostic and coding differences between DSM-5 and ICD-10, but it also helps to illuminate some of the similarities and differences between various conditions. 
+
+00:22:50
+EVALUATING FUNCTIONALITY 
+
+00:22:55
+SIOBHAN DOHERTY DSM also makes it possible to evaluate the patient's level of functioning. This can be useful in marking the patient's progress overtime. Assessing level of functioning has changed from DSM-4-TR to DSM-5. 
+
+00:23:05
+MATTHEW MACALUSO In the DSM-4, we were focused on the GAF, the Global Assessment of Functioning. And personally I like the GAF and we still use it in some research protocols. However, a lot of clinicians weren't using it properly and weren't focusing on the anchor points which would tell you definitively where someone scored on the GAF. So the GAF became a bit of a moving target in clinical practice. The other piece of the GAF, is the score was often dictated by the patient's admission status. So someone was admitted to a psychiatric hospital versus a partial hospital, their GAF was often dictated by their level of care. Uh… So clinicians often work backwards in that way. DSM-5 tried to remedy this by adopting something called the WHODAS or World Health Organisation Disability Assessment Scale. Umm… And WHODAS is something that can be done by the clinician or it can be patient raided. And it actually gives you a sense of their level of functioning and the level of disability that they have as a result of their illness. Only time will tell if that will be a better system than the GAF or not. It's certainly will take a little bit more time for clinicians to administer because it's lengthier than the GAF, but it may provide more useful information among multiple dimensions. 
+
+00:24:30
+COMORBID CONDITIONS 
+
+00:24:35
+MATTHEW MACALUSO It's very common that you see patients with recurrent major depressive disorder. Uh… And those patients could have mild, moderate or severe illness. Those with severe major depressive disorder could have psychotic features as well. These patients often have associated anxiety disorders or substance abuse disorders. That type of patient would be very common in clinical practice. 
+
+00:25:00
+SIOBHAN DOHERTY As mentioned briefly before, some patients will have more than one comorbid or coexisting disorder. If this is the case, when diagnosing the patient, first list the disorder that prompted the patient's evaluation or why they saw treatment in the first place. If another disorder is subsequently discovered, list it following the initial disorder. 
+
+00:25:25
+CULTURAL INFLUENCES 
+
+00:25:30
+SIOBHAN DOHERTY Throughout the text, DSM-5 makes it clear that the clinician should consider the patient's societal and cultural norms when making a diagnosis. How these cultural factors impact the clinicians diagnosis may differ from patient to patient and clinician to clinician. 
+
+00:25:45
+MATTHEW MACALUSO There's actually a whole section in DSM-5 on the cultural formulation which guides clinicians in this area. And so someone's background their culture can actually play a big role and how their symptoms present and how they understand their symptoms and the DSM aims to help clinicians with that. In DSM-4, there is actually a section on culture-bound syndromes. I mean, several of those are still talked about in clinical practice as well. 
+
+00:26:10
+TRACIE COLLINS So the role that cultural influences play when I'm considering a diagnosis is really… It's more of my skill set to actually take a patient's complaints and their symptoms and understand how they translate into the language that's used in the DSM-5 and ICD-10 to categorize these patients. So those two approaches to diagnosing mental health disorders, they are not culturally sensitivity or culturally tailored. The tailoring comes from the clinician. 
+
+00:26:45
+SIOBHAN DOHERTY An example of a cultural factor to consider can be found with a disorder, schizophrenia. A feature of this disorder maybe hallucinations. However, auditory hallucinations of a religious nature, such as an individual, believing that they hear the voice of God, maybe a normal aspect of certain cultures. Thus, they may not be a marker that contributes to a diagnosis of schizophrenia from an individual coming from that culture. 
+
+00:27:15
+TRACIE COLLINS Those differences and their impact on how I make a diagnosis and the use of the DSM-5 or ICD-10 to make that diagnosis, it's really my effort and digesting and interpreting what a patient has just told me and taking that language and then applying it to what I think is the language of the DSM-5, so making them compatible. So as the clinician I have to do the work to translate what a patient has said and then look at DSM-5 to say, oh, here is the diagnosis that fits for this patient. But the DSM-5 again is not culturally tailored. It, there is not a section in there or component of the diagnosis that says, For a patient who's of this advancity or this culture, they may describe this list of symptoms. The symptoms are very uh… descriptive and very standardize. 
+
+00:28:10
+SIOBHAN DOHERTY Having a standard criteria, allows the clinician to translate the patient's behavior and verbiage into a diagnosis. This gives the patient and the clinician a greater sense of the patient's symptoms and puts them on the path to recovery. 
+
+00:28:25
+MATTHEW MACALUSO I think this video series is a nice one for people learning DSM-5 because it reviews the diagnostic criteria. And so clinicians need to realize that the diagnostic criteria were not handed down by Moses on stone tablets, they are manmade. And so they are fallible to some degree and they will not, can't necessarily capture every patient's umm… uh… symptomatology. DSM even cautions that it's system be used as a guide. It is the best guide we have and it is our definitive language for communicating the symptoms that patients have in terms of mental disorders. And so I hope people will take a look at this video series and use it to learn the criteria and also learn the diagnostic codes and how they crosswalk with ICD. 
+
+00:29:15
+Produced by 
+
+00:29:15
+Classroom Productions, INC. 
+
+00:29:15
+Technical Advisors 
+
+00:29:15
+Dr. Tracie Collins, MD, MPH 
+
+00:29:15
+Dr. Matthew Macaluso, D.O. 
+
+00:29:15
+Mary Llenell Paz, MS 
+
+00:29:15
+Directed by 
+
+00:29:15
+Sean Harrigan 
+
+00:29:15
+Written by 
+
+00:29:15
+Sean Harrigan 
+
+00:29:15
+Siobhan Doherty 
+
+00:29:15
+Script Editor 
+
+00:29:15
+Pandora Suderman 
+
+00:29:15
+Production Coordinator 
+
+00:29:15
+Siobhan Doherty 
+
+00:29:15
+Field Production 
+
+00:29:15
+Amanda Buffington 
+
+00:29:15
+Hannah Huff 
+
+00:29:15
+Merlin Huff 
+
+00:29:15
+Featured Cast 
+
+00:29:15
+Anatasha Blakely 
+
+00:29:15
+Ross Crain 
+
+00:29:15
+Siobhan Doherty 
+
+00:29:15
+Brett Duggan 
+
+00:29:15
+Abbey Grace 
+
+00:29:15
+Zach Hallett 
+
+00:29:15
+Jim Harrigan 
+
+00:29:15
+Sean Harrigan 
+
+00:29:15
+Kristen Henley 
+
+00:29:15
+Hannah Huff 
+
+00:29:15
+Merlin Huff 
+
+00:29:15
+Dennis Hurley 
+
+00:29:15
+Jason Ko 
+
+00:29:15
+Matt Koenig 
+
+00:29:15
+Amy Landon 
+
+00:29:15
+Maribel Martinez 
+
+00:29:15
+Marissa Moosekian 
+
+00:29:15
+Bree Murphy 
+
+00:29:15
+Alan Ramos 
+
+00:29:15
+Diana Sanchez-Vega 
+
+00:29:15
+David Santana 
+
+00:29:15
+Jennifer Shaevitz 
+
+00:29:15
+Bette Smith 
+
+00:29:15
+Eddie Smith 
+
+00:29:15
+Lindsay Smith 
+
+00:29:15
+Miller Tai 
+
+00:29:15
+Narration 
+
+00:29:15
+Siobhan Doherty 
+
+00:29:15
+Post-Production 
+
+00:29:15
+Sean Harrigan 
+
+00:29:15
+Robert Suderman 
+
+00:29:15
+Property of 
+
+00:29:15
+Classroom Productions, Inc. 
+
+00:29:15
+Copyright 2016 
+
+00:29:15
+All Rights Reserved 
+
+00:29:40
+END TRANSCRIPTION 

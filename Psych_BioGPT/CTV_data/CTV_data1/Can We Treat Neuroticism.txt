@@ -1,0 +1,440 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The Evolution of Psychotherapy 2013 December 11 - 15 
+
+00:00:00
+BETTY ALICE ERICKSONS Good afternoon everyone. I'm Betty Alice Ericksons and I am the moderator for point counter point three. And our first presenter is Dr. David Barlow, can we trust neuroticism? Can we treat? Can we treat? He's a bad guy. Okay. And I have-- I wanna give little introduction about him. He, uhm, the founder Director Emeritus of the Center for Anxiety and Related Disorders at Boston University. A prolific writer over 500 articles and contributions to 60 books. Ah, he's been numerous awards including the James McKeen Fellow, fellow award for lifetime achievement in psychological research which is pretty good. And our discussing is Francine Shapiro who is began EMDR many years ago, uhm, she will be the next presenter but she's the point counter point. Ah, EMDR has a great deal of research showing his efficacy including for the Department of Defense in the American Psychiatric Association. She's also receive numerous awards and honors including the Sigmund Freud Award for psychotherapy, ah, from the city of Vienna Austria which is pretty and the trauma division of the APA for outstanding contributions to practice in trauma. Ah, there will be, uhm,-- the speaker will speak for an hour. Francine will have 15 minutes and there will be 15 minutes allowed for questions. Please use the microphones and speak clearly so I don't have to repeat your questions, okay? And with that Dr. Barlow. 
+
+00:02:20
+Can we Treat Neuroticism: December, 2013: The Evolution of Psychotherapy David H. Barlow. PhD, ABPP Professor Psychology and Psychiatry Founder and Director Emeritus, Center For Anxiety & Related Disorders Boston University CARD Center for Anxiety and Related Disorders 
+
+00:02:20
+DAVID BARLOW Thank you very much. Thank you my pleasure to, uhm, be here this afternoon and to have the opportunity in front of this, ah, a gust group from around the world to present of our new ideas particularly the rather radical one can we treat or trust. Ah, neuroticism take your pick. Uhm, the genesis of this notion is really 40 years of research now on, ah, almost 50 have to say on treating, ah, what we're increasingly calling disorders of emotion. And the establishment first of some empirically, ah, evidence base to principles particularly exposure therapy back in the 70s moving to treatments that were more tailored to or individual DSM defined anxiety and mood disorders. And then, uhm, you know, stepping back and beginning to rethink, "Well, what it is we're treating?" So I give you a little bit of background on that and going to some of the, uhm, major, ah, ah, premises. 
+
+00:03:40
+DSM IV Anxiety sand Mood Disorders ￭ Substantial phenotypic overlap ￭ High comorbidity ￭ Necessity of NOS diagnoses (mostly GAD) ￭ Subthreshold presentations (mostly OCD, MAD & SAD) ￭ Higher order dimensions account for covariance among DSM IV constructs 
+
+00:03:45
+DAVID BARLOW Ah, uhm, this morning I gave a, ah, workshop on the treatment is emanating from this and showed this slide simply as the way of background noting that-- although the DSM disorders brought some clear improvements in terms of diagnosis over what proceeded it the DSM III and on I'm speaking about in 1980 particularly in terms of the precision and reliability with which we could identify, uhm, emotional disorders anxiety and mood disorders therefore making it possible for clinicians to actually talk to each other about what they were treating and talk about treatments. Nevertheless, uhm, is become increasingly clear through they recently publish DSM V that there are, ah, problems such as substantial overlap among disorders very high comorbidity. The necessity of diagnosing, ah, disorders where clearly people present with anxiety or depression but don't really quite meet the definitions of this very, very narrow slices of it's like pathology that, ah, comprise the disorders. Ah, also subthreshold presentations where they seem to have the requisite, ah, kinds of, ah, symptoms but they're not, uhm, sever enough or impairing enough to really meet, ah, ah, criteria for disorder. Nevertheless they, as I mention this morning they are very, ah, ah, ominous signs for the development disorders down the road so therefore need to be taken seriously. And finally the increasing notion that higher order dimensions something near endear to the heart of many health professionals higher order dimensions might do a better job of accounting for, ah, descriptive, uhm, ah, psychopathology than categorical dimensions. 
+
+00:05:50
+DSM IV ￭ "Zenith of splitting" (reliably identified but narrow slices of psychopathology) DSM-5 ￭ "Return to lumping" (based on the deepening knowledge of underlying dimensions of psychopathology and supporting brain circuitry) 
+
+00:05:50
+DAVID BARLOW In DSM IV just to elaborate on that background a bit the-- which was completed that as you may remember in the-- some of you may remember in the early 90s. The, uhm, notion was that we had probably split this disorders as much as we were ever going to and, and this classip-- in the world of classification which is a small world the science of classification this kind of two groups. You know, every little area has their, ah, you know, controversies and there people on each side of the controversy but at one side and nosology are the splitters and these were the people looking forever kind of smaller slices of psychopathology that have the advantage of being define very clearly and easily research. Where are the other side of the coin is the lumpers the people who say that, you know, we better off looking for what these orders have common. Ah, as suppose to what differentiates them. And this has been the big controversy and classification nosology going back, uhm, ah, 30 years. Well, where DSM splitters clearly one and with the publication of DSM IV even everybody in the task force, uhm, agree that we had probably the zenith of splitting and it was the time to return to, you know, more dimensional kind of, ah, lumping approach. And everyone thought particularly since it was going to be, ah, or it turns out to be just about 20 years on the nose, ah, before the appearance of DSM V. The DSM V would be the occasion for this, it's, ah, having settlement DSM IV task force It was interesting to see many of the, ah, proposals come through. And it was very clear to time for example in the personality disorders where everybody agrees when need dimensional approaches. Every clinician, every, uhm, you know, researcher working in personality disorders and personality traits. Ah, we thought back in the early that there would be, uhm, sufficient consensus to come up with the set of dimensions on which we could array the personality disorders and get away from this, you know, clearly unreliable, ah, access to categories as we call them then. And we waited and waited and finally it became clear that individuals working full time in this area on the work group couldn't agree among themselves what these dimensions would be. And so for that reason nothing really, ah, change. But again we thought that by DSM V certainly they will not, that will not be the case. Well, as you know DSM V was published, ah, last May finally. And what happen to them and move disorders? 
+
+00:08:55
+Metastructure of DSM 5 ANXIETY DISORDERS Separation Anxiety Disorder Selective Mutism Rank Disorder Agoraphobia Specific Phobia Social Anxiety Disorder (Social Phobia) Generalized Anxiety Disorder Substance Induced Anxiety Disorder Anxiety Disorder Attributable to Another Medical Condition Anxiety Disorder Not Elsewhere Classified Rank Attack 
+
+00:08:55
+DAVID BARLOW Well here is the list of, uhm, here's the metastructure of DSM V anxiety disorders and you can see, that there are a number of new disorders for example separation anxiety disorders now been extended into adulthood. Selective mutism has been more over from disorders of the childhood, uhm, and the like but you can probably also see what's missing from the anxiety disorders. It won't take it long to see that PKST is missing no longer one of the anxiety disorders. Obsessive-compulsive disorder is now missing, what happen to them? 
+
+00:09:40
+OSSEIVE COMPULSIVE AND RELATED DISORDERS Obsessive-compulsive Disorder Body Dysmorphic Disorder Hoarding Disorder Trichotillomania (Hair-Pulling) Disorder Excoriation (Skin-Picking) Disorder Substance-Induced Obsessive-Compulsive, or Related Disorders Obsessive-Compulsive, or Related Disorder Attributable to Another Medical Condition Obsessive-Compulsive, or Related Disorder Not Elsewhere Classified 
+
+00:09:40
+DAVID BARLOW They have their own new grouping. Ah, so Here's obsessive-compulsive and related disorders. Notice in this group now is body dysmorphic disorder having moved over from the somatic disorders now called the somatic symptom disorders. Hoarding's brand new disorder, ah, in the nomenclature for the first time. Trichotillamania is been around a while but under impulse control disorders. And look at the next one excoriation disorder that appear out of absolutely no where. It wasn't even in the appendix of DSM IV. Most people don't even know what it mean, you know, ah, in our field but it reach the status of a full disorder, ah, it's, ah, skin picking and, ah, habitual to the point of doing damage, ah, to your skin so very much like trichotillamania except your skin rather than your hair. Uhm, and so-- and, ah, and so on. And what about the PTST? 
+
+00:10:45
+TRAUMA AND STRESSOR RELATED DISORDERS Reactive Attachment Disorder Disinhibited Social Engagement Disorder Acute Stress Disorder Adjustment Disorders Trauman- or Stressor- Related Disorder Not Elsewhere Classified 
+
+00:10:45
+DAVID BARLOW Also out to the anxiety disorders in its own class of trauma and stressful related disorders our colleagues in trauma had been arguing for this for a long time although it was very controversial e-- they argued for when DSM IV didn't make it. Ah, but now once again its made. You'll notice the attachment disorders have move into this category but you may also notice they been split in two to the brand new one is disinhibited social engagement disorder. Ah, spit off from reactive attachment disorder for the kids who, ah, you know, seemingly have no limits no boundaries on the kinds of relationships they may engage growing out of traumatic, ah, kinda parenting styles. Acute Stress Disorder is there, ah, the adjustment disorders are growing here for the first time it make some sense from kind of a symmetrical point of view. But the net result is rather than lumping this is the whole point in this group of disorders we now have 10 new disorders. So we have spit even further. We have split these disorders from what they-- how they adjusted in DSM IV even further. Although some of them were brought in from other areas and just transferred. 
+
+00:12:05
+Higher Order Dimensions: (Temperaments) ￭ Neuroticism (Introversion) - Eysenck ￭ Behavioral Inhibition System: Behavioral Activation System (BIS-BAS) - Gray ￭ Behavioral Inhibition - Kagan ￭ Negative Affect: Positive affect (NA-PA) - Tellegen, Clark, Watson ￭ Trait anxiety -(Barlow, 1988, Cattel, 1953) 
+
+00:12:05
+DAVID BARLOW All the while this way going on. All the past decades our colleagues have been studying, ah, personality, temperament and traits. And, uhm, the research certainly has, ah, progress to the point where we know a lot more about each temperaments and trades that we did, ah, a number of years ago. The notion of a temperament or trait is a kind of, ah, ah, pattern of behavior as you well know where the strong biological component that's relavely--, ah, relatively, ah, consistent and endurable overtime. Ah, for the most part immutable although there might be some variation but that, you know, once an introvert always an introvert that kind of thing. And so these are the kind of assumptions that go with this field and now the assumption certainly I was taught in school going back to the 60s and I expect most of you were, ah, too. Ah, there are some traditions in studying temperaments particularly more negative affect perhaps the earliest one is, ah, neuroticism the temperament on neuroticism not neurosis itself but it grew out of the term neurosis. Ah, originated by Eysenck in the 40s. Eysenck even said back in the 40s that, uhm, and it's, uhm, you know, it's a bit unfortunate we had to call it neurosis, uhm, but, uhm, most people if we do call I mean it, it's, ah, it's a bit unfortunate we have to call it neuroticism because of its relationship to the clinical term in the 40s neurosis. He said-- but nevertheless most people really know, you know, what we're talking about with, ah, temperament. So he named it, ah, neuroticism. Ah, Jeffrey Gray one of his student, ah, head of the Maudsley at the UK studying the, the behavioral and ambition system, behavioral activation system. Ah, along with all of these temperaments and traits there were accompanied by strong biological theorizing on the neurobiological substrates of, ah, a syndrome each person had their own kind of, ah, model of what parts of the brain will contributed the most. Ah, Jerry Kagan up at, ah, Harvard for years had his own definition of behavioral innovation which was slightly different in Jeffrey Gray's. And he look at this trait in young infants as you may know and follow these kids and it was particularly interested in, ah, the kind of seemingly, ah, inhibited behavior in social anxiety that grow out of this, ah, trait that, ah, would, ah, last well into, ah, childhood and sometimes longer. Uhm, in the Midwest Auke Tellegen at Minnesota and his students Lee Anna Clark and David Watson was studying the negative effect, positive affect kind of, ah, uhm, dichotomy in their circumflex approaches to, ah, emotion and these rese-- these concepts the great deal of attention. As to the term trait anxiety going back to, ah, James McKeen Cattell back in the, ah, ah, '60s and we pick it up a bit in th '80s. But again as I mention this morning when we stopped and look at all these different temperaments and traits we found that there was much more, ah, in common to the definitions and to the characteristics of these traits than where their issues that made them distinct. Even though there were somewhat different neurobiological underpinnings that were posited by, ah, each investigator and a differences around the edges. But when we, ah, subjected it to some, ah, modeling my colleague Tim Brown and I. 
+
+00:16:05
+￭ Trait Anxiety / Neuroticism / Behavioral Inhibition (A/N/BI) ￭ Behavioral activation / Positive Affect (BA/P) 
+
+00:16:05
+DAVID BARLOW We really find-- we found we could boil this down to what's basically, ah, negative temperament if you like and positive tem-- temperament. The negative temperament, the name still most recognizable and, ah, adapted most widely is, uhm, neuroticism and for the more positive temperament we still use the term, ah, positive affect or perhaps behavioral activation but mostly positive affect. 
+
+00:16:35
+-.36* Positive Affect Negative Affect .50* -.29* -.28* -.67* .74* .65* .43* .31* .33* Depression .45* Generalized Anxiety Disorder .58* Panic Disorder/ Agoraphobia .81* Obsessive-Compulsive Disorder .76* Social Phobia Brown, T. A., Chorpita, B. F., & Barlow, D. H.,1998. 
+
+00:16:35
+DAVID BARLOW And it is these two temperaments that cover almost all of the covariance in the emotional disorders particularly the temporal covariance. So for example you'll see in this slide I have a point of here but you see the very strong contribution of negative affect to neuroticism as we now call it to this group of disorders in some research publish 15 years ago depression for the anxiety disorders. And you see the positive affect temperament of trait contributing to some of the disorders in the form of low positive affect and that of course will be depression where low positive affect is a defining feature, anhedonia and, ah, related concepts but also social anxiety disorder and more recent when we discover to go our phobia characterize by low positive affect. Interesting that in the latitude conditions both characterize by a real positive in drying up the a personal network and relationships to the nature of the pathology and that they will have something to do with it. 
+
+00:17:40
+Temporal Course of Temperamental Dimensions ￭ N = 605 ￭ 75% treated at CARD o followed for 2 years whether treated or not. ￭ Principal DX: Unipolar Mood, GAD, Social Anxiety ￭ Broad patterns of comorbidity Brown, T. A. 2007 
+
+00:17:40
+DAVID BARLOW But, uhm, here's just one study illustrating the, the, ah, the way as at these temperaments can account for. The, ah, kind of variants among this emotional disorders that Tim Brown is publishing the journal of abnormal we took like over 600 consecutive admissions to our clinic with principle diagnosis and that just means the most severe diagnosis. Of, ah, depression unipolar, ah, mood major depressive disorder that it be. Uhm, GAD, ah, Social Anxiety and we chose those for variety of more logistical and, and practical reasons. We've since replicated it was other disorders but all of these patients presented with broad patterns of comorbidity. 
+
+00:18:35
+Conceptualization All constructs dimensionalized as: ￭ N/BI ￭ BA/P ￭ DEP ￭ SOC ￭ GAD 
+
+00:18:40
+DAVID BARLOW And so in order to do this, ah, structural equation modeling we, uhm, dimensionalized the constructs as you, as you have to, to either neuroticism that's N/BI behavioral inhibition or positive temperament which to be behavioral activation positive affect that's the first two. And then three disorder constructs which will be depression, social anxiety and generalize anxiety disorder. And what we did was we followed this patients over two years. 
+
+00:19:10
+Generalized Anxiety Disorder Model-Impled Trajectories of DSM-IV Disorder Constructs as a Function of Neuroticism/Behavioral Inhibition. Note. N/BI - Neuroticism/Behavioral Inhibition. (N=606). 
+
+00:19:15
+DAVID BARLOW So, uhm, about 75% we treated in our clinic about 25% weren't we put that aside but we basically look to the relationship with this constructs going out, ah, two years. And I'm just showing you the graph for, ah, GAD but basically what we found is that as you can see from the, ah, graph here that the severity of the disorder was almost fully accounted for by the severity of the underlying temperament. The higher the levels of neuroticism negative affect the more severe the GAD, ah, in immediate low etcetera. The, uhm,-- and further more the temporal trajectory, so this slide seems to have disappeared a bit but the first data point is initial assessment. The second one is one year follow up and the third is a two-year follow up. Because the temporal cause of the condition among patients was fully accounted for. That meaning all the temporal covariance was accounted for by the higher order temperament. In fact the severity of the disorder itself GAD didn't predict anything. If anything the more severe people, people more severe GAD did a little better maybe because of aggression to domain. But basically, statistically it didn't predict anything all the significant relationships in terms of the accounting for the covariance were accounted for the temperament. 
+
+00:20:55
+Some results and future questions BA/P most stable Largest effect size for N/BI Disorder effect size intermediate More server N/BI is associated with smaller of effects Do changes in N/BI mediate overall change? Is the Axis I and II destination a false dichotomy? 
+
+00:20:55
+DAVID BARLOW And that was replicated with the other disorders, social anxiety disorder and most recently is been replicated with depression. Suggesting perhaps that, uhm, this just summarize some of the things that I said. Suggesting perhaps maybe we're focusing on the wrong kind of set-- of symptoms maybe we should really given the impact of neuroticism as a predictor on cause and a major contributor to the, ah, phenotype type of this disorders that maybe we should be focusing more on that from a treatment point of view. Uhm, the other interesting thing from this study is that some of the largest affect sizes that is some of the most change that occurred in the temperament. Uhm, more so even in the, the, the disorder-- the, the constructs measuring, ah, ah, GAD and social anxiety suggesting-- well maybe, you know, these, ah, temperaments are not quite as a beautiful as we had here to for assume given the strong biological contribution. Ah, we wonder at, ah, this time if the changes and this temperament mediated overall change as it seem to but we didn't test that directly. And we also wanted if access one and access two was the false dichotomy and as you may know in DSM V that distinction has now been eliminated so there are no more access. 
+
+00:22:35
+Origins of Trait Anxiety/Neuroticism Triple Vulnerability Theory Barlow, D. H., 2000; Suárez, L., Bennett, S., Goldstein, C., & Barlow, D.H. (2009). 
+
+00:22:40
+DAVID BARLOW So given the seeming importance of the, the temperament of, ah, trade anxiety and neuroticism, where does it come from? Again, remember our resumptions that it's some kind of fix biological genetically, ah, ah, mediated, ah, stable personality feature that sticks with us whole life. 
+
+00:23:05
+Independent Vulnerabilities Biological Vulnerability (heritable contribution to negative affect) ? "Glass is half empty" ? Irritable ? Driven Generalized Psychological Vulnerability (sense that events are uncomfortable/unpredictable) ? Tendency towards lack of self-confidence ? Low self-esteem ? Inability to cope Specific Psychological Vulnerability (e.g., physical sensations are potentially dangerous) Hypochondriac? Nonclinical panic? 
+
+00:23:05
+DAVID BARLOW But people who look closely at this know that really isn't the case. They clearly is a heritable, ah, contribution to genetic affect but there's also we've known for decades a very strong psychological contribution to the origins of, ah, temperament. 
+
+00:23:25
+Generalized Biological Vulnerability Polygenic Model of Vulnerability ￭ "Susceptibility genese... represent particular allelic variations of common genes." (Rutter, Moffitt, & Caspi, 2006) ￭ "Gene discovery... is, on its own, unlikely to allow us to carve nature at its joints." (Kendler, 2008) 
+
+00:23:25
+DAVID BARLOW Uhm, to take the biological one first, all of our leading behavioral geneticist looking at, uhm, this concept say, "There is no abnormal genes we're going to find. There is no single gene. There is no group of genes that at somehow going to turn out to be pathological. This is just a normal allelic variations of common genes." And that, uhm, you know, every week in the news paper I don't have to tell you read about, "Oh, we found the gene for bipolar. Oh, we found the gene for panic disorders." Never replicate it, never turns out to be the case. The leading behavioral geneticist say it's a fool's errand. You know, it's just not going to happen this is the kind of genetic contribution we're going to find for most forms of psychopathology. Of course it's possible they could be wrong. Pos-- possible they could all be wrong but this is what they way and these are the leading guys, ah, Michael Router and, ah, Ken Kendler and, and, ah, ah, Avshalom Caspi and those people. 
+
+00:24:35
+Generealized Psychological Vulnerability 
+
+00:24:35
+DAVID BARLOW So, uhm, there is a clear contribution of someway 0.30, 50% from this, ah, genetically base, ah, ah, factor. But of course when we sight that statistic and this is something that's change and certainly I was in school and probably most of any of you too, not most of you. But, ah, we've discovered, you know, dynamic gene environment interactions, you know, and this is just absolutely late waste to the nature nurture arguments because, ah, obviously, ah, you, you can have a, a genetic predisposition lying fellow and does not turned on by certain environmental events there's never going to manifest itself. So, it's-- there for me is well not exist if that happens, but clearly the genetic, ah, kind of biological disposition has there but it has to be turned on this constraining in some ways to it have to be turned on. What are these environmental events? 
+
+00:25:35
+Generalized Psychological Vulnerability ￭ Early disruptive experiences produce a (permanent) sense (schema) of unpredictability, uncontrollability, and an inability to cope with potentially threatening events. "Experimental Neurosis" - Pavlov, Masserman, Liddell (Mineka & Kihlstrom, 1978). ￭ These experiences are associated with stable change in brain structure and function, including gene expression. (Sapolsky 2007; Gillespie & Nemeroff, 2007; Spinelli, Chefer, Suomi, Higley, Barr, & Stein, 2009.) ￭ Disruptive early experiences are not restricted to early trauma - other experiences such as certain parenting styles induce diminished sense of personal control. (Chorpita & Barlow, 1998.) ￭ Consequence is not any one specific disorder. 
+
+00:25:40
+DAVID BARLOW I've summarize a lot of research here pointing out first of all that we've know from the 1940, that, uhm, in the animal laboratories and series of classic experiments that subjecting animals to early disruptive experiences that instill a sense the their environment is unpredictable uncontrollable place. In other words, ah, conflict paradigms that are insoluble, etcetera, to get food or avoid shock, you know, those kinds of old, ah, psychology paradigms. Uhm, produce what was called then interestingly enough experimental neurosis going back to the, that era. Now no one ever seriously though that had some parallel to human neurosis until, you know, ah, Sue Mineka and John Kihlstrom and those people came along in the 70s and say, "You know all these paradigms that where the experiment on neurosis paradigms what they all have in common is that they produce the sense of uncontrollability, unpredictability and maybe that's at the core of this kind of psychological, uhm, development." Ah, since then that has been replicated many times and what we've discover base on the work of some of our leading, ah, neuroscientist is that these experience both animals and in, ah, humans operate through relatively well articulated brain mechanisms, brain mechanisms at this point. His early experiences do change brain function as the environment changing the brain function not the other way around and, ah, some of these, ah, observations hold up, uhm, decades later. And further more and I'll say more about this in a minute but further more they're not just restricted to like early traumatic environments. There are-- they are also clearly from all the work from our attachment theorist, ah, investigators come out a parenting styles. The same kind of, ah, picture, psychological picture comes out of what you'll recognize when I use the catch terms for at these days we use to call it, ah, helicopter parents but now in the, ah, Northeast at least we call them snowplow parents. And basically this parenting style is one was well meaning parents often but not always the mother is bound and determine that no negative experiences will be fall their child they will clear the way. They will have the best friends, the best teachers. They will never experience failure. Damn it if it kills them. And, ah, they're often tense about it, ah, and, and, ah, it's a style of parenting. Well, guess what to sort of summarize a lot of research most of it out of attachment theory. Ah, the world is a difficult place. The word's kinda tough. These kids to get to be adolescent and when they do confront, ah, adversity and failure they have no clue how to deal with it. They become helpless and develop a sense of uncontrollability which they've had all along. Whereas again right out attachment theory 101 you get some, ah, children who know they have a safe object, the safe place to go. Ah, but they can venture away from that same place they can fall down, they can experience some adversity but they learn they can pick themselves up and they have a safe place to go. They venture further. They develop a resilience against this, ah, notion. That's at least, uhm, you know, that-- that's a six hour workshop too but that's the brief, uhm, 30,000 foot flight over of that kind of, ah, literature. Ah, and ah, further more and this is I think one of the biggest things to come out to this literature is that up until now looking at the-- this information as we always have with our, you know, binoculars on and touching one part of the elephant, ah, kind of metaphor. Uhm, we've assume that, well, this we-- in that, in the case of early adverse experiences, you know, ah, difficult, ah, growing up, ah, to some traumatic kinds of growing up periods that, uhm, this will lead to kind of a generalized traumatic reaction, you know, and there's even, ah, most proposal to include these, uhm, you know, in, uhm, DSM V from some of my good colleagues. But what's missed here is that this underlies all emotional disorders, it is not unique to somebody coming out with the trauma picture. It's part of all of the negative emotional disorders and you can find it, you can find these kinds of experiences. Ah, what it contributes to is in my view neuroticism not a specific manifestation over an emotional disorder but neuroticism itself. 
+
+00:30:55
+STRESS loss of control lack of prediction no outlets for frustration chronic threats social subordinance increased corticotrophin -releasing factor reduced inhibitory feedback hypercortisolism Glucocorticoid Cascade hippocampal degeneration damage and exacerbation of insults From Sapolsky, 1992; 2007; Sapolsky et al., 1997 
+
+00:30:55
+DAVID BARLOW Which-- well, I mean these are just briefly, I wanna spend too much time on this, ah, today but this is, ah, briefly, ah, some of the, uhm, neurobiological stuff. This is from Robert Sapolsky he's a wonderful, ah, neuroscientist who study baboons in South Africa. And you can see that the baboons in the tribes that are subjected to this tough experiences growing up. You know, they're beating on. They are the last in line for the food, last in line for the sexual favors. Furthermore there are randomly for no good reason, you know, they develop in fact this, ah, uhm, increase, ah, CRF factor responds, ah, is the kind of brain changes on talking about is the function of this early, early adverse experience. Ah, hypercortisolism, uhm, the hippocampus in addition to serving on memories also serves to regulate this hypercortisolism. But much like a car engine running on high forever, you know, if this just continues as hypercortisolism burns it out. You get shrinkage of the hippocampus and as been demonstrated not just in trauma but across all of the emotional, ah, disorders. Fortunately, it seems to be reversible it's gets to end of my talk on treating. It seems to be reversible with appropriate kinds of, ah, treatment. 
+
+00:32:25
+Effect Sizes (d) for Hypothalamic-Pituitary-Adrenocortical Outcomes According to Stress Cortisol Daily Output Daily Output Nature of threat D SE Physical treatment +0.46 0.07 Social Threat -0.04 0.11 Traumatic Stressor +0.51 0.07 Uncontrollable +0.43 0.06 Potentially controllable -0.04 0.11 Loss -0.06 0.07 Shame +0.07 0.09 Miller, G.E., Chen, E., & Zhou, E. S., 2007 
+
+00:32:25
+DAVID BARLOW So, and also we see it in humans work of, ah, Greg Miller Chen and Zhou. We see the same kind of effect of uncontrollable events, it's experiences by the way. 
+
+00:32:35
+STRESS loss of control lack of prediction no outlets for frustration chronic threats social subordinance increased corticotrophin -releasing factor reduced inhibitory feedback hypercortisolism Glucocorticoid Cascade hippocampal degeneration damage and exacerbation of insults From Sapolsky, 1992; 2007; Sapolsky et al., 1997 
+
+00:32:35
+DAVID BARLOW You this random, ah, beadings and kind of bullying, is what it is, it's bullying among this baboons. You know, it bears a really kind of striking resemblance to some of our middle schools. 
+
+00:32:45
+Diatheses Synergistic Vulnerabilities BIOLOGICAL VULNERABILITY GENERALIZED PSYCHOLOGICAL VULNERABILITY STRESS GENERALIZED ANXIETY FALSE ALAMRS (PANIC) Depression 
+
+00:32:50
+DAVID BARLOW So what we have is, uhm, this genetic predisposition very clearly exist but needs to be turned on. Then we have this environmental mends that turn it on and coming together, you know, our, ah, idea is that this is what, ah, contributes to the development of a neurotic temperament. And then out of this temperament that then vulnerability to certain disorders, uhm, occurs. So the last step is, and again this is very brief. But the last step is well, what cause this one disorder to occur rather than another. You know, given this, uhm, neurotic temperament. And let me skip over this. 
+
+00:33:30
+Independent Vulnerabilities Biological Vulnerability (heritable contribution to negative affect) ? "Glass is half empty" ? Irritable ? Driven Generalized Psychological Vulnerability (sense that events are uncomfortable/unpredictable) ? Tendency towards lack of self-confidence ? Low self-esteem ? Inability to cope Specific Psychological Vulnerability (e.g., physical sensations are potentially dangerous) Hypochondriac? Nonclinical panic? Specific Psychological Vulnerability (e.g., physical sensations are potentially dangerous) Hypochondriac? Nonclinical panic? 
+
+00:33:35
+DAVID BARLOW And for here, we talk about specific psychological vulnerabilities. These are kind of also early learning experiences but somewhat down the road from the early adverse experiences. And, ah, basically you learn way to focus your anxiety. You learning the way to focus it. So for example-- and this implies just to certain disorders. Uhm, just about couple a bit the disorders of generalized anxiety disorder to some extent depression which seems to be the flip side of the coin. They seem to be purist expressions of the neurotic temperament, ah, many people think GAD is basically the clinical manifestation of, of neurosis. There was even some papers back around DSM IV time this is the basic anxiety disorder. And in the sense it is because it's so highly comorbidity of early disorders but the point they were missing on that is probably the temperament. You know, this is associated with all the anxiety disorders. Depression seems to emerge out of this back ground of, ah, sense of uncontrollability, ah, unpredictability and reflects kind of the helpless notion of giving up in many cases. So, anyway what about the other disorders. 
+
+00:34:50
+Specific Psychological Vulnerabilities "Thinking an evil thought is as bad as doing it" (Thought action tusion rigid codes of conduct-excessive responsibility-religiosity) SOCIAL ANXIETY "Always look your best" (Social evaluation is dangerous and threatening) PANIC DISORDER "If you're sick-go right to bed-avoid strenuous activities" (Physical symptoms and sensations are potentially dangerous) SPECIFIC PHOBIA "Watch out for dogs (snakes, heights, thunderstorms)" OTHER DISORDERS Eating Disorders Somatoform Disorders 
+
+00:34:50
+DAVID BARLOW Well, we know that there in the backgrounds, you know, take this with the grain of salt cuz it's all post talk just looking backwards are just expected. But in the backgrounds of our patients, uhm, we see for example in patients with OCD Obsessive Compulsive Disorder a environment that teaches that evil bad unacceptable thoughts are just as bad as engaging in the behavior a concept that people in OCD call thought action fusion. Uhm, the fundamental religions all the fundamental religions tend to teach this notion there's not to say fundamental religious belief causes OCD, ah, by any means so I did not say that, right? Okay. But, uhm, it does say that there's one method given the other vulnerabilities, you know, that you could possibly learn thought action fusion and given the right stressors can develop into, ah, in OCD like, ah, picture. Social anxiety in the background of, of these individuals is in exaggerated sense of always looking your best. "You know, don't go out with dirty underwear cuz if you get run over by a car and they take you to the hospital and see that they'll-- you'll embarrass the families that sort of thing. Uhm, very, very important, you know, to always presented to your best. So, there's no wonder later on if this holds up and it's true that social anxiety is in the social situations or any occasion to be anxious you might not look your best. Ah, panic disorder and hypochondria, this is by the way, and there's more evidence for this. There's more evidence for this and there background is a notion to that physical symptoms of any kind can potentially be very dangerous and they signify something serious about what happen. Uhm, Michelle Craske has done some research on this with mining families, ah, in New Zealand with your colleagues were very clearly, you know, they were at risk for respiratory disorders and these kids well out, ah, the, the children of these, ah, families without having any particular exposure themselves develop the much higher incidents of panic disorder and hypochondriasis. Uhm, specific phobia. 
+
+00:37:15
+Mediating Emotional Experiences in Genesis of Specific Emotional Disorders 
+
+00:37:15
+DAVID BARLOW So, so anyway we, uhm, posit that there are these vulnerabilities. There is the genetic vulnerability but more importantly we think cuz this generalize psychological vulnerability that comes gathered the approves temperament. And then the shape of the disorder the phenotype of the disorder with which you may show up and all of your offices might also have something to do with early learning experiences modeling, you know, like. But what do emotions have to do with this? Where do emotions come in strong intense emotions? 
+
+00:37:45
+Means and Standard Deviations for Stimulus-Naive Participants on Measures of Emotional Appraisal and Regulation during the First Emotions Induction Measure Clinical Participants Nonclinical Participants MES-A 23.37 (5.22) 26.26 (2.74)* MES-C 12.87 (5.43) 24.04 (4.72) SUPP 3.50 (2.17) 2.11 (2.03)* MRS-R 12.28 (5.50) 11.96 (5.57) MRS-M 15.52 (5.03) 15.67 (4.30) SELF 5.07 (2.64) 6.33 (2.18)** WILL 5.72 (2.48) 6.38 (2.30) Note. Values are mean scores with standard deviations in parentheses. MES-A = Meta Evaluation Scale-Acceptability; MES-C = Meta Evaluation Scale-Clarity; SUPP = Suppression Rating; MRS-R = Meta Regulation Scale-Repair; MRS-M = Meta Regulation Scale-Maintenance; SELF = Self Efficacy Rating; WILL = Willingness Rating. * p < .02 ** p < .05 Campbell-Sills, Barlow, Brown, & Hofmann, 2006. 
+
+00:37:50
+DAVID BARLOW Well we first pick up the-- this-- we know from consecutive studies with missions to our, ah, laboratories that all of our patients with emotional disorders, ah, present with very, ah, similar kinds of attitudes towards the experience of their own emotions. So for example they find their own emotions all of their emotional experience, their emotional life, their inner life. Relatively, uhm, unacceptable, more unacceptable that people load emotional disorders who find those emotions acceptable. They often engage in, uhm, attempts to regulate particularly these intense emotions by suppressing them. They have much less self-efficacy in their ability to control their own emotions. They kind of see their emotions as out of control. Remember that contract of perceptions of uncontrollability it gets put on the intense emotions. 
+
+00:38:55
+Panic Attack SUBJECT I 
+
+00:39:00
+DAVID BARLOW Anyone who seen me give a talk for the last 30 years has seen this slide of a panic attack. This is where we got the idea of what happens to the strong emotions. This is actually a physiological trace of a panic attack that occurred very unexpectedly to the patient who had no clue this was coming so in another words a typical uncured panic attack on that we expected. But you see the massive autonomic serge he experience in heart rate, ah, frontal of CMG and everything and it was down in over so a typical kind of the biological expression of the flight, flight response. But this occurring against the background of someone with a neurotic temperament was totally, uhm, ah, shock to them and they focus their anxiety and distress for ever more in that and had panic attack. So it seems that intense emotion of any kind can lead to, ah, uhm, the, the, ah, this, this kind of, ah, disorder. 
+
+00:40:00
+Interoceptive and Other Forms of Conditioning ￭ Interoceptive conditioning happens - Intestinal dissension ➔ 10% CO2 to trachea Hypercapnic respiratory changes as CR - Pentobarbital ➔ morphine ￭ USs can signal other USs ￭ Small things can signal bigger versions of the same thing - Small alcohol dose signals bigger alcohol dose - Small morphine dose signals bigger morphine dose - Early onset cues signal later aspects of the same event 
+
+00:40:00
+DAVID BARLOW Ah, we know that these emotions can be conditioned if you like to internal cues so there any kind of somatic experience as you may have. Given the right learning experiences could trigger the possible appearance of the intense emotion. That's why, you know, treatment protocol we focus so much on that on the interoceptive somatic cues associated with intense emotion. Ah, it's particularly evident in the anybody's work and the addiction has seen this. For example if you take a heroin addict just to give your dramatic example and you set them up with all the paraphernalia say you're on hospital room. And the needle, of the, ah, tying up the arm, ah, the pads feel needle with the syringe. You tell them it's a syringe, right? They know it. Tell them it's a syringe but they go through the ritual, ah, tap, lifting and you'll tap bring it to the point of injection. The time they get to that point they got 90% of their high already. And that strictly a learning conditioning kind of process very, very powerful, ah, interoceptive, ah, conditioning. 
+
+00:41:10
+Model of the Persistence of Emotional Distress Featuring Perceived Acceptability of Emotions and Emotional Suppression Negative affect Emotion perceived as uncontrollable/unacceptable Effects to suppress Suppressive Fails Emotion perceived as controllable/Acceptable No suppression Mood recovers naturally 
+
+00:41:15
+DAVID BARLOW Uhm, so this was the model then they are the patients, uhm, experie-- they, they perceived, uhm, experience strong and intense negative affect that is after all a definition of neuroticism. They find it, ah, unacceptable and tolerable. They attempt to regulate it in some very maladaptive ways typically by attempting to suppress it or avoid it. Suppression fails as it will when you attempt to regulate internal events and it gets worst. And suppose to people without disorders that don't go through the cycle their emotion repairs generally. And that's why when most people have a panic attack by the way and many, many people do tend to 15% of the population but on occasional panic attack the vast majority of 90% of them never develop disorder. They have we call nonclinical panic attacks. They attributed to, ah, something they ate or, ah, a hard day of work. They're wrong that's not what it should they have the solution of control but nevertheless they're protected a resilient. They never develop a disorder. It's only the people with a neurotic temperament who go on to develop panic disorder. 
+
+00:42:25
+Examples of Avoidance Strategies Behavioral and Interoceptive Avoidance Avoidance Strategy Disorder Often Associated Situational avoidance/escape Avoidance/escape from phobic situations (e.g., crowds, parties, elevators, public speaking, theaters, animals) PD/A, SOC, SPEC Subtle behavioral avoidance Avoidance of eye contact (e.g., wearing sunglasses) SOC Avoidance of sensation-producing activities (e.g., physical exertion, caffeine, hot rooms) PD/A Avoidance of "contaminated" objects (e.g., sinks, toilets, doorknobs, money) OCD Perfectionistic behavior at work or home GAD, SOC, OCD Procrastination (avoidance of emotionally salient tasks) GAD, DEP Repetitive or ritualistic behaviors Compulsive acts (e.g., excessive checking, cleaning) OCD Examples of Avoidance Strategies Cognitive and Emotional Avoidance Avoidance Strategy Disorder Often Associated Cognitive avoidance/escape Dissociation (depersonalization, derealization) PDA, PTSD Distraction (e.g., reading a book, watching television GAD, DEP, PD/A Avoidance of thoughts or memories about trauma PTSD Effort to prevent thoughts from coming into mind OCD, PTSD Worry GAD Rumination DEP Thought Suppression All Disorders Safety Signals Carrying a cell phone PD/A, GAD Holding onto "good luck" charms OCD Carrying water or empty medication bottles PD/A Having reading materials always on hand SOC, GAD Carrying self-protective materials (e.g. mace, siren) PTSD Brown & Barlow, 2009. 
+
+00:42:30
+DAVID BARLOW So, uhm,-- and they avoid they end up as I was saying this morning avoid all kinds of, ah, use every trick in the book to try to avoid, ah, experiencing intense emotion. 
+
+00:42:40
+Case Example 53 year-old white male teacher - "PM" ￭ Traffic accident 6 months earlier - Intrusive recollections and re-experiencing (injured wife's face, sound of impact "crisp like a CD player") - Amnesia for events surrounding accident - Startle response ￭ US Air Force in Vietnam - Recollections and re-experiencing - Avoid war cues - Emotional numbing, nightmares, difficulty sleeping, detachment from others (no longer present) Diagnosis PTSD 6 Anx NOS 5 (GAD) worries about performance, health Brown & Barlow, 2009. 
+
+00:42:40
+DAVID BARLOW Ah, so let me write me this up since we're, ah,-- right, we've got 4 o'clock in this time. Okay. Okay. Uhm, so basically just very briefly recapitulate what we're doing about this now in terms of the title "Can we treat, ah, neuroticism. Uhm, we're re-conceptualizing, ah, went over this, this morning for several hours. But we re-conceptualizing how approach our patients. And we very conceptualizing first of all a, ah, a way of assessing our patients. And this what the patient I happen to see few years ago who unfortunately was double the traumatize. Was first with the very, very bad car accident with major injuries to himself and his wife including his wife's face badly cut up. But secondly he had been to Vietnam and have residual trauma reactions, ah, from that. But he also had, you know, he also had other issues although he was a very good high school teacher he worried excessively about his performance and about his finances about getting sickie some social evaluated concerns. So in general again, ah, comorbid background we would now basically attribute to temperament. And when we were conceptualizing-- you know, if we gonna get away from the DSM system how should we go about it? How should we assess these people? 
+
+00:44:10
+Propossed DSM 5 (or 6) Dimensional Diagnosis of a Case with PTSD Temperament Mood Focus of Anxiety Avoidance 
+
+00:44:10
+DAVID BARLOW We thought we might do it something like this is Tim Brown and myself. And-- well I would wanna know the level of temperament, you know, how much negative affect sort of way, ah, inheritance them. How much depression that they have, maybe how much-- many that they have. And then what was their anxiety or, or, ah, distress really focus on, was it focus on somatic symptoms or panic or other autonomic surges etcetera social concerns. So that patient there who was doubly traumatize, uhm, you and, and this was just my, my figurative, ah, scheme do-- doesn't represent a psychometric kind of, ah, derivation of this traits but here pretty high kind of, ah, ah, negative affect. He some depression no mania. He had some somatic, ah, symptoms but he had this strong autonomic surgeries that were, ah, in the form of flashbacks which of course just panic attacks occurring, ah, with, ah, trauma cues. Ah, no intrusive cognition high, ah, response ability to trauma cues and a fair amount avoidance behavior. We thought it would look something like this which, again look something like and MMPI profile. 
+
+00:45:25
+Multi-dimensional emotional disorders inventory (MEDI) 
+
+00:45:25
+DAVID BARLOW But now, uhm, one of my students is actually develop a questioner so where assessing all over a patients, ah, when we did all of the psychometrics and all the modeling that what I just showed to get twist a little bit and turned out to be this. This is a Jay Rosellini's questioner which should be ready for general distribution in a few months is not quite ready yet. Ah, just doing the final, ah, publishing of it. But it accomplishes a same thing, what's the level of temperament? what's the level of depress move? Where is the anxiety focus, wa-- how much voidance behavior is seems there was is the kind of things clinicians would wanna know. And further more it eliminates the need to worry about comorbidity. To worry about, ah, subthresholds symptoms or NOS symptoms, you know, it just kind of encapsulates the presentation of someone that seems to us with this neurotic temperament who is suffering from emotional disorders. So we think this is a promising thing. 
+
+00:46:25
+Present Status: A Crossroad ￭ Effective treatment, but plenty of room for improvement ￭ Too many distinct protocols-manuals ￭ Protocols still relatively complex-restricting disseminations 
+
+00:46:25
+DAVID BARLOW Uhm, we all know we need better treatments preferably we need to distil the current treatments to get out the basic principles that are affective. 
+
+00:46:40
+Development of a Transdiagnostic Unified Treatment Unified Protocol: A Modular Approach Module 1: Motivation Enhancement for Treatment Engagement (1 session) Module 2: Psychoeducation and Treatment Rationale (1-2 sessions) Module 3: Emotional Awareness Training (1-2 sessions) Module 4: Cognitive Appraisal and Reappraisal (1-2 sessions) Module 5: Emotional Driven Behaviors (EDBs) and Emotional Avoidance (1-2 sessions) Module 6: Interoceptive Awareness and Tolerance (1-2 sessions) Module 7: Situational Exposures 93-6 sessions) Module 8: Relapse (1 session) Development of a Transdiagnostic Unified Treatment 
+
+00:46:40
+DAVID BARLOW And this is what we are trying to do when our transdiagnostic unified, ah, protocol for emotional disorders it is driven by the pathology it's not just a treatment you can apply to anything on the books. It's driven, uhm, our theory of the origins and presentation of neurosis as, ah, disordered negative, negative-- frequent, frequent intense negative emotion that is reacted badly to that is unwanted that is attempted to, ah, that were-- the patient attempts to eliminate it as pretty much the presentation of, ah, neuroticism. And every disorder we think that is characterize by that which pretty much the emotional disorders. 
+
+00:47:25
+Unified Protocol: A Modular Approach Module 1: Motivation Enhancement for Treatment Engagement (1 session) Module 2: Psychoeducation and Treatment Rationale (1-2 sessions) Module 3: Emotional Awareness Training (1-2 sessions) Module 4: Cognitive Appraisal and Reappraisal (1-2 sessions) Module 5: Emotional Driven Behaviors (EDBs) and Emotional Avoidance (1-2 sessions) Module 6: Interoceptive Awareness and Tolerance (1-2 sessions) Module 7: Situational Exposures 93-6 sessions) Module 8: Relapse (1 session) 
+
+00:47:25
+DAVID BARLOW Then my respond to this, ah, treatment which basically targets those features of the disorders. Emotional awareness training make them more aware deal whether appraisals and attributions that all of these modules have the mashable effect on the brain function I was talking about. You know, the hypercortisolemia, the emotional brain neuro-- ah, neuro-circuits shows how even changing attributions to damp in amygdala responds in this etcetera. Uhm, deal with the avoidance behaviors and the other emotion driven behaviors and go through the exercise that we call emotion exposure. Exposure not to the external situation to trigger the emotions although we use them to set up but to the emotions themselves until people come learn to be more resilient to their own emotions. 
+
+00:48:20
+Putative Mechanism of Action ￭ Reduction of experiential emotional avoidance and associated extinction of anxiety and distress triggered by intense emotional experiences ADIS-IV Principal Diagnosis Mean CSR Pre Post F(1,30)= 23.18, p= <.001, ƞр2= .436, d= 176 Proportion Achieving Responder Status and High End-State Functioning: ADIS-IV Principal Diagnosis CSR Study Condition Post-Treatment/WL N %Treatment %HES Responder Fx UP Treatment 22 55% 55% WL Control 10 0% 0% 6-Month Follow-Up N %Treatment %HES Responders FX 20 75% 75% Note: HES Fx= High End-State Functioning. Effects on NA - Up Version 2.0 ￭ Significant effect of time on NA (F 1,13 = 10.55, p<.001) ￭ Clinical significance of change in NA: - Pre-treatment - 27% patients achieved scores within normal range - Post-treatment - increased to 67% (as compared to 56% in study 1) - 6-month follow-up - increased further to 82% Ellard et al., 2012 
+
+00:48:20
+DAVID BARLOW Preliminary data looks, ah, good. I want to show this, this is has been publish it's available if you, ah, want it. Further more it seems we do have a substantial effect on negative affect. And these, ah, patients will be followed to about, ah, six months. Recurrently constructing yet another module that directly address positive affect specifically deficits in positive affect because that maybe needed, you know, in some of this, ah... 
+
+00:48:50
+Post-Training Amygdala Activation Training No training Accept Suppress Worry Post-Training vmPFC Post-Training sgACC Mechanisms of Antidepressant Drug Treatment (a) Increased 5-HT Delay Downstream neuroadaptive effects Improved mood Change in emotional bias (b) Increased 5-HT Downstream neuroadaptive effects Changed in emotional bias Delay Improved mood Fig. 1 (a) Accepted view of the mechanisms underlying the delay in antidepressant drug action; (b) proposed delay in antidepressant action being largely mediated by the translation Take Home Messages ? "Splitting" no longer supported empirically or clinically ? Higher-order temperaments better account for: ? Description of emotional disorders ? Origins of Emotional Disorders ? Developing treatments distill common principles to treat transdiagnostic temperamental features 
+
+00:48:50
+DAVID BARLOW Again some of the changes in, ah, brain function from some of the, ah, modules of my student, Krisnelev's(ph) dissertation. Amygdala, medial, prefrontal context, uhm, etcetera. People who have the kind of training have much less activations in this areas of the brain and the people who don't, ah, when cured. So take home messages we don't think splitting is any longer supported empirically or clinically. Higher-order temperaments better account for emotional disorders and developing treatments that distill a common principles to treat transdiagnostic temperamental features would be we think the way with the future. 
+
+00:49:35
+Thank You David H. Barlow, PhD, ABPP Center for Anxiety and Related Disorders, Boston University www.bu.edu/card 617-353-9610 CARD Center for Anxiety and Related Disorders 
+
+00:49:35
+DAVID BARLOW So thank you very much for your attention. 
+
+00:49:45
+[sil.] 
+
+00:49:50
+FRANCINE SHAPIRO Well, people won't be able to see me. This was, ah, wonderful to hear, uhm, because after working, ah, originating him to a therapy working with it to the past 25 years. We have a very compatible, uhm, model very compatible paradigm. Ah, EMDR therapy is guided by something called the adaptive information processing model. And we basically concur completely that the DSM has been a Chinese menu. You know, X from, you know, column A, X from column B put it together and has that diagnosis. And as Dr. Barlow beautifully pointed out it shifts around goes from, uhm, body dysmorphic disorder or ORSG is that a psychotic disorder. Is that this metaphor disorder, is it, you know, wherever it's now. So, what we're looking at is the experiential contributors to the disorders I'm very interest in hearing the, the notion of the, neuroticism as well as low positive affect. What we might be looking at here with the focus on the adverse life experiences is the notion that the information processing system of the brain is geared to make sense of the world. So if anything I'm perceiving the present has to move into my memory networks to be made sense of. And if I'd never seen a microphone I have no idea what to do with it. If I have I would know what to do with it. But in childhood if someone had repeatedly hit me over the head with the microphone I would have and anxiety or respond. So, what we are looking at whether it initially with post traumatic stress disorder and now with the full range of adverse life experiences is at the high arousal can overcome the informational processing systems ability to distill the appropriate information and learn from it and move it to appropriate resolution that rather would occurs with the higher arousal event is it gets stored in physiologically stored in unprocessed form meaning it has the emotions and physical sensations and belief that were there at the time. So any current situation that triggers it I will feel the anxiety, the shame, the guilt that was potentially there at the time. We might be looking at, ah, neuroticism in terms of the, ah, the uncontrollability, ah, lack of safety and that's what would be causing a arou-- high arousal. We might be looking at the low positive affect as teeming from the experience s in childhood but gave the sense I've not good enough. I'm not worthy. I'm not lovable. And that might be depressing them. So I would very much like to see research on the-- with the scales that you've mention identifying the neuroticism trait and seem the potential that occurs when this adverse life experiences are process we've seen it in the MDR rese-- research for instance that, ah, state anxiety changes and so just trait anxiety. So I agree completely with the notion that were not engrave in stone it isn't a genetic determine predisposition we've also seem clearly with the processing of these adverse life experiences the same change in, in, uhm, brain structures and after six sessions of EMDR the increase in hippocampal volume etcetera. And the beauty of all this I think both conceptualizations is the notion that nobody needs to get left behind old consideration about why you born that way. Well, why do we believe that necessarily? I would certainly believe that in some instances there's higher reactivity to anxiety. Let us say a, ah, weakness in that respond system as some might have a weakness in cardio system or another system but I agree completely that what we're looking is the adverse-- the impact of the adverse life experiences in terms of, ah, in turning that on in, in making sure that there are symptoms. So I would be looking for all of these different PTST anxiety, depression BDD the board li-- the, uh, body dysmorphic disorder or ORS. Whether the specific adverse life experiences that go inside it with the beginning of that particular symptom picture underlying and unifying element is that across the DSM diagnosis it's being push by this unprocessed memories. But if somebody has, uhm, body dysmorphic disorder when did it begin? They may not know if you question them but there are certain techniques we use in the MDR therapy to trace it back. And for instance body dysmorphic disorder, ah, women for 20 years believe she was covered with unsightly hair and had to sit in front of the mirror everyday flocking out very-- every visible hair before she be willing to walk out. When it was trace back it turned out that it was link to a-- an embarrassing that an aunt made about her underarm hair when she was an adolescent. She had no memory of it and then she couldn't trace it back before. But once we trace that back and process the memory the symptoms disappeared. The same thing with old factor reference system, ah, syndrome that was link again to being humiliated because of something that didn't happened in grade school. So, anyone here remember some time being humiliated in grade school? Luckily from most of us it processes we think about it, talk about it, REM sleep when the processing suppose to take place and it's becomes integrated into our other memory networks it's gone for others those experience is linger again it would be in the adaptive information processing model of EMDR therapy it stored with the unprocessed emotions physical sensations and belief. Iconic to that would be the experience with phantom limb pain for instance that people who have had the traumatic event their limb is become damage may often find that they continue to experience pain in a limb that's not there. Well, it can say it's the body cuz the body part is not there but while we've discovered is that in processing the memory of the trauma the-- in 80% of the cases that we've seen in publish, ah, literature there is a substantial reduction or elimination of the phantom limb pain. And if you chart the process or let's say if someone has PTST as well and you chart the process of the treatment which can range anywhere from two sessions to six in most cases. You see a decline in the trauma symptoms a decline in a depression and a decline in the phantom limb pain. So that's one of the indicators that we're saying that these are unprocessed memories that contain emotion, physical sensation, belief etcetera, the processing is able to eliminate it. So I would love to see what occurs in potentially adding EMDR therapy into the mix to identify what those adverse life experiences are for each of the different symptoms that occur that we're looking at, again within EMDR would track down whether it's the onset of the panic disorder process the experience that occurred at that time phobia same thing, dental phobia, the earlier dental experiences that are pushing that phobia. Personality disorder the notion of a rigidified characteristic, whatever the characteristic might be we're saying is base in this cla-- unprocessed memory network and the processing of those memories allow that shift because you get a simultaneous in emotion in belief in somatic response. So the, ah, the notion of the interaction how much might be genetic? How much might be the contribution of the adverse life experiences and looking at it in terms of unified field theory what is the underlying basis in treating those directly. The difference between EMDR and, ah, cognitive behavior therapy let's say is that within behavior-- cognitive behavior therapy there is the use the reorganization of belief or behavior as the agent of change challenging the belief or having the person change the behavior in some way in order to cause some effect. Within EMDR therapy the, ah, belief is that the basis of the pathology by this unprocessed life experiences that have stored in memory the client is prepare in the certain way, the memory is access, process the earlier memory the cousins-- the current situations that would be bringing up the disturbance and extremely importantly templates for appropriate future action that is what new scale might be individual need in order to function healthily because someone with the pervasive development issues of, of neglect etcetera my not have learn the appropriate social skills, interactional skill etcetera necessary. So I would love to see the-- again the research, ah, on the processing of these earlier experience and see to what degree you're seeing the overall shift whether it be in the, ah, realm of neuroticism or below positive affect. But I applaud in looking beyond the Chinese menu, so thank you. 
+
+01:01:00
+[sil.] 
+
+01:01:05
+BETTY ALICE ERICKSONS Ah, now after a two distinguish presenter have given us really good information the floor is open to any, any member of the audience who wants to question them. And she remember to move to the microphone. Oh, he will. Okay, if there's any questions or comments on this very interesting, ah, talk please come to the microphone. I thought to myself that there's a lot of overlap even though there is quite a bit of difference but a large amount of overlap which I think speaks to the ability of psychotherapy to be very different but very inclusive and that was one of the things that I noted in vote of your presentations. And we have a question from a gentlemen here at the microphone. 
+
+01:02:10
+ Thank you. Yes, ah, I have question for Dr. Barlow. Uhm, just wondering you said two months from now, uhm, that questioner will be made available publically. Uhm, would we be able to see this sooner than that, ah, by any chance is there a link to some site personally where we could see it? 
+
+01:02:40
+DAVID BARLOW Uhm, yes-- sorry. I didn't o say two months although I might have-- I might well have said two months. Ah, I did say several months cuz there's some uncertainty in the process and, uhm, I hope it will be ready then until then, since then might me, ah, some changes in some of the, ah, questions, you know, last minute tweaking due to the final psychometric analysis. Ah, I don't think they would want it, ah, ah, distributed but, uhm, I'm just trying to think if there's a way I could give you some, ah, ah, a sample of it. Well, se-- certainly if I should to say that we hope this is ready for distribution fairly soon. And if you wanted to just, ah, email, go-- Google me and email me I, I would get, ah,-- there's a list of people wait for and I'd make sure you got write on that list. 
+
+01:03:30
+ Okay. Thanks. Yup. 
+
+01:03:35
+[sil.] 
+
+01:03:40
+ I have a question for both of you. Uhm, Dr. Barlow mentioned parenting style as something that can affect the child, uhm, how possible is it that various parenting style that cause, ah, issues with children could be, ah, perceived trauma because in EMDR-- as a practitioner of EMDR, uhm, ideal with children who, ah, or adults who have had the childhood experiences that could be perceive as suppose to actual hardcore trauma. 
+
+01:04:30
+DAVID BARLOW Ah, that's always a, a question over there, right? Yeah. 
+
+01:04:30
+ I'm here. 
+
+01:04:30
+DAVID BARLOW Oh, in the middle. All right. 
+
+01:04:35
+ Right here. 
+
+01:04:35
+DAVID BARLOW It's very hard to see up here. We need visors or something. Oh, back there, okay. I'm sorry if I don't look exactly at you. 
+
+01:04:40
+ It's okay. 
+
+01:04:40
+DAVID BARLOW But, uhm, the-- well I think that question is best address to the leading attachment theory researchers who of course are found mostly in the, ah, general of developmental and social psychology. But much of their work is prospective and much of their work, ah, as, ah, you know, in as much as I am familiar with it, uhm, you know, actually, ah, prospectively looks at a styles and outcomes from those styles. And so it seems to go beyond perceptions on the part of the individual at a later point in life as to, ah, what the styles were. So, that's not to reload perceptions. We all know perceptions, ah, ah, very powerful, ah, sometimes the perception are not, ah, for radical as we know, as we've learned a lot from, ah, memories. Uhm, and the, the malleability of memories, ah, also. But I think in the-- in, in terms of the, uhm, the actual attachment literature that literature is pretty solid. There's numerous books, ah, articles that, uhm, you know, have look developmentally at the, the, the, ah, the styles and the, the consequences, ah, of them. So, that, that's my impression but it's again is not directly my area. 
+
+01:06:05
+FRANCINE SHAPIRO Well, thank you. Okay. You know, I, I think that we need a whole redefinition of trauma. Ah, the notion of the major criteria in a events the kidnapping, rape, war, etcetera which we would looking at major trauma but research by mole etcetera, has shown very clearly that general life experiences can cuase even more pe--, ah, trauma-- PTSD symptoms that major trauma. So, through EMDR lenses what we're basically saying is across the board any of these adverse childhood experiences can overwhelm the information processing system and be stored the same way as a any major trauma might be and have lasting effects. So, negative parenting styles are part of the literature on those adverse life experiences. Negative parenting, ah, depress mother, ah, harsh restrictive parenting etcetera all the way down the line. Any of these negative events can have this long lasting affect again from, ah, EMDR for the therapy prospective it's because these e-- these experiences are stored on process in the brain and they continue to have this negative affects through, through to adulthood. We've been able to see clearly that processing these earlier experiences change the attachment, uhm, the child's attachment. And, ah, actually I'll be showing some of it about data during my presentation. 
+
+01:07:55
+DAVID BARLOW The-- there's also the issue to remember, uhm, that using, you know, well known models of the development of any, ah, pathology the higher the, the kind of risk factors. The temperament, the more neuroticism is it like. You know, then the less intense, ah, kind of environment events, ah, you would need to, ah, say turn on the genes or set that, ah, uhm, set off and I think himself send that back in the 40s. Uhm, and so, you know, certainly validates, you know, that notion in psychopathology. 
+
+01:08:40
+BETTY ALICE ERICKSONS Okay. And we can't see from up here. Okay, thank you. Okay. 
+
+01:08:50
+ Hi. Uhm, I was just wondering when you are expending this definitions and, ah, the model that was just very interesting. By the way, uhm, can you speak a little bit about where that lives normal because if so many more people are being in compost in this new definitions then it seems like that's going to kinda live normal or that-- that's gonna get smaller in a way. 
+
+01:09:15
+DAVID BARLOW So, ah, I'm not sure I totally understood that you think it's going to, ah, increase the number of people who might have, ah, ah, de-- defined as some of the emotional disorders is that the reason? 
+
+01:09:25
+ It-- it kind to seem like it's me because if you're look at the two dimensions of positive and negative in everybody somewhere along those lines - 
+
+01:09:35
+DAVID BARLOW All right. 
+
+01:09:35
+ - and we can define every disorder along that then everybody is gonna be included. 
+
+01:09:40
+DAVID BARLOW Oh, okay. Uhm, well you're, you're getting at, ah,-- remember the splitters and the lumpers? 
+
+01:09:45
+ Uhm-hmm. 
+
+01:09:50
+DAVID BARLOW You know, you're getting the big objection of the splitters to the lumpers. Cuz I say, "Where you gonna cut this off?" Ah, you don't entirely avoid that same issue in terms of, of, ah, the categorical approach we currently have. So, when is a disorder a disorder, when is somebody you has the occasional panic attack actually have a disorder as I say the best majority people have nonclinical panic attacks they don't have a disorder. When there's a somebody with, ah, a phobia, you know, one is at approach disorder. So we always have face through this decisions about, uhm, what's a disorder. What is pathological? When, uhm, is it subject, ah, intervention and as you know that to the major policy question with enormous economic ramifications for our country and our health care system. The way that DSM has sold up to now is I'm not focus on the symptoms about the relative dimensions of, ah, temperaments. They focus on how much impediment is there. You know, how much, ah, is the, the life of the individual subject to substantial interference and impediment can they not function well enough to let's say, ah, earn a living or, uhm, live reasonably with other people. So, ah, but even that subject to, you know, cut off and there some subjectivity to it as you anybody who works in the area of disability will know. You know, when is disability. So, it's, ah, it's a good question it's not entirely, ah, answerable all I can say is that everybody involve with this decision from people involve in classification. Ah, in the middle of hall side up through policy makers get the highest reaches over a health care system have focusing on this all the time. You know, how do you define the disorders so that it doesn't just pathologize everybody. Tough question. 
+
+01:11:50
+ Thank you. 
+
+01:11:55
+ Hi. Okay. So my question is, Dr. Barlow, when you talk about generalize psychological vul-- vulnerability. Over here same place where the other was... 
+
+01:12:05
+DAVID BARLOW I got you. 
+
+01:12:05
+ Okay. Thanks. You, ah, one, one thing that was mentioned is that early destructive experiences produce and you had in parenthesis permanent schemas of unpredictability, uncontrollability and then ability to cope. Can you please speak to the parenthesis of permanent - 
+
+01:12:25
+DAVID BARLOW Yes. 
+
+01:12:25
+ In relation to schemas? 
+
+01:12:30
+DAVID BARLOW Yes. 
+
+01:12:30
+ Thank you. 
+
+01:12:30
+DAVID BARLOW And I'm glad you brought that up because, uhm, permanents probably the wrong word. Ah, stable might have been a better word. You know, the stable changes in brain function. So for example the hypercortisolemia that you'll see growing out of their early destructive experiences is a very stable, ah, kind of, ah, of, ah, condition of, of functioning of the brain unless some specific, you know, direct interventions are, ah, available to, ah, deal with it. Under those conditions as I also mention, uhm, even something like, ah, and as, ah, Dr. Shapiro mentioned even something like the relatively shrinkage in the hippocampus as a result of this condition seems to be reversible. Uhm, so, uhm,-- and, and we think that, you know, that your other-- so the question remains in the neuroscience history wrestling with this is, you know, are there some changes that are totally reversible that, that kind of lives with other. Ah, what, what's reversible and what is-- but it clearly seems and we know from now a decade of research, wide range research across the number of disorders that are psychological, psychotherapeutic treatments definitely impact brain function, ah, in a substantial way that seems to be enduring. 
+
+01:14:00
+ So, what I'm hearing you say then is that neuroticism is treatable? 
+
+01:14:05
+DAVID BARLOW That's the title of my talk. 
+
+01:14:05
+ Okay. Thank you. 
+
+01:14:05
+DAVID BARLOW Oh, I wasn't so bold just to say that it's treatable but I think you got the idea. 
+
+01:14:10
+ Okay. Thank you. 
+
+01:14:10
+DAVID BARLOW Yeah. 
+
+01:14:15
+ Here in the middle. Hi. 
+
+01:14:15
+DAVID BARLOW Yes, sir. 
+
+01:14:15
+ Uhm, I understand EMDR as not really be in a cognitive approach to therapy. I understandingly phases of EMDR how, Dr. Barlow, how your work really fits into that. Oh, let me say first, I'm so grateful for both of you being up here together it's-- this is what makes evolutions just amazing. So thank you very much. 
+
+01:14:40
+DAVID BARLOW Well, thank you. 
+
+01:14:40
+ Uhm, I understand how Dr. Barlow's work gets incorporated into EMDR but not necessarily the other way around. So, I guess I'm asking Dr. Barlow, how do you make sense of EMDR and how do you incorporate that into what you do? 
+
+01:14:55
+DAVID BARLOW Well, that's a big, ah, question and, ah, actually as you may know we have reversing rules in a few minutes and Dr. Shapiro will present something and then I will comment. And so, I've actually been thinking as I sit here and listen, ah, you know, how I'm going to answer that question. So I think if you will forgive me I will save answer for my, uhm, longer remarks at the end of, ah, Dr. Shapiro's since I may learn something more that would help me answer it, ah, more intelligently. But thanks for that question. 
+
+01:15:35
+[sil.] 
+
+01:15:40
+ Over here on the center. Fire, fire in red shirt beside. Uhm, my question is for Dr. Shapiro, uhm, it has to do with, ah, EMDR and the bilateral stimulation which is center piece of that therapy. Uhm, can you at all comment or incorporate some of the, uhm,-- i-- if you think mindfulness or, uhm, controlled breathing, ah, is, ah, useful in the processing of difficult experiences and if you could think of even a metaphor what the bilateral stimulation does. So there's only two parts of the question, uhm. 
+
+01:16:25
+FRANCINE SHAPIRO Okay. I'll be going into it in more detail in the talk. Uhm, the bilateral stimulation there has now been meta analysis that, ah, has evaluated the added effects of the eye movement and founded and significantly to it. There about 24 randomize controlled trials that have been done and it indicates that, ah, let's say two hypothesis are well supported by the literature. One is that attacks working memory and that wouldn't necessarily be the bilateral aspect of it, but, but that the eye movements to that. And the second I think which is much more important is that it seems to stimulate the same processes that occur during rapid eye movement sleep. And rapid eye movement sleep is the time that researcher say, "We process the experiences of the day." So, when, ah, so that's what the eye movement appears to do. Mindfulness is incorporated into the EMDR therapy protocols and that the clinician-- the client is not ask to focus for extended period of time on a e-- in event the way it might be with, ah, traditional exposure, prolonged exposure. But rather the client is thought to simply notice what emerges during the eye movement to simply notice it and allow it to happen. So mindfulness in that way is, is, thought as part of it. And some-- the awareness of what's going on internally is also heightened during that time. So we're looking at EMDR as an integrative form of, ah, of therapy. Ah, but the-- again the accent is on preparing the client accessing the memories that we feel are pivotal to the pathology whatever it might be in making sure that they fully process and the eye movement or other form of bilateral stimulation as an integral part of it against stimulating that information processing system in accelerating it. So, pumping the crank, is that a good metaphor? 
+
+01:18:40
+ Thank you, Dr. Shapiro. 
+
+01:18:40
+FRANCINE SHAPIRO Okay. 
+
+01:18:45
+ Hello and thank you. I had a question I just wanted to have some clarity, ah, in terms of, of good clinical questions I could be use, uhm, in which guess I've talk about and presented today. Uhm, I'm just very curious what are some good questions to ask, ah, individuals to this determine if they've gone through an adverse life experience versus, ah, tough life. Uhm, and then additionally how would you know when an individual is neurotic, ah, versus, let's say emotional or emotionally labile? 
+
+01:19:15
+DAVID BARLOW Uhm, you're, ah, you're asking me this or other one? 
+
+01:19:15
+ Perhaps both of you. 
+
+01:19:15
+DAVID BARLOW Ah, okay. Yeah. So I can, ah, ah, respond, ah, first. So in, in our view we're relying on the research, you know, decades of research from the animal laboratory some of which I summarize in the, ah, human laboratories. YOu know, showing prospectively that these, ah, early adverse events produce a certain, ah, ah, outcome. Ah, given that and there, you know, a number of, ah, measures out there that the kind of our, ah, design to, uhm, assess, ah, ah, neuroticism negative affect, you know, as a kind of trait. Ah, and they using it all the time in the personality research. Sorry I can't see you without, ah, looking at this. But, uhm,-- so given those two things we don't feel as necessary to go back for every single individual and look carefully and the specific adverse experience isn't that maybe one difference, ah, between, ah, our approaches. We the, ah, result and we can measure, you know, in terms of, ah, in the variety, these are ignored, neuroticism scales. You know, any, any number of, of, ah, of questioners. And, ah, and we, ah, -- and of course we see the presenting symptoms so then we feel this problem way sufficient to continue on. In terms of the second part of your question how would you distinguish neuroticism from emotional liability. Well, you look at the, ah, you know, in, in any kind of assessment of temperament you obviously look at the, the sort of, ah, ah, length of tiny individual seems to have, ah, uhm, express this kind of, ah, temperamental disposition, ah, you look at the variability, ah, in it, uhm, you know, over time base on. And that, that would be certainly, ah, the question is get in that some degree is a, is a factor in the, ah, for example one of the issues the investigatives of temperament has been wrestling with lately is called mood state distortion. Have you heard of that? 
+
+01:21:30
+ Ah, no I haven't. 
+
+01:21:30
+DAVID BARLOW Yeah. Okay. Well, it's sort of gets out what you're, you're saying that is how can we be sure that this measures of temperament, you know, are not just a results of temporary, ah, down moods, ah, and that it is distorting the way they fill out the, the these, ah, you know, questioners design to look at life long traits. And so they've statistically wrestled with that and there's a paper out, ah, which I be happy to give you reference for that has factored that out using some clever kind of, ah, uhm, statistical analysis Lee Anna Clark at Notre Dame has done a very similar thing. So they do seem to be able to control for this kind of mood state distortion and get at the essence of what this, ah, neurotic temperament is they feel, feel the confident, you know, in their launch into the most studies that they're tapping into that now. 
+
+01:22:30
+FRANCINE SHAPIRO The, ah, adverse life experiences that we're looking at when you're saying that someone had a tough life that indicates adverse life experiences it's simply indentifying which experiences they are that are contributing to a variety of the symptoms they're having. It's not necessarily a one-to-one ration. It's not this experience only cause that, that experience, that experience can cause a variety of things difficulties and mood, addiction, other behavioral issues that are going on. So, we're doing is identifying clusters of events the kinds of, ah, negative experiences might humiliations in grade school, might be numbers of times molested, you know. The, the point is that these negative experiences have been so long lasting that for instance when you're treating an addiction, uhm, which is basically an attempt to self medicated. You may find that it isn't major criteria in a trauma that's pivotal but for instance in, in, ah, for one, ah, client she was left off at the part when she was 4 years old and her parents told her to take care of her two year old sister. And she was so anxious and upset, she was crying. When they came back they started making fun of her. That was the experience that was causing the constant relapse that feeling of being out of control not good enough all of that humiliation. Once that's pro-- that was process the relapsing stuff. So, that's why we're saying, "Look. Not just look at major criteria and a event but look across the clinical history." 
+
+01:24:10
+ Okay. 
+
+01:24:15
+BETTY ALICE ERICKSONS I think I join with the audience when I say, "I love this point-- counter points." Because they enhance each other. They broaden each other and certainly you two aren't really si-- significant you broaden my perspective and their prospective of your points of view which is the whole point of this wonderful conference. So, I think you Dr. Shapiro and you Dr. Barlow, thank you very much and I'll see you both in a few minutes. 
+
+01:24:45
+ Okay. 
+
+01:24:45
+END TRANSCRIPT 

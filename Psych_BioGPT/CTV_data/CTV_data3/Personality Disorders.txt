@@ -1,0 +1,389 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The information in this program is presented solely for educational purposes and should not be used for the assessment or treatment of any condition without the advice and supervision of licensed medical professionals. The situations presented in this program do not necessarily reflect actual situation you may encounter. Classroom Productions disclaims any liability and/or loss resulting from the information contained in this video. DSM-5® is a registered trademark Of the American Psychiatric Association. The American Psychiatric Association has not participated in the preparation of this program. 
+
+00:00:05
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:05
+DSM-5® AND ICD-10 
+
+00:00:05
+PERSONALITY DISORDERS 
+
+00:00:15
+SEAN HARRIGAN Our personalities are in the large part how we define ourselves as individuals, influencing how we perceive, related to, and think about ourselves, our environment and those around us. Some of our personality traits may be determined by nature, some by nurture. As children we may demonstrate traits that parents or caregivers may choose to encourage or discourage. Over time, we perhaps adapt this traits and behaviors to fit in with those of our society as they comprise the fluid aspects of our personalities. However, for some during childhood or adolescence, these traits can developed into continuing patterns, expressed in ways that can cause clinically significant distress to the individual or those around them and impair their ability to function in a variety of situations. If this is the case, the individual may have a personality disorder, which is a pattern of outward behavior and internal experience that it's decidedly different from how the individual society expects them to behave. Around 30 million or roughly 15% of adults in the United States have one or more personality disorders. Therefore, being familiar with the markers of a personality disorder is crucial for the clinician to recognize these traits in a patient in order to make a diagnosis. 
+
+00:01:40
+DSM-5® AND ICD-10 CODING 
+
+00:01:45
+DSM-5® 
+
+00:01:45
+SEAN HARRIGAN In the fifth edition of the diagnostic and statistical manual of mental disorders or DSM-5®, the personality disorders are grouped together, each disorder given its own diagnostic code. These codes crosswalk to the codes used by the World Health Organization in the international classification of diseases or ICD. In DSM-5® each disorder is linked to the coding system from ICD-9 with codes from (ICD-10). For example paranoid personality disorder is assigned the code 301.0 from ICD-9 and (F60.0) from ICD-10. This is because the ICD-9 system was still in use when DSM-5® was first released. ICD-10 was released in the fall of 2015 in the United States, although it was adopted previously in other countries. However, because ICD-10 is now on the standard in the United States, this program will be listing the newer code from ICD-10 first, followed by the (ICD-9 codes). Sometimes when relevant we will also delineate the ICD-9 and 10 codes when we mention the disorder from a different grouping of mental disorders. For example, social anxiety disorder mentioned later in this program is coded as F40.10 (300.23), part of the F40 to F48 section of the ICD-10 on anxiety dissociative, stress-related, somatoform and other nonpsychotic mental disorders. Most of the personality disorders are included in F60-F69, ICD-10's block on disorders of adult personality and behavior. Only one of the main 10 personality disorders in DSM-5® is not included in this block. Schizotypal personality disorder is instead in F20-F29, Schizophrenia, Schizotypal, Delusional, and other Non-Mood Psychotic disorders. All this might seem like a minor organizational difference, it does highlight the underlying Schizophrenia like symptoms of Schizotypal personality disorder which we'll cover in more detail later in this program. Additionally personality change due to another medical condition is included in the ICD-10 block on mental disorders due to known physiological conditions. ICD-10 also includes additional subtypes for some personality disorders that aren't covered in DSM-5®. While they go beyond the scope of this program, the clinician should be aware of these subtypes as they may help to illuminate certain DSM-5® listed personality disorders. Section II of DSM-5® includes updates of the personality disorder materials from the previous version of DSM, DSM-IV. Section III of DSM-5® now includes a new research model for personality disorders, but as it is not currently in use we will not be covering it in this program. 
+
+00:04:55
+PERSONALITY DISORDER CLUSTERS 
+
+00:05:00
+SEAN HARRIGAN The clusters were introduced in DSM-3 and are a way of grouping the personality disorders by shared, distinguishing characteristics. These clusters can be seen as a way for easier recall and diagnosis as the clusters are logically grouped together based on similar traits, but their validity has not been scientifically determined. There are three clusters A, B, and C. Patients with disorders in cluster A maybe described by others as eccentric or exhibit irrational behavior. Cluster B patients may present as dramatic, attention seeking or overly emotional. Cluster C disorders are grouped together because these individuals tend to be anxious, restrained or controlled. Patients may present with more than one personality disorder. In fact, the prevalence estimate for having any personality disorder is 9.1%. This suggested it is fairly common for individuals to have comorbid disorders from different clusters because it is far greater than the estimates for any individual cluster. 
+
+00:06:10
+GENERAL PERSONALITY DISORDER 
+
+00:06:15
+SEAN HARRIGAN The fundamental characteristics of general personality disorder apply to all of the specific personality disorders. A personality disorder is a pattern of behavior that is mostly constant overtime which causes issues with emotional response, impulse control, cognition or interpersonal behavior. This pattern of behavior is decidedly different from the individual's culture and has been present for a long time, onset maybe during adolescence or young adulthood. For almost all of the personality disorders with the exception of antisocial personality disorder, the typical age of onset is teens or early 20's. Personality disorder would not be diagnosed in children. 
+
+00:07:00
+CLUSTER A: ECCENTRIC, IRRATIONAL 
+
+00:07:00
+PARANOID PERSONALITY DISORDER 
+
+00:07:05
+Paranoid Personality Disorder: F60.0 (301.0) 
+
+00:07:05
+UNKNOWN Why are you following me? I am serious, I am going to find out so you might well just tell me, it's going to be a lot easier for you. You might as well just tell me because I know and I will find out myself and that'll be a lot less pleasant for you. 
+
+00:07:20
+SEAN HARRIGAN Paranoid personality disorder is characterized by the pervasive belief that other people have malicious intentions toward the individual. This may include the idea that others are taking advantage of or intending to hurt the individual. A belief that inconsequential comments and occurrences have malevolent or humiliating intent. Feelings of intense self-importance, frequent interpretations of other's behavior as personal attacks which may cause the individual to respond with anger without profound basis. 
+
+00:07:55
+UNKNOWN Look, this is because I got an A and she got an F and that's one class that we took together and she's been trying ever since to make sure that she is better than me because she can't handle that… that I am better at things than she is. 
+
+00:08:10
+SEAN HARRIGAN Section III of DSM-5® now includes a new research model for personality disorders, but as it is not currently in use, we will not be covering it in this program and repeatedly suspecting that their partner is being unfaithful without any evidence of such behavior. Paranoid personality disorder is mutually exclusive with schizophrenia and other psychotic disorders or disorders with psychotic features. If this disorder is diagnosed before the individual develops schizophrenia, then premorbid may be added as a specification. 
+
+00:08:50
+SCHIZOID PERSONALITY DISORDER 
+
+00:08:55
+SEAN HARRIGAN Individuals with schizoid personality disorder display limited emotional expression and pervasive detachment in social relationships. These individuals display little or no interest in relationships, whether a personal, social or familial. Similarly they may choose to do most things by themselves and may not have close friends other than immediate family members. An individual with schizoid personality disorder can be unaffected by other's opinion of them. They may additionally appear cold or emotionally unresponsive. They also show little desire for sexual interaction with others and more so, may display indifference to most if not all activities. 
+
+00:09:40
+SCHIZOTYPAL DISORDER 
+
+00:09:45
+Schizotypal Disorder: F21 (301.22) 
+
+00:09:45
+UNKNOWN (inaudible ). 
+
+00:09:46
+UNKNOWN It's really important. Come on. Come on, it'll be quick, it'll be quick. 
+
+00:09:46
+UNKNOWN No, no. I got to go. 
+
+00:09:46
+UNKNOWN Please. 
+
+00:09:50
+UNKNOWN Look, it got to… 
+
+00:09:50
+UNKNOWN Please, look I really think umm… I just you know, it's just it was really gloomy day and I saw a couple of crows and just a really bad sign so, I really think it's important. 
+
+00:10:00
+UNKNOWN I got to get going. 
+
+00:10:00
+UNKNOWN I… I really think it's important. I think you should sit. 
+
+00:10:00
+SEAN HARRIGAN Not to be confuse with schizoid personality disorder, Schizotypal personality disorder is characterized by behaviors that are out of the norm in the individual's culture, distorted thinking and perception and difficulty in forming relationships. They can have intense, superstitions or belief in supernatural ideas such as clairvoyance or telepathic and they may experience alter perceptions including hearing or sensing things that aren't there. This individuals may have ideas of reference, which means they believe that innocuous events have personal significance. 
+
+00:10:40
+UNKNOWN Come one, it's gonna be fun. 
+
+00:10:45
+UNKNOWN You know I hate these things. I don't… I don't want to go, I don't want go, I don't want to go, I don't want to go, I don't want to go, I don't want to go, I don't want to go. 
+
+00:10:50
+UNKNOWN Why are you… 
+
+00:10:50
+UNKNOWN Can we just… Can we just stay? Can we just stay? 
+
+00:10:55
+SEAN HARRIGAN The clinician may notice these patient have unusual patterns of speech or altered thinking. As a possible example they may have unusual behavior or manner of dress. Because many of these individuals may be paranoid or have an extreme distressed of others, they may not have close friends outside of immediate family members. They can also experience social anxiety. Emotional dullness or inappropriate emotional responses can also be a symptom of schizotypal personality disorder. As mentioned previously this disorder is organized along with schizophrenia in ICD-10 and because of this the clinician should distinguish these symptoms from other mental disorders with psychotic symptoms when making their differential diagnosis. 
+
+00:11:40
+CLUSTER B: DRAMATIC, ATTENTION SEEKING, OVERLY EMOTIONAL 
+
+00:11:40
+DISSOCIAL PERSONALITY DISORDER 
+
+00:11:40
+Dissocial Personality Disorder: F60.2 (301.7) 
+
+00:11:45
+SEAN HARRIGAN Dissocial personality disorder may be more recognizable by one of its other names sociopathy, psychopathy or antisocial personality disorder. This disorder includes a pattern of inconsideration of other's rights and in fact can even go beyond this, so that the individual performs actions that actively violate other's rights. They can be manipulative and misleading to others for personal profit or pleasure. These individuals may have a history of legal actions and duplicity and may get it into fight because of excessive antagonism toward others. They may have little trouble forming relationships, but difficulty maintaining them. They may ignore their own safety or the safety of others. This can included erratic driving, harmful substance use or sexual behavior or child endangerment. A pattern of not meeting behavioral expectations at work or not paying one's bills are also possible symptoms and some may have a lack of guilt for having hurt another person in anyway. Manifestation of conduct disorder in early adolescence may perceive the onset of antisocial personality disorder. This personality disorder should not be diagnosed if the patient has already been diagnosed with schizophrenia or bipolar disorder. 
+
+00:13:15
+EMOTIONALLY UNSTABLE PERSONALITY DISORDER 
+
+00:13:15
+Emotionally Unstable Personality Disorder: F60.3 (301.83) 
+
+00:13:15
+SEAN HARRIGAN Borderline personality disorder also called emotionally unstable personality disorder is one the most commonly diagnosed personality disorders, and as such it should be approached with caution and this may indicate general over diagnosis. Individuals with this disorder appear unstable in a number of ways, which may include issues in interpersonal relationships, demeanor, or self-perception. Symptoms may include a pattern of extreme changes in self-perception. The individual may repeatedly make big changes in their life plans, their values or their friends. Interpersonal relationships marked by alternately putting other on pedestals(ph) or demeaning them. Impulsive behavior which may include overspending, reckless driving or binge-eating among others. Extreme avoidance of any possible abandonment real or imagined, this may in turn lead to suicidal threats or behavior. A persistent feeling that life is meaningless, angry outburst that may lead to violence. 75% of diagnosed patients are female, and it is five times more common among immediate family members of the patient who already has this disorder than it is for the general population. There is a high likelihood of symptoms remitting overtime. In fact recent data suggests that after 10 years, only about 15% of individuals who seek treatment still qualify for a diagnosis of borderline personality disorder. 
+
+00:14:55
+HISTRIONIC PERSONALITY DISORDER 
+
+00:15:00
+Histrionic Personality Disorder: F60.4 (301.50) 
+
+00:15:05
+SEAN HARRIGAN Histrionic personality disorder present pervasively as over emotionally and intense attention seeking behavior seen in different situations and starting in early adulthood. Histrionic personality patients may display overly dramatic theatrical or excessively emotional behavior. They may shift quickly between emotions which don't seem genuine and speak in ways that are vague, exaggerated or lacking specifics. These individuals may feel the need to be the centre of attention, they can display overly sexual or suggestive behavior in interpersonal relationships and may use their physical attractiveness to get attention. They can also be easily swayed by others or by circumstances or fads. 
+
+00:15:55
+NARCISSISTIC PERSONALITY DISORDER 
+
+00:16:00
+Narcissistic Personality Disorder: F60.81 (301.81) 
+
+00:16:00
+SEAN HARRIGAN Narcissistic personality disorder is characterized by a consistent need to be admired, an extreme sense of entitlement, and diminished or absent feelings of empathy. These can be marked by an exaggerated sense that one is superior in deeds or abilities, even without the evidence to support such claims. 
+
+00:16:20
+UNKNOWN And just I guess (inaudible ) when I am like hey, you need to like give back I might doing things why aren't you giving back and he is just like I don't know you are talking about and like you are being selfish which is rick absolutely most absurd thing in the world because I give so much. 
+
+00:16:30
+SEAN HARRIGAN This may be accompanied by the belief that one is superior to others and should only associate with other superior people, which can lead to an extreme need to be complimented and revered. Individuals with narcissistic personality may have feelings of jealousy towards others or the belief that others are jealous of them. The individual may take advantage of other people whether they are aware of it or not. They may similarly have diminished or absent feelings of empathy. A great amount of thought is spend on ideas of unlimited accolades and successes in various areas of life, wealth, fame, looks, romance, power etcetera. often there is a disproportioned expectation that one's needs would treated as more important than others. 50% to 75% of patients diagnosed with narcissistic personality disorder are male, what other may not be able to tell it is possible that these individuals will take criticism to heart due to the vulnerability of their self-esteem which may cause them to lash out at their critics. 
+
+00:17:40
+CLUSTER C: ANXIOUS, RESTRAINED, CONTROLLED 
+
+00:17:40
+ANXIOUS (AVOIDANT) PERSONALITY DISORDER 
+
+00:17:45
+Anxious (Avoidant) Personality Disorder: F60.06 (301.82) 
+
+00:17:45
+Social Anxiety Disorder: F40.10 (300.23) 
+
+00:17:45
+SEAN HARRIGAN Those with anxious or avoidant personality disorder show signs of introversion, feelings that they are inferior to others, and a preoccupation on possible negative criticism. These individuals may experience feelings of stress and anxiety and may restrain from engaging in activities due to the fear of criticism from others or due to fears for their physical safety. Avoidant personality patients may have extreme aversion to engaging in new situations or taking personal risks, for fear of being shamed and criticized. They may be anxious thus suffer rejection in group situations. This may arise because of the belief that he or she is inferior which leads the individual to be very withdrawn when interacting with new people or the belief that he or she is inadequate, unlikeable or socially awkward. There can be a disinclination to make new friends unless the individual is certain that the new acquaintance will like them unconditionally. This may be accompanied by a reluctance to disclose personal details, even to those in close relationships for fear of criticism. There may also be an intense fear of how they will react to any possible criticism. Blushing or crying may bring additional criticism and embarrassment. New friendships are difficult to obtain due to the fear of rejection, hence those with this disorder usually have a small network of social contacts. Unfortunately, this means they also have fewer people to help them deal with their personal issues. Avoidant personality disorder is frequently co-diagnosed with social anxiety disorder. Estimates find to the likelihood of having both conditions is well above 40%. 
+
+00:19:30
+DEPENDENT PERSONALITY DISORDER 
+
+00:19:35
+Dependent Personality Disorder: F60.7 (301.6) 
+
+00:19:35
+UNKNOWN How about this because you never, like you (inaudible ), as far as I remember. How… How about because you've been helping me moving my stuff around and then… and then stuff like that, so how about you know, you stay for a night, I… I buy you a… we can go to really nine… nice lunch out, I will pay for it and then you know we can have some good time, I promise. Is it gonna be good? 
+
+00:19:55
+UNKNOWN I mean it sounds amazing and I… I would love to hang-out with you, we can totally (inaudible ). Umm… I just… I really can't afford to (inaudible ) right now, I am… I am sorry. 
+
+00:20:05
+UNKNOWN But I… I haven't… But I haven't seen you for a while since I am moving… 
+
+00:20:10
+UNKNOWN I know… I know well we spent… I mean such a great afternoon… 
+
+00:20:15
+SEAN HARRIGAN Dependent personality disorder is characterized by a deep fear of being separated from others, and the excessive need to be nurtured and directed by others. The individual allows other people often even a single person to make most of their major life decisions for them. Demonstrates a willingness to go above and beyond to stay in others good graces to the point of doing undesirable things; fears, retribution or alienation which leads to trouble expressing disagreement with others. If the individual is in an abusive situation then this symptom should not be factored into a diagnosis. Fears being alone because of an incorrect belief that they cannot take care of themselves, needs an extreme amount of input and encouragement from others before making everyday decisions. Displays an unrealistic preoccupation with fear of being left and having to take care of themselves. These individuals may actively criticize themselves and their abilities or otherwise demonstrate extreme self-doubt. Dependent behavior is more encouraged in certain societies and in certain gender roles, which must be taken into account prior to diagnosis. 
+
+00:21:30
+ANANKASTIC PERSONALITY DISORDER 
+
+00:21:35
+Anankastic Personality Disorder: F60.5 (301.4) 
+
+00:21:35
+SEAN HARRIGAN Anankastic personality disorder also called obsessive compulsive personality disorder presents as rigidity and perfectionism particularly when it comes to organization, rules and a belief that things must be done in a certain way. This disorder starts early in adulthood and can be seen in different situations. The individual makes extensive use of list and other means of organization, but creating them become so important that they are usefulness is lost. They similarly show an inability to finish projects due to perfectionist tendencies. They may give priority to work which interferes with their social life. The choice of work over pleasure must not be better explained by economic necessity. Individual with obsessive compulsive personality disorder may have a very strict way of doing things which leads to very little delegation unless they believe that the correct way will be follow to the later. There may be a strict adherence in regards to rules and morals. This must be considered separately from those rules and morals that are part of the individual's culture or religion. They may have thoughts that they cannot control, and welcome impulses or feelings of fear and uncertainty, and they may display inflexibility and stubbornness which may cause frustration in friends and co-workers. Obsessive compulsive personality disorder is almost twice as common in male patients and with a prevalence of 2.1% to 7.9% is one of the most common personality disorders in the U.S. Well, obsessive compulsive disorder and obsessive compulsive personality disorder are entirely different disorders. The behavior and its effects vary. It is possible for a patient to be diagnosed with both. 
+
+00:23:30
+PERSONALITY CHANGE DUE TO ANOTHER MEDICAL CONDITION 
+
+00:23:35
+Personality Change Due to Another Medical Condition: F07.0 (310.1) 
+
+00:23:35
+Unspecified Personality Disorder: F60.9 (301.9) 
+
+00:23:35
+Other Specified Personality Disorder: F60.89 (301.89) 
+
+00:23:35
+SEAN HARRIGAN Sometime significant trauma or a disease can directly lead to a lasting change in a person's personality. This leads to a diagnosis of personality change due to another medical condition. The clinician should specify the type of change as one of the following. Labile type which indicates emotional instability, disinhibited type which signifies impulsivity, aggressive type which notes new hostility, apathetic type which indicate indifference, or paranoid type which marks the patient as more suspicious than before. There are also specifications for other type, combine type, and unspecified type. The clinician may also chose to diagnose other specified personality disorder or unspecified personality disorder. Because our personality traits are tide-up so much with our identity and sense of who we are, it can be a specially difficult to tease out(ph) this symptoms in order to identify the underline disorder. And indeed, even within DSM-5®, the descriptions of the personality disorders are evolving and changing. Still the more familiar the clinician can be with the markers of these personality disorders, the better they will be able to help patients understand these conditions, offering them the first step in the course of treatment and putting them on the path to recovery. 
+
+00:25:05
+Produced by 
+
+00:25:05
+Classroom Productions, INC. 
+
+00:25:05
+Technical Advisors 
+
+00:25:05
+Dr. Tracie Collins, MD, MPH 
+
+00:25:05
+DR. Mathew Macaluso, DO 
+
+00:25:05
+Mary Llenell Paz, MS 
+
+00:25:05
+Directed by 
+
+00:25:05
+Sean Harrigan 
+
+00:25:05
+Written by 
+
+00:25:05
+Sean Harrigan 
+
+00:25:05
+Siobhan Dohentry 
+
+00:25:05
+Script Editor 
+
+00:25:05
+Pandora Suderman 
+
+00:25:05
+Production Coordinator 
+
+00:25:05
+Siobhan Doherty 
+
+00:25:05
+Field Production 
+
+00:25:05
+Amanda Buffington 
+
+00:25:05
+Hannah Huff 
+
+00:25:05
+Merlin Huff 
+
+00:25:05
+Featured Cast 
+
+00:25:05
+Anatasha Blakely 
+
+00:25:05
+Ross Crain 
+
+00:25:05
+Siobhan Doherty 
+
+00:25:05
+Brett Duggan 
+
+00:25:05
+Abbey Grace 
+
+00:25:05
+Zach Hallett 
+
+00:25:05
+Jim Harrigan 
+
+00:25:05
+Sean Harrigan 
+
+00:25:05
+Kristen Henley 
+
+00:25:05
+Hannah Huff 
+
+00:25:05
+Merlin Huff 
+
+00:25:05
+Dennis Hurley 
+
+00:25:05
+Jason Ko 
+
+00:25:05
+Matt Koenig 
+
+00:25:05
+Amy Landon 
+
+00:25:05
+Maribel Martinez 
+
+00:25:05
+Marissa Moosekian 
+
+00:25:05
+Bree Murphy 
+
+00:25:05
+Alan Ramos 
+
+00:25:05
+Diana Sanchez-Vega 
+
+00:25:05
+David Santana 
+
+00:25:05
+Jennifer Shaevitz 
+
+00:25:05
+Better Smith 
+
+00:25:05
+Eddie Smith 
+
+00:25:05
+Lindsay Smith 
+
+00:25:05
+Miller Tai 
+
+00:25:05
+Narration 
+
+00:25:05
+Sean Harrigan 
+
+00:25:05
+Post-Production 
+
+00:25:05
+Sean Harrigan 
+
+00:25:05
+Robert Suderman 
+
+00:25:05
+Property of Classroom Productions, Inc. 
+
+00:25:05
+Copyright 2016 
+
+00:25:05
+All Rights Reserved 
+
+00:25:30
+END TRANSCRIPT 

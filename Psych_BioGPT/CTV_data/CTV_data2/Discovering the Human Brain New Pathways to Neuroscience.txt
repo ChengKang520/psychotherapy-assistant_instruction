@@ -1,0 +1,224 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE : 
+
+00:00:00
+_______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+Distributed by DAVIDSON films www.davidsonfilms.com 
+
+00:00:10
+[sil.] 
+
+00:00:45
+SUSAN BOOKHEIMER Your brain is constantly active even during sleep. Awake, your brain is your interface with the world. Your hearing, motor functions, vision, smell and taste are all controlled by your brain. The brain is also very much involved in our emotional life. And of course, in taking in new information whether it would be from books or from our social contacts. All of this in a massive tissue that weigh something less than three pounds. 
+
+00:01:20
+DAVIDSON films & Classroom productions present Discovering the Human Brain: New Pathways to Neuroscience with Susan Bookheimer, Ph.D. 
+
+00:01:40
+SUSAN BOOKHEIMER , Ph.D. Brain Mapping Center University of California, Los Angeles Hello. I'm Susan Bookheimer. In this film, we are going to explore some of what we know about this amazing treasure, all of us carry under our skulls and how we know about it. 
+
+00:01:50
+peripheral nerves spinal cord brain neurons 
+
+00:01:50
+SUSAN BOOKHEIMER Neuroscience is the scientific study of the structure and functions of the nervous system. In this film, we will be concentrating on the brain. These microscopic cells neurons, are the building blocks of the brain and form a communication network. Rather than approaching neuroscience by looking at individual neurons, my colleagues, graduate students and I here at the brain mapping centre at UCLA, look at how assemblies of neurons work together to form functional units that underlie such complex activities as language, reasoning, perception, emotion and motivation. 
+
+00:02:30
+Early Observations Microscopic & Electronic Views Imaging Techniques 
+
+00:02:30
+SUSAN BOOKHEIMER We'll approach this discussion of what we know about the brain by looking at the different ways the brain is studied. First, we will look at the way some early researchers learned about the brain. Then, we will see some more recent means of examining brain cells microscopically and tracking their electrical activity. And finally, we'll discuss how we image the brain structure and function in healthy people and those with brain disorders. 
+
+00:03:05
+Early Observations 
+
+00:03:10
+SUSAN BOOKHEIMER Until quite recently, we learned most of what we know about human brain functions by examining patients with damage to an area of the brain. By observing what these patients could not do, scientists deduced the function of the underlying tissue. 
+
+00:03:25
+Paul Broca 1884-1880 
+
+00:03:25
+SUSAN BOOKHEIMER A classic example is that of a patient of Paul Broca, a French physician in the 19th century. Broca described a patient confined to a sanitarian who could only utter the words tam, tam. When the patient died, the autopsy showed a lesion in what is now called Broca's Area. 
+
+00:03:45
+Broca's Area 
+
+00:03:50
+SUSAN BOOKHEIMER A stroke had caused this language area to stop functioning while all the other functions of the brain remained intact. 
+
+00:03:55
+The Strange Case of Phineas P. Gage 
+
+00:04:00
+SUSAN BOOKHEIMER About the same time in 1848, when Phineas P. Gage had an unfortunate accident while at his job at a Vermont train yard. A large metal rod was thrust into his jaw through the frontal lobe of his brain. While he continued to hear, speak and move normally, he experienced an abrupt alteration in his behavior. He changed from his formally polite, serious self into an impulsive bully with little thought for his future. The case of Phineas P. Gage let to our understanding that the frontal lobes of the brain are critical for many aspects of social behavior. 
+
+00:04:45
+Hey actually… 
+
+00:04:45
+Oh. 
+
+00:04:45
+Oh, I'm sorry about that. 
+
+00:04:50
+SUSAN BOOKHEIMER These include inhibiting our more primitive emotional responses and impulses being aware of how our behavior affects others, planning and motivation. 
+
+00:05:00
+SUSAN BOOKHEIMER Cases like Gage's have taught us much about brain systems, but this research is uncontrolled and unpredictable. We can't put a lesion in a normal brain to test a hypothesis and it's not easy to determine all the areas of the brain that have been affected by lesion like a stroke. Fortunately today, we have new tools that allow us to look into the brain and watch it in action as we will see. 
+
+00:05:20
+Broca's Area superior gyrus middle gyrus inferior gyrus gyrus hippocampus 
+
+00:05:25
+SUSAN BOOKHEIMER Studies of the brains of injured people gave us glimpses into the functions of the major brain structures. But they had to depend on postmortem examinations to determine what areas had been affected. In order to communicate their findings, early researchers created a common set of names for brain regions that you will find in text books. Some names like Broca's Area come from the scientists, who studied them. Other names refer to their location like the superior, middle or inferior frontal gyrus. Gyrus is a term describing the folds we see in the brain. They are the land marks of the brain. Still other structures were named for their external characteristics. The hippocampus the focus of some of my studies was thought to resemble a seahorse and a label comes from the Latin name for that creature. 
+
+00:06:20
+SUSAN BOOKHEIMER There are entire volumes mapping the brain structure and function with new imaging techniques we are able to link complex behaviors with specific physical regions of the brain as you will see later. Different areas of the brain all have specialized functions. For instance, one part of the frontal lobe holds things in working memory. Other parts of that lobe inhibit our impulses and control and regulate our emotions. 
+
+00:06:45
+amygdala Occipital Lobe Parietal Lobe Frontal Lobe 
+
+00:06:45
+SUSAN BOOKHEIMER When someone is suddenly startled or frightened, the amygdala deep inside the brain has an immediate response that triggers our body's responses to fear such as increase in heart rate and blood pressure. But then when we see it is nothing to be afraid of, our frontal lobes send messages back down to the amygdala that dampen the fear response. Although, each brain region has a specific function, all human behavior involves more than one region of the brain. Various parts of the brain are in constant communication with each other. Reading for example, not only involves the visual areas and the Parietal Lobe. But also areas crucial to the auditory, language and reasoning functions of the brain. 
+
+00:07:40
+Microscopic & Electronic Views cell body dendrites axons minus 70 ml volts minus 50 ml volts action potential 
+
+00:07:45
+SUSAN BOOKHEIMER How does this communication take place? It took the invention of powerful electron microscopes in the middle of the 20th century to allow us to see that network of neurons specialized cells that communicate messages from one part of the brain to the other. Various kinds of neurons serve different functions in the brain, and they too like the regions of the brain have specialized names. There are about a 100 billion neurons in your brain. All neurons have a cell body and projections that receive input. These group together are referred to as the gray matter of the brain. Information is picked up by intricate structures called dendrites, which transmit electrical messages down long corridors called axons. Neurons maintain a resting electrical potential of minus 70 ml volts. This means that under normal circumstances the interior of the cell contains more negatively charged ions than the outside. The cell membrane is semi-permeable that means chemicals can come in and out but only slowly. Since it is typical for electrical charges to want to even out, the cell is constantly pumping Sodium, which is positively charged outside the cell to maintain this negative resting potential. When neurotransmitters are picked up by the dendrites of the cell, they can change the resting potential of the cell. If they decrease it enough to minus 50 ml volts, then the Sodium channels open up and Sodium pours into the cell causing a sudden depolarization, a change from the negative resting potential to a positive one. This is called an action potential and it quickly moves in a wave down the axon bringing the electrical signal to packets of neurotransmitter chemicals at the end of the axon. Allowing them to be released for the next dendrites to receive the neurotransmitters and start the process again. 
+
+00:10:10
+SUSAN BOOKHEIMER It is possible to measure action potentials in a single neuron with an electrode implanted in the brain. For some patients undergoing surgery, this is occasionally done however to study the normal brain in its active state. We must use some technology that measures brain activity without having to open it up. 
+
+00:10:25
+Electroencephalogram (EEG) 
+
+00:10:30
+SUSAN BOOKHEIMER One way, we can measure the brain's electrical activity is by using an Electroencephalogram or EEG. EEGs measure the combined electrical signal as many thousands of neurons. While action potentials describe the work of a single neurons and how they transmit information to other neurons throughout the brain. It takes the coordinated activity of thousands of neurons in the same brain region to convey information. With very sensitive sensors as in this cap, these signals from some parts of the brain can be picked up almost immediately and painlessly and give us information on how the brain works. We can measure the brains electrical response to a single event and see how it unfolds over a time scale of milliseconds. Measurements of evoked electrical responses are called Event Related Potential or ERPs. 
+
+00:11:35
+Event Related Potential(ERP) Imaging Techniques Metabolism 
+
+00:11:40
+SUSAN BOOKHEIMER Brains use a lot of energy. Even at rest our brains burn glucose constantly. A scientific term for this is Metabolism. When we work our brains harder for example, by studying neuroscience, the neurons involved have to work harder. They increase the rate of firing. 
+
+00:12:05
+SUSAN BOOKHEIMER This increased neural activity causes other sudden changes around those working brain regions, in this case, the frontal lobes. The neurons there need more energy, so they burn more glucose. 
+
+00:12:15
+capillaries 
+
+00:12:15
+SUSAN BOOKHEIMER Blood flow increases to the area bringing in more oxygen that is used in glucose metabolism. The capillaries small blood vessels, where oxygen is released expand. This increases the volume of blood available for the brain's energy needs. 
+
+00:12:35
+SUSAN BOOKHEIMER By tracking glucose in the flow of blood, we can observe the activity in the brain using two machines that operate very differently. We use both of these machines here at the brain mapping center. 
+
+00:12:45
+Positron Emission Tomography (PET) positron positively charged electron cyclotron tomography Fluorodeoxyglucose (FDG) 
+
+00:12:50
+SUSAN BOOKHEIMER This is the PET or Positron Emission Tomography scanner. Positron Emission refers to its dependence on radioactive substances. A positron, a positively charged electron is attached to a molecule using a machine called a Cyclotron, which is a nuclear accelerator. Tomography refers to making a picture or Tomograph of specific slices of tissue. Often, these studies utilize a radioactive form of glucose Fluorodeoxyglucose or FDG which is injected into the bloodstream of a person. We usually let subjects remain at rest for up to 45 minutes before we start the scan. This allows plenty of time for the glucose to be metabolized by the brain. Then we begin the PET scan. The blood carries the radioactive glucose throughout the body and into the brain. Areas where glucose is metabolized more will take up more of the radioactive compound. The PET scanner detects the radioactive decay of the radioactive glucose, in detectors placed in a circle around the person. This computer reconstructs the radioactive signals into an image of the areas of the brain, where glucose is being used. 
+
+00:14:20
+normal brain Mild Alzheimer's disease brain tumor 
+
+00:14:20
+SUSAN BOOKHEIMER The colored areas show where there is more glucose metabolism taking place, indicating healthy brain tissue. In these PET scans red indicates the most glucose metabolic activity, yellow somewhat less green even less and blue minimal. Contrast to that to this one of a person without Alzheimer's disease whose brain shows of a dramatic decrease in the metabolism, indicating widespread death of brain tissue. Conversely this PET scan is from a person with an aggressive brain tumor and you can see that this area is receiving more glucose then it normally would. 
+
+00:15:05
+SUSAN BOOKHEIMER FDG-PET is a great way of looking at resting metabolism in the brain. It is very useful for looking abnormalities in brain function. But because the half life of the glucose radio active compound is very long about 45 minutes. It is only used for making resting images of the brain. But our brains work much faster than this. We may want to map brain activity that changes over seconds. Fortunately, we have an alternative. 
+
+00:15:35
+Magnetic Resonance Imaging (MRI) 
+
+00:15:35
+SUSAN BOOKHEIMER The Magnetic Resonance Imaging machine commonly known as MRI utilizes a large magnet applying magnetic pulses in different sequences. Different tissue types respond uniquely to these pulses and the MRI scanner measures these differences and reconstructs them into detailed images of the brain structures. With the invention of very fast MRI imaging in the early 1990s, it is now possible to take a picture of the whole brain in a second or two. 
+
+00:16:15
+fMRI functional MRI Amy John Name? Matt 
+
+00:16:15
+SUSAN BOOKHEIMER In fMRI the "f" refers to functional, we scan continuously taking a complete picture about every two seconds. For as long as we think, the subject can stay perfectly still maybe five or ten minutes. Functional MRI uses this fast scanning technique to track changes in blood flow in the brain during increase neural activity. In that time, we alternate between a rest or other control task and an active task like speaking, moving or associating names with faces. The blood flow changes we observe occur near the capillaries. In the resting state, oxygenated blood or red blood flows from the arteries into the capillaries. During increased brain activity, blood flow and blood volume increase bringing much more oxygen into the capillaries. Here oxygen is removed and deoxygenated blood flows out into the veins. Functional MRIs create movie like images of specialized areas of the brain at work. As the brain is always at work, we have to compare tasks to see which regions are more activated with a specific task as compared to others. We color the points in the brain that show a mathematically significant difference between rest and activity. This shows us where in the brain the activity is taking place as the person is listening to speech. In this colored scale, yellow shows the most activity, red somewhat less. Because we can take highly detailed structural MRI pictures of the brain at the same time. Using them, we can locate these regions, in this case, the language areas with a high level of accuracy. Blood flow changes are much slower than the firing of the neurons themselves. When the brain gets ready to work, the neurons fire immediately and thus can be recorded by EEG's. 
+
+00:18:25
+SUSAN BOOKHEIMER But blood flow what fMRIs record doesn't start to change until about two seconds after the neuron fires and it rises slowly to its peak in an other five to seven seconds. Although, MRIs are not as accurate as to time, they are much more accurate in location than the EEGs, we saw earlier. Further, fMRIs can probe regions of the brain that EEGs can't measure such as structures deep inside the brain. 
+
+00:19:00
+SUSAN BOOKHEIMER fMRI's produce images of specific locations of activity in the brain. Using statistics, we can find regions of the brain whose activity correlates showing they are functionally connected. 
+
+00:19:20
+Hi. 
+
+00:19:20
+Hi. 
+
+00:19:20
+I'm (inaudible ). 
+
+00:19:22
+Oh, great. 
+
+00:19:22
+SUSAN BOOKHEIMER For instance, this person is part of an experiment in which we are studying the formation and retrieval of memory. Because the MRI magnet is so strong, she must remove all metal objects before entering the room. 
+
+00:19:35
+So I want you to take out your earrings. 
+
+00:19:40
+SUSAN BOOKHEIMER We also questioned her about any implanted metal objects or prior surgeries that might have left metal or electronic devices. She lies down is positioned and fitted with earphones, both because the machine is very noisy and so we can communicate with her. She put some specially designed goggles that are safe in the MRI scanner room. We can transmit to them anything that can be seen on a computer screen. We can measure her accuracy or response time to our memory tests with a response box. 
+
+00:20:20
+[sil.] 
+
+00:20:40
+SUSAN BOOKHEIMER The computer in this room records the results. Learning to associate names with new faces is a task, all of us frequently encounter. How does the brain handle it? In this study, we present our subject with eight pairs of faces and names and watch what the brain especially the hippocampus does. 
+
+00:21:00
+Mike Amy Kim Sue Matt Bill John Julie 
+
+00:21:00
+SUSAN BOOKHEIMER Remember that we have to contrast this learning task with another activity. In this case, one that does not involved memory. 
+
+00:21:10
+SUSAN BOOKHEIMER So we present this subject with a simple circle. They press a button when the cross appears inside the circle. Subject see the faces with the names, after we distract them with the button pressing task, we show them the face and ask for the name. 
+
+00:21:25
+SUSAN BOOKHEIMER We repeat this four times. This way we can get a learning curve for each individual. If subjects differ and how fast they learn, we can account for that in our data analysis. Remember the hippocampus, the seahorse, we mentioned earlier? We know it is involved in memory formation, but what areas of it are involved in which aspects of remembering. From studies like this face name learning one, we found that different areas of the hippocampus deal with different parts of memory formation. Using the wonders of computers, we were able to unfold the hippocampus and make a flat map of it like cartographers have done for the world. From this we can see that there are areas in the hippocampus that are involved in learning and others in recall. 
+
+00:22:20
+SUSAN BOOKHEIMER Why is it important for us to study this? Knowing more about how the memory formation occurs, not only helps people who have brain injuries from causes like Alzheimers or strokes, but also eventually, we hope lead to better understanding of how to enhance learning processes in healthy humans. 
+
+00:22:45
+SUSAN BOOKHEIMER Other more personalized fMRI studies help patients with injuries to their brains. Susan has a brain tumor in the left frontal lobe, brain imaging will help the surgeons remove the tumor without impairing her ability to speak. With a tumor in her left frontal lobe, she's at risk for losing her language capability. More complicated in this case is that she speaks four languages, her native language of Swiss, German, French and English. All languages are important to her. These are the functional MRI scans of this person's language areas. The functional MRI helps us the navigate where we are going to resect the tumor in the operating tumor. 
+
+00:23:30
+SUSAN BOOKHEIMER So the tumor is here, this round area, the dark here is swelling, it's what we call a edema or swelling from the tumor and then the red areas are areas that are active during the different language tasks. This is English and there are two areas of interest, this is an area that share by all languages and this area over here is English only, we only see activity here for the English and there is a good distance about a centimeter and a half between the English area and the tumor. And the next language is Swiss, this is her first language and we again see that same area that shared across all languages. But there really isn't any activity in that English area, however there is over here right very close to the tumor right here. An area that's active for Swiss and it swells for some other languages. And then German is right here again we see that same area that's active for all the tasks, no activity in that English area. No activity in that Swiss area or very little but there is some activity over here, that just a little bit further away from the German area, from the, from the tumor that is. For French, there is activity in the shared area, none in the English area, none in the Swiss area, none in the German area, but there is a small area that's French only right over here and it's very, very close to the tumors in fact, right underneath that and it surrounded by swelling. And this is her worst language and that's because the area that's active is the closest to the tumor. 
+
+00:25:15
+SUSAN BOOKHEIMER Here at UCLA, we are conducting fMRI studies on many different disorders. For instance, we're conducting ongoing studies to better understand the brains of children with autism and how they differ from typically developing the children. Many children with autism never learn how to speak and one reason for this is that they don't look directly into the faces of others and don't imitate what others do. 
+
+00:25:40
+SUSAN BOOKHEIMER We've begun to study mirror neuron systems in the brains of children with autism. Mirror neurons are specialized brain cells that fire both when we perform an action and when we observe others performing actions. It is our brains way of connecting with others. We mirror the actions that we see in our own brains as if we were doing the same thing. Mirror neuron activity is related to our ability to imitate others and to empathize with others to feel what they feel. We have looked at normal children and those with autism while they imitate facial expressions in others. Children with autism do not show brain activity in these mirror neuron areas even when they physically imitate the expressions as well as normal children. They don't internalize what they see others do. Thus, they fail to make the human connection that is so essential for social development. We hope these studies will lead us towards better therapies for autistic children. While also teaching us more about how the normal brain understands social behaviors. 
+
+00:26:50
+SUSAN BOOKHEIMER The brain is an incredibly complex organ and knowing more about it through the techniques we have seen in this film and techniques that are currently under development can only enhance the quality of human life. 
+
+00:27:05
+SUSAN BOOKHEIMER Imaging techniques such as the ones you have seen in this film are on a daily basis enabling us to probe and thus better understand the human brain. As the technology improves, we'll be able to explore the brain in much greater detail and use this knowledge to better understand brain disorders to visualize the effects of interventions on the brain and to (inaudible ) treatment strategies based on this knowledge. 
+
+00:27:30
+[sil.] 
+
+00:27:35
+Written and Narrated by Susan Bookheimer, Ph.D. Brain Mapping Center University of California at Los Angeles Produced by Crosstown Productions, Inc. San Luis Obispo, California www.crosstownproductions.com and Davidson Films, Inc. San Luis Obispo, California www.davidsonfilms.com Director Jim Harrigan Camera Robert Suderman Graphics Robert Suderman Lin Mercer Production planning Frances Davidson Editing Jim Harrigan Robert Suderman Thanks to Mark Cohen, Ph.D. Catarina Dapretto Mirella Dapretto, Ph.D. Damon Lippert Edyth London, Ph.D. Dan Page Ashley Scott Nanthia Sulthana Trent Thixton Kim Thompson Distributed by Davidson Films. Inc. www.davidsonfilms.com Copyright 2007 Classroom Productions, Inc Davidson Films, Inc. 
+
+00:27:35
+END TRANSCRIPT 

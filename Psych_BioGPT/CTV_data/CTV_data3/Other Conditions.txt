@@ -1,0 +1,278 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+_____________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The information in this program is presented solely for educational purposes and should not be used for the assessment or treatment of any condition without the advice and supervision of licensed medical professionals. The situations presented in this program do not necessarily reflect actual situations you may encounter. Classroom Productions disclaims any liability and/or loss resulting from the information contained in this video. DSM-5 is a registered trademark of the American Psychiatry Association. The American Psychiatric Association has not participated in the preparation of this program. 
+
+00:00:05
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:05
+DSM-5® AND ICD-10 
+
+00:00:10
+OTHER CONDITIONS 
+
+00:00:15
+SEAN HARRIGAN For any of the mental disorders or conditions that we've explored in this series, there can be a numerable influences surrounding the onset, persistence and treatment of symptoms. These can be biological, environmental, situational or some combination of these. While the two diagnostic guidelines we've explored in this series, the diagnostic and statistical manual of mental disorders or DSM and the international classification of diseases or ICD avoid delving too deeply into the elements of causation or treatment in their diagnostic models. It is still important for clinician to acknowledge the factors that might influence an individual's mental disorder. Be they causal or ones that could affect the course or treatment of the disorder. Whether this is used to communicate to insurance companies or other healthcare providers or simply for the clinician's own use or records, noting these factors can help the clinician describe a more complete and therefore accurate picture of the patient and disorder. 
+
+00:01:25
+DSM-5® AND ICD-10 CODING 
+
+00:01:30
+DSM-5® 
+
+00:01:30
+SEAN HARRIGAN In the 5th edition of the DSM, DSM-5, this grouping of disorders is referred to as other conditions that maybe a focus of clinical attention. It contains a number of distinct disorders each given its own diagnostic code. The diagnostic codes correspond to those used by the World Health Organization in ICD. In DSM-5 each disorder is first linked to the coding system from ICD-9 with the codes for (ICD-10) listed in parenthesis. Hence all of the DSM-5 codes crosswalk to the ICD codes including the newest iteration, ICD-10. For example, parent child relational problem is assigned the code V61.20 in ICD-9 and (Z62.820) in ICD-10 listed in parenthesis. This is because the ICD-9 system was still in use when DSM-5 was first released. ICD-10 was released in the fall of 2015 in the United States, although, was adopted previously in other countries. However, because ICD-10 is now the standard in the United States, this program will be listing the newer code from ICD-10 first followed by the (ICD-9) codes in parenthesis. Sometimes, when relevant, we will also delineate the ICD-9 and 10 codes when we mention a disorder from another grouping. For example, major depressive disorder, recurrent episode, moderate, a condition mentioned later in this program is coded as F33.1, (296.32), part of the grouping of depressive disorders. Organizationally, there are few differences between the layouts of DSM-5 and ICD-10. ICD-10 doesn't list their disorders from this grouping along with their mental and behavioral disorders. But instead, primarily in their Z00 to Z99 block of factors influencing health status and contact with health services and S00 to T98 of injury, poisoning, and certain other consequences of external causes. There is also a disorder from E00 to E90 of endocrine, nutritional and metabolic diseases, specifically E65 to E68, obesity and other hyperalimentation, as well as a disorder from R00 to R99 of symptoms, signs and abnormal clinical and laboratory findings not classified elsewhere, specifically R40 to R46, symptoms and signs involving cognition, perception, emotional state and behavior. Well, these may seem like minor organizational differences, they further emphasize the point that these conditions are not mental disorders themselves but instead factors that affect or maybe affected by mental disorders. These organizational differences also point to the very nature of factors that the clinician may encounter along with mental disorders throughout the diagnostic process. 
+
+00:04:50
+RELATIONAL AND FAMILY PROBLEMS 
+
+00:04:50
+SEAN HARRIGAN For some individuals, the relationships in their lives can be a great source of support. For others, they may negatively impact the individual's disorder. It may even be the reason they seek out a clinician in the first place. These potential relational problems are divided into two groups. Those that involve the individual's upbringing and those involve the individual's main support group. Problems of upbringing can be between the parent or caregiver and child or between siblings. It could also entail a child who is raised in an environment that's separated from their parents, such as a foster home or in a relative or friend's care. Though, this categorization excludes boarding schools. A child who is affected by conflict between their parents would also fall into this category. Problems could arise in the primary support group when an individual has a disagreement with their partner or a separated or divorced. An individual could be significantly affected if there is excessive shouting or emotional outburst within their family. The grief over losing a loved one can also greatly affect an individual's mental state to the extent that it may have clinical relevance. However, this grief should be differentiated from a major depressive episode, one that could occur in major depressive disorder for example. There are ways for the clinician to distinguish between grief and a major depressive episode. Grief decreases over time and may heighten when thinking of the deceased. A major depressive episode on the other hand is more constant and persistent. Experiencing joy is an exclusion factor for a major depressive episode whereas those in the grieving process may still find joy. 
+
+00:06:40
+ABUSE AND NEGLECT 
+
+00:06:45
+SEAN HARRIGAN Abuse and neglect is broken down into two subcategories depending on if it is a child that is being maltreated or neglected or an adult. For each, the clinician can indicate how this abuse has manifested. Be it physical, sexual or psychological. They can also indicate neglect. It is important to note that for children, spanking and other similar forms of discipline aren't considered physical abuse unless they become excessive or injure the child. For adults, actions performed to protect oneself do not constitute physical abuse. Sexual abuse doesn't have to include contact but may instead involve tricking, coercion or manipulation that forces the individual to engage in acts to gratify the abuser or others. This could be something like explicit photography that the victim is forced to partake in. Psychological abuse involves any purposeful verbal or symbolic act that could harm the victim. This could include humiliation, threats to the individual or those they care about and isolation or confinement. Neglect is indicated if an individual has access to their basic needs withheld by a caretaker. In the case of adults, this could become relevant when one partner is neglected by another partner whom they rely on for assistance. For adults, the abuse can also involve a non-spouse or non-partner. For children, the clinician can indicate whether the abuse involves a parent or non-parent. The coding for all forms of abuse will partially depend on whether the clinician has confirmed the abuse or neglect has taken place or only suspects it. The clinician can also indicate if this is an initial encounter or subsequent encounter. Initial encounter will have an XA at the end of the ICD-10 code and subsequent encounter will have an XD. There is also coding to indicate if the patient has a history of abuse or neglect as well as coding to indicate if the patient encountering mental services is the victim or perpetrator. 
+
+00:08:55
+ACADEMIC AND OCCUPATIONAL PROBLEMS 
+
+00:09:00
+SEAN HARRIGAN Problems related to education can include issues with learning, academic achievement or even access to proper schooling. It could also involve the individual causing disruption in the school environment or having conflict with academic administrators, faculty or other students. The clinician can indicate if the individual's occupational problems specifically involve their military deployment status. Though, these issues should be differentiated from the psychological effects of adjustment disorder or another medical disorder. They can also indicate if the occupational problems are due to other elements surrounding employment such as unemployment, a change in job status, a hostile work environment or sexual harassment in the workplace. 
+
+00:09:50
+HOUSING AND ECONOMIC PROBLEMS 
+
+00:09:55
+SEAN HARRIGAN Homelessness is indicated if problems have arisen because the individual has no fixed lodging and instead sleeps on the streets or in shelters. Other housing problems can involve living in an institution, issues with a neighbor, lodgers, or landlords or an individual's housing not meeting their needs. Examples of economic problems are lack of adequate food or safe drinking water, issues of extreme poverty, low income or factors that prevent the individual from receiving adequate social care. The clinician can also indicate an unspecified housing or economic problem. 
+
+00:10:40
+PROBLEMS RELATED TO SOCIAL ENVIRONMENT 
+
+00:10:45
+SEAN HARRIGAN This section includes difficulties that arise from acculturation or from a person transitioning into a new major phase of their life, such as retirement or the empty nest of children living home. It also includes problems from an individual living alone, being excluded from a social group or feeling discriminated or persecuted against for being of a certain gender or gender identity, race, political belief, etc. If the individual experiences problems related to social environment not mentioned here, the clinician can also indicate unspecified problems related to social environment. 
+
+00:11:25
+CRIMINAL OR LEGAL PROBLEMS 
+
+00:11:30
+SEAN HARRIGAN Criminal and legal problems can be of clinical relevance when they arise because the individual is a victim of a crime, they are serving time in prison for committing a crime or they have been convicted in civil or criminal proceedings without imprisonment. There can also be clinically significant problems when an individual is released from prison. The clinician can alternatively indicate problems related to other legal circumstances. 
+
+00:11:55
+HEALTH CARE-AND MEDICAL-RELATED PROBLEMS 
+
+00:12:00
+SEAN HARRIGAN For simplicity and ease of use, we've grouped together the various DSM-5 and ICD-10 categories around health, healthcare and medical treatment into one larger section. Some of these problems can involve non-adherence to treatment. If due to beliefs, discomfort, the affects of a mental disorder or financial reasons, an individual ignores or opposes forms of treatment. An individual being obese or overweight may also affect the onset or course of a disorder or the individual's adherence to treatment. Malingering is when an individual deliberately produces signs or symptoms of a disorder, either for some sort of secondary gain, for example, an insurance settlement or as a means of avoiding an undesired circumstance such as military service or often jail. Care should be taken as malingering can be incredibly difficult to prove especially with a mental disorder and has the potential of alienating a patient. Still a clinician should be on the lookout if the patient has legal issues or the potential for financial gain. If they're uncooperative throughout evaluation, if they have antisocial personality disorder or a verifiable facts contradict the patient's testimony. Malingering should be differentiated from Factitious Disorder, one of the sematic symptom and related disorders in which there are no blatant external gains for the individual's falsification. Instead, these individuals are driven by a desire to appear ill or hurt as an end in itself. Individuals with some mental disorders may wander which could affect the course of treatment or the individual safety. Borderline intellectual functioning may also have a clinical impact. There were times this can be quite difficult to differentiate from mild intellectual disability. Problems with other psychosocial circumstances surrounding health can be related to unwanted pregnancy or multiparity. Similarly, it maybe of note if the individual has discord with counselors. This can include social workers and probation officers. It can be clinically relevant when healthcare facilities or other helping agencies are unavailable or inaccessible to an individual. Perhaps because the individual lacks adequate health insurance or transportation to these services. There are two categories that the clinician should use to indicate if the patient is seeking counseling, sex counseling and other counseling or consultation. The latter could include counseling for weight loss or to stop smoking. 
+
+00:14:50
+PROBLEMS RELATED TO OTHER PSYCHOSOCIAL CIRCUMSTANCES 
+
+00:14:55
+SEAN HARRIGAN Problems can arise for individuals who might be having a crisis of faith or joining a new faith. Other problems related to psychosocial circumstances include the individual being victimized by terrorism or torture or exposed to disaster, war or other hostilities. The clinician can also list other specified problems related to psychosocial circumstances and problem related to unspecified psychosocial circumstances. 
+
+00:15:25
+PROBLEMS RELATED TO LIFESTYLE AND PERSONAL HISTORY 
+
+00:15:30
+SEAN HARRIGAN Lifestyle problems include those related to exercise, diet, high risk sexual behavior and sleep hygiene. In ICD-10, the coding block of problems related to lifestyle also includes adult antisocial behavior and child or adolescent antisocial behavior. This can include the behavior of drug dealers or professional thieves. Antisocial behavior should be distinguished from the pattern of other disorders including conduct disorder and antisocial personality disorder in adults and intermittent explosive disorder and conduct disorder in children and adolescence. A clinician may choose to indicate if the individual has a history of psychological trauma, self-harm or military deployment. If any of these are clinically relevant. They may also list any other risk factors. 
+
+00:16:30
+ADVERSE DRUG REACTIONS 
+
+00:16:30
+SEAN HARRIGAN The clinician should be aware of adverse drug reactions to psychotropic medications, including medication induced movement disorders from antipsychotic medications. These adverse drug reactions are pronounced significant side effects that may result from medications used to treat mental disorders. These can include Neuroleptic Malignant Syndrome. Tardive Dyskinesia, Medication Induced Dystonia and Antidepressant Discontinuation Syndrome. While it goes beyond the scope of this series to go into these reactions and disorders in depth, they are worth noting as they may not only affect a patient's adherence to treatment, but may also resemble other mental disorders. Familiarity with these conditions can help the clinician better manage their patients and differentiate the side effects from other disorders. Diagnosing and treating a mental disorder can require a holistic approach, taking into account the patient's history, their relationships, their lifestyle and many other factors. A thorough understanding of diagnostic guidelines can help a clinician translate their patient's words and behaviors into a diagnosis. In order to hopefully help offer them the best course of treatment. However, many clinicians will tell you that the diagnostic and treatment process goes beyond checking criteria off a list and instead involves investing in their patients, understanding them as individuals rather than patterns of behavior. The more a clinician can be aware of the factors that influence their patient's behavior, the better they'll be able to offer them the best course of treatment, hopefully, easing some of the distress and impairment in their patient's lives. 
+
+00:18:25
+Produced by 
+
+00:18:25
+Classroom Productions, INC 
+
+00:18:25
+Technical Advisors 
+
+00:18:25
+Devon Cohen, MD 
+
+00:18:25
+Faith A. Coleman, MD 
+
+00:18:25
+Dr. Tracie Collins, MD, MPH 
+
+00:18:25
+Aydin Olson-Kennedy, MSW 
+
+00:18:25
+Dr. Mathew Macaluso, DO 
+
+00:18:25
+Mary Llenell Paz, MS 
+
+00:18:25
+Steven Swink, MA 
+
+00:18:25
+Casey Weitzman, MA 
+
+00:18:25
+Directed by 
+
+00:18:25
+Sean Harrigan 
+
+00:18:25
+Written by 
+
+00:18:25
+Sean Harrigan 
+
+00:18:25
+Siobhan Doherty 
+
+00:18:25
+Script Editor 
+
+00:18:25
+Pandora Suderman 
+
+00:18:25
+Production Coordinator 
+
+00:18:25
+Siobhan Doherty 
+
+00:18:25
+Field Production 
+
+00:18:25
+Amanda Buffington 
+
+00:18:25
+Hannah Huff 
+
+00:18:25
+Merlin Huff 
+
+00:18:25
+Featured Cast 
+
+00:18:25
+Anatasha Blakely 
+
+00:18:25
+Ross Crain 
+
+00:18:25
+Siobhan Doherty 
+
+00:18:25
+Brett Duggan 
+
+00:18:25
+Abbey Grace 
+
+00:18:25
+Alexandra Grey 
+
+00:18:25
+Zach Hallett 
+
+00:18:25
+Jim Harrigan 
+
+00:18:25
+Sean Harrigan 
+
+00:18:25
+Kristen Henley 
+
+00:18:25
+Hannah Huff 
+
+00:18:25
+Merlin Huff 
+
+00:18:25
+Dennis Hurley 
+
+00:18:25
+Jason Ko 
+
+00:18:25
+Matt Koenig 
+
+00:18:25
+Amy Landon 
+
+00:18:25
+Maribel Martinez 
+
+00:18:25
+Marissa Moosekian 
+
+00:18:25
+Bree Murphy 
+
+00:18:25
+Alan Ramos 
+
+00:18:25
+Diana Sanchez-Vega 
+
+00:18:25
+David Santana 
+
+00:18:25
+Jennifer Shaevitz 
+
+00:18:25
+Bette Smith 
+
+00:18:25
+Eddie Smith 
+
+00:18:25
+Lindsay Smith 
+
+00:18:25
+Miller Tai 
+
+00:18:25
+Narration 
+
+00:18:25
+Sean Harrigan 
+
+00:18:25
+Post-Production 
+
+00:18:25
+Sean Harrigan 
+
+00:18:25
+Robert Suderman 
+
+00:18:25
+Property of 
+
+00:18:25
+Classroom Productions, Inc. 
+
+00:18:25
+Copyright 2016 
+
+00:18:25
+All Rights Reserved 
+
+00:18:50
+END TRANSCRIPT 

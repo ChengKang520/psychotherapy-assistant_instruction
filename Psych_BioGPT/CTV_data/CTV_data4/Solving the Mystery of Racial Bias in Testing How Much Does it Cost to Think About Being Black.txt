@@ -1,0 +1,263 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+______________________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+Solving the Mystery of Racial Bias in Testing: How much does it cost to think about being black? Janet E. Helms, Ph.D. 
+
+00:00:00
+PATRICIA  Buenas tardes. We're in Arizona (laughs). We can say buenas tardes in Arizona. No, we can say it anywhere now. Uhm, well, welcome back to our second keynote address of the day. And I hope you've had a good day, yes? Yes? 
+
+00:00:40
+UNKNOWN Si. 
+
+00:00:40
+PATRICIA Si? Gracias, gracias. Ah, we're really delighted because we have the rest of the full afternoon. Actually, If you'd like you can be here until 7:30 because we have, in addition to Dr. Helms' talk, we have the poster sessions, the reception here and across the hall in her honor, and the book signing. So, and the bookstores and the exhibits. So, we have quite a bit going on and welcome your participation for the rest of the day, the rest of the afternoon. It gives me my pleasure, it's a great pleasure for me to introduce Dr. Janet E. Helms as our second keynote speaker at RACE 2002. I've actually known Janet for a number of years and I think if I, I count back, it's probably been almost 20 years. And I only date myself that way because I was at Boston University when I met Janet. And I, I left there in 1985, so it had to be in that window of time. And ah, I was a struggling assistant professor at the time and what I know is that there were very few of us women of color in the field of counseling psychology. Ah, and I met Janet, I think, at Teachers College at one of the winner round tables, one of the first winner round tables, '83, '84. I remember the great story, I think it might have been '83, Janet, that you drove up, drove in with a bunch of graduate students from Sou, did Fred Leong go to Southern Illinois? 
+
+00:02:10
+UNKNOWN Ah, no, to Maryland. 
+
+00:02:10
+PATRICIA  Maryland. But it was a group of students who came up with Janet in a snowstorm and, they all ended up at the conference. And I think it may have been '83 'coz that was a big snowstorm that year, I remember that, too. So that was one of our first encounters, so it is almost 20 years. But I, what I also remember is how much I admired her work at the time because it was already in, in publication. She was already out there and uhm, and so she had name recognition. Uhm, and one of the real special things was Janet invited me to go down to Maryland to do a keynote address. I don't know, it was '84 or '85. It was before I left BU. It's on my resume somewhere. And, you know, it was, I, I felt very honored because she was already a big shot. I, and you know, at Maryland and she invited me to do this keynote. So, we have this little history going back a number of years. And I think one of the uhm, unfortunate circumstances, not so unfortunate, was that Janet moved to Boston the year I came to Arizona. And ah, I always thought, well gosh what poor timing for one of us or both of us. However, we continued to have the good fortune of seeing one another at professional association meetings and, and working together and we feel very, we feel very privileged that Janet accepted our invitation to, to be here today and address us. And let me just give you a, a few ah, background comments about Dr. Helms and it's, it's all in her biography. And of course it doesn't all say what she's all about. It's, it's certainly a much more ah, qualitative story about Janet Helms. Uhm, Janet's originally from Kansas City, Missouri and she has her bachelor's ah, degree and her master's degree from the University ah, of Missouri at Kansas City. Her Ph.D. is from Iowa State University. And her uhm, affiliations as a professional as a professor have been at ah, Washington State in Pullman, Southern Illinois University, University of Maryland, and more recently Boston College. Currently, Dr. Helms is Professor of counseling psychology and Director of the Institute for the Study and Promotion of Race and Culture at Boston College. It's for the study and promotion of race and culture at Boston College. It was important to have those words in there. Dr. Helms is a fellow in Division 17 counseling psychology, and Division 45, the psych, ah, the division for the psychological study of ethnic minority issues of the American Psychological Association. She's been very active in the profession over the years, serving as Division 17 representative to the APA Council of Representatives and also on the Joint Committee on Testing. She's also a member of the Association of Black Psychologists. Again, someone like Dr. Helms as a prolific writer and researcher is in high demand to be on editorial boards. Currently she serves on the editorial boards of the Journal of Psychological Assessment and the Division 45 Journal of Cultural Diversity and Ethnic Minority Psychology. She's written over 60 empirical and theoretical articles and four books on the topics of racial identity and cultural influences on assessment and counseling practice. Among her books are titles you would probably recognize. A Race Is A Nice Thing To Have, Black and White Identity Development, uhm, and ah, a book with ah, co-authored with Donelda Cook, Using Race and Culture In Counseling and Psychotherapy: Theory and Process. Dr. Helms has been acknowledge for her work with awards which include an engraved brick in Iowa State University Plaza of Heroines and the distinguished career contribution to research award from the Society for the Psychological Study of Ethnic Minority Issues. In 1991, she was the first annual recipient of the Janet E. Helms Award for mentoring and scholarship and professional psychology. And this award is ah, given annually at the Teachers College Conference at Columbia University. So it's with great honor and pride that I introduce a friend and colleague, Dr. Janet Helms. 
+
+00:06:45
+[sil.] 
+
+00:06:45
+DR. JANET E. HELMS  Thank you Patricia. Uhm, good a, good afternoon, good evening, East Coast time it's evening. I appreciate Patricia not telling you that when I invited her to do the keynote, I also volunteered to take her to the train station so she could go home and ended up driving her down the one way street in the wrong direction. So that she's still my friend probably said something about loyalty. Let me start by defining the mystery that I intend to solve today. In virtually every, every study in which the test scores of African- Americans, presumably not Hispanic, or Hispanics presumably not African- Americans have been compared to the test scores of Whites presumably not Hispanic, not African-American, or not Asian-American, the average test scores of African-Americans and Latino/Latina-Americans are about one standard deviation lower on Standardized Cognitive Ability Test than are the scores of, of White people, presumably on the same setting. This discrepancy has been observed in racial comparison studies for over a hundred years. It is true when children are compared, such as on the Woodcock-Johnson, a test for preschool and elementary school children. It is true, when adolescents are compared such as on state exams or a California Achievement or Iowa Basic Skills. It is true when college students are compared, SAT, ACT. It's true when future graduate students or professional medical students are compared, GRE, MCAT. It's true when teachers are compared as well as civil service people in the GATB, the civil service exams. On all of those exams, White people score on average about one standard deviation, which in most cases is 100 points higher than African-Americans and Latino-Latinas. In fact, NAME, a cognitive ability test that is used for making important diagnostic selection, placement, or promotion decisions, and it is a virtual certainty that on average Blacks will score one standard deviation below their White counterparts. This finding is such a certainty that we do not really have to administer this test anymore to Black and Hispanic test takers. It will be far more economical to test White people and assign the Black test takers a score of one standard deviation below the White average and Hispanics a score of about almost one standard deviation below. Educators, policy makers, and politicians, and measurement experts interpret these between group differences in, SATS(ph), SCAT scores, Standardized Cognitive Ability Test scores as evidence of probable intermedial ah, unchangeable intellectual deficiencies of especially Black Americans. Think about Jensen and Herrnstern and Murray for example or more recently, Sackett et al, in a journal in the American Psychologist talk about how, no matter what you do you can't erase the deficit. Consider the implications of this interpretation. Only about 16 percent of Black people and maybe about 18 percent of Hispanic or Latino/Latina people even have the possibility of being a smart ass or smarter than the average White person. Now, Latino/Latina people and Black people, if you believe that raise your hand and I'll tell you something about your racial identity. With all due respect to White people, anybody who believes that either doesn't know very many White people or is delusional. So here's the mystery, how is it possible for White people to always obtain higher Standardized Cognitive Ability scores on average than African-American, Latino/Latina-American, and Asian-Americans on verbal test if they are not really smarter on average? Various theories have attempted to explain these phenomena by looking for deficits in the test takers. A popular cultural-friendly explanation nowadays is that Black people and by implication, Latino/Latina people, are disengaged from academics. We do not derive our identity from doing well in academic or cognitive domains according to the experts. Think about Agloo(ph) for example. Ah, he's well known for this perspective. However, this explanation defies common sense in at least two ways. First, all of the limited racial socialization ah, empirical literature indicates that African-American parents actually educate their children to value education, to define themselves in, in terms of their education. Those of you who had been exposed to African-American socialization, for example, probably recall your parents saying you have to achieve twice as hard in order to get the same thing that a White person gets in the, in the political and social system. In fact, all the research shows that African-American parents believe that not only must they socialize their children to value academics but also they must understand the interplay between race and intellectual achievement in the society. So it doesn't make sense that ah, African-American children are disidentified with academic achievement. Imagine going home to your parents saying I don't want to do that if you're an Ameri, African-American child. I don't think so. Secondly, if we do not value education, if African-American and Latino/Latino-Americans do not value education, what are we all doing here? Why would we subject ourselves to this experience if in fact we do not value education. So, the disity(ph), identification theories do not make sense for the majority of the populations on which they are used. Less friendly theorists have offered biological or environmental explanations for the test score disparities. These include the explanation that Black people are so poor they, that they cannot feed themselves properly. And consequently, their brains and therefore their intellects are damaged. Or they are so busy dealing with their experiences of racism that they do not have the time or energy to develop any intelligence. You will perhaps notice that all of these explanations locate the intellect problem in the test taker rather than the test or the testing process or some combination of these variables. However, racial and cultural theorists have argued for some time that the testing process is racially or culturally biased against African-American, Latino/Latina-Americans, Asian-Americans, Native Americans, and if I forgot anybody of color you're in there, too. Domino, who's known for being an expert psychometrician, summarizes some of the cultural biased hypotheses and why traditional measurement theorists don't believe them. If you look at the overhead, the lighter print has to do with what the cultural theorists say is the problem with Standardized Cognitive Ability Test. The darker print sa, is what the expert say is the refutation of these arguments. So, cultural theorists argue for example that tests items are used primarily reflect White middle-class experiences. And that if you included the experiences of the Alano people then you would find that they would do better on these tests. While the experts say there is no evidence the test are biased against minority members. The cultural people say inappropriate standardization samples. You only have a few African-American or Latino/Latino-Americans or Asians or Native Americans in your sample, and so therefore your standardization samples are biased towards White norms, White ways of behaving. The experts will argue that in fact, their samples do include minority children and that they reflect the population. And so there are many minorities in their sample as, are represented in the overall population. But even if that's true, since the overall population is predominantly White, that means that everything is steered in the direction of White respondents. The cultural experts will argue that test measured different constructs for "minority and majority children." The measurement experts say there's no evidence of this. Finally, the, the ah, cultural people will argue that tests have different predictive validity. That is they don't relate to the kinds of things that we're trying to predict in the same ways for people of color as they do for White people. This would say essentially ah, that, for example, if we're using test scores to predict who's going to do well in college that ah, the tests don't do as well for African-Americans, for example, as they do for White people. The experts say that that's not a problem because although the tests don't work in the same way, what they do is they overestimate how well African-American especially will do in college. And because that's the case then we don't need to worry about whether or not the predictive validity is a problem. Based on such evidence or arguments, most psychometricians or measurement experts have concluded the tests are not culturally biased. Domino cites me, my 1992 article on cultural bias in testing, as the only irrational hold out against this conclusion. Now, he doesn't really say irrational. He ci, merely cites 20 experts who believe that cultural bias does not exist and he exa, cites me as the one person who believes it does. 
+
+00:17:45
+[sil.] 
+
+00:17:45
+DR. JANET E. HELMS  And then he talks about all of the strategies that have been used to prove, the cultural bias does not exist. Ah, take a look at that list. You don't even have to know what they are. Most people don't know what they are. I'm not even sure the measurement experts know what they are. But look at the list. Differential item functioning. Whether or not groups differ in the items that they get right. Factor analysis, that the measure have the same structure across groups. Item response theory. Can you test items, according to the ability of respondents. Latent trait theory. Who knows? Structural equation modeling. Racial categories as moderators. He says that in fact all of these studies demonstrate that racial test bias does not exist. But he ignores the fact that the cultural experts are arguing that there are characteristics of the people that you have to examine if you want to understand racial test bias. And so he says, well we've, we've, we've done that and, and this is how we've done that. We've got these sophisticated strategies for examining cultural bias. One of these sophisticated strategies is that we get expert minority group members in a room and we ask them to eliminate the items that they think might be biased against their groups. Or we get committees of minorities and put them in a room and say, eliminate the items that you think make your group look dumber than everybody else. Now, think about this, when you talk about expert minorities, what exactly is an expert minority. How does, how do you get to be one? What's the content defined by expert minority? And if the people who use all of the sophisticated methods cannot discover test bias, why would they suppose that expert minority shut up in a room could do better than they can? What they seemed to have ignored in looking for cultural bias is that virtually all of the evidence in support of the su, supposition that test measure cognitive abilities is correlational. That is test scores are correlated with some kind of criterion that you want to predict. If we're using test for academic achievement purposes, for example, then we're correlating test scores with GPA, or test scores with teacher's performance, or test scores with ah, significant others evaluations of the person's in, intellect. In some way we're, the only way tests have meaning is that we can define a criteria and see a relationship between the test and the criteria. So all of our evidence is based on correlations between high stakes test and academic criteria of some sort. But, my new favorite psychometrician here Arthur Jensen, advises us that you can't impute causation from looking at correlations. That in fact two variables that might be correlated with each other but it might really be a third variable that's responsible for the correlation, which is really the argument of the cultural theorists were making that you have to look for the third racial or cultural variables in your analyses of validity coefficients. Therefore, I rationally argued that if one wants to rule out racial or cultural bias as an explanation for the differences in performance on high stakes test, then you need to measure some racial or cultural constructs, and examine their effects on validity coefficients. Apparently, none of the traditional measurement theorists seemed to have understood this argument. I guess they weren't the ones who were one standard deviation above my knee. Because the studies that they think or test in my perspective really have nothing to do with it, they really are not measuring cultural variables. As it turns out in 1971, Darlington proposed a method that can be used to assess the amount of cultural bias in test scores if one actually measures racial or cultural constructs as psychological constructs. Now, here I mean that usually when people study race or culture, they put people into groups, racial groups or cultural groups of some sort and then compare them. Those are demographic categories but they're not psychological constructs. Psychological constructs have to do with how does the person perceive or react or be as a consequence of being socialized to believe he or she belongs to a racial group, for example, or a cultural group, for example. Darlington originally argued that if one partial's out, that is controls or takes out the effects of the criterion, for example grade point average, from the correlation between test scores and a racial or cultural variable, then if the remaining partial correlation is significant, then the test scores are biased with respect to that particular criterion. He defined, however, racial or cultural variables as demographic categories. And so his definition also did not have much impact on how we look at racial bias in testing. But suppose we measure race as a construct, a psychological construct. Hmm, I wonder what psychological construct, racial psychological construct we could use here? How about racial identity? Maybe we could use racial identity to assess test bias. 
+
+00:23:40
+[sil.] 
+
+00:23:40
+DR. JANET E. HELMS  Let me just do a quick overview of racial identity theory. Ah, this is my people of color racial identity model. In my racial identity theory, I argue that racial identity is more than just who you call yourself or what you call yourself. It's also a combination of how you perceive your environment. It's the filters of which you make sense of your environment. I talked about there being several different types of filters that people might use. They're not mutually exclusive. Some people may use more than one filter. To begin with, the first one I call the conformity ah, or clueless ah, strategy or filter. Sometimes when I talk about the model because it derived from the work of ah, William Cross, I will talk about pre-encounter particularly if I am talking about primarily ah, Black groups. But for our purposes at the moment, let's talk about ah, conformity as the first or the least sophisticated strategy. I've heard lots of presentations today in which people talked about their denying their ah, group identity. That's a characteristic of the conformity status. It's the denial, it's the minimization of race. In this case it's an important factor in one's life. If we were to think about this in terms of contemporary theory, conformity would be what Agloo(ph) and others talk about when they say that they person disidentifies with their own racial or cultural group and identifies with the White group. So conformity is identifying with the White group and denigrating or putting down the group of color to which one belongs. A dissonance strategy is a strategy of confusion. It's oscillating between accepting a viewpoint that's consistent with the group to which you belong versus accepting a viewpoint that's consistent with the White group. It's seeing the world, if you will, through uncertain lenses ah, ah, in many respects. Immersion/emersion of the militant way of viewing the world. It's the psychological disengagement from the White culture, if one can do that. And the engagement or immersion of one's self in the Black culture. When one uses this particular strategy, one is hypervigilant to issues of race as they pertain to your group and one is often guided by stereotypes of one's group which you internalize and use as a way of guiding behavior. So often, for example, in school systems we will see students of color not participating in particular kinds of activities because either there are no other people who are members of their group in those activities or because someone has defined that as a not Black or not Latino/Latina kind of activity. That's, they're using the immersion/ emersion filter. 
+
+00:26:45
+[sil.] 
+
+00:26:45
+DR. JANET E. HELMS  Some people may use and internalize filter which is uhm, essentially seeing the world from the perspective of one's own group but doing that in ways that make personal sense. So overcoming the stereotypes of what makes sense or pertains to your group. And then finally, ah, integrative awareness is when one is able to see the world not just through racial lenses in this case but also racial lenses, ethnit(ph), ethnic lenses, gender lenses, social class lenses, whatever defines you as a person. And so it's ah, it's applying multiple identities to perceiving the world. Well in truth, I never suspected that racial identity would have anything to do with racial test bias. It was my graduate student, actually a series of graduate students, who got me thinking about this as a potential issue. The first one was Dashaun Bradley(ph) who stayed, I'll be talking about a little today ten years ago. And his, he didn't really think about racial identity as pertaining to test bias per se but he was interested in whether racial identity could predict whether or not students drop out of college before they ha, had graduated. And he found that they could. But in his defense, at his defense, one of his committee members raised the question of, since racial identity seemed so effective in predicting whether or not students drop out of college, whether or not it would also predict their test scores. Uhm, and that was an interesting question. But he wasn't interested, he was just interested in the degree at the time. So, we, we let that one drop for a while. And then, some years later, actually two years later, I happened to have two African-American women who were also interested in the topic for different reasons. Ah, Stacey Jackson, Dr. Jackson was interested because she felt that her experience of doing well in, on tests had to do with the fact that her parents were both school teachers. And so, they had socialized her to understand White culture. But her argument was that there were many people who she thought were as bright or brighter than she was who uhm, weren't able to pass these tests and she wanted to understand why. And later Rasheeda Perin(ph), who graduated last year, had the same argument. Both of them used racial identity to study the test performance of, of students and found that racial identity was related. And so then I began to wonder, if racial identity is related to test scores, which it should not be, then perhaps we can find a way of helping people to understand how racial identity impacts how people perform on how high stakes test. And if we do that, we'll have a definition for racial test bias. So, I decided to try it with Darlington's hypothesis. 
+
+00:30:00
+[sil.] 
+
+00:30:00
+DR. JANET E. HELMS  Remember, Darlington's hypothesis says that if you filter out the effects of the criterion, the thing you're trying to predict, then what's left over if it's significant is racial test bias. So, if we look at our correlation matrices, ah, let's look at the section called zero-order correlations. Okay? If you look at that, we're looking at the ah, SAT verbal test, which is called something else now. Pre-encounter or conformity and immersion/emersion ah, or the column variables in high school GPA. We're looking at whether those are correlated at uhm, at sim, simply correlated. So, those would be equivalent to validity coefficients. If we look, what we see is that uhm, actually the immersion should have two stars, but pre-encounter and immersion/emersion are negatively related to SAT verbal scores, so that the higher your scores on pre-encounter or conformity, the higher your scores on immersion/emersion, the lower your SAT scores. And they work in opposite directions of GPA because the higher your GPA, the higher your SAT scores, okay? So, what this says then is if you identify with White culture, for example, then your scores on the SAT are lower. If you identify with Black culture, your scores on the SAT are lower. Hmm. Well, let's try controlling as Darlington suggested that we should do for the criterion. So, removing the effects of high school GPA and to see whether the partial correlation is still significant. And what we find is that it is. It goes up a little bit even for ah, pres pre-encounter conformity, and comes down a little bit for immersion/emersion. Well, most people would argue. Okay, you found something significant but that's probably because you just have a large sample. This is about 250 people. You just have a large sample. Correlations of that size aren't going to account for very much variance. They're not going to get rid of the hundred point difference, so why do we care? Well, I think the argument that most people make, however, is based on a misunderstanding of the difference between correlation coefficients and regression coefficients. Regression coefficients will allow us to predict our variables from a combination of things that we think might be relevant. So, in this case, we can ask to what extent do high school GPA ah, pre-encounter or conformity, immersion/emersion account for the test scores that people receive? Ah, Let's see which, what the next one is. 
+
+00:33:15
+[sil.] 
+
+00:33:15
+DR. JANET E. HELMS  Could you cut, cover up the bottom of the person part for me? Thank you. Okay, these are some potential models that would allow us to look at racial bias in testing. We don't really know which model people use ah, in educational institutions, for instance. Ah, so, we don't really know what factors account for why people get their test scores that they get. So, that's model 5. Who knows? The traditional model, the model that people should be using is that ah, SAT scores are the results of their high school GPA, which is model 1. In other words, if high school GPA were an effective predictor then it should account for why people get the particular test scores. The second model says, however, and we're begin, beginning to look at cultural biased models. What would happen if we were to predict test scores from conformity or pre-encounter racial identity and immersion/emersion racial identity? How would that impact people's test scores? And if you look at that, you see that in that model both pre-encounter and immersion are still negatively related as we thought they would be. And then our mixed model says, well, what if you take into account the high school GPA ability and pre-encounter and immersion ah, scores. And then, finally, the ideal model will, will hold for a second. Ah, next one. 
+
+00:35:10
+[sil.] 
+
+00:35:10
+DR. JANET E. HELMS  Well, we can look at whether any of those models account for whether or not people, we could see if any of those models account for the 100-point difference in people's test scores as compared to their White counterpart. In the first column, what I've done is to divide people into groups on the basis of their high school GPA. So, Group 1 are people who were admitted to college but had a, ah, C average as high school students. Group 2 are people who were admitted to college with a C+ average. Ah, Group 3 are people who were admitted with a B average. And Group 4 are people who were admitted with a B+/A average. The actual column is the average SAT verbal scores for the people. So, people who were admitted with a C ah, had an average actual SAT of 366. People who were C+ had 360, and so on. So, not very impressive SAT scores. Well, if we take a look at the model where what we're trying to do is to predict scores from immersion/emersion and pre-encounter, we can look at whether or not people's actual scores were an overestimate or an underestimate of what their scores would have been if we take in into account their racial identity, SAT. Makes sense? Okay. So, if we look at the C Group, for example, we find that when we use pre-encounter, immersion/emersion to predict their scores, that they actually would've had a higher SAT score. And that their actual score was about 18 points of an, underestimate of what their score would be if we take into account their racial identity. If we look at Group 2, which is the C+ group, they are the group that's most severely penalized here. We see that their score would've been a 385 if we take into account racial identity. And so their score was underestimated by about 26 points, which is about a quarter of the standard deviation. In passing, I should probably say that most of the interventions designed to raise test scores for African-American students will raise them about one standard deviation. So, this one suggest that, in fact, if we put ah, these students through some kind of intervention such as a test wise in his class or a cultural sensitivity class with respect to testing, then we would probably get rid of the difference for the C Group, who seemed to be the group whose poor, most heavily penalized by ah, racial identity in this model. If we look at the B Group, we see that their actual score, their obtained score was 13 points over what their score would be if we adjust it for racial identity. So, in some way, they or have managed to cope with racial identity as an issue. And finally, if we look at the B Group, we see that their score is also overestimated. Their actual score is higher than it would have been if we correct it for racial identity. Now, ah, interesting question would be uhm, why that's the case? But we'll come back to that in a moment. And then if we look at the total, we see that overall, it appears that these scores were underestimated by about 5 points. So, this kind of illustrates that is probably not a good idea to just look at the ah, composite mean score but rather you need to break it down into ability levels because it gives you more information. 
+
+00:39:00
+UNKNOWN Okay. 
+
+00:39:00
+DR. JANET E. HELMS Now, my guess is why the scores are varying is because SAT's do account for ability an, to some extent. It's just that they account for ability and racial identity. So, what would happen if we use the mixed model? Which is the next set of columns over. If we use the mixed model, then we find that ability is, ah, if we include ability in our model, then it looks like, for the C Group, theirs, obtained score is actually about 9 points than, higher than it would have been if we used our model. The uhm, C+ Group is about 15 points lower. The C+ Group is always in trouble regardless of the kind of model we use. So, we need to wonder what's happening with that particular group. The B Group is the group that's uhm, overestimated by the most. So, their score is actually higher than it should have been if we take in into account the ability as well as the racial identity. And then the A Group, their score is underestimated by about 5 points. Okay. But the mixed model is getting better. At least now people, the low ability group now has the lowest SAT scores. The high ability group now has the highest SAT scores. But if you look at that, that's not going to take care of a hundred points difference. Uhm, 15 points, 9 points, that's not going to make up the hundred points difference. So, I haven't solved the mystery yet. Well, don't give up on me. I'm about to solve it. Suppose we were to make the experience for ah, test taking for Black students the same as it is for, for White students. Suppose that Black students didn't have to think about race. They didn't have to think about whether they wanted to be with people like themselves. They didn't have to think about whether they wanted to be like White people. They just didn't have to think about it. They could be just like White people. Would that affect their test scores? What do you think? Well, through the magic of statistics, we can actually make a whole bunch of Black people into White people. 
+
+00:41:30
+UNKNOWN  Oh. 
+
+00:41:35
+DR. JANET E. HELMS Which ought to make Abdul(ph) happy. And the way we do that is by assigning zero weights to racial identity. Just taken it up. And only using their high school GPA to predict their test scores. When we turn Black people into White people then what we see, ah, the actual or the obtained scores are on the left side. The ideal which is uhm, assigning zero weights to racial identity is in the middle. And we could tell how much the scores are underestimated uhm, in the fourth column. And so what we see is that we more than compensate for the standard deviation difference simply by turning Black people into White people. 
+
+00:42:30
+[sil.] 
+
+00:42:30
+DR. JANET E. HELMS  I know Black people but, uhm, and in fact we see for our C+ Group that they may in fact be the smartest group in our, in our sample when we turn them into White people. So, that's the solution to the mystery. What we need to do well, we don't quite need to be that drastic. What we need to do, however, is to measure the constructs that we think or the racial or cultural constructs that are responsible for test performance. Then we need to take their effects out of each person's test scores. Now, you would think that that would be an obvious kind of thing. Uhm, but interestingly, I decided that I wanted to do a meta-analysis to see if I use someone else's data if I could find the same magnitude of effect. Guess what, test makers, test ex, measurement experts do not measure racial or cultural variables as psychological constructs. I could not find a single study in the traditional literature in which a criterion, a test score, and a racial or cultural construct was measured. So, I couldn't try this with other data. But my guess is that many of you out in the real world have data in your files that you've been sitting on. And so I would encourage you to get into those files and begin to take a look at whether or not the data you have would reflect the same kind of change if you were to turn your sample into White people. We need to begin to measure racial and cultural constructs. I think the ten, our tendency is to accept the expert's viewpoint that these tests are actually measures of ability and that's all. So, we spend a lot of time trying to come up with interventions to help our students, our people do better. And when those interventions don't work very well, we think well, we better try harder. But maybe the reason they don't work very well is because we haven't really taken account of the bias in the measures. And my guess is that if you were to take that out, then you would find that your interventions are working a lot better than you think they are. A second implication I see of this particular kind of research is that some people actually do better than they are predicted to do regardless of which model we use. I think we need to begin to study those people. What are the strategies that they use that enable them to perform better than we, we would have anticipated. Most of the literature focuses on low achievers but I think high achievers has something to say to us as well. A third implication I see is that we are finding that policy makers are beginning to test everyone for everything. You have to be tested to graduate from high school. There's a movement afoot to have people tested in order to receive college degrees. The implication there is that tests are better predictors of something ah, than ah, are observed behavior ah, in those kinds of settings. We need to begin to challenge the policy makers. We need to, one for one, ask them what are the criterion they're intending to predict? If I get a high test score, what does that mean about something else in my life. We've been terribly lax about defining the meaning of test scores. And so, one of the things then we need to do is to begin to ask people if my child does well in the state exam, what does that mean about what they'll be able to do in their life once they graduate from high school or college or whatever. We also need to not accept the ah, commonly held notion that test are fair to everyone. We need to begin to ask people, well did you in fact study the effects of racial variables on these test scores. And if you didn't, then we don't want to participate in the process. So, we have to become more activistic about how it is that we use these particular kinds of measures. And then finally, although I focused on intellectual assessment, I think we can use the same kinds of strategies to study the other kinds of assessment better use for high stakes decisions. We can use this approach for examining cultural ah, variables as they pertain to psychological assessment in clinical settings, for example, and/or for diagnostic purposes. My guess is if we begin to take a pro-active stance, if we begin to be the people who are the people who defined racial bias in testing, then it won't be another hundred years before we find out why there's a hundred point disparity between the racial groups. That's it. 
+
+00:48:00
+[sil.] 
+
+00:48:00
+PATRICIA  Could you entertain a couple of questions? 
+
+00:48:15
+DR. JANET E. HELMS Sure. 
+
+00:48:15
+PATRICIA  Questions, comments to Dr. Helms, we, we have time for two or three. So, you have a hand there, Janet. 
+
+00:48:25
+DR. JANET E. HELMS Yes? 
+
+00:48:25
+UNKNOWN  Dr. Helms, uhm, you, uhm, implied that some of the work that you've done on activities in education particularly, ah, I think you've made, made a reference to uhm, ah, for Steal's(ph) work on and stereotype threat that it probably doesn't hold the answers to explain the racial or ethnic differences in scores. Uhm, would you, would you agree that it perhaps explains a part of the disparity or would you say that it, would you categorically, sort of, deny or dismiss that whole body of research that Steal and some of his uhm, fellow uhm, researchers uhm, know? 
+
+00:49:05
+DR. JANET E. HELMS Okay. I, I would say, well, actually I don't say it. Second, they say it. That in fact the amount of variance explained by Steal's work doesn't, doesn't compensate for the hundred points. But I would say about Steal's work is that he's using the wrong methodology. That in fact, if he measured stereotype threat and then took the effect of stereotype threat out of test scores, then he would probably get the same kind of effect. So, I think, I think it's just a matter of shifting the way he thinks about it. 
+
+00:49:40
+[sil.] 
+
+00:49:40
+DR. JANET E. HELMS  Yeah, Dorothy? 
+
+00:49:45
+UNKNOWN Ah, Dr. Helms, uhm, the previous slide that you've showed us where uhm, the scores actually dropped. Uhm, ah, the groups that had initially higher scores and ah, that's because you took away the prediction of racial identity. Ah, ah, the control for this cause, I mean, that is a little scary to me, because if you want to use ah, racial identity scores to control, then some of our ah, African-American high school children who probably will do very well in college and thereafter, ah, we might actually not give them that access ah, using that kind of control. And I was wondering whether ah, there's a possibility to measure acculturation with that. Ah, because these ah, children who might have, uhm, who, who might have different acculturation scores and having adapted themselves ah, to the procedures of uhm, the Western form, the American form of education that they are performing better on, on the SA, SAT, because I think Stanley Sue has studied uhm, uhm, SAT scores ah, as ah, uhm, these are affected by acculturation scores of Asians. 
+
+00:51:00
+DR. JANET E. HELMS  Uhm, yeah. Let me say a couple of things. What I would hope you would take away from the presentation is not that you should use racial identity to predict their scores unless you are using the ideal model. 
+
+00:51:20
+DOROTHY Unless you're using the ideal model? (crosstalk) 
+
+00:51:20
+DR. JANET E. HELMS Unless you're using the ideal model. But the other thing I would say is that I, I think you, you kind of maybe make a point that I would make again, which is we don't know why racial identity is negatively related to how people perform on the SAT in this case. Uhm, but that's something we can study. (crosstalk) 
+
+00:51:40
+DOROTHY Yeah. 
+
+00:51:40
+DR. JANET E. HELMS And so far, people have not studied that kind of construct. So in fact, acculturation or enculturation might, might be a variable that accounts for ah, some more variance in, in our prediction. But if we don't have psychological constructs to start with then we have no way of adding in new psychological constructs. So, I would say that everyone who are to figure out what your pit racial or cultural construct is and then see whether it has an effect on how people ah, perform on, on these measures. I would also ask you that when you do this and you publish your work, ah, report your correlation matrices so I can do my meta-analysis. 
+
+00:52:25
+[sil.] 
+
+00:52:25
+DR. JANET E. HELMS  Chuck? 
+
+00:52:30
+CHUCK And yeah. Ah, Janet when you described the racial identity as ah, the construct here. You had, I think, five different concepts or dimensions there. And then when you, you went to the ah, ah, regressions, you, you used two of those dimensions, right? (crosstalk) 
+
+00:52:45
+DR. JANET E. HELMS Yeah. 
+
+00:52:45
+CHUCK Pre-encounter and immersion/emersion, what, what was you're thinking about going from the five to the two and? 
+
+00:52:50
+DR. JANET E. HELMS  I actually chose the two that were significantly related in the overall correlation matrix. (crosstalk) 
+
+00:52:55
+CHUCK Oh, okay. 
+
+00:52:55
+DR. JANET E. HELMS  And also the two that made some theoretical sense. Ah, both pre-encounter and immersion or ah, statuses that are, have some concern or focus with stereotype, which gets us back to Kevin stereotype threat. (crosstalk) 
+
+00:53:10
+CHUCK Uh hmm. 
+
+00:53:10
+DR. JANET E. HELMS And it just kind of shows that uhm, either identification with White people, which is one kind of stereotype, or identification with ah, Black people, which is another kind of stereotype, ah, is not ah, necessarily facilitative of performance on these measures. 
+
+00:53:30
+UNKNOWN Dr. Helms, you stated that uhm, the model could be adopted for clinical assessment, how would we do that? Could you give us maybe one example of how we can use that model for clinical assessment and (inaudible ) assessment. (crosstalk) 
+
+00:53:47
+DR. JANET E. HELMS Sure. If you have, do you have a measure that you like? 
+
+00:53:50
+UNKNOWN Not particularly. 
+
+00:53:50
+DR. JANET E. HELMS Okay. So, let's say that we're using ah, the symptom 90 checklist, which measures a lot of things like depression. We need to define a cri, a criterion. So, what is it that we're trying to predict when we use that measure? Maybe we're trying to predict who's depressed versus who's not. So, we'd have to then ah, partial out the effects of being depressed and look at how some test scores were related to whatever cultural construct it is we're interested in. And if they were still related, then that would suggest ah, that the symptom checklist is biased in, in that particular way. 
+
+00:54:25
+UNKNOWN Great. Thank you. 
+
+00:54:25
+UNKNOWN  This is more just for your comment rather than a question. Uhm, but I live in California and there's an increasing movement for standardized testing, K through 12 across the board. (crosstalk) 
+
+00:54:40
+DR. JANET E. HELMS All over the country, actually. 
+
+00:54:40
+UNKNOWN And on the news this morning, President Bush was, well he was being congratulated for his uhm, (crosstalk) 
+
+00:54:45
+DR. JANET E. HELMS Uh hmm. 
+
+00:54:45
+UNKNOWN  education ah, reform, which was asking for standardized testing across the country. And uhm, for better or worse, this will give us more raw data to use to do the kinds of ah, research that you're talking about. (crosstalk) 
+
+00:55:00
+DR. JANET E. HELMS Yeah. 
+
+00:55:00
+UNKNOWN But any, any response to, you know, the pendulum swings back to standardized testing rather than per, performance based. 
+
+00:55:05
+DR. JANET E. HELMS  Ah, couple of reactions. First, it probably won't give us any useful data. Ah, no data that's new. We already know what's, what we will get. (crosstalk) 
+
+00:55:15
+UNKNOWN Uh hmm. 
+
+00:55:15
+DR. JANET E. HELMS  Uhm, assign the standard deviation and let us go home. Uhm, it will only give us new data if we insist that they also measure cultural variables when they test our children, so that we can take out the effects of the culture ourselves if they won't do it. Uhm, which is, and your comment raises for me the concern that testing is becoming a major phenomenon in this country. For our children, actually for, when I say our, our children that's regardless of race, the best predictor of future behavior is performance. Ah, the best behavior of how well you will do in college, for example, is previous GPA. So in a sense, teachers are the best evaluators of whether or not people can perform aca, in academic settings. Supervisors in supervisory settings. But we're taking away our most effective measures and replacing them with tests. I am concerned that we all are not more concerned about that. Because what it means and what we are seeing in ah, California higher education is that when test scores or the primary criteria then we lose people of color in our educational institutions. And so we, we need to not be as passive perhaps as we've been. 
+
+00:56:45
+UNKNOWN Dr. Helms? 
+
+00:56:45
+DR. JANET E. HELMS  Yes? 
+
+00:56:50
+UNKNOWN Other than the, beyond the obvious institutional racism, can you, can you offer us any perspectives on the fierce resistance that you might see in terms of incorporating these ah, cultural variables beyond the demographics? 
+
+00:57:05
+DR. JANET E. HELMS Oh sure. Testing is a big business. Uhm, (crosstalk) 
+
+00:57:10
+UNKNOWN (inaudible ) 
+
+00:57:12
+DR. JANET E. HELMS I sometimes laughingly say that if anyone be, knows that I'm doing this research, you probably shouldn't get on an airplane with me. Uhm, bec, it's a big business and if we can prove that the tests do not work in the same way for our children, the children of color, as they do it for White children, then it means somebody's going to lose a chunk of money. Uhm, there are possibilities for court cases because all of the court cases are predicated on the assumption that the tests work in the same way. 
+
+00:57:40
+UNKNOWN Thank you. That explains it. 
+
+00:57:45
+PATRICIA  We're gonna give you a rest now. 
+
+00:57:50
+DR. JANET E. HELMS Okay. 
+
+00:57:55
+[sil.] 
+
+00:57:55
+PATRICIA  First, Janet, I wanna thank you for your flexibility. And everyone knows that she was super flexible today and for your very, I mean, with your comments are just so awesome. So, uhm, now we are in the midst of someone who's very scholarly, very learned and I think we should all be pleased with the fact that Janet again graced our conference. And ah, those of you who have not heard her speak before, I hope you invite her to your institution because there's so much food for thought and I love the questions. I thought that really got some very interesting discussions going. So, fortunately, Janet will be here tomorrow. She will be presenting tomorrow afternoon with Dr. Anderson, reacting to his paper. And so, uhm, stick around ah, for all of that. We have a little gift for you from ASU. 
+
+00:58:50
+DR. JANET E. HELMS  Thank you. 
+
+00:58:55
+PATRICIA And from the college of education. And we do have ah, a reception, again, in Dr. Helms' honor across the hall, as well as, I mean, we're gonna be moving between these two rooms. So, there's a lot of food. Just so you'll know. Ah, but the ah, Association of ah, African-American Psychologists has a reception across in La Paz. So, ah, and they were also joining in here. (crosstalk) 
+
+00:59:15
+UNKNOWN But everybody is invited to both? 
+
+00:59:15
+PATRICIA But we're, yeah. We're going both, back and forth. So, don't exclude yourself. Eat well. And thank you again. (crosstalk) 
+
+00:59:25
+DR. JANET E. HELMS Who's got the best food? 
+
+00:59:25
+UNKNOWN Yeah, pardon me. Who's got the best food? I don't know yet. That looks pretty good over there. I will have a couple of announcements after I let Janet sit down, and give her another hand. 
+
+00:59:30
+Microtraining Associates, Inc. 25 Burdette Avenue Framingham, MA 01702 info@emicrotraining.com www.emicrotraining.com 888-505-5576 
+
+00:59:30
+END TRANSCRIPT 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="13820735-7100-484b-ab2e-e02be16b799b" name="Psytherapy_Chatbot">
+        <fileTransfer rootFolder="/home/kangchen/Chatbot/Psych_BioGPT" accessType="SFTP" host="login3.rci.cvut.cz" port="22" sshConfigId="911e4c32-ef08-4594-a7b4-9ded6a298702" sshConfig="kangchen@login3.rci.cvut.cz:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,293 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+_____________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The information in this program is presented solely for educational purposes and should not be used for the assessment or treatment of any condition without the advice and supervision of licensed medical professionals. The situations presented in this program do not necessarily reflect actual situations you may encounter. Classroom Productions disclaims any liability and/or loss resulting from the information contained in this video. DSM-5® is a registered trademark of the American Psychiatric Association. The American Psychiatric Association has not participated in the preparation of this program. 
+
+00:00:05
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:05
+DSM-5® AND ICD-10 
+
+00:00:10
+SEXUAL DYSFUNCTIONS 
+
+00:00:15
+SEAN HARRIGAN Sex is a crucial aspect of life across most animal species. A way for individual members to pass on their genes, bring new life into the world and aid in the continuation of the species. For human beings especially, sex can mean much more beyond this. It is a source of pleasure. It can be a way of connecting with another person. For some, it may even be linked to their sense of spirituality. Regardless of exactly what importance it holds for specific individuals, for many, it can be intrinsically tied to their sense of intimacy, identity or even happiness. This is what can make it so distressing for those who experience sexual dysfunctions. A group of conditions impeding individuals from participating in sexual relations in the way that they desire. Whether these individuals have physiological difficulties that make it challenging to have effective sexual interactions, experience a lack of pleasure or interest or are unable to achieve orgasm, they nonetheless may experience significant impairment, not only in their level of sexual functioning but also potentially their overall well-being. Because of this sexual dysfunctions can be a source of embarrassment and (inaudible )for a patient and can sometimes go unnoticed by a clinician that doesn't specialize in the conditions. This makes it especially vital that the clinician be familiar with the distinguishing features of these conditions, to evaluate their symptoms and offer the patient an appropriate diagnosis. 
+
+00:01:50
+DSM-5® AND ICD-10 CODING 
+
+00:01:55
+DSM-5® 
+
+00:01:55
+SEAN HARRIGAN The sexual dysfunctions grouping in the diagnostic and statistical manual of mental disorders or DSM-5® contains a number of distinct conditions, each given its own diagnostic code. The diagnostic codes correspond to the codes used by the World Health Organization in the International Classification of Diseases or ICD. In DSM-5®, each disorder is first linked to the coding system from ICD-9 with the codes for (ICD-10®) listed in parenthesis. Hence all of the DSM-5® codes crosswalk to the ICD codes including the newest iteration ICD-10®. For instance, delayed ejaculation is assigned the code 302.74 in ICD-9 and (F52.32) in ICD-10® listed in parenthesis. This is because the ICD-9 system was still in use when DSM-5® was first released. ICD-10® was released in the fall of 2015 in the United States although it was adopted previously in other countries. However, because ICD-10® is now the standard in the United States, this program will be listing the newer code from ICD-10® first followed by the (ICD-9) codes in parenthesis. Sometimes when relevant, we will also delineate the ICD-9 and 10 codes when we mention the disorder from another grouping of disorders. For example, major depressive disorder, recurrent episode, moderate, a condition mentioned later in this program is coded as F33.1 (296.32) part of the grouping of depressive disorders. Organizationally, the layouts of DSM-5® and ICD-10® are quite similar. ICD-10® puts the section sexual dysfunction not caused by organic disorder or disease in their F52 block. Part of their larger F50 to F59 section on behavioral syndromes associated with physiological disturbances and physical factors. This section also includes grouping such as eating disorders and sleeping disorders. This helps to highlight the underlying physiological elements of sexual dysfunctions. There maybe both psychological and medical causes behind these dysfunctions. The only difference between the layout of ICD-10® and DSM-5® comes with substance, medication induced sexual dysfunctions which ICD-10® places in their F10 to F19 block for mental and behavioral disorders due to psychoactive substance abuse. 
+
+00:04:40
+SEXUAL DYSFUNCTIONS 
+
+00:04:40
+SEAN HARRIGAN Beyond the specific characteristics for individual sexual dysfunctions, there are a few general factors to consider when approaching a diagnosis. These include the patient's partner or their relationship with their partner, their medical history, age, any relevant cultural or religious influences in a patient's life and other factors, such as their psychiatric condition, their sense of vulnerability or any stressors in their life. In addition, it is important to consider the duration of the symptoms and their time of onset, as we'll cover in more detail later in this program. But the symptoms for almost all of these disorders must have lasted for at least around six months. ICD-10® also identifies certain differences between how men and how women experience sexual dysfunctions. Women more frequently report a decrease in sexual enjoyment or interest rather than impairment of sexual response. When sexual response is impaired, such as the inability to achieve orgasm, it often affects other aspects of sexual appetite. Alternatively, men often report maintained sexual interest when experiencing dysfunctional sexual response such as an erectile disorder or delayed ejaculation. When considering a patient's report, it is important for the clinician to factor in these differences between genders, in order to identify the underlying disorder. Along those lines, it is also worth noting as we begin our exploration of each individual sexual dysfunction, the conditions in this grouping of DSM-5® are gender specific with the exception of substance induced sexual dysfunction. However, some of the conditions in ICD-10® occur in both males and females. 
+
+00:06:30
+SEXUAL DYSFUNCTIONS 
+
+00:06:30
+SPECIFIERS 
+
+00:06:35
+SEAN HARRIGAN Before exploring each individual condition, it is useful to look at the specifiers that are possible across most of the sexual dysfunctions, as they help to describe some of the characteristics common in this grouping. The lifelong specifier means that the individual has experienced the particular sexual dysfunction since they first begin active sexual function. The acquired specifier on the other hand means that the individual has a period of normal sexual functioning before the symptoms became present. This variability in onset could point to possible origins for the dysfunction as well as potential modes of treatment. Additionally, the sexual dysfunctions can either be generalized, meaning they happen across a variety of circumstances or situational, which means, they only happen in specific circumstances. These particular specifiers do not apply to the dysfunction genital-pelvic pain penetration disorder. As with many other disorders, the clinician can specify if the severity of the dysfunction is mild, moderate or severe, depending on the degree of distress the symptoms cause the patient. 
+
+00:07:55
+DELAYED EJACULATION 
+
+00:07:55
+SEAN HARRIGAN Delayed ejaculation means that in most of the male's sexual interactions with a partner meaning at least three quarters of the time, they either have a significant delay in or in frequency of ejaculating. There may even be an absence of ejaculation. However, the men with delayed ejaculation may still be able to ejaculate through masturbation with or without assistance from a partner. While there is not an exact calculation for a determination of delayed, the symptoms as the whole should last longer than roughly six months as is the case for most of the sexual dysfunctions. There is a distinction to be made here between ejaculation and orgasm. Some men may have normal ejaculation but have a diminished sensation during orgasm. If this is the case, other specified sexual dysfunction or unspecified sexual dysfunction maybe more appropriate. Though, it is difficult to determine the exact prevalence of the condition, it is thought to be relatively rare, the lowest occurring of all the sexual dysfunctions. Even when it does occur, it is often due to another medical condition and this should be considered in the differential diagnosis. 
+
+00:09:10
+ERECTILE DISORDER 
+
+00:09:10
+SEAN HARRIGAN Erectile disorder can entail either an inability to attain an erection or a challenge in maintaining an erection adequate for sexual response. Even when these individuals are able to obtain an erection, it may lack sufficient rigidity adequate for sexual activity. Just as with delayed ejaculation, this happens in at least 75% of sexual activity with another person. The disorder increases in prevalence and incidence with age with up to 50% of men over 60 experiencing it. Though, up to 2% of men under 40 still report frequent erectile difficulty, making it one of the most common male sexual dysfunctions. While the significant number of men over 40 report to having occasional issues with erections, they often do not meet the full diagnosis for erectile disorder. Similar is to with delayed ejaculation, this disorder may not happen during masturbation, foreplay or with a different partner. These as well as the occurrence of an erection during sleep may all indicate that a psychological cause is likely behind the dysfunctions etiology. These individuals could experience fear and anxiety, such as anticipatory anxiety which could arise even after one instance of erectile dysfunction. They may even feel that they are spectatoring, watching and evaluating themselves as if from afar. Major depressive disorder should be considered in the differential diagnosis for not only erectile disorder but also other sexual dysfunctions, such as female orgasmic disorder, female sexual interest disorder and male hypoactive sexual desire disorder. If the symptoms in these disorders are better explained by major depressive disorder, that diagnosis should be considered. However, these sexual dysfunctions and depression can also be comorbid conditions. This is also a possibility with delayed ejaculation. 
+
+00:11:15
+FEMALE ORGASMIC DISORDER 
+
+00:11:20
+UNKNOWN I know you don't want to talk about this. But we have to talk about this. 
+
+00:11:25
+UNKNOWN We talked about it yesterday. 
+
+00:11:25
+UNKNOWN Yeah, that didn't work out so well. I think, we fought about it yesterday. We didn't talk about it. 
+
+00:11:30
+UNKNOWN Oh. 
+
+00:11:30
+SEAN HARRIGAN Similar to with many of the other sexual dysfunctions, there maybe a number of factors that can contribute to a woman having an absence of or difficulty with achieving orgasm. Physical illness, the effects of a substance or medication, another psychological disorder or other stressors such as an abusive or damaging relationship could all be contributing factors. However, there are also additional factors to consider. Many women are unable to achieve orgasm without clitoral stimulation and so if orgasm is possible with clitoral stimulation, the individual wouldn't need the diagnosis for female orgasmic disorder. In adequate foreplay or a woman's level of sexual experience are also factors to consider as well as age. Regardless up to 30% of women experience considerable difficulties with orgasm which may or may not entail the distress and frequency inherent in female orgasmic disorder. Again to meet the diagnosis of female orgasmic disorder, these symptoms should be present in all or nearly all of a woman's sexual encounters. Nonetheless, a diagnosis for female orgasmic disorder entails overly slow, rare or diminished orgasms or the lack of orgasms entirely. In addition to the specifiers covered previously, the clinician can indicate if the patient never experience an orgasm under any situation. 
+
+00:13:00
+FEMALE SEXUAL INTEREST/AROUSAL DISORDER 
+
+00:13:05
+SEAN HARRIGAN DSM used to separate disorders of sexual interest and sexual arousal into two distinct disorders but has since combined the two for females in DSM-5®. This highlights the interconnected nature of sexual desire and the physical markers of arousal that it can sometimes illicit. Individuals experiencing female sexual interest arousal disorder will experience distress and impairment with sexual desire or arousal which can be evident in a number of symptoms. These individuals may have a lack of interest or excitement at all stages of sexual processes. They may rarely or never have sexual thoughts and be less responsive to sexual stimulation of all forms, if they're responsive at all. And they may find diminished or completely absent desire in initiating or participating in sexual activity. This can extend to a lack of genital stimulation or sensation during sex. The disorder could possibly be caused or exacerbated by everything from misconceptions about sexual norms to an incongruence in sexual interest between the female and her partner. The clinician should also consider the other factors mentioned previously that could contribute to all sexual dysfunctions. Past experience of rape or sexual trauma can lead to a lack of interest or arousal in sexual activity. The disorder should be distinguished between normative changes in the female sexual reactivity based on usual life events. There is a high comorbidity between female sexual interest arousal disorder and other difficulties or dysfunctions. 
+
+00:14:50
+GENITO-PELVIC PAIN/PENETRATION DISORDER 
+
+00:14:55
+SEAN HARRIGAN ICD-10® separates out prevailing symptoms of painful sexual intercourse and spasms of muscles surrounding the vagina into two distinct disorders, dyspareunia and vaginismus respectively. This designation was also present in DSM-4 due to the overlapping symptoms of those two disorders and the fact they couldn't be reliably differentiated, they've been combined in DSM-5® into the new designation, Genito-Pelvic Pain/Penetration Disorder. Genito-pelvic pain/penetration disorder entails a woman experiencing pain, discomfort or difficulty in vaginal intercourse. Though some women may have it extend to other attempts at penetration, such as insertion of a tampon or a gynecological exam. This can involve a contraction of pelvic muscles as well as other pelvic or genital pain. The anxiety this causes can be so severe that it resembles a phobic disorder, one of the disorders from the anxiety disorders grouping. As with the phobic disorder, the individual may feel intense anxiety before, during or after the incidence of a phobic object. Only in this case, the phobic object is vaginal penetration and the associated pain. In some cases, both genital pelvic pain penetration disorder and specific phobia can be diagnosed. 
+
+00:16:25
+MALE HYPOACTIVE SEXUAL DESIRE DISORDER 
+
+00:16:25
+SEAN HARRIGAN There are some similarities between female sexual interest arousal disorder and male hypoactive sexual desire disorder. In both these disorders, there is a reduction of or lack of sexual thoughts and fantasies. And in both, individuals experience a diminished interest in sexual activity. While a lack of arousal is not an aspect of the diagnosis for male hypoactive sexual desire disorder as it is with female sexual interest arousal disorder. Male hypoactive sexual desire disorder is often comorbid with difficulties in achieving an erection as well as problems with early ejaculation. The duration guideline for male hypoactive sexual desire disorder safeguards a diagnosis for men in situations of adapting to a perceived adverse response. Such is the idea of them terminating a relationship with a pregnant spouse. The rare lifelong type of male hypoactive sexual desire disorder can be associated with some type of shame or secrecy surrounding sexual activity in the individual's life. This could include sexual orientation or experiences of sexual trauma. The more typical acquired male hypoactive sexual desire disorder can arise from other medical disorders, other mental disorders or most commonly as a result of erectile or ejaculatory dysfunctions. Typically problems with sexual desire increase with age but these difficulties only rarely meet the duration and severity inherent in male hypoactive sexual desire disorder. 
+
+00:18:10
+PREMATURE (EARLY) EJACULATION 
+
+00:18:15
+SEAN HARRIGAN The exact timeframe for premature early ejaculation depends on the severity of the dysfunction. If the individual ejaculates before penetration can occur as penetration first occurs or in the first 15 seconds of vaginal penetration, it constitutes severe early ejaculation. Moderate occurs within 15 to 30 seconds and mild in 30 to 60 seconds. Regardless DSM-5® defines a disorder as happening within approximately one minute. Though this is not a distinction made in ICD-10® which only requires that it happens early enough to interfere with sexual enjoyment for both partners. Still, it's important to know that even in DSM-5®, the timeframe is approximate and it is more appropriate for lifelong early ejaculation than for the acquired type. Both diagnostic guidelines allow for ejaculation that occurs with non-vaginal sexual activity. And the durational guideline of the disorder remains accurate across all sexual orientations. Almost half of men treated for sexual dysfunctions experience early ejaculation making it another of the more common sexual dysfunctions. 
+
+00:19:30
+OTHER SEXUAL DYSFUNCTIONS 
+
+00:19:35
+SEAN HARRIGAN If the sexual dysfunction may have arisen as a result of the use of a substance or medication, but also seems to go beyond what would be considered expected in the course of substance intoxication then a diagnosis of substance medication induced sexual dysfunction maybe appropriate. If the symptoms have an uncertain cause, the clinician is lacking enough relevant information or if the symptoms are not consistent with another sexual dysfunction, then the clinician can use other specified sexual dysfunction or unspecified sexual dysfunction. The designation of other specified sexual dysfunction can be selected when the clinician wishes to note the specific reason why the symptoms aren't appropriate for a diagnosis of an alternate sexual dysfunction. Whereas unspecified sexual dysfunction can be selected when they do not. Because sex can be such an intimate, vulnerable and sensitive topic in our lives, involving a complex interplay between a number of factors, the diagnosis of a specific sexual dysfunction requires not only being familiar with the markers of these conditions but also obtaining thorough patient history that includes insight into their relationships and sense of self. Helping to offer the patient a diagnosis can be a crucial step in the treatment process, putting the patient on the path to live a healthier, more connected life. 
+
+00:21:05
+Produced by 
+
+00:21:05
+Classroom Productions, INC 
+
+00:21:05
+Technical Advisors 
+
+00:21:05
+Devon Cohen, MD 
+
+00:21:05
+Faith A. Coleman, MD 
+
+00:21:05
+Dr. Tracie Collins, MD, MPH 
+
+00:21:05
+Aydin Olson-Kennedy, MSW 
+
+00:21:05
+Dr. Mathew Macaluso, DO 
+
+00:21:05
+Mary Llenell Paz, MS 
+
+00:21:05
+Steven Swink, MA 
+
+00:21:05
+Casey Weitzman, MA 
+
+00:21:05
+Directed by 
+
+00:21:05
+Sean Harrigan 
+
+00:21:05
+Written by 
+
+00:21:05
+Sean Harrigan 
+
+00:21:05
+Siobhan Doherty 
+
+00:21:05
+Script Editor 
+
+00:21:05
+Pandora Suderman 
+
+00:21:05
+Production Coordinator 
+
+00:21:05
+Siobhan Doherty 
+
+00:21:05
+Field Production 
+
+00:21:05
+Amanda Buffington 
+
+00:21:05
+Hannah Huff 
+
+00:21:05
+Merlin Huff 
+
+00:21:05
+Featured Cast 
+
+00:21:05
+Anatasha Blakely 
+
+00:21:05
+Ross Crain 
+
+00:21:05
+Siobhan Doherty 
+
+00:21:05
+Brett Duggan 
+
+00:21:05
+Abbey Grace 
+
+00:21:05
+Alexandra Grey 
+
+00:21:05
+Zach Hallett 
+
+00:21:05
+Jim Harrigan 
+
+00:21:05
+Sean Harrigan 
+
+00:21:05
+Kristen Henley 
+
+00:21:05
+Hannah Huff 
+
+00:21:05
+Merlin Huff 
+
+00:21:05
+Dennis Hurley 
+
+00:21:05
+Jason Ko 
+
+00:21:05
+Matt Koenig 
+
+00:21:05
+Amy Landon 
+
+00:21:05
+Maribel Martinez 
+
+00:21:05
+Marissa Moosekian 
+
+00:21:05
+Bree Murphy 
+
+00:21:05
+Alan Ramos 
+
+00:21:05
+Diana Sanchez-Vega 
+
+00:21:05
+David Santana 
+
+00:21:05
+Jennifer Shaevitz 
+
+00:21:05
+Bette Smith 
+
+00:21:05
+Eddie Smith 
+
+00:21:05
+Lindsay Smith 
+
+00:21:05
+Miller Tai 
+
+00:21:05
+Narration 
+
+00:21:05
+Sean Harrigan 
+
+00:21:05
+Post-Production 
+
+00:21:05
+Sean Harrigan 
+
+00:21:05
+Robert Suderman 
+
+00:21:05
+Property of 
+
+00:21:05
+Classroom Productions, Inc. 
+
+00:21:05
+Copyright 2016 
+
+00:21:05
+All Rights Reserved 
+
+00:21:30
+END TRANSCRIPT 

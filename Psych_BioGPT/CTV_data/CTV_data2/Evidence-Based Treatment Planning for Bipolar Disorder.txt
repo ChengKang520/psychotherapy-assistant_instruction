@@ -1,0 +1,1019 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+__________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The materials contained on this DVD are protected by United States and International copyright laws. Your rights to use them are governed by terms of this license agreement. 
+
+00:00:00
+You may not reproduce or distribute any material from this disk nor may you include any material from this disk in any product to be offered for sale. Any such uses are subject to approval, fees and a supplemental written license signed by John Wiley & Sons. 
+
+00:00:00
+THE MATERIAL ON THIS DISK IS PROVIDED “AS IS.” NEITHER THE AUTHORS OF THE MATERIAL NOR JOHN WILEY & SONS, INC. MAKE ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, REGARDING EITHER THE FUNCTIONALITY OR THE CONTENTS. NEITHER THE AUTHORS NOR JOHN WILEY & SONS, INC. ASSUME ANY RESPONSIBILITY FOR ERRORS OR OMISSIONS, OR DAMAGES. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, JOHN WILEY & SONS, INC. DISCLAIMS ALL WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+00:00:00
+To contact Wiley directly, 
+
+00:00:00
+call (877) 762-2974, fax to (800) 597-3299, or visit our website at www.wiley.com. 
+
+00:00:30
+ANNOUNCER The following is a presentation of John Wiley and Sons. It’s part of an informative series about empirically informed treatment planning. This program focuses on bipolar disorder. 
+
+00:00:45
+Timothy J. Bruce Ph.D 
+
+00:00:45
+Arthur E. Jongsma, Jr. Ph.D. 
+
+00:00:45
+ARTHUR JONGSMA Hello and welcome. I’m Arthur Jongsma and joining me is my colleague Dr. Tim Bruce. Today, we’re going to discuss evidence-based treatment planning for bipolar disorders. 
+
+00:00:55
+TIMOTHY BRUCE This program is broken into a number of modules. In it, we’ll describe the DSM criteria for bipolar disorder. Discuss the essential elements of the treatment planning process. Provide a brief history of the movement to identify empirical supported treatments or ESTs. As well as other sources of evidence-based practice or practice guidelines. We’ll then show how to empirically inform a treatment plan with findings from this literature. Lastly, we’ll present an example of an evidence-based treatment plan for bipolar disorder. We also want to note that another DVDs and this series, we’ve included a chapter on common considerations in relapse prevention, because the treatment is described in this program are largely relapse preventative by nature. We will not include that here. 
+
+00:01:45
+ARTHUR JONGSMA Before we get started, one thing should be noted. The purpose of this program is to demonstrate how to develop an evidence-based treatment plan for bipolar disorder by incorporating goals, objectives, and treatment interventions consistent with identified ESTs and evidence-based practice guidelines. You’ll also see brief scenarios that demonstrate aspects of the evidence-based interventions described. 
+
+00:02:15
+TIMOTHY BRUCE It’s important to note that these scenarios are selected examples of the ESTs and don’t represent delivery of any one of them in their entirety. Our program is designed to be educational in nature and is not intended to be a substitute for clinical training in the interventions discussed. For those interested in learning more about any of these therapies, references to their empirical support, clinical resources, and training opportunities can be found in the Companion Workbook. 
+
+00:02:40
+ARTHUR JONGSMA In this module we’re going to discuss evidence-based treatment planning for bipolar disorder. Before discussing bipolar disorder per se, it may be helpful to revisit how it is diagnosed in the context of diagnosing mood disorders in general. 
+
+00:03:00
+TIMOTHY BRUCE In diagnosing mood disorders such as bipolar disorder, the first step is to assess for any current or past mood episodes. You then use this information to make the diagnosis of a mood disorder. A mood episode is a cluster of specific mood symptoms that have an onset occur over a period of time and represent a change from normal functioning. There are four types of mood episodes to consider. Major depressive, manic, hypomanic, and mixed. Let’s briefly look at each starting with a major depressive episode. 
+
+00:03:35
+ARTHUR JONGSMA An acronym useful for remembering the features of a major depressive episode is sigecapss or each letter of the word stands for a specific diagnostic feature of the episode. In this acronym, the first S stands for the mood symptom, which is typically sadness, but maybe irritability. The I stands for loss of interest, also known as anhedonia. In addition, there may be guilt or low self-worth and the like. The E represents loss of energy or fatigue. C stands for deficits in concentration, attention, or decision-making abilities. A loss or gain of appetite or weight is symbolized by the A, while P represents slowed psychomotor behavior and/or speech. S stands for sleep disturbance involving insomnia or hypersomnia. And finally, the last S stands for suicidality, ranging from suicidal thoughts only to a serious suicide attempt. 
+
+00:04:50
+TIMOTHY BRUCE A major depressive episode is characterized by the presence of at least five of these symptoms occurring most of the day, nearly every day, for at least two weeks and representing a change from previous functioning. It’s important to note that at least one of the five symptoms must be either a depressed or irritable mood represented by the first S in the acronym or a loss of interest represented by the I of sigecapss. 
+
+00:05:20
+ARTHUR JONGSMA On the other end of the polar spectrum is the manic episode. It is characterized by a distinct period of abnormally and persistently elevated, expansive or irritable mood lasting at least one week or any duration if hospitalization is necessary. 
+
+00:05:35
+TIMOTHY BRUCE During this period of mood disturbance, three or more of the following symptoms have persisted, four if the mood is only irritable and had been present to a significant degree. And inflated self-esteem or grandiosity. Decreased need for sleep. For example the individual feels rested after only a few hours of sleep. More talkative than usual or internal pressure to keep talking also known as pressured speech. Flight of ideas representing strings of racing thoughts often loosely or not connected in a meaningful goal directed manner or the subjective experience that thoughts are racing. Distractibility in which attention is too easily drawn to unimportant or irrelevant external stimuli. Increase in goal-directed activity at work, at school, or sexually or psychomotor agitation. Excessive involvement in pleasurable activities that have a high potential for painful consequences, such as engaging in unrestrained buying spree, sexual indiscretions, or foolish business investments. 
+
+00:06:45
+ARTHUR JONGSMA The manic episode must be sufficiently severe to cause marked impairment in occupational functioning or in usual social activities or relationships, or the episode may necessitate hospitalization to prevent harm to self or others. Or there are psychotic features such as delusions of grandeur or severe thought disorganization. 
+
+00:07:10
+TIMOTHY BRUCE A hypomanic episode represents a less severe form of mania. For example, although the diagnostic criteria require a distinct period of persistently elevated expansive or irritable mood, it is not “abnormally so” as noted in the criteria for mania and need last throughout only four days as opposed to the one week with mania. And although the criteria for a hypomanic episode is shown here have the same number and types of symptoms as a manic episode. This type of mood disturbance is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization and there are no psychotic features. Instead, the episode represents a change in mood and functioning that is observable to others and is uncharacteristic of the person when not symptomatic. 
+
+00:08:10
+ARTHUR JONGSMA Lastly a mixed episode represents a highly unstable and severe shifting of mood. In it, the criteria are met both for manic episode and for a major depressive episode, nearly every day during at least a one-week period. In addition, and like a manic episode, the mood disturbance is sufficiently severe to cause marked impairment in occupational functioning, social activities or relationships or to necessitate hospitalization or there are psychotic features. 
+
+00:08:40
+TIMOTHY BRUCE As with all mental disorders the symptoms of any of these four types of mood episodes are not due to the direct physiological effects of a substance. For example a drug of abuse, a medication, or other treatment, or a general medical condition such as hypothyroidism. 
+
+00:09:00
+ARTHUR JONGSMA Once past and present mood episodes have been assessed, they are then used to make the diagnosis of a mood disorder. In the DSM, mood disorders may be bipolar, meaning that there has been or currently is evidence of manic, hypomanic, or mixed episode in the clinical picture. Or they may be unipolar, meaning, there is evidence of one or more depressive episodes or depressive symptoms but without any current or past manic, hypomanic, or mixed episodes. Major depressive disorder and a chronic lower level state of depression called Dysthymic Disorder are the unipolar mood disorders. 
+
+00:09:45
+TIMOTHY BRUCE There are three bipolar mood disorders, bipolar I, bipolar II and he chronic lower level mood disturbance called cyclothymia. The essential feature of bipolar I disorder is a clinical course that is characterized by the occurrence of one or more manic episodes or mixed episodes. Often individuals have also had one or more major depressive episodes. Bipolar II disorder is characterized by one or more past or present major depressive episodes as well as at least one past or present hypomanic episode. In addition, there has never been a manic episode or a mixed episode in the clinical picture. Something that if it occurred, would change the diagnosis to bipolar I. 
+
+00:10:35
+ARTHUR JONGSMA In this program we will be discussing evidence-based treatment planning for bipolar disorder. Bipolar disorder occurs in approximately 1% of the population and equally across men and women. The average age of onset is 20. In men, the first episode is more likely to be manic, whereas in women it’s more likely to be depressive. And in men, the number of manic episodes to depressive episodes is typically equal or greater. Whereas in women, depressive episodes typically predominate. 
+
+00:11:10
+TIMOTHY BRUCE Bipolar disorder is a recurrent disorder in which subsequent episodes are seen in more than 90% of those experiencing their first episode. Having reviewed what constitutes bipolar disorder will now move on to the process of treatment planning and describe its essential steps. There are six essential steps in developing a psychotherapy treatment plan. Each is customized to the individual client’s unique presentation. These steps are, identify the clients primary and secondary problems. Describe behavioral definitions of the problem. That is each problem’s behavioral, cognitive, emotional, physiological, and interpersonal expression, or symptom manifestations. Make a diagnosis based on DSM or ICD criteria. Specify the long-term goals of the treatment. Create short term objectives for the client and select therapeutic interventions. 
+
+00:12:10
+ARTHUR JONGSMA A client might talk about a variety of issues during the assessment, but as a first step in creating a treatment plan, the clinician must determine the most significant problem or problems. This is often done by assessing which are the most related to current distress disability or both. Usually a primary problem will surface and secondary problems may also be evident. Some other issues may have to be set aside as not urgent enough to require treatment at this time. An effective treatment plan can only deal with a few identified problems or treatment will lose its direction. 
+
+00:12:50
+TIMOTHY BRUCE Clients may express the same general problem in different ways. The manner in which they think feel behave or interact will be to some degree unique to them in their situation. So each problem that is selected for treatment requires a specific definition of how it’s evidenced in your particular client. Therefore, as a second step in the treatment planning process, the behavioral definition to the problem are specified. These features may very well correspond to diagnostic criteria such as those found in the DSM or ICD, which should be kept in mind as behavioral definitions are formulated. 
+
+00:13:25
+ARTHUR JONGSMA The third step in treatment planning, the determination of an appropriate diagnosis is based on an evaluation of the clients complete clinical presentation. The clinician must compare the behavioral, cognitive, emotional, and interpersonal features causing distress or disability to the DSM or ICD criteria. Note that, not all therapists use psychiatric diagnoses per se in formulating their treatment plans, but instead prefer to focus on changes in the identified problem behavior, cognition, emotions, and the like. Having said that, most third party payers require a diagnosis and most ESTs are based on research that uses diagnostic criteria to define problems. So it is usually necessary to make a diagnosis. 
+
+00:14:25
+TIMOTHY BRUCE Step four and developing a treatment plan is to set long-term goals for the resolution of the clients’ primary and secondary problems. These goals statements need not be crafted in measurable terms but can be broader, and indicated desired general positive outcome to the treatment process. One or more goal statements can be developed. 
+
+00:14:40
+ARTHUR JONGSMA Writing short-term objectives for the client to achieve is step five in developing a treatment plan. In contrast to long-term goals, objectives should be stated in behaviorally measurable or observable terms. Clearly stated objectives are helpful to both the therapist and client in assessing progress. They are also important to quality assurance review agencies, HMOs, and managed care organizations and assessing whether and when the client is making progress. The objective should be designed with this requirement for accountability in mind. 
+
+00:15:20
+TIMOTHY BRUCE Interventions are the action of the clinician within the therapeutic alliance designed to help the client accomplish the treatment objectives. Selecting the appropriate therapist interventions at the sixth and final step in treatment planning. There should be at least one intervention planned for every client objective. If the client does not accomplish the objective after the initial interventions had been implemented, new interventions or reassessment of the problem should be considered in the plan. 
+
+00:15:50
+ARTHUR JONGSMA From what we’ve just described, it may sound like this is a pretty cut and dried process that you just simply repeat it with every client. But that’s really not the case. One important aspect of effective treatment planning is that each plan should be tailored to the individual client’s unique problems, strengths and needs. Treatment plans should not be boilerplate, even if clients have similar problems. The individual strengths and weaknesses, unique stressors, cultural and social network, family circumstances and symptom patterns must be considered in developing a treatment strategy. Clinicians should rely on their own good clinical judgment and select interventions that are appropriate for the individual client. It can conceivably be argued that the movement toward evidence-based psychological treatment planning began hundreds of years ago when the scientific method was first applied to the study of psychology, but the specific task of identifying empirically supported psychological treatments began in the early 1990s in Great Britain and then in the United States. 
+
+00:17:05
+TIMOTHY BRUCE On the forefront of the movement in the United States, was Division 12 of the American Psychological Association, the Society of Clinical Psychology. In 1993, Division 12 organized a task force chaired by Dr. Diane Shamless and charged it with reviewing the psychotherapy outcome literature to identify psychological treatments, whose efficacy been demonstrated through clinical research. 
+
+00:17:30
+ARTHUR JONGSMA The group established criteria for judging the quantity and quality of the research supporting a particular treatment and categorize treatments meeting these criteria as well-established or probably efficacious. Both sets of criteria require replicated demonstrations of efficacy through high-quality trials or case series. The well-established category requires independent replication as well as other features, the details of which can be found in the workbook. 
+
+00:18:00
+TIMOTHY BRUCE By 1996, the group had identified a preliminary list of 25 ESTs meeting their criteria. By 1998, the list had grown to 71 ESTs. In 1999, Division 12 took over full ownership of maintaining the growing list. The current list and information about the treatments can be found on its website. 
+
+00:18:25
+ARTHUR JONGSMA Since the work of this original group, other reviewers using the same or similar criteria have initiated or updated literature reviews. Their conclusions relate to a variety of populations, problems and interventions. On your screen are a few recent examples. You can find more of them in the Companion Workbook. 
+
+00:18:45
+TIMOTHY BRUCE Descriptions of the treatments identified through many of the reviews as well as references to their empirical support, clinical resources and training opportunities can be found at therapyadvisor.com. This resource was developed by personal improvement computer systems with funding from the National Institute of Mental Health and in consultation with members of the original Division 12 task groups. 
+
+00:19:10
+ARTHUR JONGSMA As we mentioned, Great Britain was on the forefront of these efforts to identify ESTs. The latest products of their work can be found at the website for the National Institute for Health and Clinical Excellence or NICE. The website includes practical and specific guidelines for the treatment of various medical and mental health problems. 
+
+00:19:35
+TIMOTHY BRUCE The Substance Abuse and Mental Health Service Administration or SAMHSA, also has an initiative to evaluate identify and provide information on evidence-based mental health practices. Their summaries entitled the National Registry of Evidence-Based Programs and Practices or NREPP. 
+
+00:19:55
+ARTHUR JONGSMA The Agency for Healthcare Research and Quality has established guidelines and criteria for identifying evidence-based practices and provides links to evidence-based clinical practice guidelines for various medical and mental health problems. Their work is summarized on their website. 
+
+00:20:10
+TIMOTHY BRUCE Lastly, The Cochrane Collaboration is an international network of professionals who conduct systematic reviews of research in health care. Among their products are critical reviews of psychological treatment interventions and specific intervention questions. 
+
+00:20:30
+ARTHUR JONGSMA In this series, we draw from all these sources in our discussion of how clinicians can create evidence-based treatment plans. 
+
+00:20:40
+TIMOTHY BRUCE Let’s briefly look at efforts to develop an identify ESTs and evidence-based treatment guidelines for bipolar disorder. Medication remains a primary treatment for the symptoms of bipolar disorder but adjunctive psychological treatments have demonstrated benefits as well. These benefits include better adherence to medication, reduce relapse and recurrence of mood episodes, decreased hospitalizations, increased coping skills, and improved quality of life. 
+
+00:21:05
+ARTHUR JONGSMA Most studies of adjunctive psychotherapy for bipolar disorder have focused on bipolar I disorder. And although this disorder is defined by at least one lifetime episode of mania, at least two-thirds of patients report a history of major depressive episodes. Therefore, in judging the efficacy of any psychotherapy, one must consider its effects on mania as well as on depression. 
+
+00:21:35
+TIMOTHY BRUCE With this in mind, several independent reviews of the psychotherapy outcome literature for bipolar disorder have identified empirically supported treatments or have constructed evidence-based practice guidelines. These include APA Division 12, the Society of Clinical Psychology, Miklowitz and Craighead in Nathan and Gorman series, A Guide to Treatments That Work. And the practice guideline efforts of the National Institute for Health and Clinical Excellence or NICE in Great Britain among others. 
+
+00:22:05
+ARTHUR JONGSMA These reviews have identified the following psychological treatments as research supported, at different levels of evidence for bipolar disorder. They are systematic care, psychoeducation, and cognitive behavioral therapy or CBT for mania. And family focused therapy, interpersonal social rhythm therapy and CBT for bipolar depression. 
+
+00:22:30
+TIMOTHY BRUCE The different levels of evidence supporting these treatments are best reflected when compared to APA Division 12s criteria for well-established and probably efficacious treatments. Using these criteria, Division 12 has judged systematic care and group psychoeducation as having met their highest level of evidence well established for mania. CBT is currently judge as probably efficacious. For bipolar depression, family focused therapy has met their criteria for a well-established treatment, while both interpersonal and social rhythm therapy and CBT are at the probably efficacious level. 
+
+00:23:10
+ARTHUR JONGSMA Other reviewers such as Miklowitz and Craighead have also identified the same treatments as evidenced based. They are also reflected in the evidence-based practice guidelines developed by NICE in Great Britain. Let’s take a brief look at what each of these treatments entail and what outcomes have been associated with them. So, Tim, the demonstrated benefits of psychoeducation for bipolar disorder have been highlighted by several reviewers. What are common emphases of these approaches? 
+
+00:23:45
+TIMOTHY BRUCE Well, these types of programs typically teach patients about the disorder, its features, and its episodic nature. The strong biological influences on bipolar disorder are stressed as well as psychosocial factors that increase or decrease the risk of having mood episodes. 
+
+00:24:05
+ARTHUR JONGSMA It’s not just education though, is it? These are interventions designed to help patients not only acquire knowledge but also to develop skills and apply them in an effort to prevent or minimize mood episodes. 
+
+00:24:20
+TIMOTHY BRUCE Yeah, that’s a good point. That’s true. For example, and efforts made to help patients learn how to recognize the features of the disorder in themselves, you know, their personal risk factors and learn and implement illness management strategies that reduce these risks and prevent relapse. 
+
+00:24:40
+ARTHUR JONGSMA Examples include personal and interpersonal skills, such as problem solving and communication skills. 
+
+00:24:45
+TIMOTHY BRUCE Right, another emphasis is establishing a regular activity schedule including a consistent sleep-wake pattern. Sleep disruption has emerged as an important risk factor for relapse of manic episodes. 
+
+00:25:00
+ARTHUR JONGSMA Don’t most programs culminate in the development of a personal care plan that incorporates these skills? 
+
+00:25:05
+TIMOTHY BRUCE Yes, most formal psychoeducation programs do that. 
+
+00:25:10
+ARTHUR JONGSMA It seems clear that assumption here is that if patients can learn and implement their personal care plan, then there’ll be more likely to engage in their treatment and function better for longer periods of time. So what of the outcome studies shown? 
+
+00:25:25
+TIMOTHY BRUCE The primary outcomes of psychoeducation programs have been greater adherence to pharmacotherapy and lower rates of episode recurrence, accordingly a reduction in hospital days has been seen in some studies. We’ve included reviews that summarize these findings in the Companion Workbook. 
+
+00:25:45
+ARTHUR JONGSMA Division 12 is identified group psychoeducation as a well-established. But this treatment can be delivered effectively in one-to-one therapy. Right? 
+
+00:25:55
+TIMOTHY BRUCE Yeah, it has. You know, for example in a, in a major study of the one-to-one approach, it reduced recurrences of manic episodes compared to routine care similar to what the group approach has demonstrated. The evidence-based however isn’t as extensive as what the group approach. 
+
+00:26:15
+ARTHUR JONGSMA Psychoeducation is also an emphasis in other treatments identified as efficacious. 
+
+00:26:20
+TIMOTHY BRUCE True, there are similar psychoeducational emphasis and for example CBT or interpersonal and social rhythm therapy. Family focused therapy for example. It’s also a more formal and primary component of a larger cross systems intervention that Division 12 has identified as well established for mania. 
+
+00:26:45
+ARTHUR JONGSMA You’re referring here to systematic care. Can you briefly summarize what that approach involves? 
+
+00:26:50
+TIMOTHY BRUCE Sure. Systematic care as it’s been studied is a treatment delivered by a specialized outpatient team, the primary members of which are psychiatrist and nurse coordinators. The crux of this treatment program involves the coordinated use of evidence-based pharmacotherapy algorithms combined with group psychoeducation. It’s been studied within the VA system as well as in a large health care system in Washington State. 
+
+00:27:15
+ARTHUR JONGSMA I understand that the nurse routinely collects and delivers clinical information to the psychiatrist, in addition to providing other support and conducting group psychoeducation. 
+
+00:27:30
+TIMOTHY BRUCE Right, they routinely gather clinical information on the client and feed it to the psychiatrist to inform their decision-making, in addition to providing support all the way to crisis intervention if needed. 
+
+00:27:40
+ARTHUR JONGSMA Group psychoeducation sessions are administered frequently at first and then tapered. 
+
+00:27:50
+TIMOTHY BRUCE Yeah, five a week initially taper to twice a month for up to three years and systematic care, the life goals program by Bower and McBride was used. Details of it can be found in their book. 
+
+00:28:05
+ARTHUR JONGSMA And the outcomes of systematic care. 
+
+00:28:10
+TIMOTHY BRUCE Well, it reduced the total time patients experienced manic symptoms and reduce the length of episodes. Broader positive effects were also seen in work and social functioning, quality of life and patient satisfaction with treatment. 
+
+00:28:25
+ARTHUR JONGSMA Okay. Well, let’s talk about another psychotherapy that has been helpful for mania, cognitive behavioral therapy or CBT. Division 12 is judged it as probably efficacious. How is CBT delivered for this diagnosis? 
+
+00:28:40
+TIMOTHY BRUCE Well CBT for bipolar disorder includes obviously a psychoeducational component with emphasis similar to what we’ve discussed. It also involves a classic cognitive therapy as well as some tailored behavioral interventions. 
+
+00:28:55
+ARTHUR JONGSMA The cognitive therapy involves conventional emphases such as learning the connection between thinking, emotion, and mood, identifying and challenging adaptive thoughts and beliefs. 
+
+00:29:10
+TIMOTHY BRUCE Yeah, there’s an emphasis on learning to recognize one’s thoughts as symptoms of mania and teaching clients, you know, ways to address those. 
+
+00:29:20
+ARTHUR JONGSMA Cognitive therapy grew out of its use with unipolar depression. In its application of mania, does it target the overly positive and grandiose thoughts, characteristic of the manic episode? 
+
+00:29:30
+TIMOTHY BRUCE Yeah, that’s a good question. It does, as well as teaching coping skills related to manage thoughts, such as delaying acting on them, gathering more objective information before deciding how to act, in essence trying to reduce the impulsivity you see in this disorder. 
+
+00:29:50
+ARTHUR JONGSMA Right. And the behavioral interventions? 
+
+00:29:50
+TIMOTHY BRUCE Well, behavioral activation that is scheduling activities with the high likelihood for feeling good or good about oneself has been found useful in treating depression as you know and is used for bipolar disorder. But with mania, the emphasis is on balancing or stabilizing activity as opposed to simply increasing it, in part, because too much activity can precipitate manic episodes. 
+
+00:30:15
+ARTHUR JONGSMA So there is a day planning emphasis that encourages reinforcing activities but regulates extreme goal-directed activity. This includes this notion of regulating sleep patterns as we discussed earlier. 
+
+00:30:30
+TIMOTHY BRUCE Yes. Well, some CBT treatments that were tested have emphasized this and some haven’t. This is interesting because Division 12 notes that not all CBT manuals have been equally effective. And that those that have been have included an emphasis on promoting activity regulation. Having said that, some reviewers have also suggested that other factors such as symptom severity at the start of treatment could have influenced the mixed outcome among the CBT manuals for bipolar disorder. 
+
+00:31:05
+ARTHUR JONGSMA Other behavioral interventions used in these therapies? 
+
+00:31:10
+TIMOTHY BRUCE Yes, most draw on the traditional, you know, behavioral skills menu to tailor treatments. So they may use as needed you know calming skills interventions or problem-solving skills training, stimulus control strategies, such as identifying triggers to manic symptoms and avoiding or managing them. 
+
+00:31:30
+ARTHUR JONGSMA You alluded to mixed results for CBT for bipolar disorder. 
+
+00:31:35
+TIMOTHY BRUCE Yes, in one major studies, CBT was shown to improve medication adherence, reduce relapse, reduce hospitalization rates, and improve social functioning over routine care. But in another, it didn’t differ from usual care on similar measures. As I mentioned, the successful intervention emphasized activity regulation. However, in the unsuccessful study the patient population was much higher risk with much more co-morbidity. In addition, many patients began it while actively symptomatic. And smaller studies have shown similar mixed results with some strong effects and others with more modest effects. 
+
+00:32:15
+ARTHUR JONGSMA So what do we take from all this then? 
+
+00:32:15
+TIMOTHY BRUCE Well, obviously more study is needed to see if efficacy can be attained reliably and to determine what therapeutic interventions are associated with this efficacy. In a recent review of this literature, David Miklowitz suggested that CBT may be more effective for recovered and less recurrent patients than with more severe or acutely once. 
+
+00:32:40
+ARTHUR JONGSMA So CBT has shown mixed results perhaps influenced by initial symptom severity as well as the emphasis of the therapy. 
+
+00:32:50
+TIMOTHY BRUCE Right 
+
+00:32:50
+ARTHUR JONGSMA Such as whether the activity regulation has been emphasized? 
+
+00:32:55
+TIMOTHY BRUCE Yeah, so at this point using the CBT approaches that have performed well in the clinical trials is what is being recommended that is by most experts. 
+
+00:33:05
+ARTHUR JONGSMA An example would be the manual by lamb and colleagues, it performed well. 
+
+00:33:10
+TIMOTHY BRUCE Yes, it did, as have some others and those references are in the Companion Workbook. 
+
+00:33:15
+ARTHUR JONGSMA Okay. So group psychoeducation and systematic care are well established for mania. CBT is probably efficacious given the caveats we discussed. 
+
+00:33:25
+TIMOTHY BRUCE Right. 
+
+00:33:25
+ARTHUR JONGSMA Let’s talk about psychotherapies that have shown effectiveness for bipolar depression. As we noted, CBT is one of these. Family focused therapy and interpersonal social rhythm therapy or others. Division 12 has judged family focused therapy to be well established. What does FFT involve? 
+
+00:33:50
+TIMOTHY BRUCE Well, Family Focused Therapy is a modification of the Family Focused Therapy originally developed for the treatment of schizophrenia. It’s core interventions are psychoeducation, much as, like what we’ve described. Communication Enhancement training and problem-solving skills training. It emphasizes strategies that help patients regulate their emotions, enhance interpersonal communication and resolve problems effectively. It’s based in part on the research showing the role of expressed emotion and increasing risk of psychotic episodes. 
+
+00:34:25
+ARTHUR JONGSMA Expressed emotion that refers generally to negative emotional exchanges within the family or social support systems, unproductive, critical, negative communications styles. 
+
+00:34:40
+TIMOTHY BRUCE Yeah, so in addition to its psychoeducational emphasis, this therapy helps the family learn and implement communication and problem-solving skills as a means to reducing conflict and resolving family problems while minimizing this expressed emotion. 
+
+00:34:55
+ARTHUR JONGSMA And this treatment typically takes how long? 
+
+00:34:55
+TIMOTHY BRUCE In the trials approximately 21 sessions over nine months. 
+
+00:35:00
+ARTHUR JONGSMA It’s important to note that family therapy in general is not what we are talking about here. 
+
+00:35:05
+TIMOTHY BRUCE Right. 
+
+00:35:10
+ARTHUR JONGSMA This is a particular type of therapy conducted in the family modality. 
+
+00:35:10
+TIMOTHY BRUCE Yeah, that’s exactly right. FFT is different than traditional family therapy in part because it’s more structured and its approach to communication and problem-solving training. It also involves more psychoeducation around bipolar disorder obviously. 
+
+00:35:30
+ARTHUR JONGSMA So what have been the outcomes of this therapy? 
+
+00:35:30
+TIMOTHY BRUCE Well, very good. One trial found less relapse and longer intervals to relapse relative to a comparison treatment. Effects have been seen on both manic and depressive symptoms but more robust with the depressive ones. Interestingly the effects of family focused therapy on depressive symptoms, in this particular trial appeared to be mediated by improvements in communication between patients and their relatives, whereas its effects on manic symptoms appeared to be mediated by improvement in the patient’s adherence to their pharmacotherapy. 
+
+00:36:10
+ARTHUR JONGSMA Interesting. It’s also performed well compare to individual therapy, hasn’t it? 
+
+00:36:15
+TIMOTHY BRUCE Yes, over the long-term. You know, in that trial no differences were seen in recurrence rates at one year post treatment. But over the one to two-year post-treatment period, patients in the family focused therapy had only a 28% recurrence rate or individual therapy had a 60% recurrence rate. And the FFT at only a 12% re-hospitalization during that period while individual therapy had a 60% rate there too. 
+
+00:36:45
+ARTHUR JONGSMA Wow. That is striking. Now let’s turn to interpersonal and social rhythm therapy. It’s a modification of the Klerman and Weisman Interpersonal Therapy for Depression, is it not? 
+
+00:36:55
+TIMOTHY BRUCE Yes, it’s an adaptation of that therapy that focuses on resolving key interpersonal problems, but also target stabilizing what’s called social rhythms. 
+
+00:37:05
+ARTHUR JONGSMA Referring again to this notion of activity regulation, things like when patients arise, go to sleep, exercise, socialize and alike. 
+
+00:37:15
+TIMOTHY BRUCE Yes, that’s exactly right. You know patients are taught how to track and regulate the timing of their daily routines and their sleep-wake cycles to balance essentially stimulation. They also identify events that could cause changes to these routines and develop strategies for managing them. 
+
+00:37:35
+ARTHUR JONGSMA And common emphases and themes of interpersonal therapy component, what would they be? 
+
+00:37:40
+TIMOTHY BRUCE Well, common emphases include addressing generally interpersonal deficits and conflicts. So common themes include things like interpersonal disputes, grief, loss, interpersonal isolation for example. Of course a specific focus depends on what emerges is significant for the particular patient. 
+
+00:38:00
+ARTHUR JONGSMA And that’s based on the thorough initial assessment characteristic of this approach, assessment of the problem as well as significant past and present relationships, right? 
+
+00:38:10
+TIMOTHY BRUCE Yes, they call that the interpersonal inventory. And once this is completed, the therapist and client agree on what interpersonal issue or issues to focus on in the second phase of the therapy. 
+
+00:38:20
+ARTHUR JONGSMA Division 12 as judge this therapy to be probably efficacious for bipolar depression. What outcomes had been seen with it? 
+
+00:38:30
+TIMOTHY BRUCE Well, in one major trial, participants received this therapy in one of two forms. Acute therapy, which was weekly sessions over several months or maintenance therapy after recovery, which was monthly for two years. So patients who received interpersonal and social rhythm therapy as an acute phase treatment had longer well intervals than those in the control treatment. In contrast, those who started it during a period of recovery as a maintenance treatment found it no more effective than clinical management in preventing recurrences over two years. It hadn’t strongest effect on reducing depressive recurrences and a smaller but significant effect on reducing suicide attempts relative to the comparison group. 
+
+00:39:20
+ARTHUR JONGSMA So, Tim, it was more effective preventing depressive reoccurrences when started with actively symptomatic patients… 
+
+00:39:25
+TIMOTHY BRUCE Right. 
+
+00:39:25
+ARTHUR JONGSMA …then when initiated with patients who already had recovered from there episodes. 
+
+00:39:35
+TIMOTHY BRUCE Exactly. This timing issue seems to affect outcome. For example, Miklowitz has noted that, the patient’s initial clinical state and history of recurrences may moderate the effectiveness of certain psychosocial treatments. So CBT and some forms of group psychoeducation appear to be more effective with recovered than symptomatic patients, whereas family therapy for example, interpersonal and social rhythm therapy and systematic care interventions produced benefits among patients who began them in moderate or acutely ill states. 
+
+00:40:10
+ARTHUR JONGSMA These three therapies for bipolar depression have recently been studied in a major large trial. The STEP-BD meaning Systematic Treatment Enhancement for Bipolar Disorder. What was found in that STEP? 
+
+00:40:25
+TIMOTHY BRUCE The STEP-BD was a large effectiveness study carried out in 15 sites in the United States with nearly 300 acutely depressed patients with bipolar I, or bipolar II disorder. It looked at three adjunctive evidence-based psychosocial treatments. Family Focused Therapy, interpersonal and social rhythm therapy and CBT, as well as a control treatment called collaborative care. The essential result was that being in any of the three evidence-based psychotherapies was associated with a faster recovery rate from acute depression than being in the collaborative care. Recovery rates specifically were 77% for Family Focused Therapy, 65 for interpersonal and social rhythm therapy and 60% for CBT and these rates were not different in terms of statistical significance. People interested in its details can find references too in the Companion Workbook. 
+
+00:41:25
+ARTHUR JONGSMA Tim, what is the thinking regarding why these treatments may have more impact on depression than on Mania and other treatments on mania than on depression? 
+
+00:41:35
+TIMOTHY BRUCE Right. Well, again, you know, David Miklowitz points out that, manic symptoms are most consistently associated with medication non-adherence. Life events that promote goal striving and sleep-wake cycle disruption. So accordingly interventions such as psychoeducation and CBT that focus on the early identification of prodromal, meaning pre-episode symptoms such as changes in your sleep as well as compliance with medication are more effective with manic than depressive symptoms. In contrast, patient and family centered approaches that have a focus on cognitive and behavioral skills for managing interpersonal or family relationships such as communication and problem-solving strategies or interpersonal therapy appear to be more effective for depressive than manic symptoms. 
+
+00:42:30
+ARTHUR JONGSMA So are there themes that emerge from this literature that might represent an evidence-based practice guideline in the spirit of what does the best available evidence suggests? 
+
+00:42:40
+TIMOTHY BRUCE Yeah, the evidence-based practice guidelines developed by NICE in Great Britain reflect this type of approach. And those key objectives and interventions have been summarized by Reiser and Thompson in their book on evidence-based treatment of bipolar disorder. 
+
+00:42:55
+ARTHUR JONGSMA Let’s take a look at those briefly. So according to NICE, the best available evidence suggests that when treating bipolar disorder we should educate patients and family about the illness. 
+
+00:43:10
+TIMOTHY BRUCE When appropriate treat family members or significant others to reduce conflict and negative expressed emotion in the family system and develop social support. 
+
+00:43:20
+ARTHUR JONGSMA Improved medication and therapy adherence. 
+
+00:43:25
+TIMOTHY BRUCE Teach patients to monitor mood and activity state or level of stimulation. 
+
+00:43:30
+ARTHUR JONGSMA Modify maladaptive beliefs or cognitive vulnerabilities that predispose the patient to severe depressive or manic episodes. 
+
+00:43:40
+TIMOTHY BRUCE Address maladaptive perceptions, judgments and behaviors. 
+
+00:43:40
+ARTHUR JONGSMA Assist the patient in problem-solving and irrelevant coping strategies to reduce the impact of aversive life events. 
+
+00:43:50
+TIMOTHY BRUCE Assist in stabilizing lifestyle, social routines and sleep. 
+
+00:43:55
+ARTHUR JONGSMA Develop coping plans to prevent or minimize relapses. 
+
+00:44:00
+TIMOTHY BRUCE And develop a relapse prevention plan. 
+
+00:44:05
+ARTHUR JONGSMA Let’s look at how a psychotherapy treatment plan can be informed using objectives and interventions consistent with the ESTs. After determining that bipolar disorder is the primary presenting problem, we then add to the treatment plan those behavioral manifestations of bipolar disorder that define the client’s unique expression of the disorder. 
+
+00:44:30
+TIMOTHY BRUCE Here’s a list of behavioral definitions commonly used for bipolar disorder. The first definition statement describes the classic symptoms of depression as seen in this disorder. The next statement describes symptoms of a manic episode. The last two statements refer to the level of impairment that may result from these episodes. And of course you may want to add behavioral definitions that best describe your particular client’s expression of this disorder. 
+
+00:44:55
+ARTHUR JONGSMA The next step in treatment planning is to determine the long-term goals. Again, these are generated collaboratively with the client and describe the desired outcome at the end of treatment. Examples might include, normalized energy level and returned to usual activities, good judgment, stable mood, more realistic expectations and goal-directed behavior or alleviate depressed mood and return to previous level of functioning. Or a final example maybe, develop an increased understanding of bipolar disorder symptoms as well as an understanding of the indicators and the triggers for relapse. Of course, there may be other goals that you want to develop and add to this list as well. 
+
+00:45:45
+TIMOTHY BRUCE We now direct our attention to client objectives and therapist interventions consistent with research boarded treatments for bipolar disorder. As with all treatment a thorough assessment is important to developing an optimal treatment plan. The assessment phase of treatment typically involves obtaining a detailed description of the nature and history of the symptoms as well as the impact on the client social, occupational, and interpersonal functioning. Psychological tests or objective measures may be used to supplement the clinical interview and or track treatment response. Because the effects of bipolar disorder can be very severe, an assessment of the client’s need for a protective environment such as psychiatric hospital or residential crisis unit should be performed. And because psychological treatments for bipolar disorder are adjuncts to medication treatments, a psychiatric evaluation is a necessary consideration in the plan. 
+
+00:46:45
+ARTHUR JONGSMA Empirically supported treatments for bipolar disorder emphasize initial and ongoing psychoeducation. Individual and/or group sessions teach the client and family members about the causes and treatments for bipolar illness. The tendency for the illness to have a relapsing history and the strong need for medication compliance are emphasized. The role of stress and an unregulated lifestyle as triggers for relapse are underscored as well as ways to manage these triggers to minimize relapse occurrence. Examples of objectives and interventions consistent with bipolar disorder, psychoeducation may look like this. Should the client decide to enroll in a formal group psychoeducation program, that objective and its associated interventions can be described as follows. 
+
+00:47:40
+TIMOTHY BRUCE In this first vignette, the facilitator of a group psychoeducation session is encouraging engagement of the members, while educating them about common psychoeducational issues relevant to bipolar disorder. Let’s take a look. 
+
+00:47:55
+UNKNOWN Welcome everyone to our third meeting. I’d like to begin today with a brief summary of our first two sessions. We began by describing the purpose of this program as teaching what a bipolar disorder is and how to best cope with it. We explain the rules of the group including rules regarding mutual respect for each other, confidentiality, attendance, and punctuality. And how do you expect each person to participate. But then as you may remember, we had a little fun together and went around the group again saying our names and trying to say the names of every person before us. Poor Jack was the last one which meant that he had to remember everyone else’s name. Have you recovered from that stress yet, Jack? 
+
+00:48:45
+JACK Just barely it took me about three go rounds just to get everybody’s name right. 
+
+00:48:45
+UNKNOWN You were a good sport about that, Jack. Thank you. In our second session we discussed that bipolar disorder is an illness in which the mood is not always stable. We compared it to having a faulty thermostat in the brain that results in moods changing, sometimes quickly and often that related to what is going on around the person. Moods can go from being elated with uncontrolled energy to feeling depressed and not interested in anything, sometimes without any reasonable external causes. We asked you to share what moods have been like for each of you. We heard that some of you have more episodes of depression with only brief swings until mild manic states while others have more severe episodes of mania. The patterns varied from one individual to another. Well, today I’d like to talk more about what causes bipolar illness and start with what you found that triggers your mood episodes. Who can share with us what they think has triggered a shift in their moods in the past. 
+
+00:49:50
+UNKNOWN I’ve found that if my wife works too much overtime I can get real frustrated and then depressed. 
+
+00:49:55
+UNKNOWN Okay, thank you. So in this instance, a relationship stress triggered a depression swing. Someone else? 
+
+00:50:05
+JACK Sometimes even an I’m tired, I think I don’t need more than an hour or two to sleep to keep me going and then I stay awake and then I’m off to the races. 
+
+00:50:15
+UNKNOWN Okay. So you’ve noticed, Jack, that a manic swing can begin when you break your routine and don’t get proper sleep. 
+
+00:50:20
+JACK Yeah. 
+
+00:50:25
+UNKNOWN I want to point out using these two examples, a fairly common misunderstanding about mood swings. Bipolar swings and mood are not caused by these types of environmental events, but they may be triggered by them. The real cause of Jack’s mood shift for example is triggered by breaking from his usual work or sleep routine, is actually internal and biochemical. The causes of these mood changes are based in these biochemical mechanisms in the brain. Jack and the rest of you were born with this faulty thermostat in your brain. Inherited genetic makeup is the cause of the inability to regulate the mood. The strong evidence for an inherited tendency called a predisposition to develop bipolar disorder in most patients. Nearly two-thirds of people with bipolar disorder have one or more family members who have struggled with a mood disorder of some kind. Why is it important for the patient and family to know that bipolar disorder is caused by genetics and brain chemistry? 
+
+00:51:30
+UNKNOWN Well, it helps because it means we don’t have to blame ourselves for it. 
+
+00:51:35
+UNKNOWN Well, maybe our families can know that it’s not our fault. We can control it like they can. 
+
+00:51:40
+JACK Does this mean there’s nothing we can do to help ourselves? 
+
+00:51:45
+UNKNOWN Good question, Jack. Patients are not to blame for this illness anymore than a person with diabetes is to blame for it. But like someone with diabetes, the person with bipolar disorder needs to accept that medication is necessary to help regulate the biochemical side of this disorder and take his or her medication consistently. And just like those with diabetes are disciplined about their diets. The person with bipolar disorder needs to be careful about maintaining regular sleep and a low stress routine. You can help moderate this disorder by making some lifestyle changes that reduce the events that can trigger an episode. Maintaining a regular routine and getting proper rest is one of the ways to control episode triggers. But these lifestyle changes are not enough to treat this illness. Medication is crucial to stabilizing the brain chemistry. Let’s talk a little bit about our views of medication and its role in managing this disorder. 
+
+00:52:50
+ARTHUR JONGSMA She did a nice job of summarizing the previous session. This group has met before at least one another time. And she brought them up to speed on what they had done the previous week. 
+
+00:53:00
+TIMOTHY BRUCE Yeah. 
+
+00:53:00
+ARTHUR JONGSMA And I liked how she then drew some of the triggers out of the group, triggers for some symptom formation. 
+
+00:53:10
+TIMOTHY BRUCE Yeah. She got interpersonal stresses which common trigger, sleep disruption is a common trigger and that was coming out. 
+
+00:53:15
+ARTHUR JONGSMA And then she made the distinction between these are triggers but they’re not causes. 
+
+00:53:20
+TIMOTHY BRUCE She’s gonna emphasize the biological basis of this disorder, kind of as a prelude to then talking about medication. 
+
+00:53:30
+ARTHUR JONGSMA Right, and she does, she does go into talking about medication compliance and how important that is, and I think or even coming back to it in the next session. 
+
+00:53:40
+TIMOTHY BRUCE Yeah, yeah, very critical because a lot of folks who suffer with bipolar disorder when they’re feeling better don’t see a need for their medication, right? So… 
+
+00:53:45
+ARTHUR JONGSMA Yeah. They take the medicine and they feel better. And then they say, well, I really don’t need this medication, I’m feeling fine. 
+
+00:53:50
+TIMOTHY BRUCE Yeah. 
+
+00:53:55
+ARTHUR JONGSMA And they stopped taking… 
+
+00:53:55
+TIMOTHY BRUCE Ignoring the, the underlying biology that’s still present and still vulnerable and so on. So they’re gonna emphasize that strongly. 
+
+00:54:00
+ARTHUR JONGSMA She talks about regulating lifestyle and emphasizes that to the group. Why is that so important? 
+
+00:54:05
+TIMOTHY BRUCE Well, it’s a theme across all of these treatments, isn’t it? Because changes in activity level and sleep and so on are precipitants to episode. So that’s an emphasis, you know, you’re going to see in CBT, some CBT, interpersonal social rhythm theory and it’s in psycho (inaudible) well. 
+
+00:54:25
+ARTHUR JONGSMA Sure. And then she may move into this personal care plan that we’ve alluded to earlier. 
+
+00:54:30
+TIMOTHY BRUCE Right, this is kind of an overview. She’s going through several things and they’re going to then start looking at all these things in each individual and they’re gonna develop their own personal care plan and then the ideas that they implemented, relevant to them, their triggers and so on. 
+
+00:54:45
+ARTHUR JONGSMA Yeah. And this is applied in a group situation. We could do this one-to-one? 
+
+00:54:50
+TIMOTHY BRUCE You can do it one to one. We discussed how in one major study of the one-to-one approach that it showed similar outcomes. 
+
+00:54:55
+ARTHUR JONGSMA Good. Very good. 
+
+00:55:00
+TIMOTHY BRUCE Having briefly reviewed assessment and psychoeducational objectives interventions. Let’s move now to integrating objectives and interventions consistent with cognitive behavioral therapy or CBT for bipolar disorder. The objective and therapeutic interventions descriptive of CBT for bipolar disorder highlight the major features of the treatment. The interventions describe psychoeducation related to the illnesses biological roots and the associated need for medication compliance, exploring depressive or elevated self-talk and belief, identifying and challenging biases, generating alternatives and prediction testing through use of behavioral experiments. Homework assignments related to any of these tasks are used commonly in the therapy. In some CBT approaches to bipolar disorder, an emphasis is placed on the acquisition of cognitive behavioral coping and relapse prevention skills, such as maintaining a regular sleep-wake cycle and avoiding or managing triggers of mood episodes. 
+
+00:56:00
+ARTHUR JONGSMA In our next vignette, a therapist and client examined cognitive behavioral factors that may have led to a break in the client’s sleep-wake patterns. Let’s take a look at it. 
+
+00:56:15
+UNKNOWN Jack, I can see on your mood and activity schedule that you had an up and down week. You cut back on your overtime and did a few more things with the family earlier this week. 
+
+00:56:25
+JACK Yeah I told Carol, if I’m not home by 5:30, to call me. She had to call me a few times at the beginning of the week. But then I remembered, I got myself home. 
+
+00:56:35
+UNKNOWN Good, and you spent more time with your family doing some nice things those evenings. 
+
+00:56:40
+JACK Yeah. We did some relaxing things. We cook together. We watched a movie. Played some games. It was good. 
+
+00:56:50
+UNKNOWN Your sleep was good those nights too, seven hours. And did you notice how your mood ratings those days where good too. You are mostly calm at six or seven level. 
+
+00:57:00
+JACK Yeah. I was feeling pretty good until Thursday. I don’t know. I just woke up feeling stressed, tired. I was wired all day, but exhausted at the same time. 
+
+00:57:10
+UNKNOWN Well, it looks like you went to bed very late Wednesday night. 
+
+00:57:15
+JACK I did. I watched a movie after everybody else went to bed. 
+
+00:57:20
+UNKNOWN Then it looks like you had a tense day Thursday. Took a nap when you got home, stayed up Thursday night and felt the same way Friday as you did Thursday. This is a change from your schedule you’ve been on. 
+
+00:57:35
+JACK Yeah. I just got tired, I had to take a nap. And then I wasn’t very sleepy on Friday night. But then Carol reminded me about the sleep hygiene stuff we talked about. So I did that Friday. I went to bed with her, woke up, my regular time, same thing on Saturday and it helped. 
+
+00:57:55
+UNKNOWN And your mood during the weekend was better? 
+
+00:57:55
+JACK Yeah, it was. I just screwed up my sleep pattern and it threw me off. 
+
+00:58:00
+UNKNOWN It started when you decided to watch that late movie on Wednesday. What made you decide to stay up? 
+
+00:58:05
+JACK I don’t know. It was such a good thing, a good time watching the movie with Carol and the kids. And I guess I just didn’t want it to stop. I wanted to keep going. 
+
+00:58:15
+UNKNOWN Keep, what going? 
+
+00:58:20
+JACK The good feeling. I mean even though the kids went to bed, I was feeling pretty good and just wanted to stay up and enjoy it. 
+
+00:58:30
+UNKNOWN I see. So in terms of your self-talk, what do you think you were saying to yourself at that exact moment? 
+
+00:58:35
+JACK I think I was saying something like, you feel good. Let’s keep this going. 
+
+00:58:40
+UNKNOWN Okay. So the idea was that staying would make that feeling last and you want it that feeling to last? 
+
+00:58:50
+JACK Yeah, I suppose so. 
+
+00:58:50
+UNKNOWN Did you know you might pay for it the next day? 
+
+00:58:55
+JACK Yeah, kind of. I guess I just forgot. 
+
+00:58:55
+UNKNOWN Forgot what? 
+
+00:59:00
+JACK I forgot to, you know, listen to the voice of reason. 
+
+00:59:05
+UNKNOWN That darn voice of reason. Did you forget it or ignore it? 
+
+00:59:10
+JACK Yeah, I heard it. I just ignored it. 
+
+00:59:10
+UNKNOWN Was the feel-good voice right? You had a good time after that? 
+
+00:59:15
+JACK Actually, no, it wasn’t the same without Carol and the kids. I just kinda vegged out. And before I knew it, it was late. 
+
+00:59:25
+UNKNOWN And the next few days weren’t so hard either? 
+
+00:59:25
+JACK Nope. 
+
+00:59:30
+UNKNOWN So going with the feeling at the moment and ignoring your other voice didn’t pay off so well? 
+
+00:59:35
+JACK No, not so much. 
+
+00:59:35
+UNKNOWN So, Jack, can we use this experience to help you in the future? 
+
+00:59:40
+JACK Well, if I can remember how it felt, it might help me. 
+
+00:59:45
+UNKNOWN Why don’t we talk about the ways to strengthen that decision-making skill? 
+
+00:59:50
+ARTHUR JONGSMA Well, that, she starts off here with this activity regulation homework assignment. Again pointing out the need for homework and how it’s used in this approach to therapy. 
+
+01:00:00
+TIMOTHY BRUCE Yeah, and self-monitoring, paying attention to how your moods fluctuate and what kind of things are influencing that fluctuation. 
+
+01:00:10
+ARTHUR JONGSMA So she had obviously asked this client to journal as to what his life was like during the weekend or what, what’s sleep time he had and what does activities were like during the week. 
+
+01:00:20
+TIMOTHY BRUCE Yeah. 
+
+01:00:20
+ARTHUR JONGSMA Good. And followed up on that makes good use of that homework. 
+
+01:00:25
+TIMOTHY BRUCE Yeah. 
+
+01:00:25
+ARTHUR JONGSMA And then the therapist zeros in on his sleep pattern. What do you think that’s about? 
+
+01:00:30
+TIMOTHY BRUCE Well, you know, changes in it or precipitant to changes in mood to the vulnerability to episodes. And she finds that, you know, he has this change in sleep pattern, precipitating a change in mood and functioning the next day. 
+
+01:00:50
+ARTHUR JONGSMA Sure. And then she probes. Why does he changed his sleep? What was behind that? 
+
+01:00:55
+TIMOTHY BRUCE Yeah, that was good. I mean, and this is a reflection of the C and CBT because she’s now looking at that point in time when he made the decision to change that pattern and saying, okay, well, what’s he emphasizing in that decision. Is it the regulation in my sleep and the stability of my moods or is it something else? 
+
+01:01:10
+ARTHUR JONGSMA And looks at his self-talk that led to some of that. 
+
+01:01:15
+TIMOTHY BRUCE Right. 
+
+01:01:15
+ARTHUR JONGSMA What were you saying to yourself? Where you’re listening to messages? Did you ignore them? 
+
+01:01:20
+TIMOTHY BRUCE Yeah, and he was listening to the message that said, what a manic voice might say, let’s keep this going. 
+
+01:01:25
+ARTHUR JONGSMA Yeah. 
+
+01:01:25
+TIMOTHY BRUCE Yeah. 
+
+01:01:30
+ARTHUR JONGSMA And then this prediction testing thing, it wasn’t really clear in there but it was kind of subtle. What was that? 
+
+01:01:35
+TIMOTHY BRUCE Well, she took the self-talk and turned it into a prediction. So you have this voice saying let’s keep this going and let’s see what’s happened. The other voice is going to be saying, no, let’s go to bed and you’ll feel better. And she said so, you know, what turned out and he said, well, I didn’t, I didn’t keep it going. I vegged out. 
+
+01:01:50
+ARTHUR JONGSMA It didn’t work out… 
+
+01:01:50
+TIMOTHY BRUCE It didn’t work out quite the way. So she’s gonna come back and say, okay, so this voice really even though at the moment it sounds like it’s very valid and predictive and that kind of thing, isn’t, actually caught… 
+
+01:02:00
+ARTHUR JONGSMA Yeah, you got to listen to the other voice, the therapeutic voice. 
+
+01:02:05
+TIMOTHY BRUCE And maybe had a few of these experiences before it’s believable. 
+
+01:02:05
+ARTHUR JONGSMA Sure, of course. Good. Let’s move on now to examples of objectives and interventions consistent with Family Focused Therapy for bipolar disorder. This therapy emphasizes psychoeducation around themes similar to what we’ve discussed as well as personal and interpersonal skills that are relapse preventative. The approach begins with family sessions that use psychoeducation to help the family understand the rationale for the therapy. The next intervention statement describes the use of role-play modeling and feedback to teach respectful, active listening and problem-solving skills to reduce negative expressed emotion in the family. Intervention statement number three describes the use of homework to facilitate the learning process around healthy communication skills in the client’s family. 
+
+01:03:00
+TIMOTHY BRUCE In this next vignette, the therapist reviews the family’s initial efforts to use an active listening technique when communicating. Let’s take a look. 
+
+01:03:10
+UNKNOWN In our last session we talked about improving communication in the family by using active listening. I gave you a handout to read more about it at home. We discussed the four key elements of active listening that we summarized an acronym war. R for reflect or summarize or paraphrase what you heard the speaker say. All four opinion that’s hold back on expressing your judgment or opinion until the speaker is finished, do not interrupt to disagree. A is for attentiveness. Keep good eye contact with the speaker and use body language or gestures or encouraging comments like aha, okay, go on, you know et cetera. And the last R is for respect. Be honest but respectful in your response to what the speaker said. Does this sound familiar to all of you? 
+
+01:04:05
+JACK Yeah. 
+
+01:04:05
+UNKNOWN Yes, it does. 
+
+01:04:05
+UNKNOWN Yeah. 
+
+01:04:05
+UNKNOWN I tried it out even though you said we would be practicing it today. 
+
+01:04:10
+UNKNOWN Okay, very good. How did it go? 
+
+01:04:15
+UNKNOWN It was hard to be patient and hold off on expressing my opinion or judgment until Jack was finished saying what he wanted to say. I guess I got too defensive. I started attacking him and I know that wasn’t good. When he’s depressed, it’s hard for me to remember that this is the illness talking and he can’t control these mood swings. 
+
+01:04:35
+UNKNOWN That’s my problem too. I get frustrated with him being down for no reason, but I’m, but I’m learning more about bipolar disorder. And how it’s caused by changes in his brain that he’s inherited. It does make me a little more patient now. 
+
+01:04:55
+UNKNOWN Good insights. Jack, you want to comment? 
+
+01:04:55
+JACK I knew Carol was trying to use active listening when I complained about not being able to bring enough money home. I get like that when I’m depressed. I feel a little brighter today. 
+
+01:05:10
+UNKNOWN Okay. I hear that you blame yourself for the family financial situation and you make it worse than it is when you’re depressed. 
+
+01:05:15
+JACK That’s right. 
+
+01:05:20
+UNKNOWN I’d like to just role-play this little scenario between you and Carol and we’ll watch. Are you both willing to try this? 
+
+01:05:25
+JACK Okay. 
+
+01:05:30
+CAROL I’ll try to do it better this time. 
+
+01:05:30
+UNKNOWN Perfect. Jack, why don’t you start by complaining? Carol, you try to use the roar techniques. 
+
+01:05:40
+JACK Okay. Well, like you said something like, I’m tired of us being broke all the time and not being able to make enough money for us to get ahead. I’ve never gotten the promotions or the raises we need. 
+
+01:05:50
+CAROL Uh-huh. 
+
+01:05:55
+JACK I’m afraid you’re just gonna dump me and find someone else who’s a better provider. 
+
+01:06:00
+CAROL I hear you blaming yourself, Jack, and thinking I’m unhappy with you. So unhappy that you believe I’m thinking about a divorce. But, Jack, I know you work hard and do your best. This is your depression talking. I’m not unhappy with you and I’m not going anywhere. 
+
+01:06:20
+UNKNOWN That was excellent, Carol. You were very attentive. You reflected what you heard. You didn’t interrupt or lash out with an angry opinion. You’re respectful in your response. Excellent. What do you think, Blith? 
+
+01:06:35
+UNKNOWN That was good. I’m not sure I can do that, but I know I have to be more patient with dad. 
+
+01:06:45
+UNKNOWN Okay. Well, let’s work with this some more and talk about how we can implement active listening at home this week. I’d also like each of you to bring a journal entry next week that summarizes an instance of active listening that you were a part of. 
+
+01:07:00
+TIMOTHY BRUCE Well, this is a vignette about family focus therapy in a specific emphasis in it. It’s part of the communication training emphasis. There’s A, as you’ll recall you know a psychoeducational emphasis and a problem-solving emphasis. So just to put this in context, we’re looking at part of this communication enhancement training part of which is teaching active listening. 
+
+01:07:25
+ARTHUR JONGSMA Sure. 
+
+01:07:25
+TIMOTHY BRUCE Where he starts out using an acronym which is often helpful for people to remember this. 
+
+01:07:30
+ARTHUR JONGSMA Sure, she points out this roar acronym is a way for you to remember. What are the important aspects of good communication and respectful communication? 
+
+01:07:40
+TIMOTHY BRUCE Yeah, yeah, and that’s using a good memory technique as part of skills training. 
+
+01:07:40
+ARTHUR JONGSMA Sure. And it also seems clear that the psychoeducation that she is doing with this family is having an impact. They seem to be gaining some insight into the illness here and how to react to it more constructively. 
+
+01:07:55
+TIMOTHY BRUCE Yeah, that’s a good point. They talk about, well, now I’m starting to see that this is, you know, more biologically influenced and not quite blaming dad or that kind of… 
+
+01:08:05
+ARTHUR JONGSMA And the daughter chimes in with that. Sure. 
+
+01:08:10
+TIMOTHY BRUCE Yeah. 
+
+01:08:10
+ARTHUR JONGSMA And then they move into this role-play, role-play to train communication. 
+
+01:08:15
+TIMOTHY BRUCE Yeah. Yeah, you know, kind of a staple of cognitive behavioral approaches where you know you just don’t talk about it. You get in there and you practice it. You develop the skill. You get constructive feedback. You get reinforcement for what’s going well and the therapists had little work to do here because the wife did a really good job. 
+
+01:08:35
+ARTHUR JONGSMA She did. Yeah. Because she was critical of herself initially and then when she role-play that she did a good job. 
+
+01:08:40
+TIMOTHY BRUCE Yeah. 
+
+01:08:40
+ARTHUR JONGSMA And then, but I liked how the therapist reinforced her and pointed out the good things that she had done and emphasize those good points. 
+
+01:08:45
+TIMOTHY BRUCE Yeah. 
+
+01:08:50
+ARTHUR JONGSMA Yeah. And then homework at the end. She was gonna send them home with another assignment, another typical part of this approach to therapy. 
+
+01:08:55
+TIMOTHY BRUCE Yeah, trying to consolidate the skills and put them into play and then come back and do this again. Let’s see… 
+
+01:09:00
+ARTHUR JONGSMA Process it again. 
+
+01:09:00
+TIMOTHY BRUCE Yeah. 
+
+01:09:00
+ARTHUR JONGSMA Sure. Very good. 
+
+01:09:05
+TIMOTHY BRUCE Our final set of objectives and interventions reflect interpersonal and social rhythm therapy. Objectives 10 and 11 summarize the client’s essential tasks for this treatment approach. The first describes establishing and maintaining a regular pattern of daily activities such as eating times, hours of sleep, social and work activities. The therapist and client assess the client’s daily routine and work to develop a predictable rhythm of balanced activities that are rewarding and not over or under stimulating. 
+
+01:09:35
+ARTHUR JONGSMA Additionally, this therapy calls for the therapist to engage the client in a process of conflict resolution related to interpersonal relationships through the use of interpersonal therapy. The interpersonal inventory is administer to assess in part, current and past issues related to grief, role disputes, role transitions, and interpersonal skills deficits. Then the interventions shown describe the use of client-centered techniques to process issues of interpersonal conflict. They also summarize this therapy’s use of a rescue protocol to restore medication compliance, an adequate sleep routine and low stress relationships. 
+
+01:10:25
+TIMOTHY BRUCE This final vignette shows excerpts representing the common emphases of interpersonal and social rhythm therapy. In one, the therapist discusses with the client, the assessment of the client social rhythms. The others depict discussions of interpersonal issues with which the client has struggled. Let’s take a look at these scenes. 
+
+01:10:40
+UNKNOWN Okay, Jack. Here’s that form we are going to use to get a sense of your social rhythm, like we talked about. 
+
+01:10:50
+JACK Okay. How do I use this? They can be confusing you know. 
+
+01:10:55
+UNKNOWN Yes, they can. Let’s take a look at it. Right here is a list of the activities that we want to record. As you can see for each day you record what time you get out of bed, what time you had your first contact with a person, what time you began your work, what time you ate dinner, and what time he went to bed. 
+
+01:11:15
+JACK It just follows my day. You know, I don’t always do these things the same time every day. It may be different day-to-day. 
+
+01:11:20
+UNKNOWN Oh, sure, I understand. That’s what we want to see when you’re actually doing these things. 
+
+01:11:30
+JACK Okay. But we’re also trying to get these things on more of a schedule, right? You still want me to try to do all that too? 
+
+01:11:40
+UNKNOWN Yes, that’s what this is right here. It’s called the Target Time. We’ll put the time we’re shooting for here. And here’s where we record what time each of those things that actually happens that day. 
+
+01:11:50
+JACK I see. What if I don’t reach the Target Time? 
+
+01:11:50
+UNKNOWN Well, here’s the plan. First, we’ll fill in the target times together and then you just record the actual times during the week and bring the form back. We’ll take a look at it each week. If you see that the actual time is different than the target, then we’ll look at possible reasons why and see if there are ways to get closer to the target time. In other words, we’ll problem solve. Sound okay? 
+
+01:12:15
+JACK Yeah. All right. I can do that. Yeah, things are better at home. 
+
+01:12:20
+UNKNOWN How so? 
+
+01:12:25
+JACK Everybody’s just a lot more respectful to each other. 
+
+01:12:25
+UNKNOWN So Carol and the kids are more respectful of you? How so? 
+
+01:12:30
+JACK They don’t just write me off if I don’t make complete sense to them the first time, especially the kids. 
+
+01:12:40
+UNKNOWN Okay, and you’re more respectful of them? 
+
+01:12:40
+JACK Yeah. I don’t get quite as frustrated thinking they’re blowing me off. 
+
+01:12:45
+UNKNOWN You don’t jump to a bad conclusion as much. 
+
+01:12:50
+JACK No, I just take it for what it is instead of spinning it. 
+
+01:12:50
+UNKNOWN And that’s helped? 
+
+01:12:55
+JACK Yeah, because most of the times they are just asking, they aren’t trying to judge me. I’m just trying to take it for what it is. 
+
+01:13:05
+UNKNOWN So these things have been frustrating you with your supervisor. 
+
+01:13:05
+JACK Yeah, I mean, he knows what I do. Why would he have to ask unless he thinks I’m not doing them? 
+
+01:13:15
+UNKNOWN So when he asked about whether you got the machine cleaned, you thought he was criticizing you? 
+
+01:13:20
+JACK Yeah. You think I’m reading into it with him? 
+
+01:13:20
+UNKNOWN I don’t know, Jack. Perhaps. Did you just take his question for what it was or did you add a spin to it? 
+
+01:13:30
+JACK I think I probably spun it. I thought he was judging me. 
+
+01:13:35
+UNKNOWN It sounds like you’re picking up on a theme and you’re thinking. Do you think it would help to try what’s worked at home? 
+
+01:13:40
+JACK Maybe, just take it for what it is. I’m not sure how to do that exactly with him. 
+
+01:13:50
+UNKNOWN You want to practice some here? Now? 
+
+01:13:55
+JACK All right. 
+
+01:13:55
+TIMOTHY BRUCE this is an example of what you might see in interpersonal and social rhythm therapy. One of the thing that’s characteristic of it is this use of the social rhythm metric as they call it and this is a… 
+
+01:14:10
+ARTHUR JONGSMA A structured form? 
+
+01:14:10
+TIMOTHY BRUCE It’s a monitoring form. Yeah, to look at the daily activity levels, look at mood and so on. And then often part of sessions are to examine this, see how this is going. If it’s stable, is it changing and so that’s one emphasis here, as well as the interpersonal therapy emphasis. 
+
+01:14:30
+ARTHUR JONGSMA So she’s asking the client to fill this in and she’s explaining the form, then he takes it home, fills it in, and you see a feed back in when he’s done some of this work. 
+
+01:14:40
+TIMOTHY BRUCE Yeah, and he’s, you know, she’s pointing out. Here’s what we’re shooting for. And he’s saying well, what if I don’t hit it. And she’s well, put what you do and then we’re working. So it’s a, it’s a problem-solving so to speak emphasis to try to move his social rhythm to greater stability. 
+
+01:14:55
+ARTHUR JONGSMA She zeros in on some interpersonal conflict issues here that he may see other people as being judgmental or critical of him. 
+
+01:15:05
+TIMOTHY BRUCE Yeah. So I think that, that second section of here they were talking about where he was doing that within the family system. And finding that well when I’m reactive and so on, it seems like… I mean she was using reflective techniques and he’s revealing that. Well, maybe I… Maybe I was reading into this a little bit and she’s saying, so, when you read into it what happens then. And he’s discovering that when I do this, it’s causing conflict and when I just take it for face value and not add meaning to it, negative meaning. So there’s a theme emerging here in that. 
+
+01:15:35
+ARTHUR JONGSMA Then she moves it into the work setting and says, now I wonder if this happens at work, what happens with your interaction with your boss? 
+
+01:15:40
+TIMOTHY BRUCE Right. 
+
+01:15:45
+ARTHUR JONGSMA And he begins to see some of the same theme arising. 
+
+01:15:45
+TIMOTHY BRUCE Yeah, initially not seeing it. 
+
+01:15:45
+ARTHUR JONGSMA Yeah. 
+
+01:15:50
+TIMOTHY BRUCE Right. And then she’s then clarifying, well, this sounds like something similar and then he starts putting it together. And he says, I’m not sure I’m going to be able to deal with that the same way. So there was an advance in his understanding of this, but he’s expressing anxiety about his actual ability to manage it like he does at home. 
+
+01:16:05
+ARTHUR JONGSMA Sure. And then she talks about, well, let’s role play this. 
+
+01:16:10
+TIMOTHY BRUCE Then let’s practice it. 
+
+01:16:10
+ARTHUR JONGSMA Sure, let’s practice it. 
+
+01:16:10
+TIMOTHY BRUCE Yeah. 
+
+01:16:10
+ARTHUR JONGSMA Good. 
+
+01:16:10
+TIMOTHY BRUCE On your screen now appears a sample treatment plan that incorporates all of the steps of evidence-based psychotherapy treatment planning that we’ve presented in this program. Not all of the objectives or interventions are listed that we’ve discussed but only those selected for treatment of our bipolar depress client. 
+
+01:16:30
+ARTHUR JONGSMA The plan includes the stipulation of the primary problem, behavioral definitions of the problem applicable to our client. The diagnosis, the long-term goals of treatment and the short-term client objectives and related therapist interventions consistent with those of empirically supported treatments for bipolar depression, including those related to assessment. Initial and ongoing psychoeducation. And Family Focused Therapy. Today’s discussion focused on evidence-based psychotherapy treatment planning using goals, objectives and treatment interventions consistent with those found and identified research supported treatments and evidence-based treatment guidelines. As we have shown considerable research has been done and continues to be done in this area. 
+
+01:17:35
+TIMOTHY BRUCE Remember the purpose of this series is to demonstrate the process of evidence-based psychotherapy treatment planning for common mental health problems. It’s designed to be informative in nature and did not intend to be a substitute for clinical training in the interventions discussed and demonstrated. For those interested in learning more about empirically supported treatments, references to their empirical support, clinical training materials, and training opportunities are provided in the Companion Workbook to this DVD. 
+
+01:18:05
+ARTHUR JONGSMA Finally, the practice plan or series of treatment planning, homework planning and progress note planning books published by John Wiley and Sons are helpful resources for the clinician. Many of the Treatment Planner books have been revised to include objectives and interventions consistent with the approach demonstrated in this series. For example, the complete adult Psychotherapy Treatment Planner fourth edition contains a step-by-step guide to writing treatment plans for over 40 behaviorally based presenting problems. Many of the presenting problems are approached with evidence-based treatment planning. We hope this information will help you in helping your clients live more happy and productive lives. 
+
+01:18:50
+[credits] 
+
+01:19:05
+END TRANSCRIPT 

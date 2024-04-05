@@ -1,0 +1,338 @@
+00:00:00
+TRANSCRIPT OF VIDEO FILE: 
+
+00:00:00
+_____________________________________________________________________ 
+
+00:00:00
+BEGIN TRANSCRIPT: 
+
+00:00:00
+The information in this program is presented solely for educational purposes and should not be used for the assessment or treatment of any condition without the advice and supervision of licensed medical professionals. The situations presented in this program do not necessarily reflect actual situations you may encounter. Classroom Productions disclaims any liability and/or loss resulting from the information contained in this video. DSM-5® is a registered trademark of the American Psychiatric Association. The American Psychiatric Association has not participated in the preparation of this program. 
+
+00:00:05
+DIAGNOSING MENTAL DISORDERS 
+
+00:00:05
+DSM-5® AND ICD-10 
+
+00:00:10
+SOMATIC SYMPTOM AND RELATED DISORDERS 
+
+00:00:15
+SEAN HARRIGAN The mind and body are inherently linked and what affects one usually affects the other. Our thoughts, worries and hopes are typically felt as emotional sensations in the body and those sensations can influence our inner narratives about ourselves and the world around us. This connection is evident when we experience an illness, medical condition or disorder. Be it a physical or a mental one. Many mental disorders can manifest in physical symptoms that affect the body. And physical conditions often weigh on our mental processes even if it's only to cause a small and temporary degree of distress in our daily lives. But this connection is especially inherent for those who experience somatic symptom and related disorders. A grouping of conditions that share the common trait of an individual experiencing somatic symptoms, the experience, presentation or interpretation of which causes a substantial degree of distress in their daily lives. This grouping contains a diverse array of disorders. Tie together more by non-specific underlying traits and convenience than common origins or modes of treatment. Individuals in this group can display a wide variety of characteristics. Excessive worry over the somatic symptoms they're experiencing, anxiety over the prospect of having an illness, somatic symptoms of inconsistent pathophysiology, mental factors that may affect a physical condition or even deceptiveness in the case of factitious disorder as the individual presents an illness or condition that isn't actually being experienced. 
+
+00:02:05
+DSM-5® AND ICD-10 CODING 
+
+00:02:05
+DSM-5® 
+
+00:02:05
+SEAN HARRIGAN The somatic symptom and related disorders grouping in the diagnostic and statistical manual of mental disorders or DSM-5® contains a number of distinct disorders, each given its own diagnostic code. The diagnostic codes correspond to the codes used by the World Health Organization in the International Classification of Diseases or ICD. In DSM-5®, each disorder is first linked to the coding system from ICD-9 with the codes for (ICD-10®) listed in parenthesis. Hence all of the DSM codes crosswalk to the ICD codes including the newest iteration ICD-10®. For instance, somatic symptom disorder is assigned the code 300.82 in ICD-9 and (F45.1) in ICD-10® listed in parenthesis. This is because the ICD-9 system was still in use when DSM-5® was first released. ICD-10 was released in the fall of 2015 in the United States, although it was adopted previously in other countries. However, because ICD-10® is now the standard in the United States, this program will be listing the newer code from ICD-10® first, followed by the (ICD-9) codes in parenthesis. Sometimes, when relevant, we will also delineate the ICD-9 and 10 codes when we mention the disorder for another grouping of disorders. For example, obsessive-compulsive disorder, a condition mentioned later in this program is coded as F42 (300.3) part of the grouping of obsessive compulsive and related disorders. Organizationally, there are number of differences between the layouts of DSM-5® and ICD-10®. ICD-10® puts most of the equivalent somatic symptom and related disorders into the F40 to F48 section on neurotic, stress-related and somatoform disorders which also includes the equivalent DSM-5® chapters of anxiety disorders, obsessive compulsive and related disorders and trauma and stressor related disorders. While the ICD-10® grouping of a large number of disorders into a bigger section may seem like a minor organizational difference, it does help to illustrate some of the underlying similarities between these disorders, many of which present comorbidly. Within this larger section, ICD-10 puts many of the somatic disorders into the F45 block on somatoform disorders. However, conversion disorders, known in ICD-10 as dissociative disorders of movement and sensation are put in the F44 block on dissociative conversion disorders, a block which includes disorders from the DSM-5® equivalent chapter on dissociative disorders. This highlights the element of disconnect or dissociation in conversion disorder similar to that of other dissociative disorders. Only with conversion disorder the disconnect is between sensations or control of conscious movement. The diagnosis of psychological factors affecting other medical conditions is known in ICD-10® as psychological and behavioral factors associated with disorders or diseases classified elsewhere. And the behavioral element of the diagnosis puts it in the F50 to F59 section on behavioral syndromes, specifically F54. And Factitious disorder is coded as F68.1 in ICD-10® and called intentional production or feigning of symptoms or disabilities, either physical or psychological factitious disorder part of the F60 to F69 section of disorders of adult personality and behavior. This section includes some disorders from the DSM-5® chapters on personality disorders, disruptive impulse control and conduct disorders, gender dysphoria and paraphilic disorders. Factitious disorder along with these other disorders shares the underlying feature of being persistent and the expression of an individual's characteristic lifestyle and mode of relating to self and others. 
+
+00:06:40
+SOMATIC SYMPTOM DISORDER 
+
+00:06:45
+SEAN HARRIGAN In DSM-4, somatic symptom disorder was known as somatisation disorder and emphasized the possibility of somatic symptoms occurring without a discernible medical cause. Meaning the somatic symptoms are not occurring secondary to an underlying medical condition or due to the effects of a substance. DSM-5® intended to remove the emphasis on medically unexplained symptoms and facilitate diagnosis in the setting of a comorbid medical condition. The presence of somatic symptoms occurring within established medical disorder no longer excludes the diagnosis according to DSM-5®. Though the mind body duality is still prominent in the diagnostic guidelines of both of ICD-10® similar disorders. Somatisation disorder and undifferentiated somatoform. Instead, DSM-5® makes no mention of whether or not there is a physical cause behind the symptoms, deemphasizing that in the diagnostic process. In addition DSM-4 and ICD-10's disorders also require the presence of multiple symptoms for the diagnosis. Though DSM-5® allows for solely one severe symptom. The core characteristic that remains consistent in all of these diagnostic guidelines is that there is a somatic symptom or symptoms. These could be gastrointestinal issues, abnormal skin sensations, sexual or reproductive issues, pseudoneurological symptoms or pain which cause the individual disproportionate distress given generally unremarkable findings in physical exams and reassurance from a physician. This could be manifested in the patient's level of anxiety about their symptoms or the amount of time or effort they put toward their symptoms. 
+
+00:08:40
+UNKNOWN I can't like I can't sleep. I can't do my work, you know, it's not, it's not in my head. It's not in my head. 
+
+00:08:50
+UNKNOWN I know, I know. 
+
+00:08:50
+UNKNOWN I don't know why, well. 
+
+00:08:55
+UNKNOWN Maybe before we go, we seek another option, just… 
+
+00:09:00
+UNKNOWN That's what I'm saying. 
+
+00:09:00
+UNKNOWN Before, before we seek a new option, perhaps just let's follow through on with doctor's advice and maybe see a counselor. 
+
+00:09:10
+UNKNOWN Look, I'm not crazy, okay. I'm in pain. It's two different things. Crazy and pain. 
+
+00:09:15
+UNKNOWN I know. 
+
+00:09:20
+SEAN HARRIGAN This preoccupation could rise to the point that it causes them to worry excessively about the threat and severity of their symptoms. It could even make it, so that the fixation on their symptoms may come to define the individual sense of self and can negatively impact their relationships with others. The individuals may constantly seek medical advice based on their symptoms, moving from physician to physician when they are not given a satisfactory diagnosis that supports their own perception. They often attempt to see non-psychiatric physicians rather than mental healthcare providers. The disorder is more common in women than in men. The prevalent estimates vary based on what diagnostic guidelines are used from as low as less than one percent with the previous DSM-4 diagnosis of somatisation disorder to as high as 19% with ICD-10's undifferentiated somatoform disorder with somatic symptom disorder, somewhere in the middle. If the somatic symptoms primarily involve pain, the clinician can specify with predominant pain, previously pain disorder. This pain tends to be chronic and quite extensive. It also remains steady, not changing at different times regardless of the patient is focused on it or not. The clinician can also indicate if the disorder is persistent and the level of severity with mild, moderate or severe. The disorder can often present comorbidly with depressive and anxiety disorders. And at times, it's the depressive disorder symptoms that are first noticed. 
+
+00:11:00
+SOMATIC SYMPTOM DISORDER 
+
+00:11:00
+DIFFERENTIAL DIAGNOSIS 
+
+00:11:05
+SEAN HARRIGAN There are numerous other conditions and disorders to consider in the differential diagnosis. Just because another medical condition with somatic symptoms has unclear causes doesn't mean that it fits somatic symptom disorder. It is only if it causes the patient excessive anxiety, time or worry. An established medical disorder with somatic symptoms can also occur comorbidly with somatic symptom disorder, if it causes this disproportionate level of distress. There can be worries about health and obsessive compulsive disorder or anxiety disorders, such as panic disorder. But in OCD, these worries are more intrusive, potentially tied to compulsive acts performed in order to alleviate the preoccupation. In panic disorder, the symptoms happen only in limited episodes. If somatic symptoms are experienced to a delusional extent, and exceed the guidelines to support a diagnosis of somatic symptom disorder, a diagnosis of delusional disorder, somatic type maybe more appropriate. And if the individual has anxiety about their health but either lack somatic symptoms or only experience them to a mild degree, then illness anxiety disorder should be considered. 
+
+00:12:20
+ILLNESS ANXIETY DISORDER 
+
+00:12:25
+SEAN HARRIGAN An example of a case of illness anxiety disorder is an individual hearing about some sort of illness through something on TV, perhaps a show or a news report who begins to worry immediately that they may have the illness described. This leads to a high degree of anxiety and distress which soon has them searching for more information on the illness and eventually seeking medical evaluation from a clinician. While the specifics may vary, this example points to some of the main features of illness anxiety disorder. A patient that experiences significant anxiety that they have or will acquire a major illness even when few, if any symptoms support that concern. It could start with some minor symptom such as a heart palpitation that leads the individual to worry about having a heart condition. If there is significant risk or symptoms suggestive of a medical condition, the worry is nonetheless disproportionate for what the condition warrants. While, individuals can have insight into the excessive quality of their worries, this tends to be fleeting and they can become distrustful of physicians who tell them that they have no symptoms of the illness in question. In addition to seeking consultation from physicians, they may turn to family members or friends to talk about their worries and perhaps seek reassurance. They may also keep constant watch on their own symptoms, examining themselves for signs of the feared or perceived illness. For some individuals, this could reach the extent that their lives begin to revolve around this preoccupation and could define their identity. It could even become severe enough to essentially render the individual an invalid. 
+
+00:14:10
+UNKNOWN I think like five or six doctor's appointments just in the last like month. 
+
+00:14:15
+UNKNOWN Yeah. 
+
+00:14:15
+UNKNOWN Okay. It's just, umm… I think it just become kind of a lot and it's… 
+
+00:14:20
+UNKNOWN I, I'm, I'm, it might just be this month, you know, what I mean, things come up. 
+
+00:14:25
+UNKNOWN Uh-huh. 
+
+00:14:25
+UNKNOWN Umm… but it's also just, I… there things happen. 
+
+00:14:30
+UNKNOWN Right. 
+
+00:14:30
+UNKNOWN You know, I just, I want to make sure that I'm okay and uh… I mean to say (inaudible )I don't want to get you sick, you know. 
+
+00:14:38
+UNKNOWN Yeah, I know, I know. But, it's just… 
+
+00:14:38
+UNKNOWN If I have something that's contagious I got to make sure that, you're not gonna get it. 
+
+00:14:40
+SEAN HARRIGAN It can be specified if the disorder is care seeking type if the patient seeks excessive medical services or care avoidant type if the individual avoids them. 
+
+00:14:55
+CONVERSION DISORDER 
+
+00:14:55
+(FUNCTIONAL NEUROLOGICAL SYMPTOM DISORDER) 
+
+00:15:00
+SEAN HARRIGAN Conversion disorder entails an individual experiencing alterations in physical functioning, either motor or sensory that aren't consistent with known or recognized medical conditions. The motor symptoms might include tremors, paralysis and stumbling gait. The sensory symptoms could include blindness, hallucinations, and deafness. For a diagnosis of conversion disorder, these symptoms must go beyond being bizarre, given what is found in physical and neurological evaluations. Instead, they point to an inconsistency, such as testing positive in one examination but negative when assessed with a different method or if the symptoms do not follow a known anatomical pattern. The clinician can specify what type of symptoms the patient is experiencing with conversion disorder. The possibilities are with weakness or paralysis, with abnormal movement, with swallowing symptoms, with speech symptom, with attacks or seizures, with anesthesia or sensory loss, with special sensory symptom, with mixed symptoms. The clinician can also specify, if it's an acute episode or if the symptoms of the disorder are persistent and if there are psychological stressors. Those can be specified with psychological stressor with a particular stressor listed. If not, there is without psychological stressor. As mentioned previously, an ICD-10®, the equivalent disorders dissociative disorders of movement and sensation are part of the section on dissociative conversion disorders. And indeed, there is an overlap between conversion disorder and the dissociative symptoms of other dissociative disorders. Unlike in DSM-4, the diagnosis of conversion disorder doesn't require that the patient is knowingly telling the truth about the symptoms. However, if the clinician does find clear indications that the symptoms are being feigned, a diagnosis of factitious disorder should be considered. 
+
+00:17:05
+FACTITIOUS DISORDER 
+
+00:17:10
+SEAN HARRIGAN There are two main presentations of factitious disorder. One, where the individual claims to be experiencing symptoms his or herself. The other, where the individual claims that another person is experiencing them. In the latter case, it's the person practicing the deceptive behavior that is diagnosed, not the person they were imposing the symptoms upon. In DSM-5®, these two types are classified as factitious disorder imposed on self and factitious disorder imposed on another. In both cases, individuals with factitious disorder will feign an illness or injury, manufacturing symptoms and even falsifying records with the intent to conceal the disorder behavior through deception. They may do things to alter lab results or harm themselves or others with cutting or injection of a toxic substance, in order to produce the appearance of an illness or injury. 
+
+00:18:10
+UNKNOWN I'm so sorry that I'm late. I had, uh… I had to take the bus to get here ‘cause my husband's been so sick that it just, it's really hard to get him out of house. 
+
+00:18:20
+UNKNOWN Oh, I, I thought I saw you pull up in a car. 
+
+00:18:20
+UNKNOWN Oh, yeah, well, I got it, I got a, a ride. I was gonna take the bus and then I, I got a ride from a friend. 
+
+00:18:30
+SEAN HARRIGAN Factitious disorder should be distinguished from malingering in which case the individual performs many of the same acts of falsification but will do so for tangible gain, such as financial reasons or to get out of work or punishment. There is no blatant personal benefit for those with factitious disorder and their reasons maybe more complex and internally driven. Although unlike DSM-4, DSM-5® no longer requires the clinician to discern the motivation of the individual. These behaviors could become harmful, leading the individual to put themselves or others through unnecessary procedures that could prove dangerous. For factitious disorder imposed on another, the most common other is a child with a parent falsely reporting or even inducing the symptoms upon the child. This could be specified as single episode or a recurrent episode. 
+
+00:19:30
+PSYCHOLOGICAL FACTORS AFFECTING OTHER MEDICAL CONDITIONS 
+
+00:19:35
+SEAN HARRIGAN Psychological factors affecting other medical conditions is not in itself a mental disorder even as it is included with them. Instead, it is a way of listing psychological or behavioral factors that may negatively impact a medical condition. These psychological factors could exacerbate the medical condition, impact the individual's overall health or affect their adherence to treatment. For example, anxiety can induce or worsen an asthma attack in an asthmatic. The severity of the factors can be specified as mild, moderate, severe or extreme. 
+
+00:20:15
+OTHER SPECIFIED SOMATIC SYMPTOM AND RELATED DISORDER AND UNSPECIFIED SOMATIC SYMPTOM AND RELATED DISORDERS 
+
+00:20:15
+SEAN HARRIGAN If the symptoms cause clinically significant distress and are indicative of a somatic symptom and related disorder, but don't meet the full diagnosis for one of the other disorders mentioned, have an uncertain cause or if the clinician is lacking enough relevant information, the clinician can use other specified somatic symptom and related disorder or unspecified somatic symptom and related disorder. Other when the clinician wishes to note the specific reason why the symptoms are unappropriate and unspecified when they do not. Patients with any of the somatic symptom and related disorders most often present in a primary care setting, making it important for not only mental health clinicians but also general practitioners to be familiar with these guidelines. Doing so can help the clinician recognize both the physical and mental components of these disorders, allowing them to offer the patient a diagnosis and to refer them to the appropriate mental health provider for treatment. This diagnosis therefore can be a crucial step in the treatment process, one that can put the patient on a path to a healthier life. 
+
+00:21:30
+Produced by 
+
+00:21:30
+Classroom Productions, INC 
+
+00:21:30
+Technical Advisors 
+
+00:21:30
+Devon Cohen, MD 
+
+00:21:30
+Faith A. Coleman, MD 
+
+00:21:30
+Dr. Tracie Collins, MD, MPH 
+
+00:21:30
+Aydin Olson-Kennedy, MSW 
+
+00:21:30
+Dr. Mathew Macaluso, DO 
+
+00:21:30
+Mary Llenell Paz, MS 
+
+00:21:30
+Steven Swink, MA 
+
+00:21:30
+Casey Weitzman, MA 
+
+00:21:30
+Directed by 
+
+00:21:30
+Sean Harrigan 
+
+00:21:30
+Written by 
+
+00:21:30
+Sean Harrigan 
+
+00:21:30
+Siobhan Doherty 
+
+00:21:30
+Script Editor 
+
+00:21:30
+Pandora Suderman 
+
+00:21:30
+Production Coordinator 
+
+00:21:30
+Siobhan Doherty 
+
+00:21:30
+Field Production 
+
+00:21:30
+Amanda Buffington 
+
+00:21:30
+Hannah Huff 
+
+00:21:30
+Merlin Huff 
+
+00:21:30
+Featured Cast 
+
+00:21:30
+Anatasha Blakely 
+
+00:21:30
+Ross Crain 
+
+00:21:30
+Siobhan Doherty 
+
+00:21:30
+Brett Duggan 
+
+00:21:30
+Abbey Grace 
+
+00:21:30
+Alexandra Grey 
+
+00:21:30
+Zach Hallett 
+
+00:21:30
+Jim Harrigan 
+
+00:21:30
+Sean Harrigan 
+
+00:21:30
+Kristen Henley 
+
+00:21:30
+Hannah Huff 
+
+00:21:30
+Merlin Huff 
+
+00:21:30
+Dennis Hurley 
+
+00:21:30
+Jason Ko 
+
+00:21:30
+Matt Koenig 
+
+00:21:30
+Amy Landon 
+
+00:21:30
+Maribel Martinez 
+
+00:21:30
+Marissa Moosekian 
+
+00:21:30
+Bree Murphy 
+
+00:21:30
+Alan Ramos 
+
+00:21:30
+Diana Sanchez-Vega 
+
+00:21:30
+David Santana 
+
+00:21:30
+Jennifer Shaevitz 
+
+00:21:30
+Bette Smith 
+
+00:21:30
+Eddie Smith 
+
+00:21:30
+Lindsay Smith 
+
+00:21:30
+Miller Tai 
+
+00:21:30
+Narration 
+
+00:21:30
+Sean Harrigan 
+
+00:21:30
+Post-Production 
+
+00:21:30
+Sean Harrigan 
+
+00:21:30
+Robert Suderman 
+
+00:21:30
+Property of 
+
+00:21:30
+Classroom Productions, Inc. 
+
+00:21:30
+Copyright 2016 
+
+00:21:30
+All Rights Reserved 
+
+00:21:50
+END TRANSCRIPT 
