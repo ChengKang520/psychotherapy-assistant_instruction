@@ -34,7 +34,18 @@ pip3 install -r requirements.txt
 
 
 ## 🚀 Inference
-### Inference with LoRA fine-tuned models
+
+
+### Inference with LoRA fine-tuned models 
+
+#### Serving with Web GUI
+
+```bash
+$ cd serve/
+$ python api.py
+```
+
+### Inference with the RAG method
 
 
 ```
