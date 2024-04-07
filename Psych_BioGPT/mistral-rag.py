@@ -30,11 +30,6 @@ from langchain.chains import LLMChain
 import nest_asyncio
 nest_asyncio.apply()
 
-
-
-
-
-
 #################################################################
 # Tokenizer
 #################################################################
@@ -155,7 +150,7 @@ retriever = db.as_retriever()
 
 
 prompt_template = """
-### [INST] Instruction: Answer the question based on your fantasy football knowledge. Here is context to help:
+### [INST] Instruction: Answer the question based on your psychotherapy knowledge. Here is context to help:
 
 {context}
 
@@ -172,23 +167,30 @@ prompt = PromptTemplate(
 # Create llm chain
 llm_chain = LLMChain(llm=mistral_llm, prompt=prompt)
 
+# *********************************************** data
+evaluation_file = 'results/Input_List.txt'
+
+with open(os.path.join(evaluation_file), "r", encoding="UTF-8") as f:
+    evaluation_samples = f.read().split('\n')
 
 
-questions = "What is Depression Behavioral Activation and Cognitive Change？"
-############   Original   ###########
-original_result = llm_chain.invoke({"context": "", "question": questions})
-# print("RAG text: " + original_result['text'])
-print("*******************************************************")
-# print(original_result)
-print("Original output: " + original_result['text'])
+for i_evaluation in range(len(evaluation_samples)):
+    questions = evaluation_samples[i_evaluation]
+    # questions = "What is Depression Behavioral Activation and Cognitive Change？"
+    ############   Original   ###########
+
+    original_result = llm_chain.invoke({"context": "", "question": questions})
+    # print("RAG text: " + original_result['text'])
+    print("*******************************************************")
+    # print(original_result)
+    print("Original output: " + original_result['text'])
 
 
-
-############   RAG   ###########
-rag_chain = ({"context": retriever, "question": RunnablePassthrough()} | llm_chain)
-rag_result = rag_chain.invoke(questions)
-print("*******************************************************")
-# print(rag_result)
-print("RAG output: " + rag_result['text'])
+    ############   RAG   ###########
+    rag_chain = ({"context": retriever, "question": RunnablePassthrough()} | llm_chain)
+    rag_result = rag_chain.invoke(questions)
+    print("*******************************************************")
+    # print(rag_result)
+    print("RAG output: " + rag_result['text'])
 
 

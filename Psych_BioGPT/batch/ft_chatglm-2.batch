@@ -1,0 +1,56 @@
+#!/bin/sh
+#SBATCH --partition=amdgpuextralong
+#SBATCH --time=504:00:00
+#SBATCH --gres=gpu:4
+#SBATCH --ntasks-per-node=1 # tasks per node
+#SBATCH --mem-per-gpu=40000
+#SBATCH --job-name=chatglm2_FT
+#SBATCH --err=chatglm2_InA_120epoch.err
+#SBATCH --out=chatglm2_InA_120epoch.out
+#SBATCH --mail-user=kangchen@fel.cvut.cz    # where send info about job
+#SBATCH --mail-type=ALL              # what to sen  d, valid type values are NONE, BEGIN, END, FAIL, REQUEUE, ALL
+
+/bin/hostnamesbatch
+srun -l /bin/hostname
+srun -l /bin/pwd
+
+ml Python/3.10.4-GCCcore-11.3.0
+ml CUDA/11.7.0
+source /home/kangchen/Chatbot/Psych_BioGPT/EnvLlama/bin/activate
+cd /home/kangchen/Chatbot/chatbot-chinese/
+
+CUDA_VISIBLE_DEVICES=0,1 python finetune/finetune.py \
+--base_model /home/kangchen/Chatbot/Psych_BioGPT/models/input/chatglm/chatglm2-6b/ \
+--model_type "chatglm" \
+--data_dir datasets/psychtherapy_data.json \
+--output_dir finetuned/chatglm-2-6b_psychtherapy_120Epochs_InA \
+--num_epochs 50 \
+--learning_rate 0.001 \
+--batch_size 16 \
+--micro_batch_size 16
+
+
+# git lfs install
+# git clone https://huggingface.co/WizardLM/WizardLM-7B-V1.0
+
+
+
+#
+#python serve/ui.py \
+#--base_model /home/kangchen/Chatbot/Psych_BioGPT/models/input/chatglm/chatglm2-6b/ \
+#--model_type "chatglm" \
+#--finetuned_weights finetuned/chatglm-2-6b_psychtherapy_20Epochs_InA
+#
+#
+#
+#python serve/ui.py \
+#--base_model /home/kangchen/Chatbot/Psych_BioGPT/models/input/mpt/mpt-7b-peft-compatible/ \
+#--model_type "mpt" \
+#--finetuned_weights finetuned/mpt-7b-instruct_psychtherapy_20Epochs_InA
+#
+#
+#python serve/ui.py \
+#--base_model /home/kangchen/Chatbot/Psych_BioGPT/models/input/falcon/falcon-7b-instruct/ \
+#--model_type "falcon" \
+#--finetuned_weights finetuned/falcon-7b-instruct_psychtherapy_20Epochs_InA/
+

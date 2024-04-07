@@ -1,0 +1,20 @@
+#!/bin/sh
+#SBATCH --partition=cpuextralong
+#SBATCH --time=1008:00:00
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=32G
+#SBATCH --job-name=2DataProcess
+#SBATCH --err=2DataProcess.err
+#SBATCH --out=2DataProcess.out
+#SBATCH --mail-user=kangchen@fel.cvut.cz    # where send info about job
+#SBATCH --mail-type=ALL              # what to send, valid type values are NONE, BEGIN, END, FAIL, REQUEUE, ALL
+
+/bin/hostname
+srun -l /bin/hostname
+srun -l /bin/pwd
+ml PyTorch/1.12.1-foss-2022a-CUDA-11.7.0
+source /home/kangchen/Chatbot/Psych_BioGPT/EnvGPT4/bin/activate
+cd /home/kangchen/Chatbot/Psych_BioGPT/
+python process_data_step1.py --FilePath /home/kangchen/Chatbot/Psych_BioGPT/CTV_data/CTV_data2
+

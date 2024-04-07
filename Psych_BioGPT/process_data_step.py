@@ -11,35 +11,36 @@ import json
 import os
 import argparse
 import copy
+import re
 
 
 TASK_DATA = ["concept_explanation", "question_answering", "mental_status_assessment", "psychological_counseling", "information_extraction", "dialogue_generation", "sentiment_analysis", "event_ordering"]
 
 TASK_INST = {
-            "concept_explanation": "Can the following input be regarded as a concept explanation task with finite output ",
-            "question_answering": "Can the following input be regarded as a question answering task with finite output ",
-            "mental_status_assessment": "Can the following input be regarded as a mental status assessment task with finite ",
-            "psychological_counseling": "Can the following input be regarded as a psychological counseling task with finite ",
-            "information_extraction": "Can the following input be regarded as a information extraction task with finite ",
-            "dialogue_generation": "Can the following input be regarded as a concept explanation task with finite ",
-            "sentiment_analysis": "Can the following input be regarded as a concept explanation task with finite ",
-            "event_ordering": "Can the following input be regarded as a concept explanation task with finite ",
+            "concept_explanation": "Can the following input and output be regarded as a concept explanation task with finite output ",
+            "question_answering": "Can the following input and output be regarded as a question answering task with finite output ",
+            "mental_status_assessment": "Can the following input and output be regarded as a mental status assessment task with finite ",
+            "psychological_counseling": "Can the following input and output be regarded as a psychological counseling task with finite ",
+            "information_extraction": "Can the following input and output be regarded as a information extraction task with finite ",
+            "dialogue_generation": "Can the following input and output be regarded as a concept explanation task with finite ",
+            "sentiment_analysis": "Can the following input and output be regarded as a concept explanation task with finite ",
+            "event_ordering": "Can the following input and output be regarded as a concept explanation task with finite ",
     }
 
 
 PROMPT_DICT = {
 
     "rewrite_prompt": (
-        "Make a more professional instruction and output based on given context of conversation in the domain. Remove people’s names and UNKNOWN. Then, improve them all based on your knowledge. If you cannot do that, output nothing."
+        "Make a more professional instruction,input and output based on given context of conversation in the domain. Remove people’s names and UNKNOWN. Then, improve them all based on your knowledge. If you cannot do that, output nothing."
     ),
     "success_prompt": (
-        "Given an instruction and an output in the domain, rate whether the response appears to be a helpful and "
-        "informative answer to the query, from 1 (lowest) - 5 (highest). The detailed criterion is as follows: "
-        "5: The response provides a complete, highly detailed, and informative response to the query, fully satisfying the information needs. "
-        "4: The response mostly fulfills the need in the query, while there can be some minor improvements such as discussing more detailed information, having better structure of the response, or improving coherence. "
-        "3: The response is acceptable, but some major additions or improvements are needed to satisfy users’ needs. "
-        "2: The response still addresses the main request, but it is not complete or not relevant to the query. "
-        "1: The response is barely on-topic or completely irrelevant."
+        "Given an instruction, an input, an output, a task type and a domain, rate and evaluate all content from 0 (lowest) - 5 (highest). The detailed criterion is as follows: "
+        "5: The data format provides a complete, highly detailed, and informative response to the query, fully satisfying the information needs. "
+        "4: The data format mostly fulfills the need in the query, while there can be some minor improvements such as discussing more detailed information, having better structure of the response, or improving coherence. "
+        "3: The data format is acceptable, but some major additions or improvements are needed to satisfy users’ needs. "
+        "2: The data format still addresses the main request, but it is not complete or not relevant to the query. "
+        "1: The data format is barely on-topic or completely irrelevant."
+        "0: To be determined."
     ),
     "ground_instruction": (
         "You will be given an task instruction, evidence, and output. Your objective is to assess the extent to which the output is supported by the information presented in the evidence.\n"
@@ -88,6 +89,7 @@ def process_data(conversation_sample, topic, save_sample):
         "output": "",
         "task": "",
         "domain": "",
+        "rating": "",
     }
 
     # Instructions_train = instructions.copy()
@@ -97,7 +99,7 @@ def process_data(conversation_sample, topic, save_sample):
     Instructions_chatgpt_train = []
     while (i < len(conversation_sample)):
 
-        # if i >= 120:
+        # if i >= 100:
         #     break
 
         if (conversation_sample[i] == 'BEGIN TRANSCRIPT: ') & (start_flag == False):
@@ -117,12 +119,12 @@ def process_data(conversation_sample, topic, save_sample):
             i += 1
             continue
 
-        if (start_flag == True) & (content_flag == True) & (len(conversation_sample[i]) >= 200):
+        if (start_flag == True) & (content_flag == True) & (len(conversation_sample[i]) >= 100):
             suggestions_temp = conversation_sample[i]
 
-            if len(suggestions_temp) >= 1000:
+            if len(suggestions_temp) >= 500:
                 suggestions_temp_seg = []
-                seg_num = math.ceil(len(suggestions_temp) / 1000)
+                seg_num = math.ceil(len(suggestions_temp) / 500)
                 suggestions_temp1 = suggestions_temp.split('.')
                 seg_length = math.ceil(len(suggestions_temp1) / seg_num)
                 for i_seg1 in range(seg_num):
@@ -142,9 +144,9 @@ def process_data(conversation_sample, topic, save_sample):
 
                         # *********************************************** ChatGPT Instructions
                         query = f"""
-                                Rewrite the following content according to the topic of {topic}. Remove people's name and UNKNOWN.
-                                Below is an instruction that describes a task, paired with an input that provides further context.
-                                Write a response that appropriately completes the request.\n\n
+                                Rewrite the following content according to the topic of {topic}. Remove people's name and UNKNOWN.                                
+                                Below is an instruction that describes a task, paired with an input that provides further context.                                
+                                Evaluate the Decision that can appropriately complete the request by using YES or NO.\n\n
                                 
                                    Prompt:
                                    \"\"\"
@@ -160,49 +162,41 @@ def process_data(conversation_sample, topic, save_sample):
                                    \"\"\"
                                    {suggestions_temp_seg[i_segment]}
                                    \"\"\"
+                                   
+                                   Decision:
+                                   \"\"\"
+                                   {" "}
+                                   \"\"\"
                                    """
                         # print(query)
                         try:
                             response = openai.ChatCompletion.create(
-                                engine="ft-gpt4-psytherapy",  # engine = "deployment_name".
+                                engine="Psychotherapy",  # engine = "deployment_name".
                                 messages=[
                                     {'role': 'system', 'content': 'Formate the below content.'},
                                     {'role': 'user', 'content': query},
                                 ],
                             )
-                            # print(response['choices'][0]['message']['content'])
+                            # instructions_task = response['choices'][0]['message']['content']
                             req_response_num = 0
                             content_length = len(response['choices'][0]['message']['content'].split('\n\n')[0])
 
-                            while (len(response['choices'][0]['message']['content'].split('\n\n')) < 3) or (
-                                    "Instruction:" not in response['choices'][0]['message']['content']):
-                                response = openai.ChatCompletion.create(
-                                    engine="ft-gpt4-psytherapy",  # engine = "deployment_name".
-                                    messages=[
-                                        {'role': 'system', 'content': 'You formate the below content again.'},
-                                        {'role': 'user', 'content': query},
-                                    ],
-                                )
-
-                                time.sleep(1)
-                                req_response_num += 1
-                                print('%%%%%%% Unsuccessful Time ' + str(req_response_num) + ' %%%%%%')
-                                content_length = len(response['choices'][0]['message']['content'].split('\n\n')[0])
-                                if (content_length > 20) and (req_response_num >= 10):
-                                    break
-
                             instructions_task = response['choices'][0]['message']['content'].split('\n\n')
 
-                            if "YES" in instructions_task:
+                            instructions_task_judgement = []
+                            for i_instr in range(len(instructions_task)):
+                                if "Decision" in instructions_task[i_instr]:
+                                    instructions_task_judgement = instructions_task[i_instr]
+
+                            if "YES" in instructions_task_judgement:
 #######################################################################################################################
 
                                 # ***********************************************
-                                instructions[
-                                    'instruction'] = PROMPT_DICT[TASK_INST[i_task]]
+                                instructions['instruction'] = PROMPT_DICT[TASK_DATA[i_task]]
                                 instructions['input'] = instructions_temp
                                 instructions['output'] = suggestions_temp_seg[i_segment]
                                 instructions['domain'] = topic
-                                instructions['task'] = TASK_INST[i_task]
+                                instructions['task'] = TASK_DATA[i_task]
 
                                 # *********************************************** ChatGPT Instructions
                                 query = f"""
@@ -221,18 +215,12 @@ def process_data(conversation_sample, topic, save_sample):
                                     Output:
                                     \"\"\"
                                     {instructions['output']}
-                                    \"\"\"
-                                    
-                                    Domain:
-                                    \"\"\"
-                                    instructions['domain']
-                                    \"\"\"
-                                    
+                                    \"\"\"                                   
                                     """
                                 # print(query)
                                 try:
                                     response = openai.ChatCompletion.create(
-                                        engine="ft-gpt4-psytherapy",  # engine = "deployment_name".
+                                        engine="Psychotherapy",  # engine = "deployment_name".
                                         messages=[
                                             {'role': 'system', 'content': 'Formate the below content.'},
                                             {'role': 'user', 'content': query},
@@ -245,24 +233,24 @@ def process_data(conversation_sample, topic, save_sample):
                                     while (len(response['choices'][0]['message']['content'].split('\n\n')) < 3) or (
                                             "Instruction:" not in response['choices'][0]['message']['content']):
                                         response = openai.ChatCompletion.create(
-                                            engine="ft-gpt4-psytherapy",  # engine = "deployment_name".
+                                            engine="Psychotherapy",  # engine = "deployment_name".
                                             messages=[
                                                 {'role': 'system', 'content': 'You formate the below content again.'},
                                                 {'role': 'user', 'content': query},
                                             ],
                                         )
 
-                                        time.sleep(1)
+                                        # time.sleep(1)
                                         req_response_num += 1
-                                        print('%%%%%%% Unsuccessful Time ' + str(req_response_num) + ' %%%%%%')
-                                        content_length = len(
-                                            response['choices'][0]['message']['content'].split('\n\n')[0])
-                                        if (content_length > 20) and (req_response_num >= 10):
+                                        # print('%%%%%%% Unsuccessful Time ' + str(req_response_num) + ' %%%%%%')
+                                        print(response['choices'][0]['message']['content'].split('\n\n')[0])
+                                        content_length = len(response['choices'][0]['message']['content'].split('\n\n')[0])
+                                        if (content_length > 20) or (req_response_num >= 3):
                                             break
 
                                     instructions_chatgpt = response['choices'][0]['message']['content'].split('\n\n')
 
-                                    if len(instructions_chatgpt) == 6:
+                                    if len(instructions_chatgpt) > 3:
                                         for i_response in range(len(instructions_chatgpt)):
                                             if "Instruction:" in instructions_chatgpt[i_response]:
                                                 instructions['instruction'] = instructions_chatgpt[i_response + 1]
@@ -270,7 +258,7 @@ def process_data(conversation_sample, topic, save_sample):
                                                 instructions['input'] = instructions_chatgpt[i_response + 1]
                                             if "Output:" in instructions_chatgpt[i_response]:
                                                 instructions['output'] = instructions_chatgpt[i_response + 1]
-                                    elif (len(instructions_chatgpt) >= 3) and (len(instructions_chatgpt) != 6):
+                                    elif (len(instructions_chatgpt) == 3):
                                         for i_response in range(len(instructions_chatgpt)):
                                             if "Instruction:" in instructions_chatgpt[i_response]:
                                                 instructions['instruction'] = instructions_chatgpt[i_response].replace(
@@ -290,22 +278,15 @@ def process_data(conversation_sample, topic, save_sample):
                                         instructions['output'] = suggestions_temp_seg[i_segment]
                                 except:
                                     print('Server taking too long. Try again later')
-                                else:
-                                    instructions[
-                                        'instruction'] = 'What suggestions or comments you can provide to solve or relieve ' + topic + '?'
-                                    instructions['input'] = instructions_temp
-                                    instructions['output'] = suggestions_temp
 
 
-
+                                print(instructions)
+                                Instructions_train.append(instructions.copy())
 
 #######################################################################################################################
-                                prompts = TASK_INST[i_task] + "on " + topic + " domian ? " + "The answer is YES or NO."
-
                                 # *********************************************** ChatGPT Instructions
                                 query = f"""
-
-                                    {PROMPT_DICT["rewrite_prompt"]}
+                                    {PROMPT_DICT["success_prompt"]}
 
                                     Instruction:
                                     \"\"\"
@@ -331,56 +312,93 @@ def process_data(conversation_sample, topic, save_sample):
                                     \"\"\"
                                     {instructions['task']}
                                     \"\"\"
+                                    
+                                    Rating:
+                                    \"\"\"
+                                    {""}
+                                    \"\"\"
                                         """
                                 # print(query)
-                                try:
+
+                                response = openai.ChatCompletion.create(
+                                    engine="Psychotherapy",  # engine = "deployment_name".
+                                    messages=[
+                                        {'role': 'system', 'content': 'Formate the below content.'},
+                                        {'role': 'user', 'content': query},
+                                    ],
+                                )
+                                # print(response['choices'][0]['message']['content'])
+                                req_response_num = 0
+                                content_length = len(response['choices'][0]['message']['content'].split('\n\n')[0])
+
+                                while (len(response['choices'][0]['message']['content'].split('\n\n')) < 6) or (
+                                        "Instruction:" not in response['choices'][0]['message']['content']):
                                     response = openai.ChatCompletion.create(
-                                        engine="ft-gpt4-psytherapy",  # engine = "deployment_name".
+                                        engine="Psychotherapy",  # engine = "deployment_name".
                                         messages=[
-                                            {'role': 'system', 'content': 'Formate the below content.'},
+                                            {'role': 'system', 'content': 'You formate the below content again.'},
                                             {'role': 'user', 'content': query},
                                         ],
                                     )
-                                    # print(response['choices'][0]['message']['content'])
-                                    req_response_num = 0
+
+                                    # time.sleep(1)
+                                    req_response_num += 1
+                                    print('%%%%%%% Unsuccessful Time ' + str(req_response_num) + ' %%%%%%')
                                     content_length = len(response['choices'][0]['message']['content'].split('\n\n')[0])
+                                    if (content_length > 20) or (req_response_num >= 3):
+                                        break
 
-                                    while (len(response['choices'][0]['message']['content'].split('\n\n')) < 3) or (
-                                            "Instruction:" not in response['choices'][0]['message']['content']):
-                                        response = openai.ChatCompletion.create(
-                                            engine="ft-gpt4-psytherapy",  # engine = "deployment_name".
-                                            messages=[
-                                                {'role': 'system', 'content': 'You formate the below content again.'},
-                                                {'role': 'user', 'content': query},
-                                            ],
-                                        )
+                                instructions_success = response['choices'][0]['message']['content'].split('\n\n')
 
-                                        time.sleep(1)
-                                        req_response_num += 1
-                                        print('%%%%%%% Unsuccessful Time ' + str(req_response_num) + ' %%%%%%')
-                                        content_length = len(response['choices'][0]['message']['content'].split('\n\n')[0])
-                                        if (content_length > 20) and (req_response_num >= 10):
-                                            break
+                                if len(instructions_success) == 12:
+                                    for i_success in range(len(instructions_success)):
+                                        if "Rating" in instructions_success[i_success]:
+                                            instructions["rating"] = instructions_success[i_success+1]
+                                        if "Rating" in instructions_success[i_success]:
+                                            instructions["rating"] = instructions_success[i_success+1]
 
-                                    instructions_success = response['choices'][0]['message']['content'].split('\n\n')
+                                        if "Instruction" in instructions_success[i_success]:
+                                            instructions["instruction"] = instructions_success[i_success+1]
+                                        if "Input" in instructions_success[i_success]:
+                                            instructions["input"] = instructions_success[i_success+1]
+                                        if "Output" in instructions_success[i_success]:
+                                            instructions["output"] = instructions_success[i_success+1]
+                                        if "Task" in instructions_success[i_success]:
+                                            instructions["task"] = instructions_success[i_success+1]
+                                        if "Domain" in instructions_success[i_success]:
+                                            instructions["domain"] = instructions_success[i_success+1]
+                                        if "Rating" in instructions_success[i_success]:
+                                            instructions["rating"] = instructions_success[i_success+1]
 
-                                    if instructions_success > 3:
+                                elif len(instructions_success) == 6:
+                                    for i_success in range(len(instructions_success)):
+                                        if "Instruction" in instructions_success[i_success]:
+                                            instructions["instruction"] = instructions_success[i_success].split(': ')[1]
+                                        if "Input" in instructions_success[i_success]:
+                                            instructions["input"] = instructions_success[i_success].split(': ')[1]
+                                        if "Output" in instructions_success[i_success]:
+                                            instructions["output"] = instructions_success[i_success].split(': ')[1]
+                                        if "Task" in instructions_success[i_success]:
+                                            instructions["task"] = instructions_success[i_success].split(': ')[1]
+                                        if "Domain" in instructions_success[i_success]:
+                                            instructions["domain"] = instructions_success[i_success].split(': ')[1]
+                                        if "Rating" in instructions_success[i_success]:
+                                            instructions["rating"] = instructions_success[i_success].split(': ')[1]
 
-                                        Instructions_chatgpt_train.append(instructions.copy())
-                                        # print('********************Query*****************')
-                                        # print(query)
-                                        print('********************From ChatGPT*****************')
-                                        print(instructions)
-                                        instructions.clear()
-                                        time.sleep(1)
-
-                                except:
-                                    print('Server taking too long. Try again later')
+                                    print(instructions)
+                                    Instructions_chatgpt_train.append(instructions.copy())
+                                    # print(re.findall(instructions_success))
+                                    # if re.findall(instructions_success[-1]) > 3:
+                                    #     # print(re.findall(instructions_success))
+                                    #     Instructions_chatgpt_train.append(instructions.copy())
+                                    #     instructions.clear()
+                                    #     time.sleep(1)
 
                         except:
                             instructions['instruction'] = 'What suggestions or comments you can provide to solve or relieve ' + topic + '?'
                             instructions['input'] = instructions_temp
                             instructions['output'] = suggestions_temp
+                            print(instructions)
                             Instructions_chatgpt_train.append(instructions.copy())
 
 
@@ -419,8 +437,8 @@ if __name__ == "__main__":
 
     openai.api_type = "azure"
     openai.api_version = "2023-05-15"
-    openai.api_base = 'https://czechia.openai.azure.com'  # Your Azure OpenAI resource's endpoint value.
-    openai.api_key = '919a7b563ead4f26adb45216aa98ab87'
+    openai.api_base = 'https://psychotherapy.openai.azure.com/'  # Your Azure OpenAI resource's endpoint value.
+    openai.api_key = '806b5cfda5c34068a4c2956bbe5eccaf'
 
     # *********************************************** data
     text_path = args.FilePath  #  args.FilePath   'CTV_data/CTV_data4'

@@ -1,99 +1,248 @@
-# ChatPsychiatrist
-<div align="center">
-  <a href="https://github.com/EmoCareAI/ChatPsychiatrist">
-    <img src="assets/logo.jpg" width="40%"/>
-  </a>
-  <img src="assets/words.png" width="80%"/>
-</div>
 
-<div align="center">
-  <figure>
-    <img src="assets/demo1.png" width="95%" alt="Demo Image"/>
-    <figcaption>Comparison of dialogues between user and chatbot on Stress topic. Left: ChatPsychiatrist. Right: ChatGPT.</figcaption>
-  </figure>
-</div>
+# Psychotherapy Assistant Instruction
 
-
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2309.15461)
+[![SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616282)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616282)
 
 
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2309.15461)
+[![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2402.10107)
 
-Introducing our project, the **ChatPsychiatrist**—a transformative solution in the field of mental health support. We aim to address the delays in traditional psychiatric and counseling services by providing early-stage assistance and effective interventions. Utilizing LLMs, the ChatPsychiatrist swiftly identifies individual issues and offers tailored treatment recommendations. With an adaptive communication style, it becomes a powerful and free tool to provide personalized mental health support to users in need.
+In this project, we aim to provide **Assistant Instruction** to traditional psychiatric and counseling services by using large language models (LLMs). An effectively psychotherapy treatment heavily relies on the experience and professional knowledge of psychologists. However, the psychotherapy knowledge of LLMs should be improved. 
 
-This repo open-sources the Instruct-tuned LLaMA-7B model that has been fine-tuned with counseling domian instruction data. To construct our 8K size instruct-tuning dataset, we collected real-world counseling dialogue examples and employed GPT-4 as an extractor and filter. In addition, we have introduced a comprehensive set of metrics, specifically tailored to the LLM+Counseling domain, by incorporating counseling domain evaluation criteria. These metrics enable the assessment of performance in generating language content that involves multi-dimensional counseling skills. The brief pipeline is shown below:
+This open-source repo introduce the Assistant Instruct-tuned LLMs that has been fine-tuned with psychotherapy domian instruction data. In building our instructional tuning dataset, we sourced genuine counseling dialogues from [Alexander Street](https://alexanderstreet.com/) and utilized GPT-4 as a helper to refine and organize the raw data. Moreover, we devised a thorough suite of metrics designed specifically for the Psychotherapy Counseling field. These metrics facilitate the evaluation of proficiency in crafting language content that encompasses various counseling skills. The simplified workflow is depicted below:
+
 <div align="center">
   <figure>
-    <img src="assets/pipeline.png" width="80%"/>
+    <img src="assets/Figure4-1.jpg" width="80%"/>
   </figure>
 </div>
 
 # Updates
-- [2023-9-26] Our paper ["ChatCounselor: A Large Language Models for Mental Health Support"](https://arxiv.org/abs/2309.15461) has been accepted by PGAI CIKM 2023.
-- [2023-7-28] First release of ChatPsychiatrist. We open-source the Instruct-tuned LLaMA-7B model that has been fine-tuned with counseling domian instruction data.
+- [2024-02-28] Our paper ["Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant"](https://arxiv.org/abs/2309.15461) has been accepted by ICASSP 2024 Workshop EIHRC.
+- [2023-11-08] First release of Psychotherapy Assistant Instruction. We opened source codes and Assistant Instruction tuned models with psychotherapy domian instruction data.
+- [2023-05-12] First release of Alexander Street counselling data, **very appreciate that you have used our data**.
 
 # Quick Start
 ## ⚙️ Install
-Our repo mainly constructed based on [FastChat](https://github.com/lm-sys/FastChat/tree/main). Please follow the [install instructions](https://github.com/lm-sys/FastChat/tree/main). Or you can install from source by
+Our repo mainly constructed based on [Langchain](https://github.com/langchain-ai/langchain), [PEFT](https://github.com/huggingface/peft) and [SelfRAG](https://github.com/AkariAsai/self-rag). Or you can install from source by
 ```bash
-git clone https://github.com/EmoCareAI/ChatPsychiatrist.git
-cd ChatPsychiatrist
+git clone https://github.com/ChengKang520/psychotherapy-assistant_instruction.git
+cd Psych_BioGPT
 pip3 install -r requirements.txt
-```
-
-## ⏬ Model Download
-We provide the weights hold on [Huggingface](https://huggingface.co/EmoCareAI/ChatPsychiatrist). You can download the model weights using [Huggingface Client Library](https://huggingface.co/docs/hub/models-downloading#using-the-hugging-face-client-library). Or use the following wget script:
-```bash
-mkdir -P PATH_TO_WEIGHTS_DIR && cd PATH_TO_WEIGHTS_DIR
-user='EmoCareAI'
-repo='ChatPsychiatrist'
-curl "https://huggingface.co/${user}/${repo}/tree/main" | grep -o 'href="[^"]*"' | cut -d'"' -f2 | grep "^/${user}/${repo}/blob/main/" | sed "s|^|https://huggingface.co|; s|/blob/|/resolve/|g" > files.txt && wget -nc -i files.txt && rm files.txt
-cd ..
 ```
 
 
 ## 🚀 Inference
-#### Inference with CLI
-See details refer to [FastChat CLI Inference](https://github.com/lm-sys/FastChat/tree/main#inference-with-command-line-interface). In short, you can run the following command below around 14GB of GPU memory.
-```bash
-# Single GPU inference
-python3 -m fastchat.serve.cli --model-path PATH_TO_WEIGHTS_DIR
-# Multi GPUs inference
-python3 -m fastchat.serve.cli --model-path PATH_TO_WEIGHTS_DIR --num-gpus N
+### Inference with LoRA fine-tuned models
+
+
+```
+### Inference with RAG
+
+import os
+import torch
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    BitsAndBytesConfig,
+    pipeline
+)
+from datasets import load_dataset
+from peft import LoraConfig, PeftModel
+
+from langchain.text_splitter import CharacterTextSplitter
+from langchain.document_transformers import Html2TextTransformer
+from langchain.document_loaders import AsyncChromiumLoader
+
+from langchain.embeddings.huggingface import HuggingFaceEmbeddings
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.vectorstores import FAISS
+from langchain.document_loaders import DirectoryLoader
+from langchain.document_loaders import PyPDFLoader
+from langchain.document_loaders import TextLoader
+from langchain.prompts import PromptTemplate
+from langchain.schema.runnable import RunnablePassthrough
+from langchain_community.llms import HuggingFacePipeline
+from langchain.chains import LLMChain
+import nest_asyncio
+nest_asyncio.apply()
+
+#################################################################
+# Tokenizer
+#################################################################
+
+model_name = 'mistralai/Mistral-7B-Instruct-v0.1'
+
+tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+tokenizer.pad_token = tokenizer.eos_token
+tokenizer.padding_side = "right"
+
+#################################################################
+# bitsandbytes parameters
+#################################################################
+
+# Activate 4-bit precision base model loading
+use_4bit = True
+
+# Compute dtype for 4-bit base models
+bnb_4bit_compute_dtype = "float16"
+
+# Quantization type (fp4 or nf4)
+bnb_4bit_quant_type = "nf4"
+
+# Activate nested quantization for 4-bit base models (double quantization)
+use_nested_quant = False
+
+#################################################################
+# Set up quantization config
+#################################################################
+compute_dtype = getattr(torch, bnb_4bit_compute_dtype)
+
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=use_4bit,
+    bnb_4bit_quant_type=bnb_4bit_quant_type,
+    bnb_4bit_compute_dtype=compute_dtype,
+    bnb_4bit_use_double_quant=use_nested_quant,
+)
+
+# Check GPU compatibility with bfloat16
+if compute_dtype == torch.float16 and use_4bit:
+    major, _ = torch.cuda.get_device_capability()
+    if major >= 8:
+        print("=" * 80)
+        print("Your GPU supports bfloat16: accelerate training with bf16=True")
+        print("=" * 80)
+
+#################################################################
+# Load pre-trained config
+#################################################################
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    quantization_config=bnb_config,
+)
+
+
+
+def print_number_of_trainable_model_parameters(model):
+    trainable_model_params = 0
+    all_model_params = 0
+    for _, param in model.named_parameters():
+        all_model_params += param.numel()
+        if param.requires_grad:
+            trainable_model_params += param.numel()
+    return f"trainable model parameters: {trainable_model_params}\nall model parameters: {all_model_params}\npercentage of trainable model parameters: {100 * trainable_model_params / all_model_params:.2f}%"
+
+print(print_number_of_trainable_model_parameters(model))
+
+
+text_generation_pipeline = pipeline(
+    model=model,
+    tokenizer=tokenizer,
+    task="text-generation",
+    temperature=0.2,
+    repetition_penalty=1.1,
+    return_full_text=True,
+    max_new_tokens=1000,
+)
+
+mistral_llm = HuggingFacePipeline(pipeline=text_generation_pipeline)
+
+
+############   TEXT files loader   ###########
+loader = DirectoryLoader('CTV_data/', glob="*.txt", loader_cls=TextLoader)
+
+# ############   PDF files loader   ###########
+# loader = DirectoryLoader('output/', glob="*.pdf", loader_cls=PyPDFLoader)
+
+documents = loader.load()
+
+#splitting the text into
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+chunked_documents = text_splitter.split_documents(documents)
+
+# Load chunked documents into the FAISS index
+db = FAISS.from_documents(chunked_documents,
+                          HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2'))
+
+retriever = db.as_retriever()
+
+
+
+prompt_template = """
+### [INST] Instruction: Answer the question based on your psychotherapy knowledge. Here is context to help:
+
+{context}
+
+### QUESTION:
+{question} [/INST]
+ """
+
+# Create prompt from prompt template
+prompt = PromptTemplate(
+    input_variables=["context", "question"],
+    template=prompt_template,
+)
+
+# Create llm chain
+llm_chain = LLMChain(llm=mistral_llm, prompt=prompt)
+
+# *********************************************** data
+evaluation_file = 'results/Input_List.txt'
+
+with open(os.path.join(evaluation_file), "r", encoding="UTF-8") as f:
+    evaluation_samples = f.read().split('\n')
+
+
+for i_evaluation in range(len(evaluation_samples)):
+    questions = evaluation_samples[i_evaluation]
+    # questions = "What is Depression Behavioral Activation and Cognitive Change？"
+    ############   Original   ###########
+
+    original_result = llm_chain.invoke({"context": "", "question": questions})
+    # print("RAG text: " + original_result['text'])
+    print("*******************************************************")
+    # print(original_result)
+    print("Original output: " + original_result['text'])
+
+
+    ############   RAG   ###########
+    rag_chain = ({"context": retriever, "question": RunnablePassthrough()} | llm_chain)
+    rag_result = rag_chain.invoke(questions)
+    print("*******************************************************")
+    # print(rag_result)
+    print("RAG output: " + rag_result['text'])
+
 ```
 
-#### Serving with Web GUI
-1. Launch the controller, which manages the distributed workers
-```bash
-python3 -m fastchat.serve.controller
-```
-2. Launch the model worker. 
-```bash
-python3 -m fastchat.serve.model_worker --model-path PATH_TO_WEIGHTS_DIR
-```
-3. Launch the Gradio web server
-```bash
-python3 -m fastchat.serve.gradio_web_server
-```
-See details refer to [FastChat Web GUI Serving](https://github.com/lm-sys/FastChat/tree/main#serving-with-web-gui)
+
 
 
 
 # Data
+
+To improve the professional knowledge of LLMs on psychotherapy domains, our paper presents the psychotherapy Assistant-Instruction approach, which aims to (1) achieve generalization over different psychological consulting tasks and (2) incorporate psychological knowledge into natural common LLMs. Bellow Figure is our proposed approach.
+
+<div align="center">
+  <figure>
+    <img src="assets/Figure4-0.jpg" width="80%"/>
+  </figure>
+</div>
+
+
 ### Data Source
 
-Data can be downloaded from  [AlexanderStreet Transcript Data](https://drive.google.com/file/d/1x4bP9G9_kfTr80RiScdVxE6sRbF2myMw/view?usp=drive_link).
+Data can be downloaded from  this repo.
+
+Alexander Street Press is a website known for its vast collection of video transcripts and recordings from therapy and counseling sessions, covering topics such as depression, abuse, trauma, and mental disorders. The video transcript dataset was specifically collected from the Counseling and Therapy channel on the website. We curated the dataset to include only English-language sessions recorded between 1980 and 2023, resulting in a set of 1,333 videos and accompanying transcripts. After filtering out short-length and non-informative videos, the final dataset comprises 1,179 video transcripts, containing a total of 188,421 dialogue turns. To ensure data quality, we performed a cleaning process to remove Unicode characters, pauses, and other unnecessary elements, resulting in a dataset with 3,141,520 words and a vocabulary size of 30,438.1
+
+To arrange psychotherapy data to correct tasks, such as (1) concept explanation, (2) question answering, (3) mental status assessment, (4) psychological counseling and (5) information extraction, (6) dialogue generation, (7) sentiment analysis, (8) event ordering, we use an assistant LLM – GPT-4 to identify which task the human-constructed instruction should be. We directly prompt the LLM in a few-shot way to determine this, using 8 classification instructions from the seed tasks. The prompting template is shown in the bellow Table.
 
 
-
-The data used for this project comes from ~260 real conversations in counseling recordings (in English). The transcripts of these recordings were used as the primary source for building the training and testing datasets. These conversations cover a variety of topics, including *emotion*, *family*, *relationship*, *career development*, *academic stress*, etc. This figure below shows the distribution of mental health-related topics in Psych8K. (The inner circle represents 5 major categories, and the outer group represents minor topics)
 
 <div align="center">
     <figure>
-        <img src="assets/Topic_Coverage.png" width = "520" height = "450" alt="topic_coverage"/>
+        <img src="assets/Table1.png" width="80%" alt="topic_coverage"/>
     </figure>
 </div>
 
@@ -102,108 +251,63 @@ The data used for this project comes from ~260 real conversations in counseling 
 
 To build the dataset, we took the following steps:
 
-1. **Transcription:** The counseling recordings were transcribed to obtain the raw textual data.
+1. **Transcription:** The counseling recordings were obtained from the internet.
 
-2. **Data Cleaning & Information Extraction:** The transcripts were cleaned to remove any irrelevant or sensitive information, ensuring that the data used for training and testing maintains privacy and ethical standards. Since single round conversations in real counseling recordings may contain limited information, we segmented transcripts into short conversations for further query-answer pair generation. 
-3. **Query-Answer Pair Generation:** With the extracted short conversations, we then used the GPT-4 API to build the query-answer data. Each short conversation clip (i.e., each of ten round) text was used as the context, and GPT4 was prompted to generate the corresponding query and answer. In total, **8,187** query-answer pairs were produced.
+2. **Data Cleaning & Information Extraction:** Using GPT-4 as an Assistant, the transcripts were cleaned to remove any irrelevant or sensitive information, to ensure that the data used for training and testing maintains privacy and ethical standards. 
 
-    GPT4 generated a summary of the important information for each conversation. These summaries provided a higher level of context and detail that helps the model to understand and generate meaningful responses.
+3. **Task Identification:** Because we do not know the task from the original psychotherapy data, the assistant - LLMs was used to automatically recognize the task type of inout content. Each short conversation text was identified by GPT-4 according to the understanding of GPT-4 itself. Tasks covered include: (1) *concept explanation*, (2) *question answering*, (3) *mental status assessment*, (4) *psychological counseling*, (5) *information extraction*, (6) *dialogue generation*, (7) *sentiment analysis*, (8) *event ordering*.
 
-4. **Testing Data:** Another 100 quert-answer pairs were created using the same process as the training set. Topics covered include: *Addiction, Anger, Anxiety, Bereavement, Culture, Depression, Eating_Disorders, Family, Fear, Illness, LGBTQ, Pain, Perfectionism and Stress*.
+4. **Modifying Data:** According to the general knowledge of GPT-4, the original psychotherapy data will be revised, but meanwhile, the professional psychotherapy knowledge also will be remained to avoid psychotherapy experience missing. 
 
-### Data Examples
-
-The following table contains four samples from different topics, with the user providing the query and the psychiatrist providing the feedback.
-
-<font size=0.5>
-
-| User's Query  | Psychiatrist's Feedback   | Topic   |
-| -- | -- | --|
-| I expect myself to earn A's, and when my work doesn't pull through, I feel like there's something that I did wrong. Sometimes, I even question if I'm fit to be a grad student. I've done consistently well, but I still feel like next semester might be a disaster and make me realize that coming to grad school was a bad decision. | It seems like you feel that an A is the only acceptable grade, and anything less makes you question your abilities. This can create a tremendous amount of pressure and fear about not being good enough. It's important to recognize that these feelings are normal, but they shouldn't dictate your self-worth. Remember that every student experiences setbacks, and it doesn't mean that you aren't fit for grad school. Can you think of any specific instances where you bounced back from a less-than-perfect grade or performance?            | **Academic Stress** |
-| Lately, I've been feeling highly stressed and under a lot of pressure. I'm finding it difficult to deal with, but somehow, I want to rise up and be able to return to my normal self in these situations and find a way to get the stress out.                                                                                          | I understand that you are experiencing stress and pressure, and it's great that you want to cope with it in a healthy way. First, try to identify the main source of your stress and work on eliminating or reducing it. Practice relaxation techniques like mindfulness, meditation, or deep breathing exercises to help manage your stress. Also, don't forget to make time for yourself and engage in activities that bring you joy and relaxation.                                                                                                |        **Anxiety**         |
-| I always get upset when my husband comes in 30 minutes late, but now I know the reason behind it. I want to try and not get upset the next time this happens.                                                                                                                                                                        | It's great that you've gained some understanding about the situation. Instead of getting upset, focus on reacting calmly and setting healthy boundaries. You can communicate your expectations clearly and reinforce them with actions. If you feel the need to try, it's important to fully commit to yourself and practice patience while working on it.                                                                                                                                                                                            |        **Family**         |
-| I don't know if I evade, or it's my protection mechanisms, but when anyone puts me down or acts badly to me and I cannot stop them, I feel weak. I know I should take a deep breath and remind myself that I'm a good person, but still, it causes so much conflict.                                                                    | It's normal to feel upset when people put you down or treat you poorly. Remember, it's okay to set boundaries and protect yourself. Sometimes people feel weak in such situations because they haven't developed their assertiveness skills. You can practice techniques like using 'I' statements to express your feelings, and setting boundaries with those who mistreat you. Just remember that self-compassion and self-care are important when dealing with conflicts. Are there any specific situations where you struggle to assert yourself? |          **Relationship**       |
-
-</font>
+5. **Decision:** Using the knowledge of GPT-4, the revised psychotherapy instruction data will be evaluated to identify if the result is acceptable.
+```
+    "success_prompt": (
+        "Given an instruction, an input, an output, a task type and a domain, please rate and evaluate all content from 0 (lowest) - 5 (highest). The detailed criterion is as follows: "
+        "5: The data format provides a complete, highly detailed, and informative response to the query, fully satisfying the information needs. "
+        "4: The data format mostly fulfills the need in the query, while there can be some minor improvements such as discussing more detailed information, having better structure of the response, or improving coherence. "
+        "3: The data format is acceptable, but some major additions or improvements are needed to satisfy users’ needs. "
+        "2: The data format still addresses the main request, but it is not complete or not relevant to the query. "
+        "1: The data format is barely on-topic or completely irrelevant."
+        "0: To be determined."
+    ),
+```
 
 
 # Evaluation
-Here is the comparison between the performance of our chatbot and other large language models. The evaluation is based on seven counseling skills and overall performance, and our chatbot demonstrates a better performance in most of these categories. 
+Here is the comparison between the performance of our chatbot and other large language models. The evaluation is based on six counseling skills and overall performance, and our chatbot demonstrates a better performance in most of these categories. 
 
-## Counselling Bench 
-We have designed 229 queries specifically to evaluate the performance of chatbots in counseling scenarios. The current benchmark comprises a challenging set of single-turn open-ended questions, providing a rigorous evaluation of chat assistance capabilities.  
 
-Please check the subset santitised part [counseliing bench questions](fastchat/llm_judge/data/counselling_bench/Sanitised_CounsQs_subset.jsonl) for reference. You can evaluate using the following command:
-```bash
-python3 -m fastchat.llm.judge.gen_model_answer \
-  --model-id chatpsychiatrist \
-  --model-path PATH_TO_WEIGHTS_DIR \
-  --bench-name counselling_bench 
-```
-
-## Metrics
+## Metrics of Automatic Evaluation
 
 The evaluation metrics are derived from the following categories:
-1. **Information**: Measures the ability to provide accurate and relevant information.
-2. **Direct Guidance**: Evaluates the chatbot's capability to offer clear instructions and guidance.
-3. **Approval & Reassurance**: Assesses the chatbot's capacity to provide emotional support and encouragement.
-4. **Restatement, Reflection & Listening**: Rates how effectively the chatbot can rephrase, reflect on user inputs, and exhibit active listening skills.
-5. **Interpretation**: Measures how well the chatbot can analyze and interpret situations or user inputs.
-6. **Self-disclosure**: Quantifies the chatbot's ability to share relevant information about itself.
-7. **Obtain Relevant Information**: Evaluates the capability to ask appropriate questions to gather necessary details.
+1. **LMentry**: Generating a sentence containing specific words, identifying which words in a list belong to a specific category.
+2. **Perplexity**: Perplexity is an evaluation metric that measures the quality of language models. In this repo, we used the popular model GPT2.
+3. **ROUGHE-L**: This metric evaluates the match of the longest common subsequence of words between the two texts. The words do not need to be in the exact same order..
 
-See [Evaluation Definetion](docs/Evaluation_definetion.md) for details on the metrics' definition and example phrases.
 
-## Comparison with Other Large Language Models
 
-### Single Turn Evaluation
+## Metrics of Human Evaluation
 
-In the figure below, we compare the performance of our LLM chatbot with other models (evaluated by GPT-4). The scores in each category represent the effectiveness of the chatbot in that particular aspect.
+The evaluation metrics are derived from the following categories:
+1. **Information Readability**: Measures the readability of LLMs on psychological knowledge to avoid the "Hallucination ".
+2. **Knowledge Professional**: Evaluates the prefessional psychotherapy knowledge of fine-tuned LLMs on each domains.
+3. **Domain Match**: Assesses the LLM's capacity to concentrate on the same topic. 
 
-<!-- ![](assets/single_turn_comparison_GPT4-score.jpg) -->
-* Comparison of single-turn evaluation scores between our LLM chatbot and other models (evaluated by GPT-4)
-<div align="center">
-    <figure>
-        <img src="assets/single_turn_GPT4_eval.png" alt="single_turn_comparison_GPT4-score"/>
-    </figure>
-</div>
 
-As seen in the table, our LLM chatbot outperforms other models in most categories, demonstrating an overall higher performance. This result highlights the effectiveness of our chatbot in providing users with an efficient and engaging conversational experience.
+We have designed 60 queries specifically to evaluate the performance of LLMs in psychotherapy counseling scenarios.
 
-Please note that the scores mentioned in the table represent relative performance and are for comparison purposes only. Individual model performance may vary depending on the specific use case and scenario.
 
-# Acknowledgement
-This project has referred the following open-source projects. We would like to express our gratitude to the developers and researchers involved in those projects. 
-* lmsys FastChat https://github.com/lm-sys/FastChat/tree/main
-* Facebook LLaMA: https://github.com/facebookresearch/llama
+See [Evaluation Results](results/README.md) for details on the metrics' definition and examples.
+
 
 # Citation
-If you use the data or code from this project, please declare the reference:
+If you use the data or code from this project, please cite the reference:
 ```
-@misc{liu2023chatcounselor,
-      title={ChatCounselor: A Large Language Models for Mental Health Support}, 
-      author={June M. Liu and Donghao Li and He Cao and Tianhe Ren and Zeyi Liao and Jiamin Wu},
-      year={2023},
-      eprint={2309.15461},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
 
-@misc{ChatPsychiatrist2023,
-    author={EmoCareAI},
-    title={ChatPsychiatrist},
-    year={2023},
-    publisher={GitHub},
-    journal={GitHub repository},
-    howpublished={\url{https://github.com/EmoCareAI/ChatPsychiatrist}},
-}
 
-@misc{zheng2023judging,
-      title={Judging LLM-as-a-judge with MT-Bench and Chatbot Arena},
-      author={Lianmin Zheng and Wei-Lin Chiang and Ying Sheng and Siyuan Zhuang and Zhanghao Wu and Yonghao Zhuang and Zi Lin and Zhuohan Li and Dacheng Li and Eric. P Xing and Hao Zhang and Joseph E. Gonzalez and Ion Stoica},
-      year={2023},
-      eprint={2306.05685},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{kang4616282domain,
+  title={Domain-Specific Assistant-Instruction on Psychotherapy Chatbot},
+  author={Kang, Cheng and Cheng, Yuqing and Urbanovad, Katerina and Hu, Lihong and Zhang, Yudong and Hu, Yong and Novak, Daniel},
+  journal={Available at SSRN 4616282}
 }
 ```
