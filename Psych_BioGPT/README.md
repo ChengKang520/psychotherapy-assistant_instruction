@@ -41,8 +41,38 @@ pip3 install -r requirements.txt
 #### Serving with Web GUI
 
 ```bash
-$ cd serve/
-$ python api.py
+#!/bin/sh
+#SBATCH --partition=amdgpu
+#SBATCH --time=24:00:00
+#SBATCH --gres=gpu:1
+#SBATCH --ntasks-per-node=1 # tasks per node
+#SBATCH --mem-per-gpu=40000
+#SBATCH --job-name=chatglm1_FT
+#SBATCH --err=chatglm1_InA_20epoch.err
+#SBATCH --out=chatglm1_InA_20epoch.out
+#SBATCH --mail-type=ALL              # what to sen  d, valid type values are NONE, BEGIN, END, FAIL, REQUEUE, ALL
+
+/bin/hostnamesbatch
+srun -l /bin/hostname
+srun -l /bin/pwd
+
+ml Python/3.10.4-GCCcore-11.3.0
+ml CUDA/11.7.0
+source /home/kangchen/Chatbot/Psych_BioGPT/EnvLlama/bin/activate
+cd /home/kangchen/Chatbot/Psych_BioGPT/
+
+CUDA_VISIBLE_DEVICES=0 python finetune/finetune.py \
+--base_model /home/kangchen/Chatbot/Psych_BioGPT/models/input/chatglm/chatglm-6b/ \
+--model_type "chatglm" \
+--data_dir datasets/psychtherapy_data.json \
+--output_dir finetuned/chatglm-6b_psychtherapy_20Epochs_InA \
+--num_epochs 20 \
+--learning_rate 0.001 \
+--batch_size 256 \
+--micro_batch_size 16
+
+cd /home/kangchen/Chatbot/Psych_BioGPT/serve/
+python api.py
 ```
 
 ### Inference with the RAG method
@@ -314,8 +344,6 @@ See [Evaluation Results](results/README.md) for details on the metrics' definiti
 # Citation
 If you use the data or code from this project, please cite the reference:
 ```
-
-
 @article{kang4616282domain,
   title={Domain-Specific Assistant-Instruction on Psychotherapy Chatbot},
   author={Kang, Cheng and Cheng, Yuqing and Urbanovad, Katerina and Hu, Lihong and Zhang, Yudong and Hu, Yong and Novak, Daniel},
