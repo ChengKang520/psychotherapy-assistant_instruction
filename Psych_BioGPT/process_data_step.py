@@ -436,9 +436,9 @@ if __name__ == "__main__":
     # GPT_MODEL = "gpt-3.5-turbo"
 
     openai.api_type = "azure"
-    openai.api_version = "2023-05-15"
-    openai.api_base = 'https://psychotherapy.openai.azure.com/'  # Your Azure OpenAI resource's endpoint value.
-    openai.api_key = '806b5cfda5c34068a4c2956bbe5eccaf'
+    openai.api_version = "***"
+    openai.api_base = '***'  # Your Azure OpenAI resource's endpoint value.
+    openai.api_key = '***'
 
     # *********************************************** data
     text_path = args.FilePath  #  args.FilePath   'CTV_data/CTV_data4'
