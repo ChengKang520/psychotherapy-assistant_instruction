@@ -19,9 +19,9 @@ This open-source repo introduce the Assistant Instruct-tuned LLMs that has been 
 </div>
 
 # Updates
-- [2024-02-28] Our paper ["Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant"](https://arxiv.org/abs/2309.15461) has been accepted by ICASSP 2024 Workshop EIHRC.
+- [2024-02-28] Our paper ["Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant"](https://arxiv.org/abs/2309.15461) has been accepted by ICASSP 2024 Workshop EIHRC - [Presentation](/assets/ICASSP2024_Presentation.pdf).
 - [2023-11-08] First release of Psychotherapy Assistant Instruction. We opened source codes and Assistant Instruction tuned models with psychotherapy domian instruction data.
-- [2023-05-12] First release of Alexander Street counselling data, **very appreciate that you have used our data**.
+- [2023-05-12] First release of Alexander Street counselling data, very appreciate that you have used our data [- Google Drive](https://drive.google.com/file/d/1N1UoRLHFEF2DcE2q3421FT08JV7r8Lqf/view?usp=sharing).
 
 # Quick Start
 ## ⚙️ Install
@@ -266,7 +266,7 @@ To improve the professional knowledge of LLMs on psychotherapy domains, our pape
 
 <div align="center">
   <figure>
-    <img src="assets/Figure4-0.jpg" width="80%"/>
+    <img src="assets/Figure4-0.jpg" width="70%"/>
   </figure>
 </div>
 
@@ -283,7 +283,7 @@ To arrange psychotherapy data to correct tasks, such as (1) concept explanation,
 
 <div align="center">
     <figure>
-        <img src="assets/Table1.png" width="80%" alt="topic_coverage"/>
+        <img src="assets/Table1.png" width="60%" alt="topic_coverage"/>
     </figure>
 </div>
 
