@@ -29,7 +29,8 @@ Our repo mainly constructed based on [Langchain](https://github.com/langchain-ai
 ```bash
 git clone https://github.com/ChengKang520/psychotherapy-assistant_instruction.git
 cd Psych_BioGPT
-pip3 install -r requirements.txt
+pip install -r requirements.txt
+pip install -e /peft-0.10.0
 ```
 
 
