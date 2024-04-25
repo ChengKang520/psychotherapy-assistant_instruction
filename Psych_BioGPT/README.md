@@ -19,9 +19,10 @@ This open-source repo introduce the Assistant Instruct-tuned LLMs that has been 
 </div>
 
 # Updates
+- [2024-04-25] The second version of [Psychotherapy Data](https://drive.google.com/file/d/1N1UoRLHFEF2DcE2q3421FT08JV7r8Lqf/view?usp=sharing) revised by GPT-4.
 - [2024-02-28] Our paper ["Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant"](https://arxiv.org/abs/2309.15461) has been accepted by ICASSP 2024 Workshop EIHRC - [Presentation](/assets/ICASSP2024_Presentation.pdf).
 - [2023-11-08] First release of Psychotherapy Assistant Instruction. We opened source codes and Assistant Instruction tuned models with psychotherapy domian instruction data.
-- [2023-05-12] First release of Alexander Street counselling data, very appreciate that you have used our data [- Google Drive](https://drive.google.com/file/d/1N1UoRLHFEF2DcE2q3421FT08JV7r8Lqf/view?usp=sharing).
+- [2023-05-12] First release of Alexander Street counselling data, very appreciate that you have used our data [- Google Drive](https://drive.google.com/file/d/1x4bP9G9_kfTr80RiScdVxE6sRbF2myMw/view?usp=sharing).
 
 # Quick Start
 ## ⚙️ Install
@@ -339,7 +340,7 @@ The evaluation metrics are derived from the following categories:
 We have designed 60 queries specifically to evaluate the performance of LLMs in psychotherapy counseling scenarios.
 
 
-See [Evaluation Results](results/README.md) for details on the metrics' definition and examples.
+See [Evaluation Results](visualization/README.md) for details on the metrics' definition and examples.
 
 
 # Citation
