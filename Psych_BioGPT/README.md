@@ -1,12 +1,9 @@
 
 # Psychotherapy Assistant Instruction
 
-[![SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616282)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616282)
-
-
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2402.10107)
+[![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2404.16160)
 
 In this project, we aim to provide **Assistant Instruction** to traditional psychiatric and counseling services by using large language models (LLMs). An effectively psychotherapy treatment heavily relies on the experience and professional knowledge of psychologists. However, the psychotherapy knowledge of LLMs should be improved. 
 
@@ -20,7 +17,7 @@ This open-source repo introduce the Assistant Instruct-tuned LLMs that has been 
 
 # Updates
 - [2024-04-25] The second version of [Psychotherapy Data](https://drive.google.com/file/d/1N1UoRLHFEF2DcE2q3421FT08JV7r8Lqf/view?usp=sharing) revised by GPT-4.
-- [2024-02-28] Our paper ["Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant"](https://arxiv.org/abs/2309.15461) has been accepted by ICASSP 2024 Workshop EIHRC - [Presentation](/assets/ICASSP2024_Presentation.pdf).
+- [2024-02-28] Our paper ["Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant"](https://arxiv.org/abs/2404.16160) has been accepted by ICASSP 2024 Workshop EIHRC - [Presentation](/assets/ICASSP2024_Presentation.pdf).
 - [2023-11-08] First release of Psychotherapy Assistant Instruction. We opened source codes and Assistant Instruction tuned models with psychotherapy domian instruction data.
 - [2023-05-12] First release of Alexander Street counselling data, very appreciate that you have used our data [- Google Drive](https://drive.google.com/file/d/1x4bP9G9_kfTr80RiScdVxE6sRbF2myMw/view?usp=sharing).
 
