@@ -340,7 +340,7 @@ See [Evaluation Results](visualization/README.md) for details on the metrics' de
 
 
 ### Human Evaluation Agreement
-To assess the reliability of our human evaluation, we conducted an inner-rater agreement analysis \cite{wang2022self} between our two evaluators. We used Cohen's $\kappa$ to measure inter-rater agreement for categorical items. The 6-level rating scale (ranging from $1$ to $6$) was treated as a categorical variable for each aspect under consideration. The resulting $\kappa$ value was $0.63$, indicating a moderate level of agreement according to common practice. Furthermore, we computed the Spearman correlation coefficient $\rho$ between the ratings of our two evaluators, treating the ratings as ordinal variables (ranging from $1$ to $6$). The obtained coefficient was $\rho = 0.81$, demonstrating a high correlation between the two evaluators. These results indicate a reasonably reliable human evaluation process for our study.
+We used Cohen's $\kappa$ to measure inter-rater agreement for categorical items. The 6-level rating scale (ranging from $1$ to $6$) was treated as a categorical variable for each aspect under consideration. The resulting $\kappa$ value was $0.63$, indicating a moderate level of agreement according to common practice. Furthermore, we computed the Spearman correlation coefficient $\rho$ between the ratings of our two evaluators, treating the ratings as ordinal variables (ranging from $1$ to $6$). The obtained coefficient was $\rho = 0.81$, demonstrating a high correlation between the two evaluators. These results indicate a reasonably reliable human evaluation process for our study.
 
 # Citation
 If you use the data or code from this project, please cite the reference:
