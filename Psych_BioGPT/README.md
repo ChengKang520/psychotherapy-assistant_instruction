@@ -334,11 +334,13 @@ The evaluation metrics are derived from the following categories:
 3. **Domain Match**: Assesses the LLM's capacity to concentrate on the same topic. 
 
 
-We have designed 60 queries specifically to evaluate the performance of LLMs in psychotherapy counseling scenarios.
-
+For the human evaluation, we also submit 60 generated outputs (20 examples for each tasks, as we have 3 main tasks) without model and domain information to two professional psychologists, and based on their professional psychotherapy knowledge, they will measure the quality of the generated content according to the questions and answers. There are six grades that they will use to mark the quality of generated content: Extremely  Bad ($1$), Bad ($2$), Neutral ($3$), Acceptable ($4$), Good ($5$) and Very Good ($6$). They should consider the readability, professional and match score (that measures the match with the domain knowledge).
 
 See [Evaluation Results](visualization/README.md) for details on the metrics' definition and examples.
 
+
+### Human Evaluation Agreement
+To assess the reliability of our human evaluation, we conducted an inner-rater agreement analysis \cite{wang2022self} between our two evaluators. We used Cohen's $\kappa$ to measure inter-rater agreement for categorical items. The 6-level rating scale (ranging from $1$ to $6$) was treated as a categorical variable for each aspect under consideration. The resulting $\kappa$ value was $0.63$, indicating a moderate level of agreement according to common practice. Furthermore, we computed the Spearman correlation coefficient $\rho$ between the ratings of our two evaluators, treating the ratings as ordinal variables (ranging from $1$ to $6$). The obtained coefficient was $\rho = 0.81$, demonstrating a high correlation between the two evaluators. These results indicate a reasonably reliable human evaluation process for our study.
 
 # Citation
 If you use the data or code from this project, please cite the reference:
