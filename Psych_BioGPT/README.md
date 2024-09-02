@@ -345,9 +345,15 @@ We used Cohen's $\kappa$ to measure inter-rater agreement for categorical items.
 # Citation
 If you use the data or code from this project, please cite the reference:
 ```
-@article{kang4616282domain,
-  title={Domain-Specific Assistant-Instruction on Psychotherapy Chatbot},
-  author={Kang, Cheng and Cheng, Yuqing and Urbanovad, Katerina and Hu, Lihong and Zhang, Yudong and Hu, Yong and Novak, Daniel},
-  journal={Available at SSRN 4616282}
-}
+@INPROCEEDINGS{10626529,
+  author={Kang, Cheng and Novak, Daniel and Urbanova, Katerina and Cheng, Yuqing and Hu, Yong},
+  booktitle={2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)}, 
+  title={Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={351-355},
+  keywords={Large language models;Conferences;Medical treatment;Oral communication;Speech enhancement;Signal processing;Linguistics;Assistant-Instruction;Psychotherapy Chatbot;Large Language Model;Adaption Fine-tuning;Knowledge Retrieval;Parameter Efficient Fine-Tuning},
+  doi={10.1109/ICASSPW62465.2024.10626529}}
+
 ```
