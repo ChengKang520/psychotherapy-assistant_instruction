@@ -23,6 +23,7 @@ from langchain.vectorstores import FAISS
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import PyPDFLoader
 from langchain.document_loaders import TextLoader
+from langchain.document_loaders import JSONLoader
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
 from langchain_community.llms import HuggingFacePipeline
@@ -114,15 +115,18 @@ mistral_llm = HuggingFacePipeline(pipeline=text_generation_pipeline)
 
 
 ############   TEXT files loader   ###########
-loader = DirectoryLoader('/home/kangchen/Chatbot/Psych_BioGPT/CTV_data/', glob="*.txt", loader_cls=TextLoader)
+# loader = DirectoryLoader('data/CTV_data/', glob="*.txt", loader_cls=TextLoader)
 
 # ############   PDF files loader   ###########
 # loader = DirectoryLoader('output/', glob="*.pdf", loader_cls=PyPDFLoader)
 
+############   JSON files loader   ###########
+loader = DirectoryLoader('data/CTV_json_chatgpt/', glob="*.txt", loader_cls=JSONLoader)
+
 documents = loader.load()
 
 #splitting the text into
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=158)
 chunked_documents = text_splitter.split_documents(documents)
 
 # # Articles to index

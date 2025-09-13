@@ -95,12 +95,15 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_transformers import Html2TextTransformer
 from langchain.document_loaders import AsyncChromiumLoader
 
+
+
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import FAISS
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import PyPDFLoader
 from langchain.document_loaders import TextLoader
+from langchain.document_loaders import JSONLoader
 from langchain.prompts import PromptTemplate
 from langchain.schema.runnable import RunnablePassthrough
 from langchain_community.llms import HuggingFacePipeline
@@ -189,25 +192,24 @@ text_generation_pipeline = pipeline(
 mistral_llm = HuggingFacePipeline(pipeline=text_generation_pipeline)
 
 
+
+
 ############   TEXT files loader   ###########
-loader = DirectoryLoader('CTV_data/', glob="*.txt", loader_cls=TextLoader)
+# loader = DirectoryLoader('data/CTV_data/', glob="*.txt", loader_cls=TextLoader)
 
 # ############   PDF files loader   ###########
 # loader = DirectoryLoader('output/', glob="*.pdf", loader_cls=PyPDFLoader)
 
+############   JSON files loader   ###########
+loader = DirectoryLoader('data/CTV_json_chatgpt/', glob="*.txt", loader_cls=JSONLoader)
+
 documents = loader.load()
 
 #splitting the text into
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=158)
 chunked_documents = text_splitter.split_documents(documents)
 
-# Load chunked documents into the FAISS index
-db = FAISS.from_documents(chunked_documents,
-                          HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2'))
-
 retriever = db.as_retriever()
-
-
 
 prompt_template = """
 ### [INST] Instruction: Answer the question based on your psychotherapy knowledge. Here is context to help:
@@ -254,8 +256,6 @@ for i_evaluation in range(len(evaluation_samples)):
     print("RAG output: " + rag_result['text'])
 
 ```
-
-
 
 
 
@@ -320,9 +320,8 @@ Here is the comparison between the performance of our chatbot and other large la
 ## Metrics of Automatic Evaluation
 
 The evaluation metrics are derived from the following categories:
-1. **LMentry**: Generating a sentence containing specific words, identifying which words in a list belong to a specific category.
-2. **Perplexity**: Perplexity is an evaluation metric that measures the quality of language models. In this repo, we used the popular model GPT2.
-3. **ROUGHE-L**: This metric evaluates the match of the longest common subsequence of words between the two texts. The words do not need to be in the exact same order..
+1. **Perplexity**: Perplexity is an evaluation metric that measures the quality of language models. In this repo, we used the popular model GPT2.
+2. **ROUGHE-L**: This metric evaluates the match of the longest common subsequence of words between the two texts. The words do not need to be in the exact same order..
 
 
 
@@ -343,9 +342,15 @@ See [Evaluation Results](visualization/README.md) for details on the metrics' de
 # Citation
 If you use the data or code from this project, please cite the reference:
 ```
-@article{kang4616282domain,
-  title={Domain-Specific Assistant-Instruction on Psychotherapy Chatbot},
-  author={Kang, Cheng and Cheng, Yuqing and Urbanovad, Katerina and Hu, Lihong and Zhang, Yudong and Hu, Yong and Novak, Daniel},
-  journal={Available at SSRN 4616282}
-}
+@INPROCEEDINGS{10626529,
+  author={Kang, Cheng and Novak, Daniel and Urbanova, Katerina and Cheng, Yuqing and Hu, Yong},
+  booktitle={2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)}, 
+  title={Domain-Specific Improvement on Psychotherapy Chatbot Using Assistant}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={351-355},
+  keywords={Large language models;Conferences;Medical treatment;Oral communication;Speech enhancement;Signal processing;Linguistics;Assistant-Instruction;Psychotherapy Chatbot;Large Language Model;Adaption Fine-tuning;Knowledge Retrieval;Parameter Efficient Fine-Tuning},
+  doi={10.1109/ICASSPW62465.2024.10626529}}
+
 ```
