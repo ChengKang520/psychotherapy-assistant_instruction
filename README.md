@@ -354,9 +354,3 @@ If you use the data or code from this project, please cite the reference:
   pages={351-355},
   keywords={Large language models;Conferences;Medical treatment;Oral communication;Speech enhancement;Signal processing;Linguistics;Assistant-Instruction;Psychotherapy Chatbot;Large Language Model;Adaption Fine-tuning;Knowledge Retrieval;Parameter Efficient Fine-Tuning},
   doi={10.1109/ICASSPW62465.2024.10626529}}
-
-<<<<<<< HEAD:README.md
-```
-=======
-```
->>>>>>> 34611e95d67613b8ece43936cadb137ccf17402b:Psych_BioGPT/README.md
