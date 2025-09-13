@@ -1,0 +1,36 @@
+Topic:
+Input: Can you tell me more about Addictive Disorder?
+Topic:
+Input: What is Depressive Disorders, and what is its symptoms?
+Topic:
+Input: Tell me more about social stress.
+Topic:
+Input: Can you describe what is Autism?
+Topic:
+Input: Please introduce the concept of Cognitive Therapy for Depression.
+Topic:
+Input: Waht is Depression Behavioral Activation and Cognitive Change?
+Topic: Bipolar Disorders
+Input: Yeah, it is. It's, it's uncom--it's kind of like the feeling I'm feeling right now. It's an uncomfortable feeling because I breathe faster, I am nervous.
+Topic: Social Anxiety
+Input: I don't recognize--another thing that's interesting is that I don't recognize what's happened until afterwards. I mean, you know, the reason that I volunteered for this is, uhm, because this--in--because I was somewhat, you know, inspired this morning and, and you mentioned the idea of flooding and I thought well, you know, this would be a great opportunity to take advantage of it, you know. Plus, I'm cheap, you know. I don't mind if they pay me, I just don't want to pay them, you know. Yeah.
+Topic: Addictive Disorders
+Input: We sort of struggle to say whether alcoholism is a immoral illness or a medical.
+Topic: Addiction
+Input: I hate to think if I had gone… gone into recovery for my own addiction 30 years ago what the atmosphere would… would be like so it is changing and I think a lot of that change is coming from the grass roots level from people who have struggled with their own addictions who have come into recovery who are supported by a community of other people who have also made that journey and are discovering that this is about quality of life. This is about the spirit is much more than the physical or medical implications of addiction.
+Topic: Autism
+Input: Sometimes autistic people can seem to be aggressive. They can lash out without really understanding what they're doing.
+Topic: Depression and Suicide
+Input: We thought we must be the only person that it possibly could happen to. I thought it only happened in families where uhm, by the parents perhaps, you know, didn't care as much for their children or the children were creating a lot of problems. I didn't ever think... (crosstalk)
+Topic: Anxiety Disorders
+Input: What do you think will help to address anxiety, reading? You want to read together?
+Topic: Depressive Disorders
+Input: How are you supposed to get over something like this? He was here and now he's gone. He's just not around anymore. This… he was a person who's, who's life is just gone.
+Topic: Teen Anxiety Disorders
+Input: So as a parent, when is the time to get your teenagers some help? Well, you should pay careful attention if your child exhibits changes or problems in any of the following areas: Eating, Sleeping, Schoolwork, General Activity Level, Mood, Relationships, Aggressive Behavior.
+Topic: Couple Unbalance
+Input: The couple came in expecting to discuss and reflect on their dissatisfactions with each other. They do that for a period of time. what evidence do you think that can proof my wife still loves me?
+Topic: Social Justice
+Input: It, it's hard. It's really hard to instill dignity and worth in someone. And self esteem is not something that you can instill in someone. Self esteem is something that a person has to develop on their own. That's why it's, it's self. So it's like every, every little step that they take I tell them, okay, that's a pat on the back, you know, recognize that, you now, because that's how you build self esteem. It's not someone telling you, it's you telling yourself, 'I did a good job here, you know, this is really good so I'm gonna feel good about this.' And for a lot of them they feel like, oh, I'm, I can say that? I can say that I did a good job? I can say that I'm, I'm proud of myself? Yes. You can.
+Topic: Autism
+Input: How to use body language to get in touch with children on the autistic spectrum?
