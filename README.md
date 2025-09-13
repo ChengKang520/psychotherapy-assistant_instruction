@@ -57,8 +57,8 @@ srun -l /bin/pwd
 
 ml Python/3.10.4-GCCcore-11.3.0
 ml CUDA/11.7.0
-source /home/kangchen/Chatbot/Psych_BioGPT/EnvLlama/bin/activate
-cd /home/kangchen/Chatbot/Psych_BioGPT/
+source /home/kangchen/Chatbot/EnvLlama/bin/activate
+cd /home/kangchen/Chatbot/
 
 CUDA_VISIBLE_DEVICES=0 python finetune/finetune.py \
 --base_model /home/kangchen/Chatbot/Psych_BioGPT/models/input/chatglm/chatglm-6b/ \
@@ -66,9 +66,9 @@ CUDA_VISIBLE_DEVICES=0 python finetune/finetune.py \
 --data_dir datasets/psychtherapy_data.json \
 --output_dir finetuned/chatglm-6b_psychtherapy_20Epochs_InA \
 --num_epochs 20 \
---learning_rate 0.001 \
---batch_size 256 \
---micro_batch_size 16
+--learning_rate 1e-4 \
+--batch_size 4 \
+--micro_batch_size 8
 
 cd /home/kangchen/Chatbot/Psych_BioGPT/serve/
 python api.py
